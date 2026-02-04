@@ -154,7 +154,7 @@ La primera distribución de distritos será establecida durante el Proceso de Ar
 Si existe financiación pública para campañas electorales, la cuantía debe ser idéntica para todos los candidatos sin excepción. Toda financiación electoral pública es transparente y se registra en un sistema público auditable. Cualquier ciudadano puede verificar el origen y destino de los fondos electorales públicos.
 
 **Donaciones privadas:**
-Las donaciones privadas a candidatos o campañas están sujetas a límite estricto. Por defecto, la donación máxima por persona física será del 10% del salario correspondiente al percentil 25 de renta de toda la nación. Cada persona física con derecho a voto puede realizar únicamente 1 donación por proceso electoral.
+Las donaciones privadas a candidatos o campañas están sujetas a límite estricto. Por defecto, la donación máxima por persona física será del 10% del salario correspondiente al percentil 25 de renta de toda la nación. Cada persona física con derecho a voto puede realizar únicamente 1 donación por proceso electoral. Sólamente las personas físicas pueden realizar donaciones privadas: las personas jurídicas (empresas, asociaciones, fundaciones etc) tienen prohibido donar a campañas electorales.
 
 El origen de las donaciones privadas es secreto. El destino y cuantía de las mismas son transparentes y auditables públicamente.
 
