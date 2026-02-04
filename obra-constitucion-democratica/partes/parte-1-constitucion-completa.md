@@ -83,7 +83,7 @@ Los representantes del Poder Legislativo son revocables directamente por el pueb
 
 Este mecanismo de revocación del 75% aplica exclusivamente a representantes del Poder Legislativo en su distrito de elección. No aplica a cargos del Poder Ejecutivo (Presidente, Primer Ministro, Ministros) ni del Poder Judicial (jueces, magistrados).
 
-Se recomienda el sistema de 1 suplente por distrito para garantizar continuidad de representación tras revocación. Los detalles del sistema de suplentes se definen mediante ley ordinaria.
+Se recomienda el sistema de 1 suplente por distrito para garantizar continuidad de representación tras la revocación. Los detalles del sistema de suplentes se definen mediante ley ordinaria.
 
 ---
 
@@ -92,7 +92,7 @@ Se recomienda el sistema de 1 suplente por distrito para garantizar continuidad 
 Este artículo establece el procedimiento por defecto para la revocación de representantes del Poder Legislativo conforme al artículo 6.
 
 **Iniciativa:**
-Cualquier ciudadano individual o cualquier grupo de ciudadanos puede iniciar un procedimiento de revocación. Esta capacidad de iniciativa individual solo puede modificarse mediante consenso de Nivel N6.
+Cualquier ciudadano individual o cualquier grupo de ciudadanos puede iniciar un procedimiento de revocación. Esta capacidad de iniciativa individual solo puede modificarse mediante consenso de nivel N6.
 
 **Convocatoria:**
 Requiere recogida de firmas del 10% del censo del distrito en un plazo máximo de 31 días.
@@ -104,11 +104,11 @@ Una vez convocada, la votación es abierta a todo aquel con derecho a voto censa
 Si el resultado alcanza el nivel de consenso N4 (75% de votos válidos) a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.
 
 **Periodo de Reflexión:**
-No puede convocarse nueva revocación contra el sucesor antes de transcurridos 4 meses desde su elección.
+No puede convocarse nueva revocación contra el sucesor antes de haber transcurrido 4 meses desde su elección.
 
 **Configurabilidad:**
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6:
-- 10% del censo requerido para convocatoria
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6:
+- 10% de firmas del censo requerido para convocatoria
 - 31 días máximo para recogida de firmas
 - 75% (Nivel N4) requerido para revocación exitosa
 - 7 días máximo para convocar nueva elección tras revocación
@@ -120,27 +120,49 @@ Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse 
 
 ---
 
-## Artículo 8: Sistema de Doble Vuelta Electoral
+## Artículo 8: Sistema de Doble Vuelta Electoral en Distritos
 
-En la primera vuelta electoral, si un candidato supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra segunda vuelta entre los dos candidatos más votados. Este sistema garantiza que el representante electo cuenta con mayoría real, no mera pluralidad.
+Este artículo aplica a las elecciones de representantes del Poder Legislativo por distrito.
+
+En la primera vuelta electoral, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra segunda vuelta entre los dos candidatos más votados. El candidato que obtenga más votos en la segunda vuelta es proclamado electo.
+
+Un mínimo de participación del 25% del censo es requerido para que la elección sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 7 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido.
+
+Los parámetros numéricos de este artículo (51%, 25%, 7 días) pueden modificarse mediante consenso de nivel N6.
 
 ---
 
 ## Artículo 9: Tamaño de Distritos
 
-El tamaño objetivo de cada distrito es de 95.000 a 120.000 habitantes. Esta cifra se basa en la optimización del coste de corrupción mediante maximización del percentil 25 de renta del distrito. La delimitación de distritos debe respetar continuidad geográfica y coherencia histórico-cultural.
+El tamaño de cada distrito es de 95.000 a 120.000 habitantes. La cifra exacta se determina mediante el Algoritmo de Optimización de la Corruptabilidad de Distritos (AOCD), basado en la maximización del percentil 25 de renta del distrito como un aproximado del coste de corrupción.
+
+La delimitación de distritos debe respetar la continuidad geográfica y una coherencia histórico-cultural.
 
 ---
 
 ## Artículo 10: Actualización Distrital Periódica
 
-Los distritos electorales se actualizan cada 21 años. Este plazo corresponde al tiempo de maduración cerebral completa de una generación. La actualización se realiza mediante algoritmo de optimización basado en el percentil 25 de renta como proxy del coste de corrupción. El proceso es ejecutado por una comisión técnica independiente y ratificado mediante referéndum. La primera actualización se realizará 21 años después de la entrada en vigor de esta Constitución.
+Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el Algoritmo de Optimización de la Corruptabilidad de Distritos (AOCD) conforme al artículo 9. Las especificaciones completas del AOCD se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado mediante referéndum.
+
+La primera distribución de distritos será establecida durante el Proceso de Arranque. La primera actualización se realizará 21 años después de la entrada en vigor de esta Constitución.
 
 ---
 
-## Artículo 11: Financiación Electoral Pública
+## Artículo 11: Financiación Electoral
 
-Las campañas electorales cuentan con financiación pública. Las donaciones privadas a candidatos o campañas están sujetas a límites estrictos establecidos por ley. Toda financiación electoral, pública o privada, es transparente y se registra en sistema público auditable (blockchain). Cualquier ciudadano puede verificar el origen y destino de los fondos electorales.
+**Financiación pública:**
+Si existe financiación pública para campañas electorales, la cuantía debe ser idéntica para todos los candidatos sin excepción. Toda financiación electoral pública es transparente y se registra en un sistema público auditable. Cualquier ciudadano puede verificar el origen y destino de los fondos electorales públicos.
+
+**Donaciones privadas:**
+Las donaciones privadas a candidatos o campañas están sujetas a límite estricto. Por defecto, la donación máxima por persona física será del 10% del salario correspondiente al percentil 25 de renta de toda la nación. Cada persona física con derecho a voto puede realizar únicamente 1 donación por proceso electoral.
+
+El origen de las donaciones privadas es secreto. El destino y cuantía de las mismas son transparentes y auditables públicamente.
+
+**Protección contra financiación ilegal:**
+Si se detecta que la cuantía total recaudada por todos los candidatos supera el máximo legal permitido, la elección será declarada nula. Los fondos serán expropiados y devueltos a los donantes. El dinero sobrante será distribuido equitativamente entre todos los candidatos en las nuevas elecciones que comenzarán en 7 días. Si esta situación se repite 2 veces consecutivas, las elecciones tendrán lugar sí o sí en la tercera convocatoria independientemente de que se de este caso de nuevo.
+
+**Configurabilidad:**
+Los parámetros numéricos de este artículo (10% del P25, 1 donación, 7 días, número límite de convocatorias) pueden modificarse mediante consenso de Nivel N6.
 
 ---
 
@@ -204,7 +226,11 @@ Los representantes gozan de inmunidad por opiniones expresadas en ejercicio de s
 
 ## Artículo 18: Poder Ejecutivo - Presidente
 
-El Presidente de la República es elegido por sufragio universal directo mediante el sistema de doble vuelta establecido en el artículo 8. Su mandato es de 5 años, renovable una sola vez. El Presidente ejerce la Jefatura del Estado, representa al país en relaciones internacionales y es Comandante en Jefe de las Fuerzas Armadas.
+El Presidente de la República es elegido por sufragio universal directo mediante sistema de doble vuelta. En la primera vuelta, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra segunda vuelta entre los dos candidatos con mayor porcentaje de votos. El candidato que obtenga mayor porcentaje en la segunda vuelta es proclamado electo.
+
+Un mínimo de participación del 40% del censo es requerido para que la elección presidencial sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 14 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido.
+
+Su mandato es de 5 años, renovable una sola vez. El Presidente ejerce la Jefatura del Estado, representa al país en relaciones internacionales y es Comandante en Jefe de las Fuerzas Armadas.
 
 ---
 
