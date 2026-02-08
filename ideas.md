@@ -10,3 +10,13 @@
 
 - Artículo 9: Pensar en como generalizarlo a cualquier pais, no hardocdear los 95.000 y 120.000 habitantes.
 
+- Protocolo de sustitucion de presidente por si muere o tal. Mirar si está.
+
+- Revisar claramente que ciertas condiciones solo aplican a CIUDADANOS, otras a RESIDENTES, otras a ambos, y otras a CIUDADANO CON DERECHO A VOTO. Y que no haya contradicciones entre artículos.
+
+- Acordarse de hace ilegal la propaganda elctoral durante X dias de las elecciones, si se detecta, aunque sea de manera indirecta o apologia a ella, multa/castigo.
+
+- Articulo 18, quien comanda mientras se hace todo eso si es que hay que esperar 14 dias?
+
+- Articulo 20: 3. Declaración de estados de excepción (con aprobación legislativa) // -nota- no siempre... con que sean muy claros ya vale. HAY QUE decir que que lo declare sin que sea en verdad, es un delito y tal. Pero esto ya en otro articulo 6. Dirección de los ministerios // a los cuales puede delegar sus funcines excepto aquellas prohibidas en esta constitucion. Como por ejemplo los mecanismos para entrar en guerr etc... si noe sta especificado se especificara mas tarde.
+

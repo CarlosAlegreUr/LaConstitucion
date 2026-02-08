@@ -81,7 +81,7 @@ El poder popular a nivel distrital prevalece sobre el Legislativo nacional únic
 
 Los representantes del Poder Legislativo son revocables directamente por el pueblo del distrito que los eligió. El umbral de revocación es del 75% de los votos válidos emitidos en votación oficial convocada al efecto.
 
-Este mecanismo de revocación del 75% aplica exclusivamente a representantes del Poder Legislativo en su distrito de elección. No aplica a cargos del Poder Ejecutivo (Presidente, Primer Ministro, Ministros) ni del Poder Judicial (jueces, magistrados).
+Este mecanismo de revocación del 75% aplica exclusivamente a representantes del Poder Legislativo en su distrito de elección. No aplica a cargos del Poder Ejecutivo (Presidente, Ministros) ni del Poder Judicial (jueces, magistrados).
 
 Se recomienda el sistema de 1 suplente por distrito para garantizar continuidad de representación tras la revocación. Los detalles del sistema de suplentes se definen mediante ley ordinaria.
 
@@ -154,7 +154,7 @@ La primera distribución de distritos será establecida durante el Proceso de Ar
 Si existe financiación pública para campañas electorales, la cuantía debe ser idéntica para todos los candidatos sin excepción. Toda financiación electoral pública es transparente y se registra en un sistema público auditable. Cualquier ciudadano puede verificar el origen y destino de los fondos electorales públicos.
 
 **Donaciones privadas:**
-Las donaciones privadas a candidatos o campañas están sujetas a límite estricto. Por defecto, la donación máxima por persona física será del 10% del salario correspondiente al percentil 25 de renta de toda la nación. Cada persona física con derecho a voto puede realizar únicamente 1 donación por proceso electoral. Sólamente las personas físicas pueden realizar donaciones privadas: las personas jurídicas (empresas, asociaciones, fundaciones etc) tienen prohibido donar a campañas electorales.
+Las donaciones privadas a candidatos o campañas están sujetas a límite estricto. Por defecto, la donación máxima por persona física será del 10% del salario correspondiente al percentil 25 de renta en toda la nación. Cada persona física con derecho a voto puede realizar únicamente 1 donación por proceso electoral. Sólamente las personas físicas pueden realizar donaciones privadas: las personas jurídicas (empresas, asociaciones, fundaciones etc) tienen prohibido donar a campañas electorales.
 
 El origen de las donaciones privadas es secreto. El destino y cuantía de las mismas son transparentes y auditables públicamente.
 
@@ -187,120 +187,125 @@ Esta Constitución no prescribe tecnología específica: lo que importa es la ca
 
 ## Artículo 13: Separación de Poderes
 
-Los poderes Legislativo, Ejecutivo y Judicial son independientes entre sí. Ningún poder puede ejercer funciones constitucionalmente asignadas a otro. Esta separación es material, no meramente formal: cada poder debe contar con independencia económica y de nombramiento que garantice su autonomía efectiva.
+Los poderes Legislativo, Ejecutivo y Judicial deberán ser independientes entre sí. Ningún poder puede ejercer funciones constitucionalmente asignadas a otro. Esta separación es material, no meramente formal: cada poder debe contar con independencia de nombramiento y mecanismos de financiación económica que garanticen su autonomía efectiva.
+
+La financiación de cada poder debe ser la descrita en esta Constitución.
 
 ---
 
-## Artículo 14: Poder Legislativo - Composición
+## Artículo 14: Igualdad ante la Ley
+
+Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo. Todos son ciudadanos sujetos a las mismas leyes que cualquier otro ciudadano. El procesamiento penal de cualquier cargo público no requiere autorización previa del poder al que pertenezca ni de ningún otro órgano.
+
+Los procedimientos penales contra cargos públicos podrán tramitarse con carácter preferente respecto de los procedimientos contra ciudadanos comunes. Esta Constitución no establece el método de priorización, pero garantiza que dicho mecanismo pueda existir y no sea suprimido por ley ordinaria.
+
+La modificación del artículo 14 requiere el procedimiento de reforma de cláusulas pétreas establecido en los artículos 54-56: consenso de Nivel N6.
+
+---
+
+## Artículo 15: Poder Legislativo - Composición
 
 El Poder Legislativo se compone de una cámara única de representantes elegidos por distritos territoriales conforme al artículo 5. Los representantes son elegidos por mandato de 4 años y son revocables directamente por el pueblo de su distrito conforme a los artículos 6 y 7.
 
 ---
 
-## Artículo 15: Poder Legislativo - Funciones
+## Artículo 16: Poder Legislativo - Funciones
 
-El Poder Legislativo ejerce el monopolio de la función legislativa. Solo el Legislativo puede aprobar, modificar o derogar leyes. Sus funciones incluyen:
+El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en las excepciones previstas en esta Constitución. Es decir, solo el Legislativo puede aprobar, modificar o derogar leyes, sin perjuicio del control de constitucionalidad ejercido por el Poder Judicial conforme al Título IV. Sus funciones incluyen:
 
 1. Aprobar, modificar o derogar leyes
 2. Aprobar el presupuesto anual del Estado
-3. Ratificar el nombramiento del Primer Ministro
-4. Controlar la actuación del Poder Ejecutivo
-5. Ratificar el presupuesto propuesto por el Poder Judicial
+3. Ratificar el presupuesto propuesto por el Poder Judicial conforme al artículo 28
 
 ---
 
-## Artículo 16: Poder Legislativo - Votaciones
+## Artículo 17: Poder Legislativo - Votaciones
 
-Todas las votaciones del Legislativo son públicas y quedan registradas en sistema auditable público (blockchain). El voto de cada representante es conocido por sus electores. La mayoría requerida es:
+Todas las votaciones del Legislativo son públicas y quedan registradas en un sistema auditable por cualquier ciudadano. El voto de cada representante debe ser conocido o verificable por sus electores.
 
-1. Mayoría simple (51%) para legislación ordinaria
-2. Mayorías cualificadas específicas establecidas en esta Constitución para casos determinados
-
----
-
-## Artículo 17: Poder Legislativo - Inmunidad Limitada
-
-Los representantes gozan de inmunidad por opiniones expresadas en ejercicio de su cargo. No gozan de inmunidad por delitos comunes. El procesamiento penal de un representante requiere autorización previa del Legislativo por mayoría de dos tercios (66%).
+La mayoría requerida por defecto para aprobar, modificar o derogar leyes es de consenso N1 (mayoría simple, 51%), salvo en los casos en que esta Constitución establezca mayorías cualificadas específicas.
 
 ---
 
 ## Artículo 18: Poder Ejecutivo - Presidente
 
-El Presidente de la República es elegido por sufragio universal directo mediante sistema de doble vuelta. En la primera vuelta, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra segunda vuelta entre los dos candidatos con mayor porcentaje de votos. El candidato que obtenga mayor porcentaje en la segunda vuelta es proclamado electo.
+El Presidente de la República es elegido por sufragio directo de todos los ciudadanos con derecho a voto conforme al artículo 3, mediante sistema de doble vuelta.
+
+En la primera vuelta, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra segunda vuelta entre los dos candidatos con mayor porcentaje de votos. El candidato que obtenga mayor porcentaje en la segunda vuelta es proclamado electo.
 
 Un mínimo de participación del 40% del censo es requerido para que la elección presidencial sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 14 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido.
 
-Su mandato es de 5 años, renovable una sola vez. El Presidente ejerce la Jefatura del Estado, representa al país en relaciones internacionales y es Comandante en Jefe de las Fuerzas Armadas.
+Su mandato es de 5 años. Ninguna persona puede ejercer la Presidencia más de dos mandatos en toda su vida, sean o no consecutivos.
 
 ---
 
-## Artículo 19: Poder Ejecutivo - Primer Ministro
+## Artículo 19: Poder Ejecutivo - Funciones del Presidente
 
-El Primer Ministro es propuesto por el Presidente y ratificado por el Legislativo por mayoría simple (51%). El Primer Ministro dirige el Gobierno y la política interior, coordina la acción de los ministerios y ejecuta el presupuesto aprobado por el Legislativo. El Primer Ministro es responsable ante el Legislativo.
+El Presidente ejerce la totalidad del Poder Ejecutivo. Sus funciones incluyen:
 
----
+1. Jefatura del Estado
+2. Defensa nacional y mando de las Fuerzas Armadas
+3. Relaciones exteriores y representación internacional
+4. Declaración de estados de excepción
+5. Política interior y coordinación gubernamental
+6. Ejecución del presupuesto aprobado por el Legislativo
+7. Dirección de los ministerios
 
-## Artículo 20: Poder Ejecutivo - Distribución de Funciones
-
-Las funciones del Poder Ejecutivo se distribuyen de la siguiente forma:
-
-**Presidente:**
-1. Defensa nacional y mando de las Fuerzas Armadas
-2. Relaciones exteriores y representación internacional
-3. Declaración de estados de excepción (con aprobación legislativa)
-
-**Primer Ministro:**
-1. Política interior y coordinación gubernamental
-2. Ejecución del presupuesto y gestión administrativa
-3. Dirección de los ministerios
-
-En caso de conflicto sobre competencias, resuelve el Legislativo por mayoría simple.
+El Presidente puede delegar funciones en los ministros conforme al artículo 24, salvo aquellas que esta Constitución prohíba expresamente delegar. En todo caso, el Presidente conserva la autoridad última sobre cualquier decisión del Poder Ejecutivo.
 
 ---
 
-## Artículo 21: Autodestrucción Mutua - Mecanismo
+## Artículo 20: Autodestrucción Mutua - Mecanismo
 
-El Legislativo puede cesar al Primer Ministro mediante votación de mayoría simple (51%). El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo y del cargo ejecutivo cuestionado (Presidente o Primer Ministro) en un plazo máximo de 90 días. El Presidente y el Primer Ministro cesados no pueden presentarse a las elecciones inmediatas resultantes.
-
----
-
-## Artículo 22: Autodestrucción Mutua - Cooldown
-
-Tras la activación del mecanismo de autodestrucción mutua, la nueva legislatura cuenta con un periodo de inmunidad de 6 meses durante el cual no puede repetirse el mecanismo. Transcurrido este plazo, el mecanismo puede activarse nuevamente, pero no antes de haber transcurrido 12 meses desde las elecciones resultantes de la autodestrucción anterior.
+El Legislativo puede cesar al Presidente mediante votación de consenso N1 (mayoría simple, 51%). El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo y del Presidente en un plazo máximo de 30 días. El Presidente cesado no puede presentarse a las elecciones inmediatas resultantes.
 
 ---
 
-## Artículo 23: Autodestrucción Mutua - Límites
+## Artículo 21: Autodestrucción Mutua - Periodo de Desactivación
 
-El mecanismo de autodestrucción mutua no puede activarse:
+Tras la activación del mecanismo de autodestrucción mutua, opera un periodo de desactivación asimétrico durante el cual ninguna de las partes podrá ejecutar el mecanismo de autodestrucción mutua. El periodo de desactivación se aplica de forma diferenciada a quien lo invocó y a quien lo recibió:
 
-1. Durante un estado de excepción declarado conforme al Título VI
-2. En los últimos 6 meses del mandato presidencial
-3. Cuando no exista presupuesto aprobado (para evitar chantaje mediante bloqueo presupuestario)
+Si lo invocó el Legislativo:
+- Periodo de desactivación para el Legislativo: 6 meses desde las nuevas elecciones.
+- Periodo de desactivación para el Ejecutivo: 3 meses desde las nuevas elecciones.
 
----
+Si lo invocó el Presidente:
+- Periodo de desactivación para el Ejecutivo: 12 meses desde las nuevas elecciones.
+- Periodo de desactivación para el Legislativo: 3 meses desde las nuevas elecciones.
 
-## Artículo 24: Ministerios - Creación
-
-La creación, fusión o eliminación de ministerios requiere la aprobación de tres cuartos (75%) del Legislativo. Esta Constitución no establece una lista cerrada de ministerios: la estructura ministerial se define por ley, sujeta al requisito de supermayoría establecido en este artículo.
-
----
-
-## Artículo 25: Ministerios - Nombramiento
-
-Los ministros son nombrados por el Primer Ministro y deben ser confirmados por el Legislativo mediante mayoría simple (51%). El Legislativo puede revocar a un ministro por mayoría simple, sin necesidad de cesar al Primer Ministro.
+Los parámetros numéricos de este artículo (6 meses, 12 meses, 3 meses) pueden modificarse mediante consenso de Nivel N6.
 
 ---
 
-## Artículo 26: Presupuesto Anterior por Defecto
+## Artículo 22: Autodestrucción Mutua - Límites
 
-Si el Legislativo no aprueba un nuevo presupuesto antes del inicio del año fiscal, se prorroga automáticamente el presupuesto del año anterior, ajustado por la inflación del periodo. Este mecanismo evita parálisis gubernamentales (shutdowns) y elimina el chantaje presupuestario como herramienta política.
+El mecanismo de autodestrucción mutua no puede activarse durante un estado de excepción declarado conforme al Título VI.
 
 ---
 
-## Artículo 27: Límite Presupuestario del Ejecutivo
+## Artículo 23: Ministerios - Límite Constitucional
 
-El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobados por el Legislativo en el presupuesto anual. Todo gasto público superior a la cantidad establecida por ley se registra en sistema auditable público (blockchain) en tiempo real, permitiendo auditoría ciudadana permanente.
+El número máximo de ministerios por defecto es de 20. La estructura ministerial es competencia exclusiva del Presidente conforme al artículo 19. Esta Constitución no establece una lista cerrada de ministerios, solo el número máximo de estos.
+
+La modificación de este límite requiere consenso de Nivel N6. Durante el Proceso de Arranque, este límite puede modificarse con consenso de Nivel N1.
+
+---
+
+## Artículo 24: Ministerios - Nombramiento
+
+Los ministros son nombrados y cesados exclusivamente por el Presidente salvo que un ministro sea condenado por delito cuya pena incluya la pérdida del cargo. En ese caso, el cese es automático e independiente de la voluntad del Presidente. Toda persona que pierda un cargo público por condena penal queda inhabilitada permanentemente para ejercer cualquier cargo en la administración pública.
+
+---
+
+## Artículo 25: Presupuesto Anterior por Defecto
+
+Si el Legislativo no aprueba un nuevo presupuesto antes del inicio del año fiscal, se prorroga automáticamente el presupuesto del año anterior, ajustado a la inflación del periodo.
+
+---
+
+## Artículo 26: Límite Presupuestario del Ejecutivo
+
+El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobados por el Legislativo en el presupuesto anual. Todo gasto público superior a la cantidad establecida por ley se registra en sistema público auditable por la ciudadanía de manera permanente.
 
 ---
 
