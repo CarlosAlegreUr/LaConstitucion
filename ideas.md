@@ -20,3 +20,5 @@
 
 - Articulo 20: 3. Declaración de estados de excepción (con aprobación legislativa) // -nota- no siempre... con que sean muy claros ya vale. HAY QUE decir que que lo declare sin que sea en verdad, es un delito y tal. Pero esto ya en otro articulo 6. Dirección de los ministerios // a los cuales puede delegar sus funcines excepto aquellas prohibidas en esta constitucion. Como por ejemplo los mecanismos para entrar en guerr etc... si noe sta especificado se especificara mas tarde.
 
+- articulo 28, revisar mas tarede cuadno lleguemos al 50: sin perjuicio de la anulación popular establecida en los artículos 47 a 50.
+

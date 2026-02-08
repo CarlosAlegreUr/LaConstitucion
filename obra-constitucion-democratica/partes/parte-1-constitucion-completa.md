@@ -309,52 +309,51 @@ El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobado
 
 ---
 
-## Artículo 28: Poder Judicial - Independencia
+## Artículo 27: Poder Judicial - Independencia y Financiación
 
-El Poder Judicial es independiente de los poderes Legislativo y Ejecutivo. Los jueces no reciben órdenes ni instrucciones de ningún otro poder. El presupuesto del Poder Judicial es propuesto anualmente por el Tribunal Supremo y ratificado por el Legislativo mediante mayoría de dos tercios (66%). Si el presupuesto propuesto es rechazado, se mantiene automáticamente el presupuesto del año anterior ajustado por inflación.
+El Poder Judicial es independiente de los poderes Legislativo y Ejecutivo. Los jueces no reciben órdenes ni instrucciones de ningún otro poder.
 
----
-
-## Artículo 29: Poder Judicial - Financiación
-
-El Tribunal Supremo elabora y propone el presupuesto anual del Poder Judicial, basándose en las necesidades reales del sistema judicial (número de casos, infraestructura, personal, salarios). El Legislativo puede aprobar o rechazar el presupuesto propuesto, pero no puede modificarlo arbitrariamente. El rechazo debe estar fundamentado en razones objetivas, no puede constituir represalia por sentencias judiciales. Si no se aprueba nuevo presupuesto, se prorroga el anterior conforme al artículo 28.
+El Tribunal Supremo elabora y propone el presupuesto anual del Poder Judicial. El Legislativo puede aprobar o rechazar el presupuesto propuesto mediante consenso de Nivel N3 (mayoría de dos tercios, 66%), pero no puede modificarlo. Si el presupuesto propuesto es rechazado, se mantiene automáticamente el presupuesto del año anterior ajustado a la inflación.
 
 ---
 
-## Artículo 30: Poder Judicial - Jerarquía
+## Artículo 28: Poder Judicial - Jerarquía
 
 La estructura judicial se organiza en tres niveles:
 
 1. Primera Instancia: Tribunales ordinarios
-2. Casación: Revisión de derecho (no de hechos, salvo arbitrariedad manifiesta)
+2. Segunda Instancia: Tribunales de apelación y casación
 3. Tribunal Supremo: Tribunal de última instancia
 
-Las decisiones del Tribunal Supremo son definitivas en el orden judicial, sin perjuicio del override popular establecido en los artículos 47 a 50.
+Las decisiones del Tribunal Supremo son definitivas en el orden judicial, sin perjuicio de la anulación popular establecida en los artículos 47 a 50.
 
 ---
 
-## Artículo 31: Derecho de Apelación
+## Artículo 29: Derecho de Apelación y Casación
 
-Todo justiciable tiene derecho a al menos una apelación ante tribunal superior. La apelación permite revisión completa de hechos y derecho. La casación es una revisión adicional que examina exclusivamente la correcta aplicación del derecho, sin rexamen de hechos salvo arbitrariedad manifiesta en su valoración.
+Todo justiciable tiene derecho a al menos una apelación y una casación ante tribunal de segunda instancia. La apelación permite revisión completa de hechos y derecho. La casación es una revisión adicional que examina exclusivamente la correcta aplicación del derecho, sin reexamen de hechos salvo arbitrariedad manifiesta en su valoración.
 
 ---
 
-## Artículo 32: Nombramiento de Jueces - Principio
+## Artículo 30: Nombramiento de Jueces - Principio
 
-Los jueces son nombrados mediante procedimiento que garantiza participación popular directa o indirecta. El nombramiento judicial requiere:
+Los jueces son nombrados mediante procedimiento que garantiza independencia judicial. El nombramiento judicial requiere:
 
 1. Titulación jurídica acreditada
 2. Experiencia profesional mínima establecida por ley
 3. Superación de examen público de capacitación
-4. Participación ciudadana en el proceso de selección, ya sea mediante voto directo o mediante representantes electos
 
-El procedimiento específico se establece en la implementación de esta Constitución.
+Los límites y condiciones específicas (como los años de experiencia mínima requeridos) se establecen durante el Proceso de Arranque mediante consenso de Nivel N1. Por defecto, la experiencia profesional mínima requerida es de 1,5 años.
+
+La modificación de estos requisitos requiere consenso de Nivel N5.
 
 ---
 
-## Artículo 33: Tribunal Supremo - Composición
+## Artículo 31: Tribunal Supremo - Composición
 
-El Tribunal Supremo se compone de 9 magistrados. Cada magistrado es nombrado por un mandato de 12 años, no renovable. La renovación es escalonada: cada 4 años se renuevan 3 magistrados, garantizando continuidad institucional y evitando cambios abruptos en la jurisprudencia.
+El Tribunal Supremo se compone de 9 magistrados. Cada magistrado es nombrado por un mandato de máximo 12 años. El mandato es renovable tras un periodo de exclusión de 8 años desde la finalización del mandato anterior. La renovación es escalonada: cada 4 años se renuevan 3 magistrados.
+
+Durante el Proceso de Arranque, los 9 magistrados son nombrados simultáneamente. Para establecer la renovación escalonada, se asignan mandatos iniciales diferenciados mediante sorteo aleatorio. El procedimiento de sorteo es el siguiente: se aplica la función hash SHA-256 a la huella dactilar del pulgar derecho de cada magistrado (en su defecto, pulgar del pie; quien carezca de ambos no puede acceder al cargo de magistrado del Tribunal Supremo). Los 3 magistrados con el valor más alto en los primeros 2 bytes del hash sirven un mandato inicial de 4 años, los 3 con el valor más alto entre los 6 restantes sirven 8 años, y los 3 restantes sirven el mandato completo de 12 años. A partir de entonces, todos los mandatos son de 12 años.
 
 ---
 
