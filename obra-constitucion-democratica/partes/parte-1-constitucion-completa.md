@@ -10,9 +10,9 @@
 
 # ÍNDICE
 
-- **TÍTULO I:** FUNDAMENTOS (Arts. 1-12)
-- **TÍTULO II:** ORGANIZACIÓN DE PODERES (Arts. 13-35)
-- **TÍTULO III:** BOOTSTRAP DEMOCRÁTICO (Arts. 36-41)
+- **TÍTULO I:** FUNDAMENTOS (Arts. 1-13)
+- **TÍTULO II:** ORGANIZACIÓN DE PODERES (Arts. 14-34)
+- **TÍTULO III:** PROCESO DE ARRANQUE (Arts. 35-36)
 - **TÍTULO IV:** CONTROL CONSTITUCIONAL (Arts. 42-50)
 - **TÍTULO V:** PROTECCIONES FUNDAMENTALES (Arts. 51-60)
 - **TÍTULO VI:** ESTADOS DE EXCEPCIÓN (Arts. 61-72)
@@ -172,9 +172,17 @@ El voto puede ejercerse remotamente mediante sistema que garantice simultáneame
 
 1. Secreto del voto (imposibilidad de saber quién votó qué)
 2. Verificabilidad individual (cada votante puede comprobar que su voto fue contado)
-3. Auditoría pública (cualquier ciudadano puede verificar la integridad del proceso)
+3. Auditoría pública (cualquier ciudadano con derecho a voto puede verificar la integridad del proceso)
 
 Esta Constitución no prescribe tecnología específica: lo que importa es la capacidad del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas independientemente de la tecnología empleada.
+
+---
+
+## Artículo 13: Garantía de Anulación Popular
+
+Esta Constitución garantiza permanentemente el derecho a crear mecanismos de anulación popular directa de decisiones legislativas. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá prohibir la creación ni el funcionamiento de tales mecanismos.
+
+Si se implementa un mecanismo de anulación popular, el nivel de apoyo ciudadano requerido para anular una decisión corresponderá al nivel de consenso de dicha decisión: las decisiones de Nivel N1 podrán ser anuladas con apoyo del 51% de los ciudadanos con derecho a voto, las de Nivel N2 con el 60%, y así sucesivamente conforme a los niveles de consenso N1 a N6 establecidos en esta Constitución. Todo proceso de anulación popular deberá cumplir las garantías de secreto, verificabilidad y auditoría pública establecidas en los artículos 4 y 12.
 
 ---
 
@@ -185,7 +193,7 @@ Esta Constitución no prescribe tecnología específica: lo que importa es la ca
 
 # TÍTULO II: ORGANIZACIÓN DE PODERES
 
-## Artículo 13: Separación de Poderes
+## Artículo 14: Separación de Poderes
 
 Los poderes Legislativo, Ejecutivo y Judicial deberán ser independientes entre sí. Ningún poder puede ejercer funciones constitucionalmente asignadas a otro. Esta separación es material, no meramente formal: cada poder debe contar con independencia de nombramiento y mecanismos de financiación económica que garanticen su autonomía efectiva.
 
@@ -193,33 +201,33 @@ La financiación de cada poder debe ser la descrita en esta Constitución.
 
 ---
 
-## Artículo 14: Igualdad ante la Ley
+## Artículo 15: Igualdad ante la Ley
 
 Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo. Todos son ciudadanos sujetos a las mismas leyes que cualquier otro ciudadano. El procesamiento penal de cualquier cargo público no requiere autorización previa del poder al que pertenezca ni de ningún otro órgano.
 
 Los procedimientos penales contra cargos públicos podrán tramitarse con carácter preferente respecto de los procedimientos contra ciudadanos comunes. Esta Constitución no establece el método de priorización, pero garantiza que dicho mecanismo pueda existir y no sea suprimido por ley ordinaria.
 
-La modificación del artículo 14 requiere el procedimiento de reforma de cláusulas pétreas establecido en los artículos 54-56: consenso de Nivel N6.
+La modificación del artículo 15 requiere el procedimiento de reforma de cláusulas pétreas establecido en los artículos 54-56: consenso de Nivel N6.
 
 ---
 
-## Artículo 15: Poder Legislativo - Composición
+## Artículo 16: Poder Legislativo - Composición
 
 El Poder Legislativo se compone de una cámara única de representantes elegidos por distritos territoriales conforme al artículo 5. Los representantes son elegidos por mandato de 4 años y son revocables directamente por el pueblo de su distrito conforme a los artículos 6 y 7.
 
 ---
 
-## Artículo 16: Poder Legislativo - Funciones
+## Artículo 17: Poder Legislativo - Funciones
 
 El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en las excepciones previstas en esta Constitución. Es decir, solo el Legislativo puede aprobar, modificar o derogar leyes, sin perjuicio del control de constitucionalidad ejercido por el Poder Judicial conforme al Título IV. Sus funciones incluyen:
 
 1. Aprobar, modificar o derogar leyes
 2. Aprobar el presupuesto anual del Estado
-3. Ratificar el presupuesto propuesto por el Poder Judicial conforme al artículo 28
+3. Ratificar el presupuesto propuesto por el Poder Judicial conforme al artículo 29
 
 ---
 
-## Artículo 17: Poder Legislativo - Votaciones
+## Artículo 18: Poder Legislativo - Votaciones
 
 Todas las votaciones del Legislativo son públicas y quedan registradas en un sistema auditable por cualquier ciudadano. El voto de cada representante debe ser conocido o verificable por sus electores.
 
@@ -227,7 +235,7 @@ La mayoría requerida por defecto para aprobar, modificar o derogar leyes es de 
 
 ---
 
-## Artículo 18: Poder Ejecutivo - Presidente
+## Artículo 19: Poder Ejecutivo - Presidente
 
 El Presidente de la República es elegido por sufragio directo de todos los ciudadanos con derecho a voto conforme al artículo 3, mediante sistema de doble vuelta.
 
@@ -239,7 +247,7 @@ Su mandato es de 5 años. Ninguna persona puede ejercer la Presidencia más de d
 
 ---
 
-## Artículo 19: Poder Ejecutivo - Funciones del Presidente
+## Artículo 20: Poder Ejecutivo - Funciones del Presidente
 
 El Presidente ejerce la totalidad del Poder Ejecutivo. Sus funciones incluyen:
 
@@ -251,17 +259,17 @@ El Presidente ejerce la totalidad del Poder Ejecutivo. Sus funciones incluyen:
 6. Ejecución del presupuesto aprobado por el Legislativo
 7. Dirección de los ministerios
 
-El Presidente puede delegar funciones en los ministros conforme al artículo 24, salvo aquellas que esta Constitución prohíba expresamente delegar. En todo caso, el Presidente conserva la autoridad última sobre cualquier decisión del Poder Ejecutivo.
+El Presidente puede delegar funciones en los ministros conforme al artículo 25, salvo aquellas que esta Constitución prohíba expresamente delegar. En todo caso, el Presidente conserva la autoridad última sobre cualquier decisión del Poder Ejecutivo.
 
 ---
 
-## Artículo 20: Autodestrucción Mutua - Mecanismo
+## Artículo 21: Autodestrucción Mutua - Mecanismo
 
 El Legislativo puede cesar al Presidente mediante votación de consenso N1 (mayoría simple, 51%). El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo y del Presidente en un plazo máximo de 30 días. El Presidente cesado no puede presentarse a las elecciones inmediatas resultantes.
 
 ---
 
-## Artículo 21: Autodestrucción Mutua - Periodo de Desactivación
+## Artículo 22: Autodestrucción Mutua - Periodo de Desactivación
 
 Tras la activación del mecanismo de autodestrucción mutua, opera un periodo de desactivación asimétrico durante el cual ninguna de las partes podrá ejecutar el mecanismo de autodestrucción mutua. El periodo de desactivación se aplica de forma diferenciada a quien lo invocó y a quien lo recibió:
 
@@ -277,39 +285,39 @@ Los parámetros numéricos de este artículo (6 meses, 12 meses, 3 meses) pueden
 
 ---
 
-## Artículo 22: Autodestrucción Mutua - Límites
+## Artículo 23: Autodestrucción Mutua - Límites
 
 El mecanismo de autodestrucción mutua no puede activarse durante un estado de excepción declarado conforme al Título VI.
 
 ---
 
-## Artículo 23: Ministerios - Límite Constitucional
+## Artículo 24: Ministerios - Límite Constitucional
 
-El número máximo de ministerios por defecto es de 20. La estructura ministerial es competencia exclusiva del Presidente conforme al artículo 19. Esta Constitución no establece una lista cerrada de ministerios, solo el número máximo de estos.
+El número máximo de ministerios por defecto es de 20. La estructura ministerial es competencia exclusiva del Presidente conforme al artículo 20. Esta Constitución no establece una lista cerrada de ministerios, solo el número máximo de estos.
 
 La modificación de este límite requiere consenso de Nivel N6. Durante el Proceso de Arranque, este límite puede modificarse con consenso de Nivel N1.
 
 ---
 
-## Artículo 24: Ministerios - Nombramiento
+## Artículo 25: Ministerios - Nombramiento
 
 Los ministros son nombrados y cesados exclusivamente por el Presidente salvo que un ministro sea condenado por delito cuya pena incluya la pérdida del cargo. En ese caso, el cese es automático e independiente de la voluntad del Presidente. Toda persona que pierda un cargo público por condena penal queda inhabilitada permanentemente para ejercer cualquier cargo en la administración pública.
 
 ---
 
-## Artículo 25: Presupuesto Anterior por Defecto
+## Artículo 26: Presupuesto Anterior por Defecto
 
 Si el Legislativo no aprueba un nuevo presupuesto antes del inicio del año fiscal, se prorroga automáticamente el presupuesto del año anterior, ajustado a la inflación del periodo.
 
 ---
 
-## Artículo 26: Límite Presupuestario del Ejecutivo
+## Artículo 27: Límite Presupuestario del Ejecutivo
 
 El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobados por el Legislativo en el presupuesto anual. Todo gasto público superior a la cantidad establecida por ley se registra en sistema público auditable por la ciudadanía de manera permanente.
 
 ---
 
-## Artículo 27: Poder Judicial - Independencia y Financiación
+## Artículo 28: Poder Judicial - Independencia y Financiación
 
 El Poder Judicial es independiente de los poderes Legislativo y Ejecutivo. Los jueces no reciben órdenes ni instrucciones de ningún otro poder.
 
@@ -317,7 +325,7 @@ El Tribunal Supremo elabora y propone el presupuesto anual del Poder Judicial. E
 
 ---
 
-## Artículo 28: Poder Judicial - Jerarquía
+## Artículo 29: Poder Judicial - Jerarquía
 
 La estructura judicial se organiza en tres niveles:
 
@@ -329,13 +337,15 @@ Las decisiones del Tribunal Supremo son definitivas en el orden judicial, sin pe
 
 ---
 
-## Artículo 29: Derecho de Apelación y Casación
+## Artículo 30: Derecho de Apelación y Casación
 
-Todo justiciable tiene derecho a al menos una apelación y una casación ante tribunal de segunda instancia. La apelación permite revisión completa de hechos y derecho. La casación es una revisión adicional que examina exclusivamente la correcta aplicación del derecho, sin reexamen de hechos salvo arbitrariedad manifiesta en su valoración.
+Toda parte en un proceso judicial tiene derecho a al menos una apelación y una casación ante tribunal de segunda instancia. Este derecho se ejerce por caso y por nivel: cuando varias partes solicitan revisión del mismo caso ante el mismo nivel, el caso asciende una única vez, no una vez por cada parte que lo solicite.
+
+La apelación permite revisión completa de hechos y derecho. La casación es una revisión adicional que examina exclusivamente la correcta aplicación del derecho, sin reexamen de hechos salvo arbitrariedad manifiesta en su valoración.
 
 ---
 
-## Artículo 30: Nombramiento de Jueces - Principio
+## Artículo 31: Nombramiento de Jueces - Principio
 
 Los jueces son nombrados mediante procedimiento que garantiza independencia judicial. El nombramiento judicial requiere:
 
@@ -349,34 +359,33 @@ La modificación de estos requisitos requiere consenso de Nivel N5.
 
 ---
 
-## Artículo 31: Tribunal Supremo - Composición
+## Artículo 32: Tribunal Supremo - Composición
 
 El Tribunal Supremo se compone de 9 magistrados. Cada magistrado es nombrado por un mandato de máximo 12 años. El mandato es renovable tras un periodo de exclusión de 8 años desde la finalización del mandato anterior. La renovación es escalonada: cada 4 años se renuevan 3 magistrados.
 
-Durante el Proceso de Arranque, los 9 magistrados son nombrados simultáneamente. Para establecer la renovación escalonada, se asignan mandatos iniciales diferenciados mediante sorteo aleatorio. El procedimiento de sorteo es el siguiente: se aplica la función hash SHA-256 a la huella dactilar del pulgar derecho de cada magistrado (en su defecto, pulgar del pie; quien carezca de ambos no puede acceder al cargo de magistrado del Tribunal Supremo). Los 3 magistrados con el valor más alto en los primeros 2 bytes del hash sirven un mandato inicial de 4 años, los 3 con el valor más alto entre los 6 restantes sirven 8 años, y los 3 restantes sirven el mandato completo de 12 años. A partir de entonces, todos los mandatos son de 12 años.
+Durante el Proceso de Arranque, los 9 magistrados son nombrados simultáneamente. Para establecer la renovación escalonada, se asignan mandatos iniciales diferenciados mediante sorteo aleatorio.
+
+El procedimiento de sorteo es el siguiente: se aplica la función hash SHA-256 a la huella dactilar del pulgar derecho de cada magistrado (en su defecto, pulgar del pie; quien carezca de ambos no puede acceder al cargo de magistrado del Tribunal Supremo). Los 3 magistrados con el valor más alto en los primeros 2 bytes del hash sirven un mandato inicial de 4 años, los 3 con el valor más alto entre los 6 restantes sirven 8 años, y los 3 restantes sirven el mandato completo de 12 años. A partir de entonces, todos los mandatos son de 12 años.
+
+En caso de empate en los primeros 2 bytes del hash entre dos o más magistrados que disputen un mismo tramo de mandato, se comparan sucesivamente los bytes siguientes del hash (tercero, cuarto, etc.) hasta que se resuelva el empate. El magistrado con el valor más alto en el byte de desempate obtiene el mandato más corto del tramo disputado.
 
 ---
 
-## Artículo 34: Tribunal Supremo - Nombramiento
+## Artículo 33: Tribunal Supremo - Nombramiento
 
-Los candidatos a magistrado del Tribunal Supremo son propuestos por:
+Los candidatos a magistrado del Tribunal Supremo son propuestos exclusivamente por las siguientes instituciones, cada una con al menos 10 años de funcionamiento en el país:
 
-1. Colegio de abogados del país
+1. Colegios de abogados
 2. Facultades de derecho acreditadas
-3. Asociaciones judiciales de rango inferior
+3. Asociaciones de jueces de instancias inferiores al Tribunal Supremo
 
-La elección final se realiza mediante votación popular vinculante (elección directa). El procedimiento específico, incluyendo el número de candidatos propuestos por cada institución y el sistema de votación, se establece en la implementación de esta Constitución.
+La elección final se realiza mediante votación popular vinculante (elección directa). El procedimiento específico, incluyendo el número de candidatos propuestos por cada institución y el sistema de votación, se establece durante el Proceso de Arranque conforme al Título III.
 
 ---
 
-## Artículo 35: Tribunal Supremo - Renovación Escalonada
+## Artículo 34: Tribunal Supremo - Renovación Escalonada
 
-Cada 4 años se procede al nombramiento de 3 nuevos magistrados del Tribunal Supremo, sustituyendo a los 3 magistrados cuyo mandato de 12 años haya expirado. Este sistema de renovación escalonada garantiza que:
-
-1. Nunca se renueva la totalidad del tribunal simultáneamente
-2. Existe continuidad en criterios jurisprudenciales
-3. Se incorpora progresivamente nueva sensibilidad jurídica
-4. No se producen cambios radicales dependientes de coyunturas políticas momentáneas
+Cada 4 años se procede al nombramiento de 3 nuevos magistrados del Tribunal Supremo conforme al artículo 33, sustituyendo a los 3 magistrados cuyo mandato de 12 años haya expirado conforme al artículo 32. Los magistrados salientes pueden ser propuestos nuevamente como candidatos una vez transcurrido el periodo de exclusión de 8 años establecido en el artículo 32.
 
 ---
 
@@ -384,55 +393,26 @@ Cada 4 años se procede al nombramiento de 3 nuevos magistrados del Tribunal Sup
 
 ---
 ---
+# TÍTULO III: PROCESO DE ARRANQUE
 
-# TÍTULO III: BOOTSTRAP DEMOCRÁTICO
+## Artículo 35: Proceso de Arranque - Mandato Especial
 
-## Artículo 36: Primera Legislatura - Mandato Especial
+El Proceso de Arranque es el periodo de 1 año inmediatamente posterior a la aprobación de esta Constitución. Esta duración de 1 año no puede modificarse durante el propio Proceso de Arranque. Durante este periodo, ciertos niveles de consenso requeridos por esta Constitución son reducidos conforme se especifica en cada artículo correspondiente. Durante el Proceso de Arranque se aplica la garantía de anulación popular establecida en el artículo 13.
 
-La primera legislatura tras la aprobación de esta Constitución tiene carácter especial. Su mandato se establece en un plazo de entre 2 y 4 años, determinado en la implementación específica de esta Constitución. Durante esta legislatura se aplican las reglas especiales de override popular establecidas en los artículos 37 a 40. Finalizada la primera legislatura, se aplican las reglas ordinarias de control constitucional establecidas en el Título IV.
+Si durante el Proceso de Arranque se declara un estado de excepción conforme al Título VI, el mandatario anterior a la entrada en vigor de esta Constitución asume el control hasta el cese del estado de excepción. Tras el cese, el Proceso de Arranque se reanuda con los siguientes plazos:
 
----
+- Tras la primera interrupción: 6 meses de Arranque restante.
+- Tras interrupciones sucesivas: 3 meses de Arranque restante.
 
-## Artículo 37: Bootstrap - Override 75% (Principio)
+Estos plazos se aplican sucesivamente hasta que el Proceso de Arranque se complete sin interrupción.
 
-Durante la primera legislatura, cualquier decisión legislativa puede ser sometida a override popular mediante votación en sistema público auditable (blockchain). Si el 75% o más de los votos válidos se pronuncian en contra de la decisión legislativa, esta queda automáticamente invertida o anulada. Este mecanismo permite que el pueblo corrija directamente decisiones que cuenten con oposición ciudadana abrumadora durante la fase de establecimiento institucional.
-
----
-
-## Artículo 38: Bootstrap - Override 75% (Procedimiento)
-
-El procedimiento de override 75% opera de la siguiente forma:
-
-1. **Convocatoria:** Requiere solicitud del 5% del censo nacional en un plazo máximo de 30 días desde la decisión legislativa cuestionada
-2. **Periodo de votación:** 21 días de votación abierta a todo el censo nacional
-3. **Efecto:** Si el 75% o más de los votos válidos son contrarios a la decisión legislativa, esta queda automáticamente anulada o invertida
-4. **Sin participación mínima:** A diferencia del override ordinario (artículos 47-50), este mecanismo no requiere participación mínima, solo umbral del 75% sobre votos válidos emitidos
+Finalizado el Proceso de Arranque, se aplican las reglas ordinarias de consenso establecidas en cada artículo y las reglas ordinarias de control constitucional establecidas en el Título IV.
 
 ---
 
-## Artículo 39: Bootstrap - Exclusiones del Override 75%
+## Artículo 36: Transición a Operación Normal
 
-El mecanismo de override 75% establecido en los artículos 37-38 no se aplica a las siguientes decisiones legislativas:
-
-1. Aprobación de presupuestos
-2. Declaración de estados de excepción
-3. Declaración de guerra o autorización de operaciones militares
-4. Nombramiento de cargos públicos
-5. Reforma de las cláusulas pétreas establecidas en el artículo 53
-
-Esta lista es taxativa: no puede ampliarse por ley ordinaria.
-
----
-
-## Artículo 40: Bootstrap - Tecnología Habilitadora
-
-El mecanismo de override 75% requiere infraestructura tecnológica operativa que garantice secreto del voto, verificabilidad individual y auditoría pública conforme a los principios establecidos en los artículos 4 y 12. Si esta infraestructura no está completamente operativa al inicio de la primera legislatura, el mandato de esta se extiende automáticamente hasta que la infraestructura esté certificada como segura y operativa por auditoría independiente. Esta extensión no puede superar 2 años adicionales al plazo establecido en el artículo 36.
-
----
-
-## Artículo 41: Transición a Operación Normal
-
-Finalizada la primera legislatura conforme al artículo 36, el mecanismo de override 75% establecido en los artículos 37-40 deja de aplicarse permanentemente. A partir de ese momento, el control popular de decisiones legislativas y judiciales se ejerce exclusivamente mediante los mecanismos ordinarios establecidos en el Título IV (override popular con participación mínima del 40% y mayoría del 66%). El bootstrap democrático no puede reactivarse: es un mecanismo único aplicable solo en la fase de establecimiento inicial de esta Constitución. Las lecciones del bootstrap deben documentarse públicamente para conocimiento de futuras generaciones.
+Finalizado el Proceso de Arranque conforme al artículo 35, las reducciones de consenso aplicadas durante el mismo dejan de estar en vigor. A partir de ese momento, se aplican los niveles de consenso ordinarios establecidos en cada artículo y el control popular de decisiones legislativas y judiciales se ejerce mediante los mecanismos ordinarios establecidos en el Título IV. El Proceso de Arranque no puede reactivarse, es un mecanismo único aplicable solo en la fase de establecimiento inicial de esta Constitución.
 
 ---
 
@@ -540,7 +520,7 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 
 1. **Soberanía Popular** (artículo 1): El poder reside permanentemente en el pueblo
 2. **Sufragio Universal** (artículo 3): Derecho al voto de todo ciudadano mayor de edad
-3. **Separación de Poderes** (artículo 13): Independencia de poderes Legislativo, Ejecutivo y Judicial
+3. **Separación de Poderes** (artículo 14): Independencia de poderes Legislativo, Ejecutivo y Judicial
 4. **Derecho de Reforma Constitucional** (artículos 59-60): El pueblo conserva siempre el derecho de reformar esta Constitución
 5. **Cosa Juzgada** (artículo 51): Seguridad jurídica de sentencias firmes
 
@@ -583,9 +563,9 @@ Las cláusulas pétreas implementan asimetría temporal intencional: mantener la
 
 ---
 
-## Artículo 58: Exclusión del Bootstrap de Cláusulas Pétreas
+## Artículo 58: Exclusión del Proceso de Arranque de Cláusulas Pétreas
 
-El mecanismo de bootstrap democrático establecido en el Título III NO es cláusula pétrea. Puede eliminarse o modificarse mediante el procedimiento de reforma ordinaria establecido en los artículos 59-60. Justificación: el bootstrap es un mecanismo temporal de establecimiento institucional, no un principio permanente de la democracia. Su carácter transitorio implica que no requiere la protección especial de las cláusulas pétreas.
+El Proceso de Arranque establecido en el Título III NO es cláusula pétrea. Puede eliminarse o modificarse mediante el procedimiento de reforma ordinaria establecido en los artículos 59-60. El Proceso de Arranque es un mecanismo temporal de establecimiento institucional, no un principio permanente de la democracia. Su carácter transitorio implica que no requiere la protección especial de las cláusulas pétreas.
 
 ---
 
@@ -695,7 +675,7 @@ Durante cualquier estado de excepción:
 1. El Poder Legislativo **no puede ser disuelto** ni suspendido
 2. El Legislativo permanece en **sesión continua obligatoria**
 3. El Legislativo puede **revocar el estado de excepción** en cualquier momento mediante mayoría simple (51%)
-4. El mecanismo de autodestrucción mutua (artículos 21-23) **queda suspendido** durante el estado de excepción
+4. El mecanismo de autodestrucción mutua (artículos 22-24) **queda suspendido** durante el estado de excepción
 5. El Ejecutivo debe **informar semanalmente** al Legislativo sobre medidas adoptadas y evolución de la crisis
 
 ---

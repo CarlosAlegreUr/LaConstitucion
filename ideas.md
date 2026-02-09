@@ -22,3 +22,7 @@
 
 - articulo 28, revisar mas tarede cuadno lleguemos al 50: sin perjuicio de la anulación popular establecida en los artículos 47 a 50.
 
+- Asegurar consistencia de limites de nivel consenso del proceso de arranque y de functionamiento normal.
+
+- Analizar consistencia de nombramiento de niveles y mini menciones a los repsectivos % a lo largo de la constitucion.
+
