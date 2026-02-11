@@ -13,7 +13,7 @@
 - **TÍTULO I:** FUNDAMENTOS (Arts. 1-13)
 - **TÍTULO II:** ORGANIZACIÓN DE PODERES (Arts. 14-34)
 - **TÍTULO III:** PROCESO DE ARRANQUE (Arts. 35-36)
-- **TÍTULO IV:** CONTROL CONSTITUCIONAL (Arts. 42-50)
+- **TÍTULO IV:** CONTROL CONSTITUCIONAL (Arts. 42-46)
 - **TÍTULO V:** PROTECCIONES FUNDAMENTALES (Arts. 51-60)
 - **TÍTULO VI:** ESTADOS DE EXCEPCIÓN (Arts. 61-72)
 - **TÍTULO VII:** CONTROL DE FUERZAS ARMADAS (Arts. 73-80)
@@ -333,7 +333,7 @@ La estructura judicial se organiza en tres niveles:
 2. Segunda Instancia: Tribunales de apelación y casación
 3. Tribunal Supremo: Tribunal de última instancia
 
-Las decisiones del Tribunal Supremo son definitivas en el orden judicial, sin perjuicio de la anulación popular establecida en los artículos 47 a 50.
+Las decisiones del Tribunal Supremo son definitivas en el orden judicial, sin perjuicio de la anulación popular establecida en los artículos 44 a 46.
 
 ---
 
@@ -425,73 +425,61 @@ Finalizado el Proceso de Arranque conforme al artículo 35, las reducciones de c
 
 ## Artículo 42: Supremacía Constitucional
 
-Esta Constitución es la norma suprema del ordenamiento jurídico. Toda ley, reglamento, acto administrativo o decisión judicial que contravenga esta Constitución es nula de pleno derecho. El control de constitucionalidad es difuso: todo juez, en cualquier instancia, puede declarar la inaplicabilidad de una norma en el caso concreto si la considera contraria a esta Constitución. Esta declaración de inaplicabilidad puede ser recurrida conforme al sistema en capas establecido en los artículos 43 a 46.
+Esta Constitución es la norma suprema del ordenamiento jurídico. Toda ley, reglamento, acto administrativo o decisión judicial que contravenga esta Constitución es nula de pleno derecho. El control de constitucionalidad es difuso: todo juez, en cualquier instancia, puede declarar la inaplicabilidad de una norma en el caso concreto si la considera contraria a esta Constitución. Esta declaración de inaplicabilidad puede ser recurrida conforme al sistema en capas establecido en el artículo 43.
 
 ---
 
-## Artículo 43: Control Constitucional - Primera Instancia
+## Artículo 43: Proceso De Análisis De Constitucionalidad
 
-El juez de primera instancia que conozca de un caso puede declarar inaplicable una norma que considere contraria a esta Constitución. Esta declaración de inaplicabilidad tiene efecto únicamente para el caso concreto que está juzgando. La decisión sobre inaplicabilidad es recurrible en casación. El juez debe fundamentar detalladamente las razones por las cuales considera que la norma contraviene la Constitución.
+Cualquier ciudadano con derecho a voto puede impugnar la constitucionalidad de cualquier ley aprobada ante los tribunales, independientemente de cuánto tiempo haya transcurrido desde su aprobación. Cada ley puede ser sometida a revisión constitucional una vez cada 6 años. Las impugnaciones pueden presentarse individualmente o en packs de hasta 10 leyes, juzgándose cada ley por separado. Solo puede existir un proceso de revisión constitucional activo por ley en cada momento; si un pack contiene una ley ya en proceso, el pack se admite pero esa ley se excluye. El máximo de packs en proceso simultáneo es de 10, lo que establece un límite de 100 leyes en revisión constitucional simultánea. La impugnación se presenta ante tribunal de primera instancia y se resuelve conforme al siguiente sistema en capas:
 
----
+1. Primera Instancia: El tribunal puede declarar inaplicable una norma que considere contraria a esta Constitución. Esta declaración tiene efecto únicamente para el caso concreto. El tribunal debe fundamentar detalladamente las razones por las cuales considera que la norma contraviene la Constitución. Cualquier ciudadano con derecho a voto puede recurrir esta decisión ante segunda instancia, independientemente de su participación en el proceso inicial.
 
-## Artículo 44: Control Constitucional - Casación
+2. Segunda Instancia (Casación): El tribunal de segunda instancia revisa exclusivamente el razonamiento jurídico aplicado. Puede confirmar la inaplicabilidad, revocarla o matizar sus términos. Su decisión es válida en cualquiera de los sentidos: tanto si confirma la inconstitucionalidad como si declara la norma constitucional. Si confirma la inaplicabilidad, la norma queda inaplicable para todos los casos. Cualquier ciudadano con derecho a voto puede recurrir esta decisión ante el Tribunal Supremo dentro de un plazo máximo de 2 semanas desde la decisión de segunda instancia. Transcurrido este plazo sin recurso, la decisión de segunda instancia deviene permanente.
 
-El Tribunal de Casación revisa las decisiones de primera instancia sobre constitucionalidad de normas, examinando exclusivamente el razonamiento jurídico aplicado. La casación puede confirmar la inaplicabilidad, revocarla o matizar sus términos. Las decisiones de casación sobre constitucionalidad constituyen jurisprudencia orientadora para casos futuros, pero no tienen efecto erga omnes (aplicable a todos) hasta que el Tribunal Supremo se pronuncie.
+3. Tribunal Supremo: Es el intérprete último de la constitucionalidad de las leyes en el orden judicial. Sus decisiones son vinculantes para todos los tribunales del país. Cuando declara inconstitucional una norma, esta queda inaplicable para todos los casos. La decisión del Tribunal Supremo solo puede revertirse mediante anulación popular conforme a los artículos 44 a 46 o mediante reforma constitucional. El Legislativo puede aprobar una nueva ley con cambios sustanciales que aborde el problema constitucional identificado.
 
----
+El derecho de recurso se ejerce conforme al artículo 30: por caso y por nivel. Cuando varias partes impugnan la constitucionalidad de la misma norma ante el mismo nivel, el caso asciende una única vez, no una vez por cada impugnación.
 
-## Artículo 45: Control Constitucional - Tribunal Supremo
+Responsabilidad penal de legisladores:
+Si una ley es declarada inconstitucional en cualquier instancia judicial y la decisión deviene firme (no recurrida dentro del plazo establecido, o confirmada como inconstitucional en instancia superior), los legisladores que votaron a favor de dicha ley serán sometidos a sanción penal.
 
-El Tribunal Supremo es el intérprete último de la constitucionalidad de las leyes en el orden judicial. Sus decisiones sobre constitucionalidad son vinculantes para todos los tribunales del país. Cuando el Tribunal Supremo declara inconstitucional una norma, esta queda inaplicable erga omnes (para todos los casos), sin perjuicio del override popular establecido en los artículos 47 a 50. El Legislativo puede aprobar una nueva ley con cambios sustanciales que aborde el problema constitucional identificado por el Supremo.
+Responsabilidad penal de jueces:
+El juez que declare una ley inconstitucional también asume responsabilidad personal. La demostración de error se realiza mediante este mismo procedimiento de revisión constitucional una vez transcurrido el cooldown de 6 años de la ley. Si dentro de los 10 años siguientes a la declaración de inconstitucionalidad se demuestra que fue errónea, el juez será sometido a sanciones de similar o mayor dureza que las aplicables a los legisladores. Para magistrados del Tribunal Supremo, la sanción por error demostrado es de 20 años de prisión.
 
----
-
-## Artículo 46: Cosa Juzgada Constitucional
-
-Las decisiones del Tribunal Supremo sobre constitucionalidad de normas tienen efecto de cosa juzgada constitucional. Esto significa:
-
-1. La norma declarada inconstitucional no puede aplicarse mientras subsista la decisión del Supremo
-2. El Legislativo puede aprobar nueva legislación que corrija el problema constitucional identificado
-3. El Tribunal Supremo no puede ser desautorizado mediante ley ordinaria: su decisión solo puede revertirse mediante override popular (artículos 47-50) o mediante reforma constitucional que cambie el parámetro de constitucionalidad aplicado
+Las sanciones concretas para legisladores y jueces de instancias inferiores al Tribunal Supremo se establecen durante el Proceso de Arranque mediante consenso de Nivel N1 y deben ser disuasorias. Si la sanción es económica, la multa solo puede ser pagada mediante capital obtenido del salario de trabajos personales del sancionado; no se admite el pago mediante inversiones, donaciones, venta de activos ni ningún otro medio distinto del trabajo personal. La modificación posterior de estas sanciones requiere consenso de Nivel N5.
 
 ---
 
-## Artículo 47: Override Popular - Principio
+## Artículo 44: Anulación Popular - Requisitos de Convocatoria
 
-El pueblo puede anular una decisión del Tribunal Supremo sobre constitucionalidad de leyes mediante override popular. Este mecanismo implementa la jerarquía de legitimidad establecida en el artículo 2: el poder popular (nivel de máxima legitimidad democrática) puede anular decisiones del poder judicial (nivel de menor legitimidad democrática). El override popular se ejerce mediante votación en sistema público auditable (blockchain) conforme al procedimiento establecido en los artículos 48 a 50.
+El pueblo puede anular una decisión del Tribunal Supremo sobre constitucionalidad de leyes mediante anulación popular, conforme a la jerarquía de legitimidad establecida en el artículo 2. La convocatoria de anulación popular requiere:
 
----
-
-## Artículo 48: Override Popular - Requisitos de Convocatoria
-
-La convocatoria de override popular requiere:
-
-1. **Stake anti-spam:** Depósito económico de cuantía establecida en la implementación, reembolsable si la votación alcanza la participación mínima establecida en el artículo 49. Este mecanismo evita convocatorias frívolas.
-2. **Cooldown:** Deben transcurrir al menos 3 meses desde la decisión del Tribunal Supremo. Este periodo permite reflexión ciudadana y debate público antes de la votación.
-3. **Ámbito:** El override popular solo procede contra decisiones del Tribunal Supremo sobre constitucionalidad. No procede contra decisiones de tribunales inferiores ni contra sentencias ordinarias no constitucionales.
+1. Stake anti-spam: Depósito económico de cuantía establecida en la implementación, reembolsable si la votación alcanza la participación mínima establecida en el artículo 45. Este mecanismo evita convocatorias frívolas.
+2. Cooldown: Deben transcurrir al menos 3 meses desde la decisión del Tribunal Supremo. Este periodo permite reflexión ciudadana y debate público antes de la votación.
+3. Ámbito: La anulación popular solo procede contra decisiones del Tribunal Supremo sobre constitucionalidad. No procede contra decisiones de tribunales inferiores ni contra sentencias ordinarias no constitucionales.
 
 ---
 
-## Artículo 49: Override Popular - Participación y Mayoría
+## Artículo 45: Anulación Popular - Participación y Mayoría
 
-Para que el override popular sea efectivo debe cumplir simultáneamente:
+Para que la anulación popular sea efectiva debe cumplir simultáneamente:
 
-1. **Participación mínima:** Al menos el 40% del censo nacional debe participar en la votación
-2. **Mayoría cualificada:** Al menos el 66% de los votos válidos emitidos deben ser favorables al override
+1. Participación mínima: Al menos el 40% del censo nacional debe participar en la votación
+2. Mayoría cualificada: Al menos el 66% (Nivel N3) de los votos válidos emitidos deben ser favorables a la anulación
 
-Si no se alcanzan ambos umbrales, la decisión del Tribunal Supremo se mantiene en vigor. Estos umbrales elevados garantizan que el override solo procede cuando existe consenso ciudadano amplio y sustancial, no ante meras mayorías coyunturales.
+Si no se alcanzan ambos umbrales, la decisión del Tribunal Supremo se mantiene en vigor. Estos umbrales elevados garantizan que la anulación solo procede cuando existe consenso ciudadano amplio y sustancial, no ante meras mayorías coyunturales.
 
 ---
 
-## Artículo 50: Override Popular - Efecto
+## Artículo 46: Anulación Popular - Efecto
 
-Si el override popular alcanza los umbrales establecidos en el artículo 49, se producen los siguientes efectos:
+Si la anulación popular alcanza los umbrales establecidos en el artículo 45, se producen los siguientes efectos:
 
 1. La decisión del Tribunal Supremo queda anulada
-2. La norma que había sido declarada inconstitucional recupera su vigencia (o queda confirmada su nulidad, según el sentido del override)
+2. La norma que había sido declarada inconstitucional recupera su vigencia (o queda confirmada su nulidad, según el sentido de la anulación)
 3. El Legislativo puede legislar nuevamente sobre la materia sin las restricciones derivadas de la decisión del Supremo anulada
-4. Esta anulación popular no constituye precedente vinculante: futuras disputas constitucionales sobre normas similares deben resolverse nuevamente por la vía judicial ordinaria, salvo nuevo override
+4. Esta anulación popular no constituye precedente vinculante: futuras disputas constitucionales sobre normas similares deben resolverse nuevamente por la vía judicial ordinaria, salvo nueva anulación popular
 
 ---
 
@@ -532,8 +520,8 @@ Estas cláusulas constituyen el núcleo mínimo e intangible de la democracia co
 
 La reforma de cualquiera de las cláusulas pétreas establecidas en el artículo 53 requiere una de las siguientes mayorías:
 
-1. **Vía legislativa:** Aprobación por el 95% del Poder Legislativo
-2. **Vía popular:** Aprobación mediante referéndum que alcance el 85% de votos válidos favorables con participación mínima del 60% del censo
+1. **Vía legislativa:** Aprobación por consenso de Nivel N6 (95%) del Poder Legislativo
+2. **Vía popular:** Aprobación mediante referéndum que alcance el 85% (Nivel N5) de votos válidos favorables con participación mínima del 60% del censo
 
 Estos umbrales extraordinariamente altos son intencionales: implementan el principio de asimetría temporal que protege la estructura democrática contra captura por mayorías coyunturales o líderes carismáticos.
 
@@ -573,8 +561,8 @@ El Proceso de Arranque establecido en el Título III NO es cláusula pétrea. Pu
 
 Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en el artículo 53, puede reformarse mediante el siguiente procedimiento:
 
-1. **Vía legislativa:** Aprobación por dos tercios (66%) del Poder Legislativo
-2. **Vía popular:** Aprobación mediante referéndum con mayoría simple (51%) de votos válidos y participación mínima del 50% del censo
+1. **Vía legislativa:** Aprobación por consenso de Nivel N3 (dos tercios, 66%) del Poder Legislativo
+2. **Vía popular:** Aprobación mediante referéndum con consenso de Nivel N1 (mayoría simple, 51%) de votos válidos y participación mínima del 50% del censo
 
 La reforma ordinaria no requiere periodo de reflexión ni cooldown: una vez alcanzadas las mayorías establecidas, la reforma entra en vigor. Esta relativa facilidad de reforma permite que la Constitución evolucione con las necesidades de la sociedad sin necesidad de revoluciones o crisis constitucionales.
 
@@ -585,7 +573,7 @@ La reforma ordinaria no requiere periodo de reflexión ni cooldown: una vez alca
 La iniciativa para proponer reformas ordinarias conforme al artículo 59 puede provenir de:
 
 1. **Iniciativa legislativa:** Un tercio (33%) de los miembros del Poder Legislativo
-2. **Iniciativa popular:** El 10% del censo nacional mediante solicitud en sistema público auditable (blockchain)
+2. **Iniciativa popular:** El 10% del censo nacional mediante solicitud en sistema público auditable
 
 Ambas vías de iniciativa requieren la aprobación final conforme a las mayorías establecidas en el artículo 59. La iniciativa popular garantiza que el pueblo conserva capacidad de proponer cambios constitucionales sin depender exclusivamente de la voluntad de sus representantes.
 
@@ -610,17 +598,17 @@ Se establecen tres tipos de estados de excepción, cada uno aplicable a crisis d
 
 **1. Estado de Alarma:**
 - **Causas:** Catástrofe natural, crisis sanitaria, desastre tecnológico
-- **Mayoría requerida:** Mayoría simple (51%) del Legislativo
+- **Mayoría requerida:** Consenso de Nivel N1 (mayoría simple, 51%) del Legislativo
 - **Poderes:** Restricción de movimientos, requisición de bienes, movilización de servicios esenciales
 
 **2. Estado de Excepción:**
 - **Causas:** Crisis política interna grave, alteración grave del orden público, conflicto social intenso
-- **Mayoría requerida:** 60% del Legislativo
+- **Mayoría requerida:** Consenso de Nivel N2 (60%) del Legislativo
 - **Poderes:** Suspensión de garantías procesales no esenciales, detención preventiva ampliada, restricción de reunión
 
 **3. Estado de Sitio:**
 - **Causas:** Guerra declarada, invasión extranjera, insurgencia armada contra el Estado
-- **Mayoría requerida:** 66% del Legislativo
+- **Mayoría requerida:** Consenso de Nivel N3 (dos tercios, 66%) del Legislativo
 - **Poderes:** Transferencia de funciones civiles a autoridad militar en zona afectada, restricción de derechos adicionales
 
 En todos los casos, los poderes excepcionales están sujetos a los siete límites establecidos en los artículos 63-69.
@@ -664,7 +652,7 @@ El estado de excepción solo puede aplicarse en la zona geográfica directamente
 
 ## Artículo 66: Límite 4 - Límite Material
 
-Los poderes excepcionales están limitados a una lista cerrada establecida por ley, específica para cada tipo de estado de excepción conforme al artículo 62. El Poder Ejecutivo no puede crear nuevos poderes excepcionales mediante decreto. Cualquier medida que exceda los poderes establecidos en la lista cerrada es nula de pleno derecho y constituye abuso de autoridad. El Legislativo puede revocar el estado de excepción en cualquier momento mediante mayoría simple (51%), sin necesidad de justificación.
+Los poderes excepcionales están limitados a una lista cerrada establecida por ley, específica para cada tipo de estado de excepción conforme al artículo 62. El Poder Ejecutivo no puede crear nuevos poderes excepcionales mediante decreto. Cualquier medida que exceda los poderes establecidos en la lista cerrada es nula de pleno derecho y constituye abuso de autoridad. El Legislativo puede revocar el estado de excepción en cualquier momento mediante consenso de Nivel N1 (mayoría simple, 51%), sin necesidad de justificación.
 
 ---
 
@@ -674,7 +662,7 @@ Durante cualquier estado de excepción:
 
 1. El Poder Legislativo **no puede ser disuelto** ni suspendido
 2. El Legislativo permanece en **sesión continua obligatoria**
-3. El Legislativo puede **revocar el estado de excepción** en cualquier momento mediante mayoría simple (51%)
+3. El Legislativo puede **revocar el estado de excepción** en cualquier momento mediante consenso de Nivel N1 (mayoría simple, 51%)
 4. El mecanismo de autodestrucción mutua (artículos 22-24) **queda suspendido** durante el estado de excepción
 5. El Ejecutivo debe **informar semanalmente** al Legislativo sobre medidas adoptadas y evolución de la crisis
 
@@ -718,7 +706,7 @@ El procedimiento de declaración es el siguiente:
 
 2. **Aprobación:** El Legislativo aprueba o rechaza mediante las mayorías establecidas en el artículo 62. No puede modificar la propuesta, solo aprobar o rechazar.
 
-3. **Publicación:** La declaración se publica inmediatamente en sistema público auditable (blockchain) y medios oficiales.
+3. **Publicación:** La declaración se publica inmediatamente en sistema público auditable y medios oficiales.
 
 ---
 
@@ -748,8 +736,8 @@ Tras la finalización de cualquier estado de excepción:
 El estado de excepción finaliza automáticamente cuando se produce cualquiera de las siguientes circunstancias:
 
 1. **Cumplimiento del plazo** establecido en la declaración (artículo 64)
-2. **Revocación por el Legislativo** mediante mayoría simple (artículo 67)
-3. **Resolución de la crisis** declarada por el Ejecutivo y validada por el Legislativo mediante mayoría simple
+2. **Revocación por el Legislativo** mediante consenso de Nivel N1 (mayoría simple, artículo 67)
+3. **Resolución de la crisis** declarada por el Ejecutivo y validada por el Legislativo mediante consenso de Nivel N1 (mayoría simple, 51%)
 4. **Cumplimiento del límite anual** de 180 días (artículo 64)
 
 La finalización no requiere acto positivo adicional: opera automáticamente. Tras la finalización, todas las medidas excepcionales cesan inmediatamente y se restaura la normalidad constitucional plena.
@@ -771,7 +759,7 @@ El Presidente de la República es el Comandante en Jefe de las Fuerzas Armadas. 
 
 ## Artículo 74: Declaración de Guerra
 
-La declaración de guerra requiere la aprobación del 85% del Poder Legislativo. Este umbral extraordinariamente alto es intencional: busca limitar guerras de agresión permitiendo únicamente aquellas que cuenten con consenso nacional casi unánime. La defensa inmediata ante ataque o invasión no requiere declaración de guerra previa (artículo 75), pero sí rendición de cuentas posterior (artículo 76).
+La declaración de guerra requiere consenso de Nivel N5 (85%) del Poder Legislativo. Este umbral extraordinariamente alto es intencional: busca limitar guerras de agresión permitiendo únicamente aquellas que cuenten con consenso nacional casi unánime. La defensa inmediata ante ataque o invasión no requiere declaración de guerra previa (artículo 75), pero sí rendición de cuentas posterior (artículo 76).
 
 ---
 
@@ -803,7 +791,7 @@ El juicio sobre si se aplica esta pena corresponde al Tribunal Supremo, previa a
 
 ## Artículo 77: Presupuesto Militar
 
-El presupuesto de las Fuerzas Armadas es aprobado anualmente por el Legislativo mediante el procedimiento ordinario de aprobación presupuestaria. Todo gasto militar se registra en sistema público auditable (blockchain), permitiendo auditoría ciudadana permanente. Excepciones:
+El presupuesto de las Fuerzas Armadas es aprobado anualmente por el Legislativo mediante el procedimiento ordinario de aprobación presupuestaria. Todo gasto militar se registra en sistema público auditable, permitiendo auditoría ciudadana permanente. Excepciones:
 
 1. **Partidas de inteligencia y operaciones clasificadas:** Se registran de forma agregada (sin detalle operativo) y son auditadas por comisión legislativa específica con acceso clasificado
 2. **Equipamiento sensible:** La ubicación y capacidades específicas pueden clasificarse, pero los costes totales deben ser públicos
@@ -818,7 +806,7 @@ Las Fuerzas Armadas se organizan en ramas separadas:
 2. **Marina:** Defensa naval y costera
 3. **Fuerza Aérea:** Defensa aérea y espacial
 
-Los jefes de cada rama son nombrados por el Presidente y confirmados por el Legislativo mediante mayoría simple (51%). El Legislativo puede revocar el nombramiento de cualquier jefe militar mediante mayoría de dos tercios (66%). Esta separación evita concentración de poder militar en un solo mando y dificulta golpes de Estado (requeriría coordinación entre ramas).
+Los jefes de cada rama son nombrados por el Presidente y confirmados por el Legislativo mediante consenso de Nivel N1 (mayoría simple, 51%). El Legislativo puede revocar el nombramiento de cualquier jefe militar mediante consenso de Nivel N3 (mayoría de dos tercios, 66%). Esta separación evita concentración de poder militar en un solo mando y dificulta golpes de Estado (requeriría coordinación entre ramas).
 
 ---
 

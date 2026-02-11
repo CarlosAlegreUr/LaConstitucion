@@ -26,3 +26,8 @@
 
 - Analizar consistencia de nombramiento de niveles y mini menciones a los repsectivos % a lo largo de la constitucion.
 
+- añadir limite de leyes aprobadas semanales por legislativo. 14. La idea es que los jeuzes tengan un tiempecito diario para revisar constitucionalidad de 2 leyes en caso de que se aprieben y alguien apele casacion. No se si es demasiado o no y deberia ser 7 leyes semanales, pero hoy en dia y con IA creo que 14 es realista. Esto hay que tenerlo en cuenta para la parte de las explicaciones en el libro
+
+
+- art 43: // -nota- una ultima condicion, si la sancion penal es economica, la multa solo puede ser pagada mediante capital obtenido del salario de trabajos personales del culpable, nada de inversiones, donaciones, venta de activos etc. UN RICO SIEMPRE PUEDE CONTRATAR DE JARDINERO A UN JUEZ CON UN SALARIO MUY ALTO, pero bueno por lo menos esta restirccion hara que solo haya que estar vigilante a este tipo de cosas, y aunqu ela consitucion no las prohiba, la ley normal quiza puede llenar los huecos, o por lo menos se sabra mas facil y eld escredito social al juez y comprador vendra mas facilmente (GENERAL EXTRA POING: ver si tienen sentido las referencias entre arts, y si eso, analizar que no se contradigan o abran huecos legales) AH, y hacer N6 conesnso para cambiar los castigos quiza.
+
