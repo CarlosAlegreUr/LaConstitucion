@@ -31,3 +31,11 @@
 
 - art 43: // -nota- una ultima condicion, si la sancion penal es economica, la multa solo puede ser pagada mediante capital obtenido del salario de trabajos personales del culpable, nada de inversiones, donaciones, venta de activos etc. UN RICO SIEMPRE PUEDE CONTRATAR DE JARDINERO A UN JUEZ CON UN SALARIO MUY ALTO, pero bueno por lo menos esta restirccion hara que solo haya que estar vigilante a este tipo de cosas, y aunqu ela consitucion no las prohiba, la ley normal quiza puede llenar los huecos, o por lo menos se sabra mas facil y eld escredito social al juez y comprador vendra mas facilmente (GENERAL EXTRA POING: ver si tienen sentido las referencias entre arts, y si eso, analizar que no se contradigan o abran huecos legales) AH, y hacer N6 conesnso para cambiar los castigos quiza.
 
+- art 44, ciudadanos capaces de contradecir procesos judiciales tambien??? Claro, porque no, pero requisitos mas altos. Como el 30% como grupo y las firmas del 51%.
+
+- prev: ## Artículo 57: Justificación de Cláusulas Pétreas
+// -nota- lo dicho, las explicaciones para la parte 2
+Las cláusulas pétreas implementan asimetría temporal intencional: mantener la estructura democrática debe ser posible con mayorías ordinarias, pero eliminarla debe requerir consenso casi unánime sostenido durante periodos prolongados. Esta asimetría protege contra el escenario del líder carismático que, aprovechando una crisis o mayoría coyuntural, desmantela las protecciones democráticas e instaura dictadura con apariencia de legitimidad popular. Los umbrales del 95%, 85% y 2 años de reflexión no son arbitrarios: buscan hacer extremadamente difícil, pero no imposible, la eliminación de garantías democráticas fundamentales. No son tiranía de los muertos sobre los vivos, sino protección de las generaciones futuras contra decisiones irreversibles tomadas bajo presión o manipulación.
+
+- art 55, revisar que cosas si pueden reformarse y cuales no segun este articulo. Quiza haya que simplemente decirlo en cada articulo si puede reformarse o no y ya. el articulo 5 gran aprte de el se dedica a eso, hay que ver si es consistente con el resto de arts
+

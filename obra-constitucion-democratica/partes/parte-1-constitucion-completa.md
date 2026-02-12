@@ -2,7 +2,7 @@
 
 **Texto Constitucional Completo**
 
-**Total de artículos:** 85
+**Total de artículos:** 81
 **Estructura:** 8 Títulos
 **Generado:** 2026-01-06
 
@@ -14,7 +14,7 @@
 - **TÍTULO II:** ORGANIZACIÓN DE PODERES (Arts. 14-34)
 - **TÍTULO III:** PROCESO DE ARRANQUE (Arts. 35-36)
 - **TÍTULO IV:** CONTROL CONSTITUCIONAL (Arts. 42-46)
-- **TÍTULO V:** PROTECCIONES FUNDAMENTALES (Arts. 51-60)
+- **TÍTULO V:** PROTECCIONES FUNDAMENTALES (Arts. 51-56)
 - **TÍTULO VI:** ESTADOS DE EXCEPCIÓN (Arts. 61-72)
 - **TÍTULO VII:** CONTROL DE FUERZAS ARMADAS (Arts. 73-80)
 - **TÍTULO VIII:** TRANSPARENCIA Y TECNOLOGÍA (Arts. 81-85)
@@ -451,35 +451,30 @@ Las sanciones concretas para legisladores y jueces de instancias inferiores al T
 
 ---
 
-## Artículo 44: Anulación Popular - Requisitos de Convocatoria
+## Artículo 44: Anulación Popular - Convocatoria
 
-El pueblo puede anular una decisión del Tribunal Supremo sobre constitucionalidad de leyes mediante anulación popular, conforme a la jerarquía de legitimidad establecida en el artículo 2. La convocatoria de anulación popular requiere:
+El pueblo puede anular cualquier decisión judicial sobre constitucionalidad de leyes que haya devenido firme, independientemente de la instancia en que adquirió firmeza, mediante anulación popular conforme a la jerarquía de legitimidad establecida en el artículo 2. La convocatoria requiere:
 
-1. Stake anti-spam: Depósito económico de cuantía establecida en la implementación, reembolsable si la votación alcanza la participación mínima establecida en el artículo 45. Este mecanismo evita convocatorias frívolas.
-2. Cooldown: Deben transcurrir al menos 3 meses desde la decisión del Tribunal Supremo. Este periodo permite reflexión ciudadana y debate público antes de la votación.
-3. Ámbito: La anulación popular solo procede contra decisiones del Tribunal Supremo sobre constitucionalidad. No procede contra decisiones de tribunales inferiores ni contra sentencias ordinarias no constitucionales.
+1. Periodo de reflexión: Deben transcurrir al menos 3 meses desde que la decisión judicial devino firme.
+2. Ámbito: La anulación popular solo procede contra decisiones judiciales sobre constitucionalidad de leyes. No procede contra sentencias ordinarias no constitucionales.
+3. Iniciativa: Cualquier grupo de ciudadanos con derecho a voto cuya cantidad de miembros sea al menos el 10% del total de ciudadanos con derecho a voto puede iniciar el proceso de recogida de firmas.
 
 ---
 
-## Artículo 45: Anulación Popular - Participación y Mayoría
+## Artículo 45: Anulación Popular - Recogida de Firmas
 
-Para que la anulación popular sea efectiva debe cumplir simultáneamente:
-
-1. Participación mínima: Al menos el 40% del censo nacional debe participar en la votación
-2. Mayoría cualificada: Al menos el 66% (Nivel N3) de los votos válidos emitidos deben ser favorables a la anulación
-
-Si no se alcanzan ambos umbrales, la decisión del Tribunal Supremo se mantiene en vigor. Estos umbrales elevados garantizan que la anulación solo procede cuando existe consenso ciudadano amplio y sustancial, no ante meras mayorías coyunturales.
+La anulación popular requiere la recogida de firmas del 51% (Nivel N1) del total de ciudadanos con derecho a voto. Solo se contabilizan firmas de ciudadanos vivos con derecho a voto en el momento de la verificación; si un firmante fallece, su firma deja de ser válida. Transcurridos 7 días desde que se alcanza el umbral de firmas, la decisión judicial queda anulada.
 
 ---
 
 ## Artículo 46: Anulación Popular - Efecto
 
-Si la anulación popular alcanza los umbrales establecidos en el artículo 45, se producen los siguientes efectos:
+Cuando la anulación popular alcanza el umbral establecido en el artículo 45, se producen los siguientes efectos:
 
-1. La decisión del Tribunal Supremo queda anulada
+1. La decisión judicial queda anulada
 2. La norma que había sido declarada inconstitucional recupera su vigencia (o queda confirmada su nulidad, según el sentido de la anulación)
-3. El Legislativo puede legislar nuevamente sobre la materia sin las restricciones derivadas de la decisión del Supremo anulada
-4. Esta anulación popular no constituye precedente vinculante: futuras disputas constitucionales sobre normas similares deben resolverse nuevamente por la vía judicial ordinaria, salvo nueva anulación popular
+3. Esta anulación popular no constituye precedente vinculante: futuras disputas constitucionales sobre normas similares deben resolverse nuevamente por la vía judicial ordinaria, salvo nueva anulación popular
+4. El juez o magistrado responsable de la decisión anulada queda sometido a las sanciones establecidas en el artículo 43 para la responsabilidad penal de jueces
 
 ---
 
@@ -490,92 +485,64 @@ Si la anulación popular alcanza los umbrales establecidos en el artículo 45, s
 
 # TÍTULO V: PROTECCIONES FUNDAMENTALES
 
-## Artículo 51: Cosa Juzgada Ordinaria
+## Artículo 51: Cláusulas Pétreas - Núcleo Intangible
 
-Las sentencias judiciales firmes tienen efecto de cosa juzgada. Una vez que una sentencia adquiere firmeza mediante agotamiento de los recursos disponibles o transcurso de los plazos para recurrir, no puede ser revisada salvo mediante recurso extraordinario por error judicial flagrante o aparición de pruebas nuevas concluyentes. La cosa juzgada garantiza seguridad jurídica: las controversias resueltas no pueden reabrirse indefinidamente.
+Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 55-56. Solo pueden modificarse mediante el procedimiento especial establecido en los artículos 52 a 54:
 
----
-
-## Artículo 52: Non Bis in Idem
-
-Nadie puede ser juzgado dos veces por el mismo hecho. Esta prohibición es absoluta e incluye tanto las absoluciones como las condenas. Si una persona es absuelta, no puede ser sometida a nuevo proceso por el mismo hecho aunque aparezcan nuevas pruebas. Si es condenada y cumple la pena, no puede ser juzgada nuevamente por el mismo delito. Esta garantía protege contra la persecución judicial reiterada.
-
----
-
-## Artículo 53: Cláusulas Pétreas - Núcleo Intangible
-
-Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 59-60. Solo pueden modificarse mediante el procedimiento especial establecido en los artículos 54 a 56:
-
-1. **Soberanía Popular** (artículo 1): El poder reside permanentemente en el pueblo
-2. **Sufragio Universal** (artículo 3): Derecho al voto de todo ciudadano mayor de edad
-3. **Separación de Poderes** (artículo 14): Independencia de poderes Legislativo, Ejecutivo y Judicial
-4. **Derecho de Reforma Constitucional** (artículos 59-60): El pueblo conserva siempre el derecho de reformar esta Constitución
-5. **Cosa Juzgada** (artículo 51): Seguridad jurídica de sentencias firmes
-
-Estas cláusulas constituyen el núcleo mínimo e intangible de la democracia constitucional. Su protección especial implementa asimetría temporal: mantener la democracia debe ser relativamente fácil, eliminarla debe ser extremadamente difícil.
+1. Soberanía Popular (artículo 1): El poder reside permanentemente en el pueblo mediante los mecanismos de representación uninominal directa en distritos pequeños y revocabilidad del mandato al individuo al cual el poder ha sido delegado
+2. Sufragio Universal (artículo 3): Derecho al voto de todo ciudadano mayor de edad
+3. Separación de Poderes (artículo 14): Independencia de poderes Legislativo, Ejecutivo y Judicial
+4. Derecho de Reforma Constitucional (artículos 55-56): El pueblo conserva siempre el derecho de reformar esta Constitución
+5. Jerarquía de Legitimidad Democrática (artículo 2): El pueblo puede anular decisiones de cualquier poder delegado conforme al orden de legitimidad establecido y solamente meidante los procedimientos descritos en esta Constitución.
 
 ---
 
-## Artículo 54: Procedimiento de Reforma de Cláusulas Pétreas - Mayoría
+## Artículo 52: Procedimiento de Reforma de Cláusulas Pétreas - Mayoría
 
-La reforma de cualquiera de las cláusulas pétreas establecidas en el artículo 53 requiere una de las siguientes mayorías:
+La reforma de cualquiera de las cláusulas pétreas establecidas en el artículo 51 requiere aprobación mediante referéndum popular con consenso de Nivel N5 (85%) de votos válidos favorables y participación mínima del 75% del censo. El referéndum puede convocarse por dos vías:
 
-1. **Vía legislativa:** Aprobación por consenso de Nivel N6 (95%) del Poder Legislativo
-2. **Vía popular:** Aprobación mediante referéndum que alcance el 85% (Nivel N5) de votos válidos favorables con participación mínima del 60% del censo
-
-Estos umbrales extraordinariamente altos son intencionales: implementan el principio de asimetría temporal que protege la estructura democrática contra captura por mayorías coyunturales o líderes carismáticos.
+1. Vía legislativa: Aprobación por consenso de Nivel N6 (95%) del Poder Legislativo.
+2. Vía popular: Iniciativa del 51% (Nivel N1) de los ciudadanos con derecho a voto.
 
 ---
 
-## Artículo 55: Procedimiento de Reforma de Cláusulas Pétreas - Doble Votación
+## Artículo 53: Procedimiento de Reforma de Cláusulas Pétreas - Doble Votación
 
 La reforma de cláusulas pétreas requiere dos votaciones separadas:
 
-1. **Primera votación:** Aprobación de la propuesta de reforma con las mayorías establecidas en el artículo 54
-2. **Periodo de reflexión:** Transcurso obligatorio de 2 años desde la primera votación
-3. **Segunda votación:** Confirmación de la reforma con las mismas mayorías establecidas en el artículo 54
+1. Primera votación: Aprobación de la propuesta de reforma con las mayorías establecidas en el artículo 52
+2. Periodo de reflexión: Transcurso obligatorio de 2 años desde la primera votación
+3. Segunda votación: Confirmación de la reforma con las mismas mayorías establecidas en el artículo 52
 
-Si la segunda votación no alcanza las mayorías requeridas, la propuesta de reforma caduca y no puede presentarse de nuevo hasta transcurrido el cooldown establecido en el artículo 56. Este mecanismo garantiza que las reformas de cláusulas pétreas no sean producto de impulsos momentáneos, crisis transitorias o manipulación emocional.
-
----
-
-## Artículo 56: Procedimiento de Reforma de Cláusulas Pétreas - Cooldown
-
-Una vez aprobada la reforma de una cláusula pétrea mediante el procedimiento establecido en los artículos 54-55, esa misma cláusula no puede reformarse nuevamente hasta transcurridos 20 años desde su última reforma. Este cooldown evita erosión progresiva de protecciones democráticas (muerte por mil cortes): no se puede desmantelar la democracia gradualmente mediante reformas sucesivas que individualmente parezcan razonables pero colectivamente destruyan el sistema.
+Si la segunda votación no alcanza las mayorías requeridas, la propuesta de reforma caduca y no puede presentarse de nuevo hasta transcurrido el periodo de espera establecido en el artículo 54.
 
 ---
 
-## Artículo 57: Justificación de Cláusulas Pétreas
+## Artículo 54: Procedimiento de Reforma de Cláusulas Pétreas - Periodo de Espera
 
-Las cláusulas pétreas implementan asimetría temporal intencional: mantener la estructura democrática debe ser posible con mayorías ordinarias, pero eliminarla debe requerir consenso casi unánime sostenido durante periodos prolongados. Esta asimetría protege contra el escenario del líder carismático que, aprovechando una crisis o mayoría coyuntural, desmantela las protecciones democráticas e instaura dictadura con apariencia de legitimidad popular. Los umbrales del 95%, 85% y 2 años de reflexión no son arbitrarios: buscan hacer extremadamente difícil, pero no imposible, la eliminación de garantías democráticas fundamentales. No son tiranía de los muertos sobre los vivos, sino protección de las generaciones futuras contra decisiones irreversibles tomadas bajo presión o manipulación.
-
----
-
-## Artículo 58: Exclusión del Proceso de Arranque de Cláusulas Pétreas
-
-El Proceso de Arranque establecido en el Título III NO es cláusula pétrea. Puede eliminarse o modificarse mediante el procedimiento de reforma ordinaria establecido en los artículos 59-60. El Proceso de Arranque es un mecanismo temporal de establecimiento institucional, no un principio permanente de la democracia. Su carácter transitorio implica que no requiere la protección especial de las cláusulas pétreas.
+Una vez completado el procedimiento de reforma de una cláusula pétrea establecido en los artículos 52-53, independientemente de si la reforma es aprobada o rechazada, esa misma cláusula no puede someterse a nuevo procedimiento de reforma hasta transcurridos 21 años.
 
 ---
 
-## Artículo 59: Derecho de Reforma Ordinaria
+## Artículo 55: Derecho de Reforma Ordinaria
 
-Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en el artículo 53, puede reformarse mediante el siguiente procedimiento:
+Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en el artículo 51, puede reformarse mediante el siguiente procedimiento:
 
-1. **Vía legislativa:** Aprobación por consenso de Nivel N3 (dos tercios, 66%) del Poder Legislativo
-2. **Vía popular:** Aprobación mediante referéndum con consenso de Nivel N1 (mayoría simple, 51%) de votos válidos y participación mínima del 50% del censo
+1. Vía legislativa: Aprobación por consenso de Nivel N4 (75%) del Poder Legislativo
+2. Vía popular: Aprobación mediante referéndum con consenso de Nivel N1 (mayoría simple, 51%) de votos válidos y participación mínima del 50% del censo
 
-La reforma ordinaria no requiere periodo de reflexión ni cooldown: una vez alcanzadas las mayorías establecidas, la reforma entra en vigor. Esta relativa facilidad de reforma permite que la Constitución evolucione con las necesidades de la sociedad sin necesidad de revoluciones o crisis constitucionales.
+La reforma ordinaria entra en vigor transcurrida 1 semana desde la aprobación.
 
 ---
 
-## Artículo 60: Iniciativa de Reforma Ordinaria
+## Artículo 56: Iniciativa de Reforma Ordinaria
 
-La iniciativa para proponer reformas ordinarias conforme al artículo 59 puede provenir de:
+La iniciativa para proponer reformas ordinarias conforme al artículo 55 puede provenir de:
 
-1. **Iniciativa legislativa:** Un tercio (33%) de los miembros del Poder Legislativo
-2. **Iniciativa popular:** El 10% del censo nacional mediante solicitud en sistema público auditable
+1. Iniciativa legislativa: Un tercio (33%) de los miembros del Poder Legislativo
+2. Iniciativa popular: El 10% del censo nacional mediante solicitud en sistema público auditable
 
-Ambas vías de iniciativa requieren la aprobación final conforme a las mayorías establecidas en el artículo 59. La iniciativa popular garantiza que el pueblo conserva capacidad de proponer cambios constitucionales sin depender exclusivamente de la voluntad de sus representantes.
+Ambas vías de iniciativa requieren la aprobación final conforme a las mayorías establecidas en el artículo 55.
 
 ---
 
@@ -596,21 +563,21 @@ Los estados de excepción solo pueden declararse ante crisis graves que no pueda
 
 Se establecen tres tipos de estados de excepción, cada uno aplicable a crisis de distinta naturaleza:
 
-**1. Estado de Alarma:**
+**1. Estado de Alarma:** // -nota- que es un desastre tecnologico? que peta una central nuclear? que se vaya la luz mas de 2 dias? Habria que definirlo mejor
 - **Causas:** Catástrofe natural, crisis sanitaria, desastre tecnológico
 - **Mayoría requerida:** Consenso de Nivel N1 (mayoría simple, 51%) del Legislativo
-- **Poderes:** Restricción de movimientos, requisición de bienes, movilización de servicios esenciales
+- **Poderes:** Restricción de movimientos, requisición de bienes, movilización de servicios esenciales // -nota- que queda claro que todo es TEMPORAL
 
-**2. Estado de Excepción:**
-- **Causas:** Crisis política interna grave, alteración grave del orden público, conflicto social intenso
+**2. Estado de Excepción:** // -nota- esto es demasiado subjetivo y abusbale por corruptos, borralo y deja algo como multiples ataques terroristas, golpe de estado
+- **Causas:** Crisis política interna grave, alteración grave del orden público, conflicto social intenso // -nota- bajalo a nivel 1 y di que tiene prioridad absoluta en las sesiones del congreso votar esta cosa si es aparece.
 - **Mayoría requerida:** Consenso de Nivel N2 (60%) del Legislativo
-- **Poderes:** Suspensión de garantías procesales no esenciales, detención preventiva ampliada, restricción de reunión
+- **Poderes:** Suspensión de garantías procesales no esenciales, detención preventiva ampliada, restricción de reunión // -nota- suspension del derecho de privacidad a posibles criminales etc. HABRIA que definir mejor que poderes consigue extra el ejecutivo para controlar la situacion
 
 **3. Estado de Sitio:**
 - **Causas:** Guerra declarada, invasión extranjera, insurgencia armada contra el Estado
 - **Mayoría requerida:** Consenso de Nivel N3 (dos tercios, 66%) del Legislativo
 - **Poderes:** Transferencia de funciones civiles a autoridad militar en zona afectada, restricción de derechos adicionales
-
+// -nota- pq tiene que aprobarlo el legistalitovo , el estado de sitio debe ser directamente aplicado por el presidente, es muy urgente
 En todos los casos, los poderes excepcionales están sujetos a los siete límites establecidos en los artículos 63-69.
 
 ---
@@ -618,13 +585,13 @@ En todos los casos, los poderes excepcionales están sujetos a los siete límite
 ## Artículo 63: Límite 1 - Núcleo Intangible
 
 Los siguientes derechos son intangibles incluso durante estados de excepción y no pueden suspenderse bajo ninguna circunstancia:
-
-1. **Derecho a la vida:** No puede imponerse pena de muerte salvo en contexto de guerra declarada conforme al artículo 74 y aplicada a combatientes enemigos conforme a derecho internacional humanitario
-2. **Prohibición de tortura:** Prohibición absoluta de tortura, tratos inhumanos o degradantes
-3. **Principio de legalidad:** Tipicidad de delitos y prohibición de retroactividad de leyes penales desfavorables
+// -nota- la pena de muerte es una cueston del codigo penal, no constitucional, creoq ue habria que quitar este articulo en verdad, he leido el resto y no aporta nada creo, solo creo
+1. **Derecho a la vida:** No puede imponerse pena de muerte salvo en contexto de guerra declarada conforme al artículo 74 y aplicada a combatientes enemigos conforme a derecho internacional humanitario // -nota- nada de derechos internacionales, esta constitucion es para naciones soberanas
+2. **Prohibición de tortura:** Prohibición absoluta de tortura, tratos inhumanos o degradantes // -nota- esto solo en el estado 1. en los 2 y 3 si.
+3. **Principio de legalidad:** Tipicidad de delitos y prohibición de retroactividad de leyes penales desfavorables // -nota- esto pa que?
 4. **Prohibición de desapariciones forzadas**
-5. **Derecho a no ser juzgado dos veces por el mismo hecho** (non bis in idem, artículo 52)
-
+5. Derecho a no ser juzgado dos veces por el mismo hecho (non bis in idem)
+// -nota- 4 y 5 no se a que se refiere. ademas si desparace como se prueba que fue forzado? nada, quitalos
 Esta lista es taxativa y no puede ampliarse ni reducirse durante el estado de excepción.
 
 ---
@@ -914,6 +881,6 @@ Los whistleblowers (denunciantes) que revelen de buena fe irregularidades detect
 
 # FIN DE LA CONSTITUCIÓN DEMOCRÁTICA
 
-**Total de artículos:** 85
+**Total de artículos:** 81
 **Estructura:** 8 Títulos
 **Generado:** 2026-01-06
