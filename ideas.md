@@ -39,3 +39,11 @@ Las cláusulas pétreas implementan asimetría temporal intencional: mantener la
 
 - art 55, revisar que cosas si pueden reformarse y cuales no segun este articulo. Quiza haya que simplemente decirlo en cada articulo si puede reformarse o no y ya. el articulo 5 gran aprte de el se dedica a eso, hay que ver si es consistente con el resto de arts
 
+- art 57: Los mecanismos constitucionales prevalecen sobre los derechos individuales porque son la garantía última de todos los derechos: sin la máquina democrática, los derechos carecen de protección efectiva. // -nota- esto es una explicación, para despues, parte 2
+
+- art 74: Este umbral extraordinariamente alto es intencional: busca limitar guerras de agresión permitiendo únicamente aquellas que cuenten con consenso nacional casi unánime. 
+
+- art76: // -nota- lo mismo, las epxlicaiones para despues
+El Presidente responde personalmente mediante **amputación de una mano**. Este castigo corporal simbólico pero real implementa disuasión efectiva contra aventuras militares: el Presidente no puede escudarse en "interés nacional" o "razones de Estado" para justificar operaciones desastrosas. El carácter irreversible y personal de la pena garantiza que el Presidente ponderará cuidadosamente antes de ordenar operaciones arriesgadas sin respaldo legislativo.
+
+El juicio sobre si se aplica esta pena corresponde al Tribunal Supremo, previa acusación por al menos el 40% del Legislativo.
