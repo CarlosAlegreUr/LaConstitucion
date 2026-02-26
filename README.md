@@ -12,4 +12,6 @@ Y la filosofía de fondo es simple: no se asume buena voluntad — se asume el p
 
 **Autor:** Carlos D. Alegre Urquizú
 
-<img src="portada-1.png" alt="La Constitución Democrática Portada" width="500"/>
+<p align="center">
+  <img src="portada-1.png" alt="La Constitución Democrática Portada" width="500"/>
+</p>
