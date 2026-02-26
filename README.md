@@ -1,1 +1,15 @@
-# LaConstitucion
+# 🏛️ La Constitución Democrática 🏛️
+
+**Un sistema político aplicable a cualquier nación.**
+
+La tendencia a concentrar poder, corromper instituciones y capturar mecanismos de control no es cosa de un país ni de una época. Son constantes humanas. Si el problema es universal, la solución también puede serlo.
+
+Esta constitución de 72 artículos es un intento de respuesta: un marco capaz de adaptarse a cualquier cultura e historia, diseñado con mentalidad de hacker — no "¿funcionará si todos cooperan?" sino "¿cómo romperías el sistema?".
+
+La base teórica viene de Antonio García Trevijano: distritos uninominales, doble vuelta, revocabilidad directa y autodestrucción mutua entre poderes. La premisa viene de Robert Michels y su Ley de Hierro de las Oligarquías: toda organización tiende a concentrar el poder, por ello aquí se diseña explícitamente contra eso. La ingeniería viene de los sistemas distribuidos y la tolerancia a fallos bizantinos, fruto de la experiencia profesional del autor en blockchain. Y la redacción — sin ambigüedades, sin redundancias, sin loopholes — sigue los principios de desarrollar software mantenible y resiliente: cada artículo tiene una sola responsabilidad, cada definición existe en un solo lugar, y cada excepción es explícita.
+
+Y la filosofía de fondo es simple: no se asume buena voluntad — se asume el peor caso y se diseña para que el coste de romper el sistema sea prohibitivo a no ser que provenga racionalmente desde el mismo demos (pueblo).
+
+**Autor:** Carlos D. Alegre Urquizú
+
+<img src="portada-1.png" alt="La Constitución Democrática Portada" width="500"/>

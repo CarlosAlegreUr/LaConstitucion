@@ -28,8 +28,6 @@
 
 La soberanía reside originaria y permanentemente en el pueblo. El pueblo ejerce su soberanía mediante los mecanismos directos e indirectos establecidos en esta Constitución.
 
-La modificación del artículo 1 requiere el procedimiento de reforma de cláusulas pétreas establecido en los artículos 47-49: consenso de Nivel N6.
-
 ---
 
 ## Artículo 2: Jerarquía de Legitimidad
@@ -81,7 +79,7 @@ Las restricciones de derechos derivadas de condena penal firme se rigen por la l
 
 Todo ciudadano mayor de 18 años tiene derecho al voto. Cada ciudadano dispone de un voto con igual valor (un ciudadano, un voto). El sufragio no puede restringirse.
 
-Esta edad de 18 años puede modificarse mediante el procedimiento de reforma de cláusulas pétreas establecido en los artículos 47-49: consenso de Nivel N6. Edades inferiores a 18 años son posibles.
+Edades inferiores a 18 años son posibles mediante el procedimiento de reforma establecido para este artículo conforme al artículo 46.
 
 
 ---
@@ -89,8 +87,6 @@ Esta edad de 18 años puede modificarse mediante el procedimiento de reforma de 
 ## Artículo 6: Secreto y Verificabilidad del Voto
 
 El voto es secreto por defecto: ninguna persona o institución puede conocer el sentido del voto emitido por un ciudadano. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable, como mínimo, por ciudadanos con derecho a voto.
-
-El cambio de voto secreto a voto público requiere el procedimiento de reforma de cláusulas pétreas establecido en los artículos 47-49: consenso de Nivel N6.
 
 Los detalles tecnológicos y organizativos específicos para implementar estas garantías (redes blockchain, criptografía, protocolos físicos concretos etc) se definen durante el Proceso de Arranque conforme al Título III.
 
@@ -134,7 +130,7 @@ Requiere recogida de firmas del 10% del censo del distrito en un plazo máximo d
 Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. El proceso completo de revocación (desde convocatoria hasta resultado) no puede superar 2 semanas de duración.
 
 **Efecto:**
-Si el resultado alcanza el nivel de consenso N4 (75% de votos válidos) a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.
+Si el resultado alcanza el nivel de consenso N4 a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.
 
 **Periodo de Reflexión:**
 No puede convocarse nueva revocación contra el sucesor antes de haber transcurrido 4 meses desde su elección.
@@ -190,6 +186,8 @@ Los parámetros numéricos de este artículo (95.000, 120.000) pueden modificars
 Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el Algoritmo de Optimización de la Corruptabilidad de Distritos (AOCD) conforme al artículo 11. Las especificaciones completas del AOCD se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado mediante referéndum.
 
 La primera distribución de distritos será establecida durante el Proceso de Arranque. La primera actualización se realizará 21 años después de la entrada en vigor de esta Constitución.
+
+Los parámetros numéricos de este artículo (21 años) pueden modificarse mediante consenso de Nivel N5.
 
 ---
 
@@ -260,8 +258,6 @@ Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal 
 
 Los procedimientos penales contra cargos públicos podrán tramitarse con carácter preferente respecto de los procedimientos contra ciudadanos comunes. Esta Constitución no establece el método de priorización, pero garantiza que dicho mecanismo pueda existir y no sea suprimido por ley ordinaria.
 
-La modificación del artículo 18 requiere el procedimiento de reforma de cláusulas pétreas establecido en los artículos 47-49: consenso de Nivel N6.
-
 ---
 
 ## Artículo 19: Poder Legislativo - Composición
@@ -284,7 +280,7 @@ El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en 
 
 Todas las votaciones del Legislativo son públicas y quedan registradas en un sistema auditable por cualquier ciudadano. El voto de cada representante debe ser conocido o verificable por sus electores.
 
-La mayoría requerida por defecto para aprobar, modificar o derogar leyes es de consenso N1 (mayoría simple, 51%), salvo en los casos en que esta Constitución establezca mayorías cualificadas específicas.
+La mayoría requerida por defecto para aprobar, modificar o derogar leyes es de consenso N1, salvo en los casos en que esta Constitución establezca mayorías cualificadas específicas.
 
 ---
 
@@ -334,7 +330,9 @@ Si el Vicepresidente no puede asumir la Presidencia interina, la asume el repres
 
 ## Artículo 25: Autodestrucción Mutua - Mecanismo
 
-El Legislativo puede cesar al Presidente mediante votación de consenso N1 (mayoría simple, 51%). El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo y del Presidente en un plazo máximo de 30 días. El Presidente cesado no puede presentarse a las elecciones inmediatas resultantes.
+El Legislativo puede cesar al Presidente mediante votación de consenso N1. El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo y del Presidente en un plazo máximo de 30 días. El Presidente cesado no puede presentarse a las elecciones inmediatas resultantes.
+
+Los parámetros numéricos de este artículo (N1, 30 días) pueden modificarse mediante consenso de Nivel N6.
 
 ---
 
@@ -364,7 +362,7 @@ El mecanismo de autodestrucción mutua no puede activarse durante un estado de e
 
 El número máximo de ministerios por defecto es de 20. La estructura ministerial es competencia exclusiva del Presidente conforme al artículo 23. Esta Constitución no establece una lista cerrada de ministerios, solo el número máximo de estos.
 
-La modificación de este límite requiere consenso de Nivel N6. Durante el Proceso de Arranque, este límite puede modificarse con consenso de Nivel N1.
+Durante el Proceso de Arranque, este límite puede modificarse con consenso de Nivel N1.
 
 ---
 
@@ -441,6 +439,8 @@ El procedimiento de sorteo por defecto es el siguiente: se aplica una función h
 En caso de empate en los primeros 2 bytes del hash entre dos o más magistrados que disputen un mismo tramo de mandato, se comparan sucesivamente los bytes siguientes del hash (tercero, cuarto, etc.) hasta que se resuelva el empate. El magistrado con el valor más alto en el byte de desempate obtiene el mandato más corto del tramo disputado.
 
 El método concreto de sorteo puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N1, siempre que el método alternativo cumpla las tres características establecidas (determinista, no manipulable, públicamente verificable). Fuera del Proceso de Arranque, este procedimiento no puede modificarse.
+
+Los parámetros numéricos de este artículo (9 magistrados, 12 años de mandato, 8 años de exclusión, 4 años de ciclo de renovación, 3 magistrados por ciclo) pueden modificarse mediante consenso de Nivel N5.
 
 ---
 
@@ -565,9 +565,15 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 
 1. Soberanía Popular (artículo 1): El poder reside permanentemente en el pueblo mediante los mecanismos de representación uninominal directa en distritos pequeños y revocabilidad del mandato al individuo al cual el poder ha sido delegado.
 2. Sufragio Universal (artículo 5): Derecho al voto de todo ciudadano mayor de edad.
-3. Separación de Poderes (artículo 17): Independencia de poderes Legislativo, Ejecutivo y Judicial.
-4. Derecho de Reforma Constitucional (artículos 50-51): El pueblo conserva siempre el derecho de reformar esta Constitución.
-5. Jerarquía de Legitimidad Democrática (artículo 2): El pueblo puede anular decisiones de cualquier poder delegado conforme al orden de legitimidad establecido y solamente mediante los procedimientos descritos en esta Constitución.
+3. Secreto del Voto (artículo 6): El voto es secreto por defecto y no puede ser eliminado salvo mediante este procedimiento.
+4. Garantía de Anulación Popular (artículo 15): El derecho a crear mecanismos de anulación popular directa de decisiones legislativas no puede ser suprimido.
+5. Separación de Poderes (artículo 17): Independencia de poderes Legislativo, Ejecutivo y Judicial.
+6. Igualdad ante la Ley (artículo 18): Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo.
+7. Equilibrio de Poderes (artículo 25): El mecanismo de autodestrucción mutua entre Legislativo y Ejecutivo no puede ser eliminado.
+8. Supremacía Constitucional (artículo 41): Esta Constitución es la norma suprema del ordenamiento jurídico.
+9. Derechos Fundamentales del Sistema Democrático (artículo 53): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
+10. Jerarquía de Legitimidad Democrática (artículo 2): El pueblo puede anular decisiones de cualquier poder delegado conforme al orden de legitimidad establecido y solamente mediante los procedimientos descritos en esta Constitución.
+11. Derecho de Reforma Constitucional (artículos 50-51): El pueblo conserva siempre el derecho de reformar esta Constitución.
 
 ---
 
@@ -605,6 +611,8 @@ Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en 
 1. Vía legislativa: Aprobación por consenso de Nivel N4 del Poder Legislativo.
 2. Vía popular: Aprobación mediante referéndum con consenso de Nivel N1 de votos válidos y participación mínima del 50% del censo nacional.
 
+Cuando un artículo contiene parámetros con un nivel de protección específico superior a N4, la reforma del artículo en su conjunto requiere un consenso igual o superior al mayor nivel de protección de los parámetros que contiene.
+
 La reforma ordinaria entra en vigor transcurrida 1 semana desde la aprobación.
 
 ---
@@ -639,8 +647,6 @@ Los siguientes derechos son condiciones necesarias para el funcionamiento de los
 4. Integridad personal: Ninguna persona puede ser sometida a daño físico por razón de su actividad política o su ejercicio del voto.
 
 5. Privacidad del voto y la deliberación: Toda persona tiene derecho a que su voto y su proceso de deliberación política sean privados.
-
-La modificación de estos derechos requiere consenso de Nivel N6.
 
 ---
 
@@ -677,7 +683,7 @@ Se establecen tres tipos de estados de excepción, clasificados según el ámbit
 
 2. Ámbito de Seguridad Interior:
 - Causas: Múltiples ataques terroristas, intento de golpe de estado.
-- Declaración: Activación automática. Ratificación legislativa en 7 días con consenso N2 (60%); sin ratificación, se revoca automáticamente.
+- Declaración: Activación automática. Ratificación legislativa en 7 días con consenso N2; sin ratificación, se revoca automáticamente.
 - Derechos restringibles (exclusivamente a sospechosos): Definidos en el Proceso de Arranque.
 - Poderes temporales: Definidos en el Proceso de Arranque.
 
@@ -691,7 +697,7 @@ Configurabilidad:
 
 Todas las variables de este artículo se definen durante el Proceso de Arranque (Título III) con consenso N1, salvo aquellas explícitamente excluidas.
 
-Tras el Arranque: modificación de derechos restringibles requiere N4 (75%); modificación de causas, declaración, poderes temporales y creación de nuevos tipos requiere N5 (85%).
+Tras el Arranque: modificación de derechos restringibles requiere N4; modificación de causas, declaración, poderes temporales y creación de nuevos tipos requiere N5.
 
 La lista de supuestos de desastre tecnológico puede ampliarse con N4.
 

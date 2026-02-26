@@ -253,6 +253,8 @@ Ventajas de un reloj biológico:
 
 Pensando como atacante: la ingeniería demográfica requiere horizontes de planificación de 21 años. Los resultados son inciertos, lo que hace la inversión poco atractiva para adversarios a la vez que la sincroniza con ciclos naturales de maduración de las generaciones humanas.
 
+El ciclo de 21 años está protegido a N5: modificarlo requiere un consenso amplio porque acortar o alargar el ciclo es una palanca de manipulación electoral significativa. No se permite reducción durante el Proceso de Arranque porque el ciclo distrital es una variable estructural que debe ser estable desde el nacimiento de la Constitución.
+
 ## Artículo 13: Financiación Electoral
 
 Las donaciones privadas están limitadas al 10% del P25 nacional por persona, una sola donación por proceso electoral, y solo personas físicas (las jurídicas tienen prohibido donar). ¿Por qué? Porque la financiación ilimitada convierte las elecciones en subastas al mejor postor con mayor presupuesto de marketing, reduciendo la riqueza del ciclo de retroalimentación democrática. La Ley de Hierro de las Oligarquías (Michels) predice que la concentración de recursos produce concentración de poder. Limitar la financiación es limitar la oligarquía.
@@ -326,9 +328,11 @@ Funciona porque el coste de uso es simétrico: ambos pierden el poder, así que 
 
 El periodo de desactivación (cooldown) es una adición propia a la idea de Trevijano. Tras activar el mecanismo, existe un periodo durante el cual no puede volver a usarse, y este periodo es asimétrico: quien lo invoca paga más (periodo más largo antes de poder volver a activarlo). Esto desincentiva el uso ofensivo y favorece el uso defensivo. Sin este cooldown, el mecanismo podría convertirse en un arma de desgaste: activarlo repetidamente hasta que el adversario se rinda. El cooldown asimétrico lo convierte en un arma de último recurso.
 
+La existencia del mecanismo es cláusula pétrea (artículo 46): no puede eliminarse. Sus parámetros numéricos (umbral de cese, plazo de elecciones, periodos de cooldown) requieren consenso N6 para modificarse. La lógica es la misma que en un juego competitivo: no solo importa tener la habilidad, sino que el cooldown y los parámetros de activación son igual de determinantes para su efectividad. Cambiar el umbral de cese de N1 a N6 equivaldría a neutralizar el mecanismo sin eliminarlo formalmente.
+
 ## Artículos 28-31: Ministerios y Presupuesto
 
-El límite de 20 ministerios y el mecanismo de presupuesto por defecto son medidas que se refuerzan mutuamente. El límite de ministerios previene la inflación burocrática: cada ministerio es un centro de poder y presupuesto, y más ministerios significa más puntos de captura para un adversario. El Presidente tiene monopolio de nombramiento (no necesita aprobación parlamentaria para ministros) porque el ejecutivo debe ser ágil.
+El límite de 20 ministerios y el mecanismo de presupuesto por defecto son medidas que se refuerzan mutuamente. El límite de ministerios previene la inflación burocrática: cada ministerio es un centro de poder y presupuesto, y más ministerios significa más puntos de captura para un adversario. El Presidente tiene monopolio de nombramiento (no necesita aprobación parlamentaria para ministros) porque el ejecutivo debe ser ágil. El límite se modifica con el procedimiento de reforma ordinaria (N4): es un detalle administrativo que no merece protección reforzada. Durante el Arranque puede ajustarse con N1 para adaptar la estructura ministerial inicial.
 
 El presupuesto por defecto complementa esta agilidad con estabilidad: si el Legislativo no aprueba un nuevo presupuesto, se prorroga el anterior ajustado a inflación. El sistema funciona siempre; el desacuerdo político no paraliza al Estado. Juntas, ambas medidas limitan el tamaño de la estructura ejecutiva (máximo 20 ministerios) y garantizan que esa estructura siempre tenga financiación operativa (presupuesto por defecto).
 
@@ -348,7 +352,7 @@ El máximo total de apelaciones y casaciones en un mismo caso es 5. Demasiadas r
 
 ### Tribunal Supremo: composición y renovación
 
-9 magistrados, mandatos de 12 años, renovación escalonada (3 cada 4 años). ¿Por qué escalonada? Para evitar que un solo gobierno nombre a todo el tribunal y lo capture. El periodo de exclusión de 8 años tras finalizar el mandato impide las puertas giratorias: un magistrado saliente no puede volver a entrar inmediatamente, rompiendo el incentivo de servir al poder actual para asegurar la reelección.
+9 magistrados, mandatos de 12 años, renovación escalonada (3 cada 4 años). ¿Por qué escalonada? Para evitar que un solo gobierno nombre a todo el tribunal y lo capture. El periodo de exclusión de 8 años tras finalizar el mandato impide las puertas giratorias: un magistrado saliente no puede volver a entrar inmediatamente, rompiendo el incentivo de servir al poder actual para asegurar la reelección. Todos estos parámetros numéricos (9, 12, 8, 4, 3) están protegidos a N5, en línea con los demás parámetros judiciales (requisitos de jueces, sanciones). No se permiten reducciones durante el Arranque: la estructura del Tribunal Supremo debe ser estable desde el primer día.
 
 El nombramiento proviene de instituciones jurídicas (colegios de abogados, facultades de derecho, asociaciones de jueces), no del gobierno ni del parlamento. La elección final es por votación popular directa de toda la ciudadanía. Esto combina mérito técnico (solo proponen quienes conocen la profesión) con legitimidad democrática (el pueblo elige entre los propuestos).
 
@@ -416,17 +420,23 @@ El periodo de reflexión de 3 meses evita reacciones impulsivas. El umbral del 5
 
 # TÍTULO V: PROTECCIONES FUNDAMENTALES
 
-## ¿Por qué estas cinco cláusulas pétreas específicas?
+## ¿Por qué estas once cláusulas pétreas específicas?
 
 Las cláusulas pétreas protegen los pilares sin los cuales la democracia deja de ser democracia:
 
-1. Soberanía popular: sin ella, el poder no reside en el pueblo.
-2. Sufragio universal: sin él, no todos participan.
-3. Separación de poderes: sin ella, el poder se concentra.
-4. Derecho de reforma: sin él, la Constitución se convierte en tiranía de los muertos sobre los vivos.
-5. Jerarquía de legitimidad: sin ella, un poder subordinado puede capturar al superior.
+1. Soberanía popular (artículo 1): sin ella, el poder no reside en el pueblo.
+2. Sufragio universal (artículo 5): sin él, no todos participan.
+3. Secreto del voto (artículo 6): sin él, el voto es coaccionable y la democracia es simulada.
+4. Garantía de anulación popular (artículo 15): sin ella, el pueblo pierde la capacidad de corregir errores del poder delegado.
+5. Separación de poderes (artículo 17): sin ella, el poder se concentra.
+6. Igualdad ante la ley (artículo 18): sin ella, los gobernantes se convierten en clase privilegiada inmune a las consecuencias de sus actos.
+7. Equilibrio de poderes (artículo 25): sin la autodestrucción mutua, un poder puede someter al otro indefinidamente sin consecuencias.
+8. Supremacía constitucional (artículo 41): sin ella, una ley ordinaria puede vaciar la Constitución de contenido.
+9. Derechos fundamentales democráticos (artículo 53): sin ellos (expresión, información, reunión, integridad, privacidad del voto), los mecanismos democráticos funcionan en el papel pero no en la práctica.
+10. Jerarquía de legitimidad (artículo 2): sin ella, un poder subordinado puede capturar al superior.
+11. Derecho de reforma (artículos 50-51): sin él, la Constitución se convierte en tiranía de los muertos sobre los vivos.
 
-Lo que no es cláusula pétrea: detalles administrativos, números de representantes, procedimientos específicos. Estos pueden evolucionar sin destruir la democracia.
+Lo que no es cláusula pétrea: detalles administrativos, números de representantes, procedimientos específicos. Estos pueden evolucionar sin destruir la democracia. La distinción es clara: lo pétreo protege la existencia de mecanismos fundamentales; los parámetros numéricos de esos mecanismos se protegen mediante niveles de consenso específicos (N5, N6) que permiten ajustes sin eliminar el mecanismo en sí.
 
 ## Asimetría temporal
 
@@ -441,6 +451,14 @@ Claro esta, toda medida que se justifique como protección tiene el doble filo d
 Los mecanismos constitucionales (votación, revocación, separación de poderes) son la garantía última de todos los derechos. Sin la máquina democrática, los derechos carecen de protección efectiva.
 
 Por eso ningún derecho puede invocarse para bloquear los mecanismos: sería usar una pieza de la máquina para destruir la máquina entera. Es como construir un coche funcional pero con la carrocería de plástico en vez de metal: funciona perfectamente hasta el primer choque, y entonces no hay nada que proteja lo de dentro.
+
+## Artículo 50: Reforma ordinaria y protección contra bypass
+
+La reforma ordinaria es el mecanismo por defecto para modificar cualquier artículo no pétreo: N4 legislativo o N1 popular con 50% de participación. Es deliberadamente accesible para permitir que la Constitución evolucione.
+
+Sin embargo, existe un loophole potencial: si un artículo contiene parámetros protegidos a N5 o N6, un legislativo con solo N4 podría reformar el artículo entero, reescribiendo los parámetros y bypaseando su protección. Para cerrar este loophole, el artículo 50 establece que la reforma de un artículo requiere un consenso igual o superior al mayor nivel de protección de los parámetros que contiene. Así, la protección de parámetros no puede ser eludida mediante reforma del artículo que los alberga.
+
+El sistema de protección queda estructurado en tres capas: cláusulas pétreas (artículos 47-49) para principios fundamentales irrenunciables, protección de parámetros (N3 a N6 según cada artículo) para valores numéricos y configuraciones específicas, y reforma ordinaria (artículo 50) como mecanismo por defecto para todo lo demás.
 
 ---
 ---
