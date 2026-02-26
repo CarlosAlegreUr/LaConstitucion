@@ -30,4 +30,4 @@ Las respuestas, casi siempre, son incómodas. Pero la democracia no se construye
 
 ### Filosofía
 
-- **Alegrismo (Cheerfulism)** — Filosofía y obra propia del autor. Su tesis central es que la felicidad, tras sobrevivir, es el motor más profundo del comportamiento humano, y guiar la vida en base a ella y la inteligencia como eje central es la mejor forma de vivir. La conclusión de que la democracia es el destino natural de un ser humano próspero proviene de esta obra.
+- **Alegrismo (Cheerfulism) v0.0.5** — Filosofía y obra propia del autor. Su tesis central es que la felicidad, tras sobrevivir, es el motor más profundo del comportamiento humano, y guiar la vida en base a ella y la inteligencia como eje central es la mejor forma de vivir. La conclusión de que la democracia es el destino natural de un ser humano próspero proviene de esta obra.
