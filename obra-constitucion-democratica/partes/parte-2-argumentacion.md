@@ -230,7 +230,7 @@ La doble vuelta previene la captura por minorías. En un sistema de vuelta únic
 
 ### ¿Por qué 95.000-120.000 habitantes?
 
-El rango proviene de datos sociolingüísticos (Trevijano): las comunidades lingüísticas por debajo de cierto umbral poblacional tienden a desaparecer. Por extensión, una comunidad política coherente necesita una densidad mínima para mantener identidad cultural y política. El rango es culturalmente contingente, no universalmente derivable, pero es plausible y funcional.
+El rango proviene de datos sociolingüísticos (Trevijano): las comunidades lingüísticas por debajo de cierto umbral poblacional tienden a desaparecer. Por extensión, una comunidad política coherente necesita una densidad mínima para mantener identidad cultural y política. El rango es culturalmente contingente, no universalmente derivable, pero es plausible y funcional. Para países pequeños donde este rango resulte inviable (como Andorra o micronaciones), el Proceso de Arranque permite establecer parámetros distintos con consenso N4.
 
 ### El Algoritmo (AOCD)
 
@@ -305,6 +305,8 @@ El límite de 7 leyes aprobadas por semana existe para proteger al Poder Judicia
 El Presidente es elegido directamente por el pueblo. ¿Por qué no por el parlamento? Porque la elección directa es simplemente más democrática: aunque el Legislativo esté compuesto por representantes de distrito cercanos al ciudadano, seguiría siendo una elección indirecta, un paso más entre el demos y quien gestiona el Estado. La elección directa del Ejecutivo da al Presidente legitimidad propia, independiente de la del Legislativo, lo que refuerza la separación de poderes. Pero es un gestor puro: ejecuta las leyes que aprueba el Legislativo, no las crea. La distinción es fundamental. En muchos sistemas parlamentarios, el primer ministro es líder del partido mayoritario, lo que fusiona ejecutivo y legislativo. Aquí se separan radicalmente.
 
 Solo hay una figura al mando del Ejecutivo: el Presidente. Nada de primer ministro y presidente simultáneamente, ni de jefes de gobierno separados del jefe de Estado, ni de figuras intermedias que diluyan la responsabilidad. Cada capa añadida incrementa la ambigüedad sobre quién decide qué, multiplica la burocracia y hace el sistema innecesariamente complejo. Con una separación de poderes real y controlada como la de esta Constitución, no hace falta repartir el Ejecutivo entre varias figuras: un solo individuo al mando, con legitimidad directa del pueblo, revocable mediante autodestrucción mutua si el Legislativo lo considera necesario. La responsabilidad es clara, la cadena de mando es simple, y no hay ambigüedad sobre a quién exigir cuentas.
+
+El Presidente puede delegar funciones en ministros, pero ciertas decisiones son explícitamente no delegables: las decisiones militares (artículos 64-66) y la declaración de estados de excepción (artículo 52). La razón es doble: estas decisiones requieren una cadena de mando clara con un único responsable, y la estructura de consecuencias personales (especialmente la amputación del artículo 66) solo funciona si quien decidió es inequívocamente identificable.
 
 El mandato presidencial (5 años) es intencionalmente distinto del legislativo (4 años) para desacoplar los ciclos electorales y evitar que un mismo momento de entusiasmo o crisis determine simultáneamente ambos poderes.
 
@@ -491,6 +493,10 @@ La renovación del estado de excepción requiere mayorías cada vez más altas e
 
 La lógica es sencilla: una crisis legítima genera consenso fácilmente. Una pseudo-crisis pierde apoyo con el tiempo. Si un gobierno necesita meses, 7-10, de poderes de emergencia, la sociedad tiene derecho a cuestionarlo con rigor creciente.
 
+## Declaración falsa de estado de excepción
+
+Declarar un estado de excepción sin crisis real es un delito grave (10 años de prisión por defecto). La razón es obvia: un estado de excepción concentra temporalmente poder en el Ejecutivo. Si no hay consecuencias por declararlo falsamente, se convierte en una herramienta de concentración de poder bajo pretexto de crisis. La sanción por defecto es alta pero modificable (N2 durante Arranque, N3 después) porque es un parámetro operativo cuyo valor óptimo depende del contexto.
+
 ## Seis límites no suspendibles
 
 Ninguna crisis autoriza:
@@ -527,7 +533,7 @@ Esta rendición de cuentas existe, entre otras cosas, para mitigar el escenario 
 
 Esta es la disposición más controvertida de la Constitución. Las operaciones secretas son un arma muy útil militarmente y por eso no deben prohibirse, pero necesitan un contrapeso proporcional a su opacidad. La lógica es la siguiente:
 
-El Presidente puede ordenar operaciones militares secretas sin aprobación legislativa (por algo son secretas). Pero si la operación resulta en desastre militar o conflicto armado no autorizado, el Presidente responde personalmente con su cuerpo.
+El Presidente puede ordenar operaciones militares secretas sin aprobación legislativa (por algo son secretas). Pero si la operación resulta en desastre militar o conflicto armado no autorizado, el Presidente responde personalmente con su cuerpo. El proceso mantiene la separación de poderes: el Legislativo acusa (con N1), pero es el Tribunal Supremo quien juzga y decide si se aplica el castigo. La decisión es recurrible por cualquier ciudadano, como cualquier otra decisión judicial.
 
 ¿Por qué castigo físico y no prisión o multa?
 
