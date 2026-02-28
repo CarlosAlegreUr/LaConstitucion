@@ -364,6 +364,28 @@ Los parámetros numéricos de este artículo (6 meses, 12 meses, 3 meses) pueden
 
 ---
 
+## Artículo XX: Incumplimiento Grave del Ejecutivo
+
+Cuando el Ejecutivo incurra en incumplimiento grave de resoluciones judiciales firmes, podrá iniciarse un proceso para convocar nuevas elecciones al Ejecutivo.
+
+Iniciativa:
+1. Vía legislativa: consenso de Nivel N1 del Legislativo.
+2. Vía popular: grupo de al menos el 10% del censo nacional.
+
+Resolución:
+El Tribunal Supremo conoce directamente del proceso y determina si el incumplimiento es suficientemente grave para justificar la convocatoria de nuevas elecciones. La decisión del Tribunal Supremo es recurrible una única vez mediante apelación por cualquier ciudadano con derecho a voto.
+
+Causas de incumplimiento grave:
+1. Negarse a ejecutar una sentencia firme del Tribunal Supremo.
+2. Las demás causas que establezca la legislación ordinaria.
+
+La modificación de la lista de causas establecida por legislación ordinaria requiere consenso de Nivel N4.
+
+Efecto:
+Si el Tribunal Supremo declara el incumplimiento grave, se convocan nuevas elecciones al Ejecutivo en un plazo máximo de 45 días. Durante este periodo se aplican las reglas de sucesión del artículo 24.
+
+---
+
 ---
 
 ## Artículo 28: Ministerios - Límite Constitucional
