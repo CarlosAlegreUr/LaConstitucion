@@ -677,7 +677,7 @@ Una vez adoptado, la modificación o eliminación de cualquier derecho del catá
 
 ## Artículo 52: Estados de Excepción - Principio
 
-Los estados de excepción solo pueden declararse ante crisis graves que no puedan gestionarse mediante medios ordinarios. Declarar un estado de excepción sin que exista crisis real constituye delito grave, cuyas sanciones se establecen por legislación ordinaria. Por defecto existen tres tipos de estados de excepción, establecidos en el artículo 53. Todo estado de excepción está sujeto a los seis límites obligatorios establecidos en los artículos 55 a 60. Ninguna crisis, por grave que sea, autoriza la suspensión de estos seis límites.
+Los estados de excepción solo pueden declararse ante crisis graves que no puedan gestionarse mediante medios ordinarios. Declarar un estado de excepción sin que exista crisis real constituye delito grave, sancionado por defecto con 10 años de prisión. Este parámetro puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N2 y posteriormente mediante consenso de Nivel N3. Por defecto existen tres tipos de estados de excepción, establecidos en el artículo 53. Todo estado de excepción está sujeto a los seis límites obligatorios establecidos en los artículos 55 a 60. Ninguna crisis, por grave que sea, autoriza la suspensión de estos seis límites.
 
 ---
 
