@@ -12,7 +12,7 @@
 
 - Acordarse de hacer ilegal la propaganda electoral durante X dias de las elecciones, si se detecta, aunque sea de manera indirecta o apologia a ella, multa/castigo.
 
-- Artículo 19 (antes 18), quien comanda mientras se hace todo eso si es que hay que esperar 14 dias?
+- ~~Artículo 19 (antes 18), quien comanda mientras se hace todo eso si es que hay que esperar 14 dias?~~ HECHO
 
 - Artículo 22 (antes 20, funciones del ejecutivo): Declaración de estados de excepción (con aprobación legislativa) // no siempre... con que sean muy claros ya vale. HAY QUE decir que declararlo sin que sea verdad es un delito. Dirección de los ministerios: puede delegar sus funciones excepto aquellas prohibidas en esta constitución (mecanismos para entrar en guerra etc).
 
@@ -24,7 +24,7 @@
 
 - Añadir limite de leyes aprobadas semanales por legislativo. 14. La idea es que los jueces tengan un tiempecito diario para revisar constitucionalidad de 2 leyes en caso de que se aprueben y alguien apele casacion. No se si es demasiado o no y deberia ser 7 leyes semanales, pero hoy en dia y con IA creo que 14 es realista. Esto hay que tenerlo en cuenta para la parte de las explicaciones en el libro.
 
-- Artículo 46 (antes 44), ciudadanos capaces de contradecir procesos judiciales tambien??? Claro, porque no, pero requisitos mas altos. Como el 30% como grupo y las firmas del 51%.
+- ~~Artículo 46 (antes 44), ciudadanos capaces de contradecir procesos judiciales tambien??? Claro, porque no, pero requisitos mas altos. Como el 30% como grupo y las firmas del 51%.~~ HECHO: Añadido ámbito ordinario al Art 44 con 30% grupo iniciador y firmas del nivel de consenso máximo de las leyes involucradas. Arts 42 y 43 actualizados con responsabilidad/sanciones ordinarias de menor gravedad. Título IV renombrado a "Control de Legitimidad Judicial".
 
 - ~~Artículo 57 (antes 55), revisar que cosas si pueden reformarse y cuales no segun este articulo. Quiza haya que simplemente decirlo en cada articulo si puede reformarse o no y ya. El artículo 6 (antes 5) gran parte de él se dedica a eso, hay que ver si es consistente con el resto de arts.~~ HECHO: Sistema de protección formalizado. Art 50 es el default. Cada artículo con parámetros especifica su nivel. Regla anti-bypass cierra loophole.
 
@@ -52,29 +52,29 @@ Censo = censo electoral definido en Art 4. Ámbitos (nacional/distrital) explíc
 - 3b: Eliminadas referencias redundantes al procedimiento de cláusulas pétreas de Arts 1, 5, 6, 18, 53. Art 46 es fuente única con 11 cláusulas pétreas.
 - 3c: Decidido NO generalizar Arranque como default — cada artículo mantiene su regla propia porque los patrones varían.
 
-## 4. ARTÍCULOS QUE DEBERÍAN DIVIDIRSE
+## ~~4. ARTÍCULOS QUE DEBERÍAN DIVIDIRSE~~ HECHO
 
-- Art 42: proceso de constitucionalidad + responsabilidad penal legisladores + responsabilidad penal jueces + sanciones = 4-5 responsabilidades en 1 artículo (viola SRP).
-- Art 56: 3 tipos de excepción + configurabilidad + arranque + niveles modificación = monolítico.
-- Art 24: sucesión + incapacidad + causas + apelación + recuperación + sucesión secundaria = largo tras adiciones.
+- ~~Art 42: proceso de constitucionalidad + responsabilidad penal legisladores + responsabilidad penal jueces + sanciones = 4-5 responsabilidades en 1 artículo (viola SRP).~~ HECHO: Dividido en Arts 41 (Proceso), 42 (Responsabilidad Penal), 43 (Sanciones).
+- ~~Art 56: 3 tipos de excepción + configurabilidad + arranque + niveles modificación = monolítico.~~ HECHO: Dividido en Arts 53 (Tipos) y 54 (Configurabilidad).
+- ~~Art 24: sucesión + incapacidad + causas + apelación + recuperación + sucesión secundaria = largo tras adiciones.~~ HECHO: Dividido en Arts 24 (Sucesión) y 25 (Incapacidad).
 
-## 5. ARTÍCULOS QUE PODRÍAN UNIRSE
+## ~~5. ARTÍCULOS QUE PODRÍAN UNIRSE~~ HECHO
 
-- Art 27 (1 frase) → párrafo del Art 25.
-- Arts 39-40 (Arranque) → Art 40 dice "cuando termina 39, termina".
-- Arts 43-45 (Anulación Popular) → 3 cortos = 1 proceso.
-- Arts 47-49 (Reforma Cláusulas Pétreas) → 3 cortos = 1 proceso.
+- ~~Art 27 (1 frase) → párrafo del Art 25.~~ HECHO: Integrado en Art 26 (Autodestrucción Mutua - Mecanismo).
+- ~~Arts 39-40 (Arranque) → Art 40 dice "cuando termina 39, termina".~~ HECHO: Unificado en Art 39.
+- ~~Arts 43-45 (Anulación Popular) → 3 cortos = 1 proceso.~~ HECHO: Unificado en Art 44.
+- ~~Arts 47-49 (Reforma Cláusulas Pétreas) → 3 cortos = 1 proceso.~~ HECHO: Unificado en Art 46.
 
 ## 6. CONTRADICCIONES / LOOPHOLES
 
 - ~~Arts 5 y 17 usan "procedimiento de cláusulas pétreas" pero NO están en la lista de Art 46.~~ HECHO: Ahora 11 cláusulas pétreas. Referencias redundantes eliminadas.
-- Art 24: "muerte" como causa de incapacidad es absurdo — la muerte activa sucesión directamente, no requiere declaración judicial.
-- Art 44: 51% de TODOS los ciudadanos con derecho a voto deben FIRMAR — umbral prácticamente imposible, hace inoperativa la anulación popular.
-- Art 15 vs Arts 43-45: dos mecanismos de anulación distintos (legislativa vs judicial) sin relación clara entre sí.
+- ~~Art 24: "muerte" como causa de incapacidad es absurdo — la muerte activa sucesión directamente, no requiere declaración judicial.~~ DESCARTADO: Especificar muerte como causa es explícito y correcto — no deja ambigüedad sobre qué activa la sucesión.
+- ~~Art 44: 51% de TODOS los ciudadanos con derecho a voto deben FIRMAR — umbral prácticamente imposible, hace inoperativa la anulación popular.~~ DESCARTADO: Es un último recurso deliberadamente alto (N1 del censo). Los incentivos penales a jueces ya hacen el trabajo pesado; esto es la válvula de seguridad final. Con firma digital será más viable. N1 equilibra entre accesibilidad y evitar caos.
+- ~~Art 15 vs Arts 43-45: dos mecanismos de anulación distintos (legislativa vs judicial) sin relación clara entre sí.~~ DESCARTADO: Art 15 garantiza el DERECHO a que existan mecanismos de anulación popular (pétrea, no se puede prohibir). Art 44 DEFINE uno específico (anulación de decisiones judiciales sobre constitucionalidad). No hay contradicción: uno protege la existencia, otro implementa un caso concreto.
 
-## 7. ABSTRACCIÓN FALTANTE: "sistema público auditable"
+## ~~7. ABSTRACCIÓN FALTANTE: "sistema público auditable"~~ DESCARTADO
 
-Usado en 7+ artículos pero nunca definido. Merece definición propia (¿Título I?).
+~~Usado en 7+ artículos pero nunca definido. Merece definición propia (¿Título I?).~~ DESCARTADO: "Sistema público auditable" es suficientemente claro — un sistema donde cualquier ciudadano puede revisar que los procesos se han ejecutado conforme a lo establecido. No requiere definición formal adicional.
 
 
 ---
