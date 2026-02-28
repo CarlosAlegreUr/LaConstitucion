@@ -6,7 +6,7 @@
 
 - Artículo 6 (antes 5): Lo del poder distrital ya vere como lo explico de manera más clara y si puede ser que sea coherente apareciendo solo 1 vez. Quiźa hará falta un articulo nuevo de alto número.
 
-- Artículo 10 (antes 9): Pensar en como generalizarlo a cualquier pais, no hardcodear los 95.000 y 120.000 habitantes.
+- ~~Artículo 10 (antes 9): Pensar en como generalizarlo a cualquier pais, no hardcodear los 95.000 y 120.000 habitantes.~~ HECHO: Defaults 95k-120k mantenidos. Arranque puede establecer otros límites con N4 para países pequeños (Andorra, etc.).
 
 - ~~Revisar claramente que ciertas condiciones solo aplican a CIUDADANOS, otras a RESIDENTES, otras a ambos, y otras a CIUDADANO CON DERECHO A VOTO. Y que no haya contradicciones entre artículos.~~ HECHO: Art 4 (Sujetos Constitucionales) define persona/ciudadano/votante. Estandarizado en toda la constitución.
 
@@ -16,7 +16,7 @@
 
 - Artículo 22 (antes 20, funciones del ejecutivo): Declaración de estados de excepción (con aprobación legislativa) // no siempre... con que sean muy claros ya vale. HAY QUE decir que declararlo sin que sea verdad es un delito. Dirección de los ministerios: puede delegar sus funciones excepto aquellas prohibidas en esta constitución (mecanismos para entrar en guerra etc).
 
-- Artículo 30 (antes 28), revisar: sin perjuicio de la anulación popular establecida en los artículos 49 a 52 (antes 47 a 50).
+- ~~Artículo 30 (antes 28), revisar: sin perjuicio de la anulación popular establecida en los artículos 49 a 52 (antes 47 a 50).~~ DESCARTADO: Art 30 es un mecanismo automático de prórroga presupuestaria — no hay decisión que anular. La nota es obsoleta de una versión anterior.
 
 - ~~Asegurar consistencia de limites de nivel consenso del proceso de arranque y de funcionamiento normal.~~ HECHO: Auditoría completa de niveles de protección realizada. Establecido sistema de 3 capas (pétrea / parámetros / Art 50 default). Nueva regla anti-bypass en Art 50.
 

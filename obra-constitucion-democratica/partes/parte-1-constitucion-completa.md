@@ -177,7 +177,7 @@ Restricciones:
 2. Continuidad geográfica: cada distrito debe ser un territorio continuo, sin enclaves ni exclaves.
 3. Coherencia histórico-cultural: la delimitación debe respetar fronteras provinciales, municipales o comarcales cuando sea posible.
 
-Los parámetros numéricos de este artículo (95.000, 120.000) pueden modificarse mediante consenso de Nivel N6.
+Los parámetros numéricos de este artículo (95.000, 120.000) pueden modificarse mediante consenso de Nivel N6. Durante el Proceso de Arranque, el Legislativo puede establecer parámetros distintos mediante consenso de Nivel N4.
 
 ---
 
