@@ -14,7 +14,7 @@
 
 - ~~Artículo 19 (antes 18), quien comanda mientras se hace todo eso si es que hay que esperar 14 dias?~~ HECHO
 
-- Artículo 22 (antes 20, funciones del ejecutivo): Declaración de estados de excepción (con aprobación legislativa) // no siempre... con que sean muy claros ya vale. HAY QUE decir que declararlo sin que sea verdad es un delito. Dirección de los ministerios: puede delegar sus funciones excepto aquellas prohibidas en esta constitución (mecanismos para entrar en guerra etc).
+- ~~Artículo 22 (antes 20, funciones del ejecutivo): Declaración de estados de excepción (con aprobación legislativa) // no siempre... con que sean muy claros ya vale. HAY QUE decir que declararlo sin que sea verdad es un delito. Dirección de los ministerios: puede delegar sus funciones excepto aquellas prohibidas en esta constitución (mecanismos para entrar en guerra etc).~~ HECHO: Art 52: declaración falsa = delito grave (sanciones por legislación ordinaria). Art 23: funciones no delegables listadas explícitamente (militar Arts 64-66, estados de excepción Art 52).
 
 - ~~Artículo 30 (antes 28), revisar: sin perjuicio de la anulación popular establecida en los artículos 49 a 52 (antes 47 a 50).~~ DESCARTADO: Art 30 es un mecanismo automático de prórroga presupuestaria — no hay decisión que anular. La nota es obsoleta de una versión anterior.
 

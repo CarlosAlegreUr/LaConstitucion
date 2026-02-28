@@ -310,7 +310,9 @@ El Presidente ejerce la totalidad del Poder Ejecutivo. Sus funciones incluyen:
 6. Ejecución del presupuesto aprobado por el Legislativo.
 7. Dirección de los ministerios.
 
-El Presidente puede delegar funciones en los ministros conforme al artículo 29, salvo aquellas que esta Constitución prohíba expresamente delegar. En todo caso, el Presidente conserva la autoridad última sobre cualquier decisión del Poder Ejecutivo.
+El Presidente puede delegar funciones en los ministros conforme al artículo 29. En todo caso, el Presidente conserva la autoridad última sobre cualquier decisión del Poder Ejecutivo. Las siguientes funciones no son delegables:
+1. Declaración de guerra y decisiones militares establecidas en los artículos 64, 65 y 66.
+2. Declaración de estados de excepción (artículo 52).
 
 ---
 
@@ -675,7 +677,7 @@ Una vez adoptado, la modificación o eliminación de cualquier derecho del catá
 
 ## Artículo 52: Estados de Excepción - Principio
 
-Los estados de excepción solo pueden declararse ante crisis graves que no puedan gestionarse mediante medios ordinarios. Por defecto existen tres tipos de estados de excepción, establecidos en el artículo 53. Todo estado de excepción está sujeto a los seis límites obligatorios establecidos en los artículos 55 a 60. Ninguna crisis, por grave que sea, autoriza la suspensión de estos seis límites.
+Los estados de excepción solo pueden declararse ante crisis graves que no puedan gestionarse mediante medios ordinarios. Declarar un estado de excepción sin que exista crisis real constituye delito grave, cuyas sanciones se establecen por legislación ordinaria. Por defecto existen tres tipos de estados de excepción, establecidos en el artículo 53. Todo estado de excepción está sujeto a los seis límites obligatorios establecidos en los artículos 55 a 60. Ninguna crisis, por grave que sea, autoriza la suspensión de estos seis límites.
 
 ---
 
