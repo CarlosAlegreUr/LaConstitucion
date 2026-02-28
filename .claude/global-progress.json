@@ -1,0 +1,22 @@
+{
+  "goals": {
+    "disenar-constitucion-democratica": {
+      "created": "2026-01-01T00:00:00Z",
+      "last_accessed": "2026-01-05T20:01:04Z",
+      "total_concepts": 45,
+      "studied": 5,
+      "in_progress": 1,
+      "not_started": 39
+    },
+    "ai-agent-design": {
+      "created": "2026-01-02T16:53:00Z",
+      "last_accessed": "2026-01-02T17:30:00Z",
+      "total_concepts": 40,
+      "studied": 4,
+      "in_progress": 0,
+      "not_started": 36
+    }
+  },
+  "created": "2026-01-01T00:00:00Z",
+  "last_updated": "2026-01-05T20:01:04Z"
+}

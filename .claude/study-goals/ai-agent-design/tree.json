@@ -1,0 +1,289 @@
+{
+  "goal": "ai-agent-design",
+  "created": "2026-01-02T16:53:00Z",
+  "last_updated": "2026-01-02T16:53:00Z",
+  "max_concepts": 50,
+  "total_concepts": 40,
+  "tree": {
+    "transformer-architecture-overview": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "context-windows-attention": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "training-vs-inference": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "tokenization-and-agents": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "temperature-sampling-control": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "function-calling-vs-text-generation": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "hallucination-types-causes": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "training-vs-inference",
+      "children": []
+    },
+    "context-exhaustion-solutions": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "context-windows-attention",
+      "children": []
+    },
+    "knowledge-cutoff-problem": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "training-vs-inference",
+      "children": []
+    },
+    "inability-to-act": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "no-persistent-memory": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "poor-multistep-reasoning": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "prompt-injection-jailbreaking": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "react-reasoning-acting": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "inability-to-act",
+      "children": []
+    },
+    "chain-of-thought-cot": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "poor-multistep-reasoning",
+      "children": []
+    },
+    "tree-of-thoughts-tot": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "chain-of-thought-cot",
+      "children": []
+    },
+    "reflection-self-critique": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "chain-of-thought-cot",
+      "children": []
+    },
+    "rewoo-plan-then-execute": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "react-reasoning-acting",
+      "children": []
+    },
+    "agent-as-judge": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "reflection-self-critique",
+      "children": []
+    },
+    "multi-agent-systems": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "fresh-vs-inherited-context": {
+      "status": "STUDIED",
+      "tags": ["intuitive", "can-apply"],
+      "last_reviewed": "2026-01-02T16:53:00Z",
+      "parent": "context-windows-attention",
+      "children": []
+    },
+    "short-term-memory-context": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "context-windows-attention",
+      "children": []
+    },
+    "long-term-memory-external": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "no-persistent-memory",
+      "children": []
+    },
+    "episodic-vs-semantic-memory": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "long-term-memory-external",
+      "children": []
+    },
+    "hierarchical-memory": {
+      "status": "STUDIED",
+      "tags": ["intuitive", "can-apply"],
+      "last_reviewed": "2026-01-02T16:53:00Z",
+      "parent": "long-term-memory-external",
+      "children": []
+    },
+    "memory-retrieval-strategies": {
+      "status": "STUDIED",
+      "tags": ["intuitive", "can-apply"],
+      "last_reviewed": "2026-01-02T16:53:00Z",
+      "parent": "long-term-memory-external",
+      "children": []
+    },
+    "memory-compression-summarization": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "context-exhaustion-solutions",
+      "children": []
+    },
+    "rag-retrieval-augmented-generation": {
+      "status": "STUDIED",
+      "tags": ["intuitive", "can-apply"],
+      "last_reviewed": "2026-01-02T16:53:00Z",
+      "parent": "knowledge-cutoff-problem",
+      "children": []
+    },
+    "tool-selection-optimization": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "react-reasoning-acting",
+      "children": []
+    },
+    "function-calling-apis": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "function-calling-vs-text-generation",
+      "children": []
+    },
+    "grounding-and-citation": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "hallucination-types-causes",
+      "children": []
+    },
+    "vector-databases-semantic-search": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "rag-retrieval-augmented-generation",
+      "children": []
+    },
+    "hybrid-search-keyword-semantic": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "vector-databases-semantic-search",
+      "children": []
+    },
+    "when-not-to-use-tools": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "tool-selection-optimization",
+      "children": []
+    },
+    "eval-datasets-metrics": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "adversarial-testing": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "prompt-injection-jailbreaking",
+      "children": []
+    },
+    "cost-optimization-tokens": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": "tokenization-and-agents",
+      "children": []
+    },
+    "latency-optimization": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "failure-modes-graceful-degradation": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    },
+    "version-control-for-agents": {
+      "status": "NOT_STARTED",
+      "tags": [],
+      "last_reviewed": null,
+      "parent": null,
+      "children": []
+    }
+  }
+}
