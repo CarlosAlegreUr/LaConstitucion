@@ -22,13 +22,13 @@
 
 - ~~Analizar consistencia de nombramiento de niveles y mini menciones a los respectivos % a lo largo de la constitucion.~~ HECHO: Eliminados todos los paréntesis redundantes con porcentajes (3a). Art 3 es fuente única.
 
-- Añadir limite de leyes aprobadas semanales por legislativo. 14. La idea es que los jueces tengan un tiempecito diario para revisar constitucionalidad de 2 leyes en caso de que se aprueben y alguien apele casacion. No se si es demasiado o no y deberia ser 7 leyes semanales, pero hoy en dia y con IA creo que 14 es realista. Esto hay que tenerlo en cuenta para la parte de las explicaciones en el libro.
+- ~~Añadir limite de leyes aprobadas semanales por legislativo. 14. La idea es que los jueces tengan un tiempecito diario para revisar constitucionalidad de 2 leyes en caso de que se aprueben y alguien apele casacion. No se si es demasiado o no y deberia ser 7 leyes semanales, pero hoy en dia y con IA creo que 14 es realista. Esto hay que tenerlo en cuenta para la parte de las explicaciones en el libro.~~ HECHO: Añadido límite de 7 leyes semanales en Art 21. Explicación añadida en Parte 2.
 
 - ~~Artículo 46 (antes 44), ciudadanos capaces de contradecir procesos judiciales tambien??? Claro, porque no, pero requisitos mas altos. Como el 30% como grupo y las firmas del 51%.~~ HECHO: Añadido ámbito ordinario al Art 44 con 30% grupo iniciador y firmas del nivel de consenso máximo de las leyes involucradas. Arts 42 y 43 actualizados con responsabilidad/sanciones ordinarias de menor gravedad. Título IV renombrado a "Control de Legitimidad Judicial".
 
 - ~~Artículo 57 (antes 55), revisar que cosas si pueden reformarse y cuales no segun este articulo. Quiza haya que simplemente decirlo en cada articulo si puede reformarse o no y ya. El artículo 6 (antes 5) gran parte de él se dedica a eso, hay que ver si es consistente con el resto de arts.~~ HECHO: Sistema de protección formalizado. Art 50 es el default. Cada artículo con parámetros especifica su nivel. Regla anti-bypass cierra loophole.
 
-- Discrepancia en traición: El juicio sobre si se aplica esta pena corresponde al Tribunal Supremo, previa acusación por al menos el 40% del Legislativo. (REVISAR: en Part 1 Art 67 (antes 65) dice "Legislativo puede aprobar mediante consenso de Nivel N1 (51%)" — discrepancia 40% vs 51%, y Tribunal Supremo vs Legislativo)
+- ~~Discrepancia en traición: El juicio sobre si se aplica esta pena corresponde al Tribunal Supremo, previa acusación por al menos el 40% del Legislativo. (REVISAR: en Part 1 Art 67 (antes 65) dice "Legislativo puede aprobar mediante consenso de Nivel N1 (51%)" — discrepancia 40% vs 51%, y Tribunal Supremo vs Legislativo)~~ HECHO: Art 66 corregido. Legislativo acusa (N1), Tribunal Supremo juzga, apelación ciudadana conforme a Art 34.
 
 - ~~REVISAR EN QUE CASOS CONTAMOS EL CENSO Y CUALES DERECHO A VOTO Y VER SI SOMOS CONSISTENTES CON LA ARGUMENTACIÓN.~~ HECHO: Censo = censo electoral definido en Art 4. Ámbitos (nacional/distrital) explícitos en cada artículo.
 

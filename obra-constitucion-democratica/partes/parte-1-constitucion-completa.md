@@ -829,7 +829,7 @@ El Presidente puede ordenar operaciones militares secretas sin aprobación legis
 1. Desastre militar (pérdida significativa de vidas o recursos).
 2. Inicio de conflicto armado no autorizado.
 
-Si se descubre o anuncia una operación secreta de este ámbito, el Poder Legislativo puede aprobar mediante consenso de Nivel N1 la aplicación del siguiente castigo: El Presidente responde personalmente mediante amputación de una mano.
+Si se descubre o anuncia una operación secreta de este ámbito, el Poder Legislativo puede, mediante consenso de Nivel N1, iniciar proceso judicial ante el Tribunal Supremo para la aplicación del siguiente castigo: el Presidente responde personalmente mediante amputación de una mano. La decisión del Tribunal Supremo es recurrible por cualquier ciudadano con derecho a voto conforme al procedimiento ordinario de apelación establecido en el artículo 34.
 
 ---
 
