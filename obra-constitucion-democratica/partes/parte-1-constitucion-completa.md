@@ -204,8 +204,11 @@ El origen de las donaciones privadas es secreto. El destino y cuantía de las mi
 **Protección contra financiación ilegal:**
 Si se detecta que la cuantía total recaudada por todos los candidatos supera el máximo legal permitido, la elección será declarada nula. Los fondos serán expropiados y devueltos a los donantes. El dinero sobrante será distribuido equitativamente entre todos los candidatos en las nuevas elecciones que comenzarán en 7 días. Si esta situación se repite 2 veces consecutivas, las elecciones tendrán lugar sí o sí en la tercera convocatoria independientemente de que se de este caso de nuevo.
 
+**Periodo de reflexión:**
+Durante los 7 días previos a cualquier elección, queda prohibida toda forma de campaña electoral. Durante este periodo, los candidatos solo podrán dirigirse al electorado mediante mítines en espacios públicos previamente acordados, garantizando a cada candidato la misma cantidad de tiempo y condiciones. Los detalles organizativos se establecen por legislación electoral.
+
 **Configurabilidad:**
-Los parámetros numéricos de este artículo (10% del P25, 1 donación, 7 días, número límite de convocatorias) pueden modificarse mediante consenso de Nivel N6.
+Los parámetros numéricos de este artículo (10% del P25, 1 donación, 7 días de convocatoria, número límite de convocatorias, 7 días de reflexión) pueden modificarse mediante consenso de Nivel N6.
 
 ---
 
