@@ -34,10 +34,10 @@
 
 La soberanía reside originaria y permanentemente en el pueblo. El pueblo ejerce su soberanía mediante los mecanismos directos e indirectos establecidos en esta Constitución.
 
-Se establece la siguiente jerarquía de legitimidad democrática:
+Se establece la siguiente jerarquía de legitimidad democrática, de mayor a menor:
 
-1. Poder Popular (referéndum, anulación popular y revocación).
-2. Poderes delegados: Legislativo, Ejecutivo y Judicial, iguales entre sí y mutuamente responsables conforme a los mecanismos establecidos en esta Constitución.
+1. Poder Popular, que se ejerce mediante la elección directa de representantes, la revocación de cargos electos, la anulación popular de decisiones legislativas y judiciales, y la iniciativa y referéndum de reforma constitucional.
+2. Poderes delegados: Legislativo, Ejecutivo y Judicial, iguales entre sí y sujetos a control recíproco conforme a los mecanismos establecidos en esta Constitución.
 
 El Poder Popular puede oponerse a las decisiones de cualquier poder delegado únicamente conforme a los procedimientos establecidos en esta Constitución. Ningún poder delegado prevalece sobre otro; sus conflictos se resuelven mediante los mecanismos de control mutuo que esta Constitución establece.
 
