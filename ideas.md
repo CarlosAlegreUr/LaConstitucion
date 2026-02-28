@@ -32,7 +32,7 @@
 
 - ~~REVISAR EN QUE CASOS CONTAMOS EL CENSO Y CUALES DERECHO A VOTO Y VER SI SOMOS CONSISTENTES CON LA ARGUMENTACIÓN.~~ HECHO: Censo = censo electoral definido en Art 4. Ámbitos (nacional/distrital) explícitos en cada artículo.
 
-- Revisar que esto se cumple siempre: Judicial < Legislativo < Popular. Dejamos al legislativo al final anular al judicial con un consenso alto? N5 o algo?
+- ~~Revisar que esto se cumple siempre: Judicial < Legislativo < Popular. Dejamos al legislativo al final anular al judicial con un consenso alto? N5 o algo?~~ HECHO: Art 2 reformulado. Los tres poderes delegados (Legislativo, Ejecutivo, Judicial) son iguales entre sí con control mutuo. Solo el Poder Popular está por encima. Parte 2 actualizada.
 
 ---
 
@@ -83,4 +83,4 @@ notas 2:
 
 - ~~la recomendacion de menor de edad no votar en art5, mmm... quiza no haga ni falta, se sobre entiende que ese numbero es importatne al requrerir consenso N6.~~ HECHO: eliminado "pero no recomendables" de Part 1.
 
-- ~~PENDIENTE: Inconsistencia N6 vs procedimiento de cláusulas pétreas. Art 3 define N6 = 95%. Pero el procedimiento de cláusulas pétreas (Arts 47-49) es mucho más: referéndum con N5 + 75% participación + doble votación + 2 años reflexión + 21 años cooldown. Los Arts 1, 5, 6 y 18 dicen "procedimiento de cláusulas pétreas: consenso N6" lo cual es engañoso — N6 es solo una de dos vías para CONVOCAR el referéndum.~~ PARCIALMENTE HECHO: Las frases engañosas de Arts 1, 5, 6, 18 han sido eliminadas. Art 46 es fuente única. Queda pendiente: aclarar en Art 3 o Part 2 que N6 ≠ procedimiento pétreo completo.
+- ~~PENDIENTE: Inconsistencia N6 vs procedimiento de cláusulas pétreas. Art 3 define N6 = 95%. Pero el procedimiento de cláusulas pétreas (Arts 47-49) es mucho más: referéndum con N5 + 75% participación + doble votación + 2 años reflexión + 21 años cooldown. Los Arts 1, 5, 6 y 18 dicen "procedimiento de cláusulas pétreas: consenso N6" lo cual es engañoso — N6 es solo una de dos vías para CONVOCAR el referéndum.~~ HECHO: Las frases engañosas de Arts 1, 5, 6, 18 han sido eliminadas. Art 46 es fuente única. N6 es solo una vía de convocatoria del referéndum pétreo, no el procedimiento completo. Consistencia verificada.

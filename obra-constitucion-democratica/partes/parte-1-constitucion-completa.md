@@ -32,13 +32,12 @@ La soberanía reside originaria y permanentemente en el pueblo. El pueblo ejerce
 
 ## Artículo 2: Jerarquía de Legitimidad
 
-Se establece la siguiente jerarquía en orden descendente de legitimidad democrática:
+Se establece la siguiente jerarquía de legitimidad democrática:
 
-1. Poder Popular (referéndum y anulación popular).
-2. Poder Legislativo (representación electa).
-3. Poder Judicial (interpretación técnica).
+1. Poder Popular (referéndum, anulación popular y revocación).
+2. Poderes delegados: Legislativo, Ejecutivo y Judicial, iguales entre sí y mutuamente responsables conforme a los mecanismos establecidos en esta Constitución.
 
-Cada nivel de mayor legitimidad puede anular decisiones del nivel inferior únicamente de manera conforme a los procedimientos establecidos en esta Constitución.
+El Poder Popular puede oponerse a las decisiones de cualquier poder delegado únicamente conforme a los procedimientos establecidos en esta Constitución. Ningún poder delegado prevalece sobre otro; sus conflictos se resuelven mediante los mecanismos de control mutuo que esta Constitución establece.
 
 ---
 
@@ -589,7 +588,7 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 7. Equilibrio de Poderes (artículo 26): El mecanismo de autodestrucción mutua entre Legislativo y Ejecutivo no puede ser eliminado.
 8. Supremacía Constitucional (artículo 40): Esta Constitución es la norma suprema del ordenamiento jurídico.
 9. Derechos Fundamentales del Sistema Democrático (artículo 50): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
-10. Jerarquía de Legitimidad Democrática (artículo 2): El pueblo puede anular decisiones de cualquier poder delegado conforme al orden de legitimidad establecido y solamente mediante los procedimientos descritos en esta Constitución.
+10. Jerarquía de Legitimidad Democrática (artículo 2): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y mutuamente responsables.
 11. Derecho de Reforma Constitucional (artículos 47-48): El pueblo conserva siempre el derecho de reformar esta Constitución.
 
 ---
