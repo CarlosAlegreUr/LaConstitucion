@@ -261,6 +261,8 @@ Las donaciones privadas están limitadas al 10% del P25 nacional por persona, un
 
 El origen de las donaciones es secreto (para proteger al donante de represalias) pero el destino y cuantía son públicos (para que el electorado sepa quién recibe cuánto). Esta asimetría protege al individuo sin proteger la opacidad del sistema. Pues si el total de donaciones es mayor al límite permitido total, habrá una clara señal al pueblo de que algo debe ser investigado.
 
+El periodo de reflexión de 7 días antes de cualquier elección prohíbe toda campaña electoral. Solo se permiten actos públicos en espacios previamente acordados, con igualdad de tiempo y condiciones para cada candidato. ¿Por qué no intentar prohibir la propaganda indirecta con reglas más detalladas? Porque es irrealista: un anuncio puede usar metáforas, alusiones y apología sin mencionar logos ni nombres, y la casuística es infinita. La Constitución define el límite (silencio electoral con excepciones igualitarias) y deja a la legislación electoral los detalles de aplicación y sanción.
+
 ## Artículo 15: Garantía de Anulación Popular
 
 Este artículo garantiza que siempre pueda existir un mecanismo de anulación popular directa. No lo impone (el mecanismo específico se define durante el Arranque o por legislación posterior), pero prohíbe que cualquier poder del Estado bloquee su creación. Es un seguro contra la captura legislativa: si el parlamento aprueba leyes contra el interés popular, el pueblo siempre tiene la opción nuclear de anularlas directamente, con el mismo nivel de consenso que se necesitó para aprobarlas.
@@ -333,6 +335,14 @@ Funciona porque el coste de uso es simétrico: ambos pierden el poder, así que 
 El periodo de desactivación (cooldown) es una adición propia a la idea de Trevijano. Tras activar el mecanismo, existe un periodo durante el cual no puede volver a usarse, y este periodo es asimétrico: quien lo invoca paga más (periodo más largo antes de poder volver a activarlo). Esto desincentiva el uso ofensivo y favorece el uso defensivo. Sin este cooldown, el mecanismo podría convertirse en un arma de desgaste: activarlo repetidamente hasta que el adversario se rinda. El cooldown asimétrico lo convierte en un arma de último recurso.
 
 La existencia del mecanismo es cláusula pétrea (artículo 45): no puede eliminarse. Sus parámetros numéricos (umbral de cese, plazo de elecciones, periodos de cooldown) requieren consenso N6 para modificarse. La lógica es la misma que en un juego competitivo: no solo importa tener la habilidad, sino que el cooldown y los parámetros de activación son igual de determinantes para su efectividad. Cambiar el umbral de cese de N1 a N6 equivaldría a neutralizar el mecanismo sin eliminarlo formalmente.
+
+## Incumplimiento Grave del Ejecutivo
+
+La autodestrucción mutua resuelve bloqueos entre Legislativo y Ejecutivo. Pero ¿qué pasa cuando el Ejecutivo ignora al Judicial? Un Presidente que se niega a ejecutar una sentencia firme del Tribunal Supremo está rompiendo la separación de poderes, y si el Legislativo es cómplice o indiferente, la autodestrucción mutua no se activa.
+
+Este mecanismo cierra ese hueco: tanto el Legislativo (N1) como el Pueblo (10% del censo) pueden iniciar un proceso ante el Tribunal Supremo para determinar si el incumplimiento es suficientemente grave como para convocar nuevas elecciones. La causa constitucional mínima (negarse a ejecutar sentencia firme del Supremo) no puede eliminarse; las causas adicionales se establecen por legislación ordinaria con protección N4.
+
+¿Por qué nuevas elecciones y no prisión? Porque el problema no es penal sino democrático: un Presidente que ignora al Judicial ha roto el pacto de separación de poderes, y la respuesta democrática es devolver la decisión al pueblo. Si además ha cometido un delito, la vía penal ordinaria sigue disponible.
 
 ## Artículos 28-31: Ministerios y Presupuesto
 
