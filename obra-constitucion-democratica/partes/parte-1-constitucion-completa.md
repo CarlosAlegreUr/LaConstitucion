@@ -32,7 +32,7 @@
 
 ## Artículo 1: Soberanía Popular y Jerarquía de Legitimidad
 
-La soberanía reside originaria e inalienablemente en el pueblo. El pueblo ejerce su soberanía mediante los mecanismos directos e indirectos establecidos en esta Constitución.
+La soberanía reside en el pueblo. El pueblo ejerce su soberanía mediante los mecanismos directos e indirectos establecidos en esta Constitución.
 
 Se establece la siguiente jerarquía de legitimidad democrática, de mayor a menor:
 
