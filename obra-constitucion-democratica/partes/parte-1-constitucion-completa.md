@@ -96,7 +96,7 @@ Los detalles tecnológicos y organizativos específicos para implementar estas g
 
 Esta Constitución garantiza permanentemente el derecho a crear mecanismos de anulación popular directa de decisiones legislativas. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá prohibir la creación ni el funcionamiento de tales mecanismos.
 
-Si se implementa un mecanismo de anulación popular, el nivel de apoyo ciudadano requerido para anular una decisión corresponderá al nivel de consenso de dicha decisión: las decisiones de Nivel N1 podrán ser anuladas con apoyo del 51% de los ciudadanos con derecho a voto, las de Nivel N2 con el 60%, y así sucesivamente conforme a los niveles de consenso N1 a N6 establecidos en esta Constitución. Todo proceso de anulación popular deberá cumplir las garantías de secreto, verificabilidad y auditoría pública establecidas en los artículos 5 y 16.
+Si se implementa un mecanismo de anulación popular, el nivel de apoyo ciudadano requerido para anular una decisión corresponderá al nivel de consenso de dicha decisión: las decisiones de Nivel N1 podrán ser anuladas con apoyo del 51% de los ciudadanos con derecho a voto, las de Nivel N2 con el 60%, y así sucesivamente conforme a los niveles de consenso N1 a N6 establecidos en el artículo 2. Todo proceso de anulación popular deberá cumplir las garantías de secreto, verificabilidad y auditoría pública establecidas en los artículos 5 y 16.
 
 ---
 
@@ -254,7 +254,7 @@ El voto puede ejercerse remotamente mediante sistema que garantice simultáneame
 2. Verificabilidad individual (cada votante puede comprobar que su voto fue contado).
 3. Auditoría pública (cualquier ciudadano con derecho a voto puede verificar la integridad del proceso).
 
-Esta Constitución no prescribe tecnología específica: lo que importa es la capacidad del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas independientemente de la tecnología empleada.
+Esta Constitución no prescribe tecnología específica: lo que importa es la capacidad del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas en el artículo 5 independientemente de la tecnología empleada.
 
 ---
 
@@ -297,7 +297,7 @@ Finalizado el Proceso de Arranque, las reducciones de consenso aplicadas durante
 
 Los poderes Legislativo, Ejecutivo y Judicial deberán ser independientes entre sí. Ningún poder puede ejercer funciones constitucionalmente asignadas a otro. Esta separación es material, no meramente formal: cada poder debe contar con independencia de nombramiento y mecanismos de financiación económica que garanticen su autonomía efectiva.
 
-La financiación de cada poder debe ser la descrita en esta Constitución.
+La financiación de cada poder debe ser la descrita en esta Constitución (artículos 28-30 y 51).
 
 ---
 
@@ -313,7 +313,7 @@ El Poder Legislativo se compone de una cámara única de representantes elegidos
 
 ## Artículo 20: Poder Legislativo - Funciones
 
-El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en las excepciones previstas en esta Constitución. Es decir, solo el Legislativo puede aprobar, modificar o derogar leyes, sin perjuicio del control de constitucionalidad ejercido por el Poder Judicial conforme al Título IV. Sus funciones incluyen:
+El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en las excepciones previstas en esta Constitución. Es decir, solo el Legislativo puede aprobar, modificar o derogar leyes, sin perjuicio del control de constitucionalidad ejercido por el Poder Judicial (artículos 40-41). Sus funciones incluyen:
 
 1. Aprobar, modificar o derogar leyes.
 2. Aprobar el presupuesto anual del Estado.
@@ -354,9 +354,9 @@ Su mandato es de 5 años. Ninguna persona puede ejercer la Presidencia más de d
 El Presidente ejerce la totalidad del Poder Ejecutivo. Sus funciones incluyen:
 
 1. Jefatura del Estado.
-2. Defensa nacional y mando de las Fuerzas Armadas.
+2. Defensa nacional y mando de las Fuerzas Armadas (artículo 47).
 3. Relaciones exteriores y representación internacional.
-4. Declaración de estados de excepción.
+4. Declaración de estados de excepción (artículo 53).
 5. Política interior y coordinación gubernamental.
 6. Ejecución del presupuesto aprobado por el Legislativo.
 7. Dirección de los ministerios.
@@ -379,7 +379,7 @@ Si el Vicepresidente no puede asumir la Presidencia interina, la asume el repres
 
 ## Artículo 25: Incapacidad Presidencial
 
-La incapacidad del Presidente es declarada exclusivamente por el Poder Judicial, a solicitud del Vicepresidente o del Poder Legislativo mediante consenso N2. La declaración es recurrible mediante apelación por cualquier ciudadano con derecho a voto. Si la declaración de incapacidad es revocada en apelación, el juez o tribunal que la emitió queda sujeto a las sanciones establecidas en el artículo 41 para la responsabilidad penal de jueces.
+La incapacidad del Presidente es declarada exclusivamente por el Poder Judicial, a solicitud del Vicepresidente o del Poder Legislativo mediante consenso N2. La declaración es recurrible mediante apelación por cualquier ciudadano con derecho a voto. Si la declaración de incapacidad es revocada en apelación, el juez o tribunal que la emitió queda sujeto a las sanciones establecidas en el artículo 42 para la responsabilidad penal de jueces.
 
 Constituyen causas de incapacidad: muerte, coma y deterioro cognitivo severo. El Poder Legislativo puede ampliar esta lista pero no reducirla mediante consenso N3; durante el periodo de Arranque, mediante N2.
 
@@ -501,7 +501,7 @@ Cada 4 años se procede al nombramiento de 3 nuevos magistrados del Tribunal Sup
 
 ## Artículo 37: Autodestrucción Mutua - Mecanismo
 
-El Legislativo puede cesar al Presidente mediante votación de consenso N1. El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo y del Presidente en un plazo máximo de 30 días. El Presidente cesado no puede presentarse a las elecciones inmediatas resultantes.
+El Legislativo puede cesar al Presidente mediante votación de consenso N1. El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo (artículo 12) y del Presidente (artículo 22) en un plazo máximo de 30 días. El Presidente cesado no puede presentarse a las elecciones inmediatas resultantes.
 
 Los parámetros numéricos de este artículo (N1, 30 días) pueden modificarse mediante consenso de Nivel N6.
 
@@ -511,7 +511,7 @@ El mecanismo de autodestrucción mutua no puede activarse durante un estado de e
 
 ## Artículo 38: Autodestrucción Mutua - Periodo de Desactivación
 
-Tras la activación del mecanismo de autodestrucción mutua, opera un periodo de desactivación asimétrico durante el cual ninguna de las partes podrá ejecutar el mecanismo de autodestrucción mutua. El periodo de desactivación se aplica de forma diferenciada a quien lo invocó y a quien lo recibió:
+Tras la activación del mecanismo de autodestrucción mutua (artículo 37), opera un periodo de desactivación asimétrico durante el cual ninguna de las partes podrá ejecutar el mecanismo de autodestrucción mutua. El periodo de desactivación se aplica de forma diferenciada a quien lo invocó y a quien lo recibió:
 
 Si lo invocó el Legislativo:
 - Periodo de desactivación para el Legislativo: 6 meses desde las nuevas elecciones.
@@ -534,7 +534,7 @@ Iniciativa:
 2. Vía popular: grupo de al menos el 10% del censo nacional.
 
 Resolución:
-El Tribunal Supremo conoce directamente del proceso y determina si el incumplimiento es suficientemente grave para justificar la convocatoria de nuevas elecciones. La decisión del Tribunal Supremo es recurrible una única vez mediante apelación por cualquier ciudadano con derecho a voto.
+El Tribunal Supremo conoce directamente del proceso y determina si el incumplimiento es suficientemente grave para justificar la convocatoria de nuevas elecciones. La decisión del Tribunal Supremo es recurrible una única vez mediante apelación (artículo 32) por cualquier ciudadano con derecho a voto.
 
 Causas de incumplimiento grave:
 1. Negarse a ejecutar una sentencia firme del Tribunal Supremo.
@@ -800,7 +800,7 @@ El Poder Judicial mantiene todas sus funciones durante los estados de excepción
 
 Durante cualquier estado de excepción está absolutamente prohibido:
 
-1. Modificar esta Constitución mediante el procedimiento de reforma.
+1. Modificar esta Constitución mediante el procedimiento de reforma (artículos 65-67).
 2. Modificar la ley electoral o las reglas de celebración de elecciones.
 3. Posponer elecciones salvo imposibilidad física objetiva (ej: zona de guerra activa, destrucción de infraestructura electoral).
 4. Posponer el comienzo de procesos judiciales salvo imposibilidad física objetiva. (ej: zona de guerra activa, destrucción de infraestructura judicial).
@@ -815,7 +815,7 @@ Tras la finalización de cualquier estado de excepción:
 
 1. El Ejecutivo debe presentar informe público en un plazo máximo de 60 días, detallando todas las medidas adoptadas, su justificación, resultados y costes. Cualquier ciudadano puede acceder a este informe.
 2. Si un ciudadano denuncia irregularidades, un juez de primera instancia puede ordenar auditoría independiente de las medidas adoptadas.
-3. Funcionarios que hayan abusado de poderes excepcionales o violado los seis límites pueden ser procesados penalmente. El estado de excepción no exime de responsabilidad por abusos.
+3. Funcionarios que hayan abusado de poderes excepcionales o violado los seis límites (artículos 56-61) pueden ser procesados penalmente. El estado de excepción no exime de responsabilidad por abusos.
 
 ---
 
@@ -854,7 +854,7 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 7. Equilibrio de Poderes (artículo 37): El mecanismo de autodestrucción mutua entre Legislativo y Ejecutivo no puede ser eliminado.
 8. Supremacía Constitucional (artículo 40): Esta Constitución es la norma suprema del ordenamiento jurídico.
 9. Derechos Fundamentales del Sistema Democrático (artículo 69): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
-10. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y mutuamente responsables.
+10. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
 11. Derecho de Reforma Constitucional (artículos 66-67): El pueblo conserva siempre el derecho de reformar esta Constitución.
 
 ---
