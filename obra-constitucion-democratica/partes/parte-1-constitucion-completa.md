@@ -36,8 +36,8 @@ La soberanía reside originaria y permanentemente en el pueblo. El pueblo ejerce
 
 Se establece la siguiente jerarquía de legitimidad democrática, de mayor a menor:
 
-1. Poder Popular, que se ejerce mediante la elección directa de representantes, la revocación de cargos electos, la anulación popular de decisiones legislativas y judiciales, y la iniciativa y referéndum de reforma constitucional.
-2. Poderes delegados: Legislativo, Ejecutivo y Judicial, iguales entre sí y sujetos a control recíproco conforme a los mecanismos establecidos en esta Constitución.
+1. Poder Popular, que se ejerce mediante la elección directa de representantes (artículos 9 y 12), la revocación de cargos electos (artículos 10-11), la anulación popular de decisiones legislativas (artículo 6) y judiciales (artículo 44), y la iniciativa y referéndum de reforma constitucional (artículos 65-67).
+2. Poderes delegados: Legislativo (Subtítulo 1 del Título IV), Ejecutivo (Subtítulo 2 del Título IV) y Judicial (Subtítulo 3 del Título IV), iguales entre sí y sujetos a control recíproco conforme a los mecanismos establecidos en esta Constitución (Subtítulos 4-9 del Título IV).
 
 El Poder Popular puede oponerse a las decisiones de cualquier poder delegado únicamente conforme a los procedimientos establecidos en esta Constitución. Ningún poder delegado prevalece sobre otro; sus conflictos se resuelven mediante los mecanismos de control mutuo que esta Constitución establece.
 
@@ -47,14 +47,14 @@ El Poder Popular puede oponerse a las decisiones de cualquier poder delegado ún
 
 Esta Constitución establece seis niveles de consenso para la toma de decisiones:
 
-- Nivel N1: 51% (mayoría simple).
-- Nivel N2: 60%.
-- Nivel N3: 66% (mayoría de dos tercios).
-- Nivel N4: 75%.
-- Nivel N5: 85%.
-- Nivel N6: 95%.
+1. Nivel N1, mayoría simple: 51%.
+2. Nivel N2, mayoría reforzada: 60%.
+3. Nivel N3, mayoría de dos tercios: 66%.
+4. Nivel N4, supermayoría: 75%.
+5. Nivel N5, supermayoría reforzada: 85%.
+6. Nivel N6, cuasi-unanimidad: 95%.
 
-Salvo indicación explícita en contrario, los porcentajes se calculan sobre el total de votos válidos emitidos. Cuando un artículo especifica "del censo", el porcentaje se calcula sobre el censo electoral conforme al artículo 3.
+Salvo indicación explícita en contrario, los porcentajes se calculan sobre el total de votos válidos emitidos. Cuando un artículo especifica "del censo", el porcentaje se calcula sobre el censo electoral conforme al artículo 3. Las votaciones del Poder Legislativo se rigen por la regla específica establecida en el artículo 21.
 
 ---
 
@@ -324,6 +324,8 @@ El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en 
 ## Artículo 21: Poder Legislativo - Votaciones
 
 Todas las votaciones del Legislativo son públicas y quedan registradas en un sistema auditable por cualquier ciudadano. El voto de cada representante debe ser conocido o verificable por sus electores.
+
+En las votaciones del Poder Legislativo, los niveles de consenso se calculan sobre el número total de escaños. No existen la abstención ni el voto en blanco: un representante que no emita voto a favor se contabiliza como voto en contra. Los escaños vacantes se contabilizan igualmente como votos en contra.
 
 La mayoría requerida por defecto para aprobar, modificar o derogar leyes es de consenso N1, salvo en los casos en que esta Constitución establezca mayorías cualificadas específicas.
 
@@ -605,7 +607,7 @@ Convocatoria:
 1. Periodo de reflexión: Deben transcurrir al menos 3 meses desde que la decisión judicial devino firme.
 2. Ámbito y umbrales:
    a) Constitucional: Procede contra decisiones judiciales sobre constitucionalidad de leyes. Grupo iniciador: al menos el 10% del censo nacional. Firmas requeridas: Nivel N1 del censo nacional.
-   b) Ordinario: Procede contra decisiones judiciales ordinarias no constitucionales. Grupo iniciador: al menos el 30% del censo nacional. Firmas requeridas: nivel de consenso igual al mayor nivel que fue requerido para aprobar cualquiera de las leyes en las que se fundamentó la decisión judicial.
+   b) Ordinario: Procede contra decisiones judiciales ordinarias no constitucionales. Grupo iniciador: al menos el 30% del censo nacional. Firmas requeridas: del censo nacional, nivel de consenso igual al mayor nivel que fue requerido para aprobar cualquiera de las leyes en las que se fundamentó la decisión judicial.
 
 Recogida de firmas:
 
