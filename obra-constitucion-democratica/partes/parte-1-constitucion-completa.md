@@ -68,9 +68,11 @@ Esta Constitución reconoce tres categorías de sujetos:
 
 Salvo restricción explícita en esta Constitución o en ley conforme a ella, toda persona goza de los derechos y protecciones establecidos para personas. Todo ciudadano goza además de los establecidos para ciudadanos. Todo ciudadano con derecho a voto goza además de los establecidos para ciudadanos con derecho a voto.
 
+Los ciudadanos conservan todos los derechos establecidos para personas independientemente de su ubicación geográfica.
+
 Cuando esta Constitución dice "el pueblo", se refiere al conjunto de ciudadanos.
 
-Cuando esta Constitución dice "censo", se refiere al censo electoral: el registro de ciudadanos con derecho a voto. El ámbito del censo (nacional o distrital) se especifica en cada artículo.
+Cuando esta Constitución dice "censo", se refiere al censo electoral: el registro de ciudadanos con derecho a voto. El ámbito del censo, ya sea nacional o distrital, se especifica en cada artículo.
 
 Las restricciones de derechos derivadas de condena penal firme se rigen por la ley, dentro de los límites de esta Constitución.
 
@@ -78,17 +80,17 @@ Las restricciones de derechos derivadas de condena penal firme se rigen por la l
 
 ## Artículo 4: Sufragio Universal
 
-Todo ciudadano mayor de 18 años tiene derecho al voto. Cada ciudadano dispone de un voto con igual valor (un ciudadano, un voto). El sufragio no puede restringirse.
+Todo ciudadano mayor de 18 años tiene derecho al voto. Cada ciudadano dispone de un voto con igual valor: un ciudadano, un voto. El sufragio no puede restringirse.
 
-Edades inferiores a 18 años son posibles mediante el procedimiento de reforma establecido para este artículo conforme al artículo 64.
+La edad mínima de voto puede reducirse por debajo de 18 años únicamente mediante el procedimiento de reforma establecido en el artículo 65.
 
 ---
 
 ## Artículo 5: Secreto y Verificabilidad del Voto
 
-El voto es secreto por defecto: ninguna persona o institución puede conocer el sentido del voto emitido por un ciudadano. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable, como mínimo, por ciudadanos con derecho a voto.
+El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 21. Ninguna persona o institución puede conocer el sentido del voto emitido por un ciudadano. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable, como mínimo, por ciudadanos con derecho a voto.
 
-Los detalles tecnológicos y organizativos específicos para implementar estas garantías (redes blockchain, criptografía, protocolos físicos concretos etc) se definen durante el Proceso de Arranque conforme al Título III.
+Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III.
 
 ---
 
