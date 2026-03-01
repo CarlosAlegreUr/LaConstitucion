@@ -32,7 +32,7 @@
 
 ## Artículo 1: Soberanía Popular y Jerarquía de Legitimidad
 
-La soberanía reside originaria y permanentemente en el pueblo. El pueblo ejerce su soberanía mediante los mecanismos directos e indirectos establecidos en esta Constitución.
+La soberanía reside originaria e inalienablemente en el pueblo. El pueblo ejerce su soberanía mediante los mecanismos directos e indirectos establecidos en esta Constitución.
 
 Se establece la siguiente jerarquía de legitimidad democrática, de mayor a menor:
 
@@ -80,9 +80,9 @@ Las restricciones de derechos derivadas de condena penal firme se rigen por la l
 
 ## Artículo 4: Sufragio Universal
 
-Todo ciudadano mayor de 18 años tiene derecho al voto. Cada ciudadano dispone de un voto con igual valor: un ciudadano, un voto. El sufragio no puede restringirse.
+Todo ciudadano mayor de 18 años tiene derecho al voto. Cada ciudadano dispone de un voto con igual valor: un ciudadano, un voto. El sufragio no puede restringirse salvo dentro de los límites de edad establecidos en este artículo.
 
-La edad mínima de voto puede reducirse por debajo de 18 años únicamente mediante el procedimiento de reforma establecido en el artículo 65.
+La edad de voto puede ajustarse entre 18 y 23 años mediante consenso de Nivel N5. Los límites de este rango solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 65.
 
 ---
 
