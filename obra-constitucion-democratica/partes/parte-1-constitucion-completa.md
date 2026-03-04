@@ -142,11 +142,7 @@ El poder popular a nivel distrital prevalece sobre el Legislativo nacional únic
 
 ## Artículo 10: Revocabilidad de Representantes
 
-Los representantes del Poder Legislativo son revocables directamente por el pueblo del distrito que los eligió. El umbral de revocación es del 75% de los votos válidos emitidos en votación oficial convocada al efecto.
-
-Este mecanismo de revocación del 75% aplica exclusivamente a representantes del Poder Legislativo en su distrito de elección. No aplica a cargos del Poder Ejecutivo (Presidente, Ministros) ni del Poder Judicial (jueces, magistrados).
-
-Se recomienda el sistema de 1 suplente por distrito para garantizar continuidad de representación tras la revocación. Los detalles del sistema de suplentes se definen mediante ley ordinaria.
+Los representantes del Poder Legislativo serán siempre revocables directamente por el pueblo del distrito que los eligió. Este mecanismo aplica exclusivamente a representantes legislativos en su distrito de elección. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá suprimir este derecho.
 
 ---
 
@@ -161,7 +157,7 @@ Cualquier ciudadano con derecho a voto, de manera individual o en grupo, puede i
 Requiere recogida de firmas del 10% del censo del distrito en un plazo máximo de 31 días.
 
 **Votación:**
-Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. El proceso completo de revocación (desde convocatoria hasta resultado) no puede superar 2 semanas de duración.
+Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es requerido para que la votación sea válida. El proceso completo de revocación (desde convocatoria hasta resultado) no puede superar 2 semanas de duración.
 
 **Efecto:**
 Si el resultado alcanza el nivel de consenso N4 a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.
@@ -177,6 +173,7 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 - 7 días máximo para convocar nueva elección tras revocación.
 - 4 meses de periodo de reflexión antes de nueva revocación.
 - 2 semanas máximo de duración total del proceso.
+- 25% de participación mínima del censo del distrito.
 - 2 años mínimo censado en el distrito para poder votar en revocación.
 
 Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N1, pero el mecanismo de revocación en sí no puede eliminarse. Los detalles del Proceso de Arranque se establecen en el Título III de esta Constitución.

@@ -235,6 +235,8 @@ La revocación (artículos 10-11) solo funciona con representación uninominal: 
 
 Esta es la diferencia entre poder delegado y poder transferido. En un sistema de listas, el ciudadano transfiere su poder al partido: una vez entregado, no lo recupera hasta la siguiente elección. En un sistema uninominal con revocabilidad, el ciudadano delega su poder a un individuo concreto y puede retirárselo. El poder delegado permanece en el demos; el poder transferido sale de él. Sin distritos uninominales, la revocabilidad es imposible o ineficaz, y el poder se transfiere en lugar de delegarse.
 
+Se recomienda el sistema de 1 suplente por distrito para garantizar continuidad de representación tras una revocación. Los detalles del sistema de suplentes se definen mediante ley ordinaria.
+
 ## Artículos 10-11: Revocabilidad y el umbral del 75%
 
 ### Derivación matemática
@@ -253,6 +255,8 @@ Además, si conserváramos el principio de simplemente conseguir un 51% en contr
 
 El umbral del 75% crea un "coste político" del cambio sin ser tiránico. Fuerza a que la revocación represente una agregación de conciencia y necesidad social profunda, no un arrebato momentáneo de ira. No se necesita prueba legal ni proceso burocrático: si el 75% de tu distrito quiere que te vayas, te vas. Es inmunidad contra la captura institucional de los mecanismos de control.
 
+La participación mínima del 25% del censo distrital es idéntica a la de las elecciones de distrito (artículo 12). El principio es la simetría democrática: elegir y revocar son actos de igual peso, por lo que deben exigir el mismo nivel de movilización. En la práctica, la mayoría de la gente no participa activamente en política fuera de los ciclos electorales. Si un cuarto de un distrito se moviliza específicamente para revocar a su representante, fuera de ciclo y tras haber superado el filtro previo del 10% de firmas, eso ya es una señal inequívoca de malestar real. El peor caso teórico (25% participa, 75% de esos vota a favor) implica que aproximadamente un 19% del censo basta para revocar. Es un umbral bajo en términos absolutos, pero alto en términos de movilización real: conseguir que una de cada cinco personas de un distrito actúe fuera de ciclo electoral requiere un descontento genuino y organizado.
+
 La elección de un mecanismo directo y no burocrático es deliberada. ¿Cuántos ciudadanos en un distrito estarán realmente dispuestos a navegar procedimientos legales complejos, plazos administrativos y requisitos formales para determinar si pueden revocar a su representante? En la práctica, la burocracia actúa como un filtro que reduce la participación a quienes tienen tiempo, recursos y conocimientos para manejarla. El resultado previsible es la formación de oligarquías de distrito: pequeños grupos que dominan los mecanismos por ser los únicos que los entienden. Estas oligarquías locales pueden formarse de todas formas —la Ley de Hierro de Michels opera en todos los niveles—, pero la burocracia las haría significativamente más fuertes al añadir una barrera de entrada que solo ellas podrían superar con facilidad.
 
 ## Artículo 12: Doble Vuelta Electoral
@@ -267,7 +271,7 @@ El rango proviene de datos sociolingüísticos (Trevijano): las comunidades ling
 
 ### El Algoritmo (AOCD)
 
-El escenario de peor caso: para capturar un distrito, un adversario necesita influir en aproximadamente el 25% de la población (conectado al umbral de revocación del 75%). El proxy económico es el percentil 25 de renta: mide el coste de corromper al segmento más económicamente vulnerable.
+El escenario de peor caso: para capturar un distrito mediante revocación, un adversario necesita influir en aproximadamente el 19% de la población (75% de votos favorables con participación mínima del 25% del censo). El proxy económico es el percentil 25 de renta: mide el coste de corromper al segmento más económicamente vulnerable.
 
 La función objetivo (maximizar el P25 mínimo entre todos los distritos) significa: la distribución óptima es aquella en la que el distrito más barato de corromper es lo más caro posible. No se pregunta "¿qué es justo?" sino "¿cuál es el coste estructural de capturar este sistema?".
 
