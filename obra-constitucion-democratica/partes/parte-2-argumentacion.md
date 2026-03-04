@@ -207,9 +207,13 @@ Este artículo garantiza que siempre pueda existir un mecanismo de anulación po
 
 Un territorio que quiere independizarse es, por definición, un demos: un pueblo con identidad y voluntad propias. Aunque sea minoría dentro del Estado, sigue siendo un grupo de seres humanos cuya soberanía merece respeto. Negar el derecho a la autodeterminación es negar que ese demos exista, lo cual contradice el principio fundacional de esta Constitución: que la soberanía reside en el pueblo.
 
-¿Significa esto que la independencia deba ser fácil? No. Es razonable y discutible exigir condiciones: que el territorio no tenga deuda pendiente con el Estado, que demuestre autosuficiencia en servicios esenciales, que cuente con capacidad de defensa militar propia. Estos requisitos pueden ser exigentes. Lo que no pueden es estar indefinidos en el tiempo. De ahí el límite de 21 años: el mismo ciclo biológico que estructura el redistritaje (artículo 14). Un proceso que dura más de una generación no es un proceso; es una denegación disfrazada de burocracia.
+¿Significa esto que la independencia deba ser fácil? No. Es razonable y discutible exigir condiciones: que el territorio no tenga deuda pendiente con el Estado, que demuestre autosuficiencia en servicios esenciales, que cuente con capacidad de defensa militar propia. Estos requisitos pueden ser exigentes. Lo que no pueden es estar indefinidos en el tiempo ni resolverse precipitadamente.
+
+De ahí los dos límites temporales. El mínimo de 21 años (una generación, el mismo ciclo biológico del artículo 14) garantiza que el movimiento independentista es real y sostenido, no un impulso coyuntural. El máximo de 42 años (dos generaciones) impide la obstrucción indefinida: un proceso que dura más de dos generaciones no es un proceso, es una denegación disfrazada de burocracia.
 
 La clave es que el derecho a iniciar el proceso no puede suprimirse. Las condiciones son negociables; la existencia del camino no lo es.
+
+Una duda abierta es el nivel de protección de este artículo. Actualmente no es cláusula pétrea, por lo que puede reformarse mediante el procedimiento ordinario (N4 legislativo o referéndum con N1 y 50% de participación). Esto significa que un legislativo con 75% de los escaños podría, en teoría, eliminar el derecho a la autodeterminación. ¿Debería ser pétreo? El argumento a favor es claro: es un derecho fundamental de los pueblos. El argumento en contra es que la independencia territorial involucra factores que exceden lo constitucional — tratados militares, acuerdos económicos, relaciones internacionales — y un nivel de protección excesivo podría rigidizar situaciones que requieren flexibilidad. Por ahora se mantiene como reforma ordinaria, pero es un punto que merece debate.
 
 ---
 ---

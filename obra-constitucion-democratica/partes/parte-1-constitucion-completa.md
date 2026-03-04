@@ -106,7 +106,7 @@ Si se implementa un mecanismo de anulación popular, el nivel de apoyo ciudadano
 
 Queda prohibido impedir por ley a cualquier territorio el ejercicio del derecho a la autodeterminación. El proceso de independencia territorial debe regularse por ley, pero bajo ninguna circunstancia puede prohibirse ni suprimirse.
 
-La ley podrá establecer requisitos y condiciones para el proceso de independencia. Estos requisitos podrán ser exigentes, pero estarán limitados por la siguiente condición: la duración máxima de un proceso de independencia, desde su declaración formal hasta su resolución definitiva (aprobación o rechazo), es de 21 años.
+La ley podrá establecer requisitos y condiciones para el proceso de independencia. Estos requisitos podrán ser exigentes, pero estarán limitados por las siguientes condiciones: la duración mínima de un proceso de independencia, desde su declaración formal hasta su resolución definitiva, ya sea aprobación o rechazo, es de 21 años; la duración máxima es de 42 años.
 
 ---
 
@@ -132,13 +132,11 @@ Los procedimientos penales contra cargos públicos podrán tramitarse con carác
 
 Los representantes del Poder Legislativo son elegidos por distritos territoriales mediante elección uninominal. Cada distrito elige un representante.
 
-Los distritos pueden contar con sistema de suplentes para garantizar continuidad de representación:
-- Mínimo permitido: 0 suplentes.
-- Máximo permitido: 2 suplentes.
+Los distritos pueden contar con un sistema de suplentes para garantizar continuidad de representación, con un mínimo de 0 y un máximo de 2 suplentes por distrito.
 
 El número de suplentes por distrito puede modificarse mediante consenso de Nivel N4, ya sea a nivel nacional (decisión del Legislativo aplicable a todos los distritos) o a nivel distrital (decisión del distrito aplicable solo a ese distrito), según procedimientos establecidos por ley ordinaria.
 
-El poder popular a nivel distrital prevalece sobre el Legislativo nacional únicamente en los casos mencionados explícitamente en esta Constitución (como la configuración de suplentes establecida en este artículo o la revocación del representante del distrito conforme a los artículos 10-11). Fuera de estos casos específicos, el poder popular distrital no puede anular decisiones del Legislativo nacional.
+El poder popular a nivel distrital prevalece sobre el Legislativo nacional únicamente en los casos mencionados explícitamente en esta Constitución, como la configuración de suplentes establecida en este artículo o la revocación del representante del distrito conforme a los artículos 10-11. Fuera de estos casos específicos, el poder popular distrital no puede anular decisiones del Legislativo nacional.
 
 ---
 
@@ -847,7 +845,7 @@ La finalización no requiere acto positivo adicional: opera automáticamente. Tr
 
 Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 66-67. Solo pueden modificarse mediante el procedimiento especial establecido en el artículo 65:
 
-1. Soberanía Popular (artículo 1): El poder reside permanentemente en el pueblo mediante los mecanismos de representación uninominal directa en distritos pequeños y revocabilidad del mandato al individuo al cual el poder ha sido delegado.
+1. Soberanía Popular (artículo 1): El poder reside en el pueblo mediante los mecanismos de representación uninominal directa en distritos pequeños y revocabilidad del mandato al individuo al cual el poder ha sido delegado.
 2. Sufragio Universal (artículo 4): Derecho al voto de todo ciudadano mayor de edad.
 3. Secreto del Voto (artículo 5): El voto es secreto por defecto y no puede ser eliminado salvo mediante este procedimiento.
 4. Garantía de Anulación Popular (artículo 6): El derecho a crear mecanismos de anulación popular directa de decisiones legislativas no puede ser suprimido.
