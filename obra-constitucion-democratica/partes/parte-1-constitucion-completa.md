@@ -150,33 +150,25 @@ Los representantes del Poder Legislativo serán siempre revocables directamente 
 
 Este artículo establece el procedimiento por defecto para la revocación de representantes del Poder Legislativo conforme al artículo 10.
 
-**Iniciativa:**
+Iniciativa:
 Cualquier ciudadano con derecho a voto, de manera individual o en grupo, puede iniciar un procedimiento de revocación. Esta capacidad de iniciativa individual solo puede modificarse mediante consenso de nivel N6.
 
-**Convocatoria:**
+Convocatoria:
 Requiere recogida de firmas del 10% del censo del distrito en un plazo máximo de 31 días.
 
-**Votación:**
-Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es requerido para que la votación sea válida. El proceso completo de revocación (desde convocatoria hasta resultado) no puede superar 2 semanas de duración.
+Votación:
+Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es requerido para que la votación sea válida. El proceso completo de revocación, desde convocatoria hasta resultado, no puede superar 2 semanas de duración.
 
-**Efecto:**
+Efecto:
 Si el resultado alcanza el nivel de consenso N4 a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.
 
-**Periodo de Reflexión:**
+Periodo de Reflexión:
 No puede convocarse nueva revocación contra el sucesor antes de haber transcurrido 4 meses desde su elección.
 
-**Configurabilidad:**
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6:
-- 10% de firmas del censo del distrito requerido para convocatoria.
-- 31 días máximo para recogida de firmas.
-- Nivel N4 requerido para revocación exitosa.
-- 7 días máximo para convocar nueva elección tras revocación.
-- 4 meses de periodo de reflexión antes de nueva revocación.
-- 2 semanas máximo de duración total del proceso.
-- 25% de participación mínima del censo del distrito.
-- 2 años mínimo censado en el distrito para poder votar en revocación.
+Configurabilidad:
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 10% de firmas del censo del distrito requerido para convocatoria, 31 días máximo para recogida de firmas, Nivel N4 requerido para revocación exitosa, 7 días máximo para convocar nueva elección tras revocación, 4 meses de periodo de reflexión antes de nueva revocación, 2 semanas máximo de duración total del proceso, 25% de participación mínima del censo del distrito y 2 años mínimo censado en el distrito para poder votar en revocación.
 
-Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N1, pero el mecanismo de revocación en sí no puede eliminarse. Los detalles del Proceso de Arranque se establecen en el Título III de esta Constitución.
+Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N2, pero el mecanismo de revocación en sí no puede eliminarse. Los detalles del Proceso de Arranque se establecen en el Título III de esta Constitución.
 
 ---
 
@@ -188,7 +180,7 @@ En la primera vuelta electoral, si un candidato alcanza o supera el 51% de los v
 
 Un mínimo de participación del 25% del censo del distrito es requerido para que la elección sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 7 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido.
 
-Los parámetros numéricos de este artículo (51%, 25%, 7 días) pueden modificarse mediante consenso de nivel N6.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 25% de participación mínima del censo del distrito y 7 días máximo para repetir elección si no se alcanza la participación mínima.
 
 ---
 
@@ -199,7 +191,7 @@ El tamaño de cada distrito es de 95.000 a 120.000 habitantes. La cifra exacta s
 Función objetivo: Maximizar el valor mínimo del percentil 25 de renta entre todos los distritos del país. Es decir, la distribución óptima de distritos es aquella en la que el distrito con el percentil 25 de renta más bajo tiene dicho valor lo más alto posible.
 
 Datos de entrada:
-1. Datos de población por unidad geográfica mínima disponible (municipio, sección censal o equivalente).
+1. Datos de población por unidad geográfica mínima disponible, como municipio, sección censal o equivalente.
 2. Datos de distribución de renta por unidad geográfica.
 3. Mapa geográfico del territorio nacional.
 
@@ -207,8 +199,9 @@ Restricciones:
 1. Cada distrito tiene entre 95.000 y 120.000 habitantes.
 2. Continuidad geográfica: cada distrito debe ser un territorio continuo, sin enclaves ni exclaves.
 3. Coherencia histórico-cultural: la delimitación debe respetar fronteras provinciales, municipales o comarcales cuando sea posible.
+4. Excepción por imposibilidad geográfica: cuando las restricciones de continuidad geográfica y coherencia histórico-cultural impidan formar un distrito dentro del rango de población establecido, se permite que ese distrito exceda o no alcance los límites, siempre que la desviación sea la mínima necesaria.
 
-Los parámetros numéricos de este artículo (95.000, 120.000) pueden modificarse mediante consenso de Nivel N6. Durante el Proceso de Arranque, el Legislativo puede establecer parámetros distintos mediante consenso de Nivel N4.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6. Estos son: 95.000 y 120.000 habitantes como límites del rango de población por distrito. Durante el Proceso de Arranque, el Legislativo puede establecer parámetros distintos mediante consenso de Nivel N3.
 
 ---
 
@@ -218,28 +211,28 @@ Los distritos electorales se actualizan cada 21 años. La actualización se real
 
 La primera distribución de distritos será establecida durante el Proceso de Arranque. La primera actualización se realizará 21 años después de la entrada en vigor de esta Constitución.
 
-Los parámetros numéricos de este artículo (21 años) pueden modificarse mediante consenso de Nivel N5.
+El periodo de actualización distrital de 21 años puede modificarse mediante consenso de Nivel N5.
 
 ---
 
 ## Artículo 15: Financiación Electoral
 
-**Financiación pública:**
+Financiación pública:
 Si existe financiación pública para campañas electorales, la cuantía debe ser idéntica para todos los candidatos sin excepción. Toda financiación electoral pública es transparente y se registra en un sistema público auditable. Cualquier ciudadano puede verificar el origen y destino de los fondos electorales públicos.
 
-**Donaciones privadas:**
-Las donaciones privadas a candidatos o campañas están sujetas a límite estricto. Solo ciudadanos con derecho a voto pueden realizar donaciones privadas; las personas jurídicas (empresas, asociaciones, fundaciones etc) tienen prohibido donar a campañas electorales. La donación máxima por ciudadano con derecho a voto es del 10% del salario correspondiente al percentil 25 de renta en toda la nación. Cada ciudadano con derecho a voto puede realizar únicamente 1 donación por proceso electoral.
+Donaciones privadas:
+Las donaciones privadas a candidatos o campañas están sujetas a un límite estricto. Solo ciudadanos con derecho a voto pueden realizar donaciones privadas; las personas jurídicas, como empresas, asociaciones o fundaciones, tienen prohibido donar a campañas electorales. La donación máxima por ciudadano con derecho a voto es del 10% del salario correspondiente al percentil 25 de renta en toda la nación. Cada ciudadano con derecho a voto puede realizar únicamente 1 donación por proceso electoral.
 
 El origen de las donaciones privadas es secreto. El destino y cuantía de las mismas son transparentes y auditables públicamente.
 
-**Protección contra financiación ilegal:**
-Si se detecta que la cuantía total recaudada por todos los candidatos supera el máximo legal permitido, la elección será declarada nula. Los fondos serán expropiados y devueltos a los donantes. El dinero sobrante será distribuido equitativamente entre todos los candidatos en las nuevas elecciones que comenzarán en 7 días. Si esta situación se repite 2 veces consecutivas, las elecciones tendrán lugar sí o sí en la tercera convocatoria independientemente de que se de este caso de nuevo.
+Protección contra financiación ilegal:
+Si se detecta que la cuantía total recaudada por todos los candidatos supera el máximo legal permitido, definido como el número de ciudadanos con derecho a voto multiplicado por la donación máxima individual, la elección será declarada nula. Los fondos serán expropiados y devueltos a los donantes. El dinero sobrante será distribuido equitativamente entre todos los candidatos en las nuevas elecciones que comenzarán en 7 días. Si esta situación se repite, las elecciones tendrán lugar en la segunda convocatoria independientemente de que se dé este caso de nuevo. Si se identifica a los responsables de la financiación ilegal, cada culpable deberá pagar una sanción de 10 veces la cuantía que haya excedido el límite legal. El pago podrá ejecutarse mediante cualquier medio, incluida la expropiación de bienes.
 
-**Periodo de reflexión:**
+Periodo de reflexión:
 Durante los 7 días previos a cualquier elección, queda prohibida toda forma de campaña electoral. Durante este periodo, los candidatos solo podrán dirigirse al electorado mediante actos públicos en espacios previamente acordados, garantizando a cada candidato la misma cantidad de tiempo y condiciones. Los detalles organizativos se establecen por legislación electoral. Las infracciones se sancionan conforme a la legislación electoral.
 
-**Configurabilidad:**
-Los parámetros numéricos de este artículo (10% del P25, 1 donación, 7 días de convocatoria, número límite de convocatorias, 7 días de reflexión) pueden modificarse mediante consenso de Nivel N6.
+Configurabilidad:
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6. Estos son: 10% del P25 como donación máxima individual, 1 donación por ciudadano por proceso electoral, 7 días para convocar nuevas elecciones tras anulación, número límite de convocatorias antes de elección definitiva y 7 días de periodo de reflexión previo a la elección.
 
 ---
 
