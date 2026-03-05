@@ -267,7 +267,7 @@ La doble vuelta previene la captura por minorías. En un sistema de vuelta únic
 
 ### ¿Por qué 95.000-120.000 habitantes?
 
-El rango proviene de datos sociolingüísticos (Trevijano): las comunidades lingüísticas por debajo de cierto umbral poblacional tienden a desaparecer. Por extensión, una comunidad política coherente necesita una densidad mínima para mantener identidad cultural y política. El rango es culturalmente contingente, no universalmente derivable, pero es plausible y funcional. Para países pequeños donde este rango resulte inviable (como Andorra o micronaciones), el Proceso de Arranque permite establecer parámetros distintos con consenso N4.
+El rango proviene de datos sociolingüísticos (Trevijano): las comunidades lingüísticas por debajo de cierto umbral poblacional tienden a desaparecer. Por extensión, una comunidad política coherente necesita una densidad mínima para mantener identidad cultural y política. El rango es culturalmente contingente, no universalmente derivable, pero es plausible y funcional. Para países pequeños donde este rango resulte inviable (como Andorra o micronaciones), el Proceso de Arranque permite establecer parámetros distintos con consenso N3. La excepción por imposibilidad geográfica permite que distritos aislados (islas pequeñas, zonas montañosas) se desvíen del rango cuando las restricciones de contigüidad y coherencia lo impidan, siempre con la desviación mínima necesaria.
 
 ### El Algoritmo (AOCD)
 
@@ -297,6 +297,8 @@ El ciclo de 21 años está protegido a N5: modificarlo requiere un consenso ampl
 Las donaciones privadas están limitadas al 10% del P25 nacional por persona, una sola donación por proceso electoral, y solo personas físicas (las jurídicas tienen prohibido donar). ¿Por qué? Porque la financiación ilimitada convierte las elecciones en subastas al mejor postor con mayor presupuesto de marketing, reduciendo la riqueza del ciclo de retroalimentación democrática. La Ley de Hierro de las Oligarquías (Michels) predice que la concentración de recursos produce concentración de poder. Limitar la financiación es limitar la oligarquía.
 
 El origen de las donaciones es secreto (para proteger al donante de represalias) pero el destino y cuantía son públicos (para que el electorado sepa quién recibe cuánto). Esta asimetría protege al individuo sin proteger la opacidad del sistema. Pues si el total de donaciones es mayor al límite permitido total, habrá una clara señal al pueblo de que algo debe ser investigado.
+
+Si se excede el máximo legal, la elección se anula una vez; a la segunda convocatoria se celebra definitivamente. Dos oportunidades, no más: si alguien quiere sabotear elecciones por financiación ilegal, solo puede retrasarlas una vez. Además, cada culpable identificado paga 10 veces la cuantía excedida, ejecutable mediante expropiación de bienes si es necesario. La sanción es deliberadamente desproporcionada para que el coste de intentar comprar una elección sea ruinoso.
 
 El periodo de reflexión de 7 días antes de cualquier elección prohíbe toda campaña electoral. Solo se permiten actos públicos en espacios previamente acordados, con igualdad de tiempo y condiciones para cada candidato. ¿Por qué no intentar prohibir la propaganda indirecta con reglas más detalladas? Porque es irrealista: un anuncio puede usar metáforas, alusiones y apología sin mencionar logos ni nombres, y la casuística es infinita. La Constitución define el límite (silencio electoral con excepciones igualitarias) y deja a la legislación electoral los detalles de aplicación y sanción.
 
