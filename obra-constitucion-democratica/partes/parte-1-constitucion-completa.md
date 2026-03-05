@@ -90,7 +90,7 @@ La edad de voto puede ajustarse entre 18 y 23 años mediante consenso de Nivel N
 
 El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 21. Ninguna persona o institución puede conocer el sentido del voto emitido por un ciudadano. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable, como mínimo, por ciudadanos con derecho a voto.
 
-Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III.
+Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III. Si se demuestra que un proceso de votación incumplió las garantías establecidas en este artículo, los responsables quedarán sujetos a las consecuencias penales que establezca la legislación ordinaria.
 
 ---
 
@@ -157,7 +157,7 @@ Convocatoria:
 Requiere recogida de firmas del 10% del censo del distrito en un plazo máximo de 31 días.
 
 Votación:
-Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es requerido para que la votación sea válida. El proceso completo de revocación, desde convocatoria hasta resultado, no puede superar 2 semanas de duración.
+Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es necesario para que la votación sea válida. El proceso completo de revocación, desde convocatoria hasta resultado, no puede superar 2 semanas de duración.
 
 Efecto:
 Si el resultado alcanza el nivel de consenso N4 a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.
@@ -178,7 +178,7 @@ Este artículo aplica a las elecciones de representantes del Poder Legislativo p
 
 En la primera vuelta electoral, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra segunda vuelta entre los dos candidatos más votados. El candidato que obtenga más votos en la segunda vuelta es proclamado electo.
 
-Un mínimo de participación del 25% del censo del distrito es requerido para que la elección sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 7 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido.
+Un mínimo de participación del 25% del censo del distrito es necesario para que la elección sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 7 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido.
 
 Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 25% de participación mínima del censo del distrito y 7 días máximo para repetir elección si no se alcanza la participación mínima.
 
@@ -238,13 +238,13 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 ## Artículo 16: Voto Remoto Verificable
 
-El voto puede ejercerse remotamente mediante sistema que garantice simultáneamente:
+El voto puede ejercerse remotamente mediante un sistema que garantice simultáneamente:
 
-1. Secreto del voto (imposibilidad de saber quién votó qué).
-2. Verificabilidad individual (cada votante puede comprobar que su voto fue contado).
-3. Auditoría pública (cualquier ciudadano con derecho a voto puede verificar la integridad del proceso).
+1. Secreto del voto: imposibilidad de saber quién votó qué.
+2. Verificabilidad individual: cada votante puede comprobar que su voto fue contado.
+3. Auditoría pública: cualquier ciudadano con derecho a voto puede verificar la integridad del proceso.
 
-Esta Constitución no prescribe tecnología específica: lo que importa es la capacidad del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas en el artículo 5 independientemente de la tecnología empleada.
+Esta Constitución no prescribe una tecnología específica: lo que importa son las garantías del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas en el artículo 5 independientemente de la tecnología empleada.
 
 ---
 
@@ -329,11 +329,11 @@ El Legislativo no podrá aprobar más de 7 leyes por semana. Este límite garant
 
 ## Artículo 22: Poder Ejecutivo - Presidente
 
-El Presidente de la República es elegido por sufragio directo de todos los ciudadanos con derecho a voto conforme al artículo 4, mediante sistema de doble vuelta.
+El Presidente de la República es elegido por sufragio directo de todos los ciudadanos con derecho a voto conforme al artículo 4, mediante un sistema de doble vuelta.
 
 En la primera vuelta, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra segunda vuelta entre los dos candidatos con mayor porcentaje de votos. El candidato que obtenga mayor porcentaje en la segunda vuelta es proclamado electo.
 
-Un mínimo de participación del 30% del censo nacional es requerido para que la elección presidencial sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 14 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido. Durante este periodo, el Presidente saliente continúa en funciones con carácter interino. Si el Presidente saliente no puede ejercer, se aplica la línea de sucesión establecida en el artículo 24.
+Un mínimo de participación del 30% del censo nacional es necesario para que la elección presidencial sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 14 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido. Durante este periodo, el Presidente saliente continúa en funciones con carácter interino. Si el Presidente saliente no puede ejercer, se aplica la línea de sucesión establecida en el artículo 24.
 
 Su mandato es de 5 años. Ninguna persona puede ejercer la Presidencia más de dos mandatos en toda su vida, sean o no consecutivos.
 
@@ -399,7 +399,7 @@ Si el Legislativo no aprueba un nuevo presupuesto antes del inicio del año fisc
 
 ## Artículo 29: Límite Presupuestario del Ejecutivo
 
-El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobados por el Legislativo en el presupuesto anual. Todo gasto público superior a la cantidad establecida por ley se registra en sistema público auditable por cualquier ciudadano o persona con residencia fiscal en el país, de manera permanente.
+El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobados por el Legislativo en el presupuesto anual. Todo gasto público superior a la cantidad establecida por ley se registra en un sistema público auditable por cualquier ciudadano o persona con residencia fiscal en el país, de manera permanente.
 
 ---
 
@@ -439,7 +439,7 @@ El número total de apelaciones y casaciones en un mismo caso no puede superar 5
 
 ## Artículo 33: Nombramiento de Jueces - Principio
 
-Los jueces son nombrados mediante procedimiento que garantiza independencia judicial. El nombramiento judicial requiere:
+Los jueces son nombrados mediante un procedimiento que garantiza independencia judicial. El nombramiento judicial requiere:
 
 1. Titulación jurídica acreditada.
 2. Experiencia profesional mínima establecida por ley.
@@ -620,7 +620,7 @@ Cuando la anulación popular alcanza el umbral establecido:
 
 ## Artículo 45: Transparencia Presupuestaria
 
-Todos los presupuestos públicos se publican en sistema público auditable. La publicación incluye:
+Todos los presupuestos públicos se publican en un sistema público auditable. La publicación incluye:
 
 1. Presupuesto aprobado desagregado por partidas.
 2. Ejecución presupuestaria actualizada cada 30 días.
@@ -674,7 +674,7 @@ Si se descubre o anuncia una operación secreta de este ámbito, el Poder Legisl
 
 ## Artículo 51: Presupuesto Militar
 
-El presupuesto de las Fuerzas Armadas es aprobado anualmente por el Legislativo mediante el procedimiento ordinario de aprobación presupuestaria. Todo gasto militar se registra en sistema público auditable, permitiendo auditoría ciudadana permanente.
+El presupuesto de las Fuerzas Armadas es aprobado anualmente por el Legislativo mediante el procedimiento ordinario de aprobación presupuestaria. Todo gasto militar se registra en un sistema público auditable, permitiendo auditoría ciudadana permanente.
 
 Excepciones:
 
@@ -759,7 +759,7 @@ Si en cualquier renovación no se alcanza el consenso requerido, el estado de ex
 
 ## Artículo 57: Límite 2 - Límite Territorial
 
-El estado de excepción solo puede aplicarse en la zona geográfica directamente afectada por la crisis que lo motiva. El resto del territorio nacional mantiene normalidad constitucional plena. Si la crisis es nacional en alcance, la declaración de estado de excepción aplica a todo territorio nacional.
+El estado de excepción solo puede aplicarse en la zona geográfica directamente afectada por la crisis que lo motiva. El resto del territorio nacional mantiene normalidad constitucional plena. Si la crisis es nacional en alcance, la declaración de estado de excepción aplica a todo el territorio nacional.
 
 ---
 
@@ -767,13 +767,13 @@ El estado de excepción solo puede aplicarse en la zona geográfica directamente
 
 Los poderes excepcionales están limitados a una lista cerrada establecida por ley, específica para cada tipo de estado de excepción conforme al artículo 54. Cualquier medida que exceda los poderes establecidos en la lista cerrada es nula de pleno derecho y constituye abuso de autoridad. En caso de abuso de autoridad, el Legislativo puede revocar el estado de excepción en cualquier momento mediante consenso de Nivel N1.
 
-El Poder Ejecutivo puede emitir decretos exclusivamente durante un estado de excepción declarado conforme al artículo 53. Fuera de un estado de excepción, los decretos están absolutamente prohibidos. Los decretos emitidos durante un estado de excepción son estrictamente temporales, cesan automáticamente con la finalización del estado de excepción, y bajo ningún concepto pueden anular ó modificar ningún artículo de esta Constitución.
+El Poder Ejecutivo puede emitir decretos exclusivamente durante un estado de excepción declarado conforme al artículo 53. Fuera de un estado de excepción, los decretos están absolutamente prohibidos. Los decretos emitidos durante un estado de excepción son estrictamente temporales, cesan automáticamente con la finalización del estado de excepción, y bajo ningún concepto pueden anular o modificar ningún artículo de esta Constitución.
 
 ---
 
 ## Artículo 59: Límite 4 - Control Parlamentario
 
-Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. A excepción de que el mecanismo de autodestrucción mutua (artículos 37-38) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente si el estado de excepción impide garantizar las condiciones establecidas en esta Constitución para su celebración: verificabilidad, privacidad del voto, auditoría pública conforme a los artículos 5 y 16. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 24 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 24 no es aplicable. En cuanto dichas condiciones puedan garantizarse, las elecciones se celebran en el plazo más breve posible, como muy tarde, deberá ser en 30 días.
+Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. A excepción de que el mecanismo de autodestrucción mutua (artículos 37-38) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente si el estado de excepción impide garantizar las condiciones establecidas en esta Constitución para su celebración: verificabilidad, privacidad del voto, auditoría pública conforme a los artículos 5 y 16. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 24 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 24 no es aplicable. En cuanto dichas condiciones puedan garantizarse, las elecciones se celebran en el plazo más breve posible, como muy tarde, dentro de 30 días.
 
 ---
 
@@ -890,7 +890,7 @@ La reforma ordinaria entra en vigor transcurrida 1 semana desde la aprobación.
 La iniciativa para proponer reformas ordinarias conforme al artículo 66 puede provenir de:
 
 1. Iniciativa legislativa: Un tercio (33%) de los miembros del Poder Legislativo.
-2. Iniciativa popular: El 10% del censo nacional mediante solicitud en sistema público auditable.
+2. Iniciativa popular: El 10% del censo nacional mediante solicitud en un sistema público auditable.
 
 Ambas vías de iniciativa requieren la aprobación final conforme a las mayorías establecidas en el artículo 66.
 
@@ -914,7 +914,7 @@ Ningún derecho fundamental, ya sea esencial (artículo 69) o complementario (ar
 
 ## Artículo 69: Derechos Fundamentales del Sistema Democrático
 
-Los siguientes derechos son condiciones necesarias para el funcionamiento de los mecanismos democráticos establecidos en esta Constitución. Estos derechos aplican en tanto en cuanto garanticen el funcionamiento de dichos mecanismos, y bajo ningún concepto pueden utilizarse para alterar, bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución así como descrito en el artículo 68.
+Los siguientes derechos son condiciones necesarias para el funcionamiento de los mecanismos democráticos establecidos en esta Constitución. Estos derechos aplican en tanto en cuanto garanticen el funcionamiento de dichos mecanismos, y bajo ningún concepto pueden utilizarse para alterar, bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución tal como se describe en el artículo 68.
 
 1. Expresión política: Toda persona tiene derecho a expresar, difundir y debatir ideas políticas sin censura.
 

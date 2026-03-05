@@ -6,7 +6,7 @@
 
 ## Conclusión
 
-Si este libro consigue una sola cosa, que sea esta: que el lector mire su propia constitución con ojos de ingeniero y se pregunte — ¿dónde están los puntos de fallo? ¿Quién vigila al vigilante? ¿Cuánto cuesta comprar este sistema? ¿Se están abusando recientemente ó se han abusado de estos puntos de fallo?
+Si este libro consigue una sola cosa, que sea esta: que el lector mire su propia constitución con ojos de ingeniero y se pregunte — ¿dónde están los puntos de fallo? ¿Quién vigila al vigilante? ¿Cuánto cuesta comprar este sistema? ¿Se está abusando recientemente o se ha abusado de estos puntos de fallo?
 
 Las respuestas, casi siempre, son incómodas. Pero la democracia no se construye con comodidad. Se construye con esfuerzo, convicción y cooperación.
 
