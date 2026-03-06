@@ -167,7 +167,7 @@ Con esta definición, estos argumentos y estas limitaciones en mente, es hora de
 
 La soberanía reside en el pueblo no como declaración retórica, sino como principio operativo. La jerarquía de legitimidad establece dos niveles: el Poder Popular por encima de los tres poderes delegados (Legislativo, Ejecutivo y Judicial), que son iguales entre sí. No es un cheque en blanco: es un principio de precedencia con reglas.
 
-¿Por qué los tres poderes son iguales? Porque la separación de poderes real requiere que ningún poder prevalezca sobre otro. Si el Legislativo pudiera anular directamente decisiones judiciales, la independencia judicial se desmorona. Si el Judicial pudiera legislar, la representación popular pierde sentido. La relación entre los tres poderes no es jerárquica sino de control mutuo: el Judicial revisa la constitucionalidad de las leyes (artículo 41) y los legisladores responden penalmente si legislan contra la Constitución (artículo 42). En ambos casos, equivocarse tiene consecuencias. Esta responsabilidad bidireccional sustituye a la jerarquía: no hace falta que uno esté "por encima" del otro cuando ambos pagan por sus errores.
+¿Por qué los tres poderes son iguales? Porque la separación de poderes real requiere que ningún poder prevalezca sobre otro. Si el Legislativo pudiera anular directamente decisiones judiciales, la independencia judicial se desmorona. Si el Judicial pudiera legislar, la representación popular pierde sentido. La relación entre los tres poderes no es jerárquica sino de control mutuo: el Judicial revisa la constitucionalidad de las leyes (artículo 42) y los legisladores responden penalmente si legislan contra la Constitución (artículo 43). En ambos casos, equivocarse tiene consecuencias. Esta responsabilidad bidireccional sustituye a la jerarquía: no hace falta que uno esté "por encima" del otro cuando ambos pagan por sus errores.
 
 ¿Por qué solo en los casos que la Constitución describe explícitamente? Aquí entra el trilema democrático: democracia, eficiencia y estabilidad no se pueden maximizar simultáneamente. Si el pueblo pudiera anular cualquier decisión de cualquier poder en cualquier momento, se maximizaría la democracia directa pero el sistema sería caótico e inoperante: ningún gobierno podría gobernar, ningún juez podría juzgar, ninguna ley tendría estabilidad suficiente para ser aplicada. La jerarquía de legitimidad opera solo a través de los mecanismos constitucionales específicos (anulación popular, revocación, elecciones) precisamente para equilibrar el control popular con la capacidad operativa del Estado.
 
@@ -185,7 +185,7 @@ El enfoque es "por defecto todo, excepciones explícitas": cada categoría goza 
 
 La cláusula sobre condenas penales evita crear una cuarta categoría de sujeto ("delincuente"). Un condenado no pierde su condición de persona ni de ciudadano: pierde derechos específicos determinados por la ley y la sentencia, dentro de los límites constitucionales. Esto es análogo a un sistema de permisos en software: no se elimina el usuario, se le revocan permisos concretos.
 
-Una amenaza teórica a tener en cuenta: la nacionalidad se define "conforme a la ley", lo que significa que el Legislativo podría endurecer los requisitos de nacionalidad para reducir indirectamente el electorado sin técnicamente "restringir el sufragio" (artículo 4). Esta Constitución no define quién es ciudadano — lo delega a la ley. Esto es un vector de ataque lento: cada endurecimiento individual parece razonable, pero acumulados van excluyendo a sectores de la población. El control de constitucionalidad (artículos 40-41), la igualdad ante la ley (artículo 8) y la protección pétrea del sufragio universal (artículo 64) dificultan esta vía, pero no la eliminan por completo. Es una limitación consciente: definir la nacionalidad en la Constitución la haría rígida ante realidades demográficas cambiantes; delegarla a la ley la hace flexible pero vulnerable. Se opta por la flexibilidad con contrapesos.
+Una amenaza teórica a tener en cuenta: la nacionalidad se define "conforme a la ley", lo que significa que el Legislativo podría endurecer los requisitos de nacionalidad para reducir indirectamente el electorado sin técnicamente "restringir el sufragio" (artículo 4). Esta Constitución no define quién es ciudadano — lo delega a la ley. Esto es un vector de ataque lento: cada endurecimiento individual parece razonable, pero acumulados van excluyendo a sectores de la población. El control de constitucionalidad (artículos 41-42), la igualdad ante la ley (artículo 8) y la protección pétrea del sufragio universal (artículo 65) dificultan esta vía, pero no la eliminan por completo. Es una limitación consciente: definir la nacionalidad en la Constitución la haría rígida ante realidades demográficas cambiantes; delegarla a la ley la hace flexible pero vulnerable. Se opta por la flexibilidad con contrapesos.
 
 ## Artículo 4: Sufragio Universal
 
@@ -302,9 +302,23 @@ Si se excede el máximo legal, la elección se anula una vez; a la segunda convo
 
 El periodo de reflexión de 7 días antes de cualquier elección prohíbe toda campaña electoral. Solo se permiten actos públicos en espacios previamente acordados, con igualdad de tiempo y condiciones para cada candidato. ¿Por qué no intentar prohibir la propaganda indirecta con reglas más detalladas? Porque es irrealista: un anuncio puede usar metáforas, alusiones y apología sin mencionar logos ni nombres, y la casuística es infinita. La Constitución define el límite (silencio electoral con excepciones igualitarias) y deja a la legislación electoral los detalles de aplicación y sanción.
 
-# TÍTULO III: PROCESO DE ARRANQUE
+# TÍTULO III: PROCESO DE TRANSICIÓN
 
-## La analogía hardware/software
+## Artículo 17: Transición Institucional
+
+El Proceso de Transición resuelve la pregunta fundamental: ¿qué pasa el día después de aprobar esta Constitución? Las instituciones democráticas no existen aún, pero alguien tiene que gobernar mientras se crean. La respuesta es que el régimen anterior continúa como interino, pero bajo las reglas de esta Constitución.
+
+El régimen anterior ejerce exclusivamente funciones ejecutivas: mantiene el orden, administra servicios, ejecuta la ley existente. No puede legislar (el monopolio legislativo corresponde al futuro Legislativo conforme al artículo 21), ni juzgar (eso corresponde al futuro Judicial). En la práctica, es un gobierno de transición con mandato limitado a mantener el país en funcionamiento mientras se constituyen los poderes democráticos.
+
+La secuencia de elecciones es deliberada: Legislativo primero, Ejecutivo segundo. El Legislativo se constituye primero porque es el poder más cercano al pueblo (representantes de distrito elegidos directamente). Una vez en funciones, el Ejecutivo se elige por separado, garantizando legitimidad propia desde el primer día. El Judicial se constituye durante el Proceso de Arranque posterior (artículo 18), conforme a los artículos 35-37.
+
+La publicación del AOCD con datos verificables garantiza que cualquier ciudadano pueda replicar el cálculo y verificar que los distritos se formaron correctamente. Esto minimiza la posibilidad de que el régimen anterior manipule la distribución electoral a su favor.
+
+Si durante la Transición se produce un estado de excepción, el régimen anterior asume el control (es el único actor con capacidad ejecutiva antes de que el Presidente sea elegido). El mecanismo es recursivo: si hay sucesivas interrupciones, cada vez se reanuda desde donde se interrumpió. No hace falta límite temporal forzado porque la Transición avanza por hitos (publicar AOCD, celebrar elecciones legislativas, celebrar elecciones ejecutivas), no por reloj.
+
+## Artículo 18: Proceso de Arranque
+
+### La analogía hardware/software
 
 Una constitución pura es demasiado abstracta para operar. Un sistema real necesita:
 
@@ -315,15 +329,19 @@ Una constitución pura es demasiado abstracta para operar. Un sistema real neces
 
 El Proceso de Arranque es el firmware: configura los detalles operativos que la Constitución deja abiertos pero con límites (derechos restringibles en estados de excepción, sanciones concretas para legisladores, catálogo de derechos complementarios, etc.) con consensos reducidos (N1 en vez de los niveles superiores habituales). Esto permite establecer el sistema rápidamente sin la rigidez de los procedimientos ordinarios.
 
-## ¿Por qué es necesario?
+### ¿Por qué es necesario?
 
 Porque la Constitución define qué debe protegerse pero no cómo en todos los detalles. Por ejemplo: es obvio que todo ciudadano debe tener derecho a apelar una sentencia, pero no a apelar 100 veces porque el sistema sería inoperante. El límite exacto depende del sistema judicial concreto y de ciertos procedimientos, pero seguro no supera 5 por caso. La Constitución fija el mínimo (1 apelación y 1 casación garantizadas) y el máximo (5 totales), pero los detalles intermedios — cuántos niveles de apelación, en qué tipos de procedimiento — se dejan a la legislación ordinaria.
 
-El Arranque permite que la primera legislatura, elegida bajo la nueva Constitución, establezca rápidamente la configuración operativa que la Constitución sí le asigna explícitamente (como los años de experiencia mínima para jueces del artículo 33) con consensos reducidos a N1, sin la rigidez de los procedimientos ordinarios. La anulación popular (artículo 6) opera permanentemente, no solo durante el Arranque: el umbral de anulación siempre corresponde al nivel de consenso requerido para la decisión original, independientemente del porcentaje real que la votó. Durante el Arranque, como el nivel requerido es N1, la anulación necesita el 51% del censo; en operación normal, una decisión cuyo nivel requerido sea N3 necesita el 66% para ser anulada, aunque en la práctica la hubieran aprobado el 80%.
+El Arranque permite que la primera legislatura, elegida bajo la nueva Constitución, establezca rápidamente la configuración operativa que la Constitución sí le asigna explícitamente (como los años de experiencia mínima para jueces del artículo 34) con consensos reducidos a N1, sin la rigidez de los procedimientos ordinarios. La anulación popular (artículo 6) opera permanentemente, no solo durante el Arranque: el umbral de anulación siempre corresponde al nivel de consenso requerido para la decisión original, independientemente del porcentaje real que la votó. Durante el Arranque, como el nivel requerido es N1, la anulación necesita el 51% del censo; en operación normal, una decisión cuyo nivel requerido sea N3 necesita el 66% para ser anulada, aunque en la práctica la hubieran aprobado el 80%.
 
-## ¿Por qué no puede reactivarse?
+### ¿Por qué no puede reactivarse?
 
-El Arranque es un mecanismo de transición, no una herramienta permanente. Si pudiera reactivarse, cualquier gobierno futuro podría invocar un "nuevo arranque" para eludir los consensos elevados de la operación normal. Es un evento único e irrepetible.
+El Arranque es un mecanismo de configuración, no una herramienta permanente. Si pudiera reactivarse, cualquier gobierno futuro podría invocar un "nuevo arranque" para eludir los consensos elevados de la operación normal. Es un evento único e irrepetible.
+
+### Estado de excepción durante el Arranque
+
+A diferencia de la Transición, durante el Arranque ya existen Legislativo y Ejecutivo elegidos democráticamente. Por tanto, si se declara un estado de excepción, no es necesario recurrir al régimen anterior: el Presidente maneja la crisis conforme a los mecanismos ordinarios del artículo 54. El Arranque simplemente se pausa y se reanuda con el tiempo restante que quedaba el día anterior a la declaración, con un mínimo de 2 meses. El mínimo garantiza que siempre quede tiempo útil de configuración tras una crisis, evitando que un Arranque casi agotado pierda su capacidad operativa tras una interrupción.
 
 ---
 ---
@@ -333,17 +351,17 @@ El Arranque es un mecanismo de transición, no una herramienta permanente. Si pu
 
 # TÍTULO IV: SEPARACIÓN Y CONTRAPESOS DE LOS PODERES
 
-## Artículo 18: Separación de Poderes
+## Artículo 19: Separación de Poderes
 
 La separación es material, no formal. Muchas constituciones declaran separación de poderes pero permiten que el ejecutivo nombre jueces, que el parlamento dependa del ejecutivo para su presupuesto, o que un poder controle la financiación de otro. Esta Constitución exige independencia real: de nombramiento, de financiación y de funcionamiento. Sin independencia económica no hay independencia política.
 
 Dicho esto, la independencia no es absoluta ni puede serlo. ¿Por qué? Porque alguien tiene que decir "sí, esto se aprueba". Un presupuesto, una ley, una estructura organizativa: en algún punto del proceso, algún órgano debe tener la última palabra. Lo más lógico es que sea el poder más cercano al demos —el Legislativo, compuesto por representantes directos de distrito— quien ejerza esa función de aprobación final. Pero debe hacerlo con límites, porque el pueblo no puede estar pendiente permanentemente de cada batalla presupuestaria entre poderes: la sobrecarga cognitiva lo hace imposible en la práctica.
 
-De ahí que existan puntos de contacto deliberados entre poderes, diseñados para que se controlen mutuamente sin que ninguno pueda estrangular al otro. El caso más claro es el presupuesto judicial (artículo 30): el Judicial propone su propio presupuesto, pero el Legislativo debe aprobarlo o rechazarlo. ¿Es esto una dependencia? Sí, pero con tres protecciones que la neutralizan como vector de ataque: el Legislativo no puede modificar el presupuesto propuesto (solo aceptar o rechazar en bloque), el rechazo requiere una supermayoría de dos tercios (N3), y si lo rechaza se mantiene el presupuesto anterior ajustado a inflación. Es decir, el Legislativo no puede usar el presupuesto para castigar al Judicial: lo peor que puede hacer es mantener el statu quo.
+De ahí que existan puntos de contacto deliberados entre poderes, diseñados para que se controlen mutuamente sin que ninguno pueda estrangular al otro. El caso más claro es el presupuesto judicial (artículo 31): el Judicial propone su propio presupuesto, pero el Legislativo debe aprobarlo o rechazarlo. ¿Es esto una dependencia? Sí, pero con tres protecciones que la neutralizan como vector de ataque: el Legislativo no puede modificar el presupuesto propuesto (solo aceptar o rechazar en bloque), el rechazo requiere una supermayoría de dos tercios (N3), y si lo rechaza se mantiene el presupuesto anterior ajustado a inflación. Es decir, el Legislativo no puede usar el presupuesto para castigar al Judicial: lo peor que puede hacer es mantener el statu quo.
 
-La autodestrucción mutua (artículos 37-38) sigue la misma lógica: es un punto de contacto entre Ejecutivo y Legislativo que existe precisamente para resolver bloqueos, pero diseñado para que activarlo tenga un coste simétrico que desincentiva su abuso.
+La autodestrucción mutua (artículos 38-39) sigue la misma lógica: es un punto de contacto entre Ejecutivo y Legislativo que existe precisamente para resolver bloqueos, pero diseñado para que activarlo tenga un coste simétrico que desincentiva su abuso.
 
-## Artículos 19-21: Poder Legislativo
+## Artículos 20-22: Poder Legislativo
 
 Cámara única, no bicameral. Una segunda cámara (Senado) en un sistema uninominal no añade representatividad: duplica burocracia, refuerza oligarquías. La función legislativa es monopolio del Legislativo (el ejecutivo no legisla, el judicial no legisla), lo que mantiene la separación de poderes real.
 
@@ -353,31 +371,31 @@ Los niveles de consenso legislativo se calculan sobre el total de escaños, no s
 
 El límite de 7 leyes aprobadas por semana existe para proteger al Poder Judicial. Si el Legislativo pudiera aprobar leyes sin restricción de ritmo, podría inundar el sistema judicial con legislación más rápido de lo que los jueces pueden revisar su constitucionalidad. Con 7 leyes semanales, un juez necesita revisar como máximo 1 ley al día en caso de impugnación. Este límite garantiza que el control de constitucionalidad del Título IV sea operativamente viable, no solo teórico.
 
-## Artículos 22-23: Poder Ejecutivo
+## Artículos 23-24: Poder Ejecutivo
 
 El Presidente es elegido directamente por el pueblo. ¿Por qué no por el parlamento? Porque la elección directa es simplemente más democrática: aunque el Legislativo esté compuesto por representantes de distrito cercanos al ciudadano, seguiría siendo una elección indirecta, un paso más entre el demos y quien gestiona el Estado. La elección directa del Ejecutivo da al Presidente legitimidad propia, independiente de la del Legislativo, lo que refuerza la separación de poderes. Pero es un gestor puro: ejecuta las leyes que aprueba el Legislativo, no las crea. La distinción es fundamental. En muchos sistemas parlamentarios, el primer ministro es líder del partido mayoritario, lo que fusiona ejecutivo y legislativo. Aquí se separan radicalmente.
 
 Solo hay una figura al mando del Ejecutivo: el Presidente. Nada de primer ministro y presidente simultáneamente, ni de jefes de gobierno separados del jefe de Estado, ni de figuras intermedias que diluyan la responsabilidad. Cada capa añadida incrementa la ambigüedad sobre quién decide qué, multiplica la burocracia y hace el sistema innecesariamente complejo. Con una separación de poderes real y controlada como la de esta Constitución, no hace falta repartir el Ejecutivo entre varias figuras: un solo individuo al mando, con legitimidad directa del pueblo, revocable mediante autodestrucción mutua si el Legislativo lo considera necesario. La responsabilidad es clara, la cadena de mando es simple, y no hay ambigüedad sobre a quién exigir cuentas.
 
-El Presidente puede delegar funciones en ministros, pero ciertas decisiones son explícitamente no delegables: las decisiones militares (artículos 48-50) y la declaración de estados de excepción (artículo 53). La razón es doble: estas decisiones requieren una cadena de mando clara con un único responsable, y la estructura de consecuencias personales (especialmente la amputación del artículo 50) solo funciona si quien decidió es inequívocamente identificable.
+El Presidente puede delegar funciones en ministros, pero ciertas decisiones son explícitamente no delegables: las decisiones militares (artículos 49-51) y la declaración de estados de excepción (artículo 54). La razón es doble: estas decisiones requieren una cadena de mando clara con un único responsable, y la estructura de consecuencias personales (especialmente la amputación del artículo 51) solo funciona si quien decidió es inequívocamente identificable.
 
 El mandato presidencial (5 años) es intencionalmente distinto del legislativo (4 años) para desacoplar los ciclos electorales y evitar que un mismo momento de entusiasmo o crisis determine simultáneamente ambos poderes.
 
-## Artículo 24: Sucesión Presidencial
+## Artículo 25: Sucesión Presidencial
 
 El Vicepresidente es nombrado por el Presidente, no elegido por el pueblo. Esto es deliberado: su función no es gobernar sino garantizar continuidad operativa en caso de emergencia. Precisamente porque no tiene legitimidad popular directa, su mandato interino debe ser lo más breve posible: nuevas elecciones en un máximo de 45 días. Quien asuma la Presidencia interina queda sujeto a exactamente las mismas responsabilidades, obligaciones y consecuencias que el Presidente electo. Esto es fundamental: el interino no es un guardián con inmunidad especial, es un Presidente con todas las de la ley.
 
 ¿Por qué no dejar que el Vicepresidente termine el mandato? Porque sería entregar el Poder Ejecutivo a alguien que nadie votó, potencialmente durante años. Esto abre dos vectores de ataque: asesinar al Presidente para que su Vicepresidente (comprado) asuma el poder, o que una potencia extranjera corrompa al Vicepresidente sabiendo que solo necesita eliminar al Presidente para que su inversión dé frutos. Las elecciones inmediatas neutralizan ambos vectores: incluso si el Vicepresidente está comprado, solo tiene 45 días antes de que el pueblo decida quién gobierna.
 
-Si las elecciones no se celebran en el plazo de 45 días, el interino se considera usurpador. Esto es deliberado: el interino no tiene incentivo legítimo para retrasar las elecciones, así que cualquier retraso es sospechoso. La consecuencia es severa precisamente para que nadie se arriesgue. La única excepción es un estado de excepción que imposibilite materialmente las elecciones, caso cubierto por el artículo 59 (control parlamentario durante estados de excepción), que suspende los plazos electorales cuando no pueden garantizarse las condiciones del artículo 5. Nótese la modularidad: el artículo 24 establece la regla y la consecuencia; el artículo 59 establece la excepción. Esto evita duplicar lógica en la Constitución.
+Si las elecciones no se celebran en el plazo de 45 días, el interino se considera usurpador. Esto es deliberado: el interino no tiene incentivo legítimo para retrasar las elecciones, así que cualquier retraso es sospechoso. La consecuencia es severa precisamente para que nadie se arriesgue. La única excepción es un estado de excepción que imposibilite materialmente las elecciones, caso cubierto por el artículo 60 (control parlamentario durante estados de excepción), que suspende los plazos electorales cuando no pueden garantizarse las condiciones del artículo 5. Nótese la modularidad: el artículo 25 establece la regla y la consecuencia; el artículo 60 establece la excepción. Esto evita duplicar lógica en la Constitución.
 
-La declaración de incapacidad es exclusivamente judicial. Solo un juez puede declarar incapacitado al Presidente. El proceso puede ser iniciado por el Vicepresidente o por el Legislativo mediante consenso N2. El umbral N2 para la solicitud legislativa previene que una minoría instrumentalice la incapacidad como herramienta política, sin exigir un consenso tan alto que bloquee la actuación ante una emergencia real. La declaración es recurrible mediante apelación por cualquier ciudadano con derecho a voto, no solo por el afectado o sus allegados. Abrir la apelación a toda la ciudadanía es coherente con el principio de soberanía popular: si el Presidente fue elegido por todos, cualquiera tiene legitimidad para impugnar su destitución. Si la declaración es revocada en apelación, el juez que la emitió queda sujeto a las sanciones del artículo 41 (responsabilidad penal de jueces). Esta consecuencia desincentiva declaraciones frívolas o políticamente motivadas. Las causas de incapacidad enumeradas (muerte, coma, deterioro cognitivo severo) son estados objetivamente verificables. La lista es ampliable pero no reducible por el Legislativo con N3 (durante Arranque, N2), lo que permite adaptar las causas a situaciones no previstas sin rebajar las garantías. La irreducibilidad es clave: impide que un Legislativo cómplice elimine causas de incapacidad para proteger a un Presidente enfermo que les conviene mantener.
+La declaración de incapacidad es exclusivamente judicial. Solo un juez puede declarar incapacitado al Presidente. El proceso puede ser iniciado por el Vicepresidente o por el Legislativo mediante consenso N2. El umbral N2 para la solicitud legislativa previene que una minoría instrumentalice la incapacidad como herramienta política, sin exigir un consenso tan alto que bloquee la actuación ante una emergencia real. La declaración es recurrible mediante apelación por cualquier ciudadano con derecho a voto, no solo por el afectado o sus allegados. Abrir la apelación a toda la ciudadanía es coherente con el principio de soberanía popular: si el Presidente fue elegido por todos, cualquiera tiene legitimidad para impugnar su destitución. Si la declaración es revocada en apelación, el juez que la emitió queda sujeto a las sanciones del artículo 43 (responsabilidad penal de jueces). Esta consecuencia desincentiva declaraciones frívolas o políticamente motivadas. Las causas de incapacidad enumeradas (muerte, coma, deterioro cognitivo severo) son estados objetivamente verificables. La lista es ampliable pero no reducible por el Legislativo con N3 (durante Arranque, N2), lo que permite adaptar las causas a situaciones no previstas sin rebajar las garantías. La irreducibilidad es clave: impide que un Legislativo cómplice elimine causas de incapacidad para proteger a un Presidente enfermo que les conviene mantener.
 
 ¿Qué ocurre si el Presidente se recupera tras haber sido declarado incapacitado, pero ya se han celebrado nuevas elecciones? El Legislativo decide por N1. Esto resuelve un caso límite real: un Presidente en coma que despierta meses después. No sería justo restituirlo automáticamente (el pueblo ya eligió a otro), ni justo ignorarlo automáticamente (fue depuesto por causas médicas, no por voluntad popular). La decisión N1 del Legislativo permite evaluar las circunstancias concretas.
 
 La línea de sucesión secundaria (representante del Legislativo de mayor antigüedad) cubre el caso extremo de que tanto Presidente como Vicepresidente queden inhabilitados simultáneamente. Las mismas condiciones aplican: carácter interino, mismas responsabilidades y consecuencias, elecciones en 45 días. La línea de sucesión es ampliable por el Legislativo con N3 (durante Arranque, N1), permitiendo añadir cargos adicionales a la cadena de sucesión si la experiencia lo aconseja.
 
-## Artículos 26-29: Ministerios y Presupuesto
+## Artículos 27-30: Ministerios y Presupuesto
 
 El límite de 20 ministerios y el mecanismo de presupuesto por defecto son medidas que se refuerzan mutuamente. El límite de ministerios previene la inflación burocrática: cada ministerio es un centro de poder y presupuesto, y más ministerios significa más puntos de captura para un adversario. El Presidente tiene monopolio de nombramiento (no necesita aprobación parlamentaria para ministros) porque el ejecutivo debe ser ágil. El límite se modifica con el procedimiento de reforma ordinaria (N4): es un detalle administrativo que no merece protección reforzada. Durante el Arranque puede ajustarse con N1 para adaptar la estructura ministerial inicial.
 
@@ -385,7 +403,7 @@ El presupuesto por defecto complementa esta agilidad con estabilidad: si el Legi
 
 Un Presidente no puede inflar la burocracia para crear feudos de poder, y un Legislativo no puede paralizar al gobierno reteniendo el presupuesto como arma política. El único vector de ataque restante es la manipulación de los datos de inflación para incrementar indirectamente el presupuesto ejecutivo, pero falsear la inflación tiene consecuencias visibles e inmediatas para toda la ciudadanía, lo que genera un contrapeso natural: el enfado popular actúa como mecanismo de corrección.
 
-## Artículos 30-36: Poder Judicial
+## Artículos 31-37: Poder Judicial
 
 ### Independencia financiera
 
@@ -412,7 +430,7 @@ Durante el Arranque, los 9 magistrados se nombran simultáneamente pero necesita
 ---
 ---
 
-## Artículos 37-38: Autodestrucción Mutua
+## Artículos 38-39: Autodestrucción Mutua
 
 ¿Cómo resolver un bloqueo entre Presidente y Parlamento sin destruir la democracia? El mecanismo de autodestrucción mutua, idea original de Trevijano, resuelve este problema: ambos tienen un "botón nuclear". El Legislativo puede cesar al Presidente, y el Presidente puede disolver el Legislativo. Pero activar el botón destruye a ambos: se convocan elecciones simultáneas para los dos. Es una destrucción mutua asegurada (MAD, por sus siglas en inglés), inspirada en la disuasión nuclear.
 
@@ -420,7 +438,7 @@ Funciona porque el coste de uso es simétrico: ambos pierden el poder, así que 
 
 El periodo de desactivación (cooldown) es una adición propia a la idea de Trevijano. Tras activar el mecanismo, existe un periodo durante el cual no puede volver a usarse, y este periodo es asimétrico: quien lo invoca paga más (periodo más largo antes de poder volver a activarlo). Esto desincentiva el uso ofensivo y favorece el uso defensivo. Sin este cooldown, el mecanismo podría convertirse en un arma de desgaste: activarlo repetidamente hasta que el adversario se rinda. El cooldown asimétrico lo convierte en un arma de último recurso.
 
-La existencia del mecanismo es cláusula pétrea (artículo 64): no puede eliminarse. Sus parámetros numéricos (umbral de cese, plazo de elecciones, periodos de cooldown) requieren consenso N6 para modificarse. La lógica es la misma que en un juego competitivo: no solo importa tener la habilidad, sino que el cooldown y los parámetros de activación son igual de determinantes para su efectividad. Cambiar el umbral de cese de N1 a N6 equivaldría a neutralizar el mecanismo sin eliminarlo formalmente.
+La existencia del mecanismo es cláusula pétrea (artículo 65): no puede eliminarse. Sus parámetros numéricos (umbral de cese, plazo de elecciones, periodos de cooldown) requieren consenso N6 para modificarse. La lógica es la misma que en un juego competitivo: no solo importa tener la habilidad, sino que el cooldown y los parámetros de activación son igual de determinantes para su efectividad. Cambiar el umbral de cese de N1 a N6 equivaldría a neutralizar el mecanismo sin eliminarlo formalmente.
 
 ## Incumplimiento Grave del Ejecutivo
 
@@ -444,11 +462,11 @@ El control difuso (modelo estadounidense, distribuido) permite que cualquier jue
 
 Los legisladores que aprueban leyes inconstitucionales son sancionados penalmente. Pero los jueces que declaran leyes inconstitucionales erróneamente también lo son. Esta bidireccionalidad evita dos abusos simétricos: legisladores que ignoran la Constitución y jueces que abusan de su poder de control.
 
-Además, los jueces cuyas decisiones ordinarias sean anuladas popularmente (artículo 44, ámbito ordinario) también asumen responsabilidad penal, aunque de menor gravedad que la de inconstitucionalidad. La distinción de gravedad es deliberada: un error en constitucionalidad afecta a todo el ordenamiento jurídico; una decisión ordinaria anulada popularmente refleja una discrepancia entre interpretación judicial y voluntad popular, pero no necesariamente un fallo técnico del juez.
+Además, los jueces cuyas decisiones ordinarias sean anuladas popularmente (artículo 45, ámbito ordinario) también asumen responsabilidad penal, aunque de menor gravedad que la de inconstitucionalidad. La distinción de gravedad es deliberada: un error en constitucionalidad afecta a todo el ordenamiento jurídico; una decisión ordinaria anulada popularmente refleja una discrepancia entre interpretación judicial y voluntad popular, pero no necesariamente un fallo técnico del juez.
 
 La sanción económica solo puede pagarse con salario de trabajo personal (no inversiones, donaciones ni venta de activos). Esto impide que un rico pague la multa fácilmente y la convierta en un coste de negocio.
 
-## Anulación Popular de decisiones judiciales (artículo 44)
+## Anulación Popular de decisiones judiciales (artículo 45)
 
 Cuando el Tribunal Supremo declara una ley inconstitucional, su decisión es técnicamente final en el orden judicial. Pero no es democráticamente final. El pueblo, como fuente última de legitimidad (artículo 1), puede anular esa decisión mediante recogida de firmas del 51% del censo. Esto implementa la jerarquía de legitimidad: Judicial < Legislativo < Popular.
 
@@ -544,7 +562,7 @@ Estos límites son absolutos porque si te cargas cualquiera de ellos, la democra
 
 ## Prohibición de decretos fuera de estados de excepción
 
-El Ejecutivo solo puede emitir decretos durante un estado de excepción. Fuera de uno, los decretos están absolutamente prohibidos. Esto previene la legislación ejecutiva ("decretismo") que erosiona la separación de poderes. Si el Presidente quiere una ley, debe pedírsela al Legislativo. Y cuando sí hay decreto, el artículo 58 lo sujeta a tres límites: solo puede cubrir medidas de una lista cerrada por tipo de excepción, cesa automáticamente al terminar el estado de excepción, y bajo ningún concepto puede anular o modificar la Constitución.
+El Ejecutivo solo puede emitir decretos durante un estado de excepción. Fuera de uno, los decretos están absolutamente prohibidos. Esto previene la legislación ejecutiva ("decretismo") que erosiona la separación de poderes. Si el Presidente quiere una ley, debe pedírsela al Legislativo. Y cuando sí hay decreto, el artículo 59 lo sujeta a tres límites: solo puede cubrir medidas de una lista cerrada por tipo de excepción, cesa automáticamente al terminar el estado de excepción, y bajo ningún concepto puede anular o modificar la Constitución.
 
 ---
 ---
@@ -562,13 +580,13 @@ Las cláusulas pétreas protegen los pilares sin los cuales la democracia deja d
 2. Sufragio universal (artículo 4): sin él, no todos participan.
 3. Secreto del voto (artículo 5): sin él, el voto es coaccionable y la democracia es simulada.
 4. Garantía de anulación popular (artículo 6): sin ella, el pueblo pierde la capacidad de corregir errores del poder delegado.
-5. Separación de poderes (artículo 18): sin ella, el poder se concentra.
+5. Separación de poderes (artículo 19): sin ella, el poder se concentra.
 6. Igualdad ante la ley (artículo 8): sin ella, los gobernantes se convierten en clase privilegiada inmune a las consecuencias de sus actos.
-7. Equilibrio de poderes (artículo 37): sin la autodestrucción mutua, un poder puede someter al otro indefinidamente sin consecuencias.
-8. Supremacía constitucional (artículo 40): sin ella, una ley ordinaria puede vaciar la Constitución de contenido.
-9. Derechos fundamentales democráticos (artículo 69): sin ellos (expresión, información, reunión, integridad, privacidad del voto), los mecanismos democráticos funcionan en el papel pero no en la práctica.
+7. Equilibrio de poderes (artículo 38): sin la autodestrucción mutua, un poder puede someter al otro indefinidamente sin consecuencias.
+8. Supremacía constitucional (artículo 41): sin ella, una ley ordinaria puede vaciar la Constitución de contenido.
+9. Derechos fundamentales democráticos (artículo 70): sin ellos (expresión, información, reunión, integridad, privacidad del voto), los mecanismos democráticos funcionan en el papel pero no en la práctica.
 10. Jerarquía de legitimidad (artículo 1): sin ella, un poder subordinado puede capturar al superior.
-11. Derecho de reforma (artículos 66-67): sin él, la Constitución se convierte en tiranía de los muertos sobre los vivos.
+11. Derecho de reforma (artículos 67-68): sin él, la Constitución se convierte en tiranía de los muertos sobre los vivos.
 
 Lo que no es cláusula pétrea: detalles administrativos, números de representantes, procedimientos específicos. Estos pueden evolucionar sin destruir la democracia. La distinción es clara: lo pétreo protege la existencia de mecanismos fundamentales; los parámetros numéricos de esos mecanismos se protegen mediante niveles de consenso específicos (N5, N6) que permiten ajustes sin eliminar el mecanismo en sí.
 
@@ -580,19 +598,19 @@ Los umbrales (95% legislativo + 85% referéndum + participación del 75% del cen
 
 Claro está, toda medida que se justifique como protección tiene el doble filo de la manipulación. Por ende, desde aquí quiero fomentar un pensamiento crítico sobre el consenso de nivel 6 en el lector. No creo que sea la solución perfecta, pero es la mejor que se me ha ocurrido a mí.
 
-## Artículo 68: Los mecanismos prevalecen sobre los derechos
+## Artículo 69: Los mecanismos prevalecen sobre los derechos
 
 Los mecanismos constitucionales (votación, revocación, separación de poderes) son la garantía última de todos los derechos. Sin la máquina democrática, los derechos carecen de protección efectiva.
 
 Por eso ningún derecho puede invocarse para bloquear los mecanismos: sería usar una pieza de la máquina para destruir la máquina entera. Es como construir un coche funcional pero con la carrocería de plástico en vez de metal: funciona perfectamente hasta el primer choque, y entonces no hay nada que proteja lo de dentro.
 
-## Artículo 66: Reforma ordinaria y protección contra bypass
+## Artículo 67: Reforma ordinaria y protección contra bypass
 
 La reforma ordinaria es el mecanismo por defecto para modificar cualquier artículo no pétreo: N4 legislativo o N1 popular con 50% de participación. Es deliberadamente accesible para permitir que la Constitución evolucione.
 
-Sin embargo, existe un loophole potencial: si un artículo contiene parámetros protegidos a N5 o N6, un legislativo con solo N4 podría reformar el artículo entero, reescribiendo los parámetros y bypaseando su protección. Para cerrar este loophole, el artículo 66 establece que la reforma de un artículo requiere un consenso igual o superior al mayor nivel de protección de los parámetros que contiene. Así, la protección de parámetros no puede ser eludida mediante reforma del artículo que los alberga.
+Sin embargo, existe un loophole potencial: si un artículo contiene parámetros protegidos a N5 o N6, un legislativo con solo N4 podría reformar el artículo entero, reescribiendo los parámetros y bypaseando su protección. Para cerrar este loophole, el artículo 67 establece que la reforma de un artículo requiere un consenso igual o superior al mayor nivel de protección de los parámetros que contiene. Así, la protección de parámetros no puede ser eludida mediante reforma del artículo que los alberga.
 
-El sistema de protección queda estructurado en tres capas: cláusulas pétreas (artículo 64) para principios fundamentales irrenunciables, protección de parámetros (N3 a N6 según cada artículo) para valores numéricos y configuraciones específicas, y reforma ordinaria (artículo 66) como mecanismo por defecto para todo lo demás.
+El sistema de protección queda estructurado en tres capas: cláusulas pétreas (artículo 65) para principios fundamentales irrenunciables, protección de parámetros (N3 a N6 según cada artículo) para valores numéricos y configuraciones específicas, y reforma ordinaria (artículo 67) como mecanismo por defecto para todo lo demás.
 
 ---
 ---

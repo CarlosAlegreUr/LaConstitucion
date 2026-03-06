@@ -2,7 +2,7 @@
 
 **Texto Constitucional Completo**
 
-**Total de artículos:** 70
+**Total de artículos:** 71
 **Estructura:** 6 Títulos
 
 ---
@@ -11,19 +11,19 @@
 
 - **TÍTULO I:** PRINCIPIOS FUNDAMENTALES (Arts. 1-8)
 - **TÍTULO II:** SISTEMA ELECTORAL (Arts. 9-16)
-- **TÍTULO III:** PROCESO DE ARRANQUE (Art. 17)
-- **TÍTULO IV:** SEPARACIÓN Y CONTRAPESOS DE LOS PODERES (Arts. 18-63)
-  - Subtítulo 1: Poder Legislativo (Arts. 19-21)
-  - Subtítulo 2: Poder Ejecutivo (Arts. 22-29)
-  - Subtítulo 3: Poder Judicial (Arts. 30-36)
-  - Subtítulo 4: Equilibrio entre Poderes (Arts. 37-39)
-  - Subtítulo 5: Control de Legitimidad Judicial (Arts. 40-43)
-  - Subtítulo 6: Anulación Popular (Art. 44)
-  - Subtítulo 7: Control Fiscal y Transparencia (Arts. 45-46)
-  - Subtítulo 8: Fuerzas Armadas (Arts. 47-52)
-  - Subtítulo 9: Estados de Excepción (Arts. 53-63)
-- **TÍTULO V:** REFORMA Y PROTECCIÓN CONSTITUCIONAL (Arts. 64-68)
-- **TÍTULO VI:** DERECHOS Y PROTECCIONES (Arts. 69-70)
+- **TÍTULO III:** PROCESO DE TRANSICIÓN (Arts. 17-18)
+- **TÍTULO IV:** SEPARACIÓN Y CONTRAPESOS DE LOS PODERES (Arts. 19-64)
+  - Subtítulo 1: Poder Legislativo (Arts. 20-22)
+  - Subtítulo 2: Poder Ejecutivo (Arts. 23-30)
+  - Subtítulo 3: Poder Judicial (Arts. 31-37)
+  - Subtítulo 4: Equilibrio entre Poderes (Arts. 38-40)
+  - Subtítulo 5: Control de Legitimidad Judicial (Arts. 41-44)
+  - Subtítulo 6: Anulación Popular (Art. 45)
+  - Subtítulo 7: Control Fiscal y Transparencia (Arts. 46-47)
+  - Subtítulo 8: Fuerzas Armadas (Arts. 48-53)
+  - Subtítulo 9: Estados de Excepción (Arts. 54-64)
+- **TÍTULO V:** REFORMA Y PROTECCIÓN CONSTITUCIONAL (Arts. 65-69)
+- **TÍTULO VI:** DERECHOS Y PROTECCIONES (Arts. 70-71)
 
 ---
 ---
@@ -36,7 +36,7 @@ La soberanía reside en el pueblo. El pueblo ejerce su soberanía mediante los m
 
 Se establece la siguiente jerarquía de legitimidad democrática, de mayor a menor:
 
-1. Poder Popular, que se ejerce mediante la elección directa de representantes (artículos 9 y 12), la revocación de cargos electos (artículos 10-11), la anulación popular de decisiones legislativas (artículo 6) y judiciales (artículo 44), y la iniciativa y referéndum de reforma constitucional (artículos 65-67).
+1. Poder Popular, que se ejerce mediante la elección directa de representantes (artículos 9 y 12), la revocación de cargos electos (artículos 10-11), la anulación popular de decisiones legislativas (artículo 6) y judiciales (artículo 45), y la iniciativa y referéndum de reforma constitucional (artículos 66-68).
 2. Poderes delegados: Legislativo (Subtítulo 1 del Título IV), Ejecutivo (Subtítulo 2 del Título IV) y Judicial (Subtítulo 3 del Título IV), iguales entre sí y sujetos a control recíproco conforme a los mecanismos establecidos en esta Constitución (Subtítulos 4-9 del Título IV).
 
 El Poder Popular puede oponerse a las decisiones de cualquier poder delegado únicamente conforme a los procedimientos establecidos en esta Constitución. Ningún poder delegado prevalece sobre otro; sus conflictos se resuelven mediante los mecanismos de control mutuo que esta Constitución establece.
@@ -54,7 +54,7 @@ Esta Constitución establece seis niveles de consenso para la toma de decisiones
 5. Nivel N5, supermayoría reforzada: 85%.
 6. Nivel N6, cuasi-unanimidad: 95%.
 
-Salvo indicación explícita en contrario, los porcentajes se calculan sobre el total de votos válidos emitidos. Cuando un artículo especifica "del censo", el porcentaje se calcula sobre el censo electoral conforme al artículo 3. Las votaciones del Poder Legislativo se rigen por la regla específica establecida en el artículo 21.
+Salvo indicación explícita en contrario, los porcentajes se calculan sobre el total de votos válidos emitidos. Cuando un artículo especifica "del censo", el porcentaje se calcula sobre el censo electoral conforme al artículo 3. Las votaciones del Poder Legislativo se rigen por la regla específica establecida en el artículo 22.
 
 ---
 
@@ -82,13 +82,13 @@ Las restricciones de derechos derivadas de condena penal firme se rigen por la l
 
 Todo ciudadano mayor de 18 años tiene derecho al voto. Cada ciudadano dispone de un voto con igual valor: un ciudadano, un voto. El sufragio no puede restringirse salvo dentro de los límites de edad establecidos en este artículo.
 
-La edad de voto puede ajustarse entre 18 y 23 años mediante consenso de Nivel N5. Los límites de este rango solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 65.
+La edad de voto puede ajustarse entre 18 y 23 años mediante consenso de Nivel N5. Los límites de este rango solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 66.
 
 ---
 
 ## Artículo 5: Secreto y Verificabilidad del Voto
 
-El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 21. Ninguna persona o institución puede conocer el sentido del voto emitido por un ciudadano. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable, como mínimo, por ciudadanos con derecho a voto.
+El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 22. Ninguna persona o institución puede conocer el sentido del voto emitido por un ciudadano. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable, como mínimo, por ciudadanos con derecho a voto.
 
 Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III. Si se demuestra que un proceso de votación incumplió las garantías establecidas en este artículo, los responsables quedarán sujetos a las consecuencias penales que establezca la legislación ordinaria.
 
@@ -209,7 +209,7 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el Algoritmo de Optimización de la Corruptabilidad de Distritos (AOCD) conforme al artículo 13. Las especificaciones completas del AOCD se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado mediante referéndum.
 
-La primera distribución de distritos será establecida durante el Proceso de Arranque. La primera actualización se realizará 21 años después de la entrada en vigor de esta Constitución.
+La primera distribución de distritos será establecida durante el Proceso de Transición (artículo 17). La primera actualización se realizará 21 años después de la entrada en vigor de esta Constitución.
 
 El periodo de actualización distrital de 21 años puede modificarse mediante consenso de Nivel N5.
 
@@ -256,23 +256,27 @@ Esta Constitución no prescribe una tecnología específica: lo que importa son 
 ---
 ---
 
-# TÍTULO III: PROCESO DE ARRANQUE
+# TÍTULO III: PROCESO DE TRANSICIÓN
 
-## Artículo 17: Proceso de Arranque - Mandato Especial
+## Artículo 17: Transición Institucional
 
-El Proceso de Arranque es el periodo de 1 año inmediatamente posterior a la aprobación de esta Constitución. Esta duración de 1 año no puede modificarse durante el propio Proceso de Arranque. Durante este periodo, ciertos niveles de consenso requeridos por esta Constitución son reducidos conforme se especifica en cada artículo correspondiente. Durante el Proceso de Arranque se aplica la garantía de anulación popular establecida en el artículo 6.
+El Proceso de Transición comienza inmediatamente tras la aprobación de esta Constitución y finaliza cuando el Presidente electo conforme al artículo 23 toma posesión del cargo. Durante este periodo, el régimen anterior a la entrada en vigor de esta Constitución continúa gobernando con carácter interino, ejerciendo exclusivamente funciones ejecutivas y sometido a los principios y normas de esta Constitución.
 
-Si durante el Proceso de Arranque se declara un estado de excepción conforme al artículo 53, el mandatario anterior a la entrada en vigor de esta Constitución asume el control hasta el cese del estado de excepción. Tras el cese, el Proceso de Arranque se reanuda con los siguientes plazos:
+El régimen anterior publica el resultado del Algoritmo de Optimización de la Corruptibilidad de Distritos conforme al artículo 13, junto con todos los datos utilizados para su ejecución, de manera que cualquier ciudadano pueda verificar el resultado. Tras la publicación y formación de distritos, se convocan elecciones en el siguiente orden, cada una en un mes distinto: primero, elecciones al Poder Legislativo conforme al artículo 12; segundo, elecciones al Poder Ejecutivo conforme al artículo 23.
 
-- Tras la primera interrupción: 6 meses de Arranque restante.
-- Tras interrupciones sucesivas: 3 meses de Arranque restante.
+Si durante el Proceso de Transición se declara un estado de excepción conforme al artículo 54, el régimen anterior asume el control hasta el cese del estado de excepción, siempre bajo los principios de esta Constitución. Tras el cese, el Proceso de Transición se reanuda desde el punto en que fue interrumpido. Esta regla se aplica recursivamente: si se declara un nuevo estado de excepción durante el Proceso de Transición reanudado, se aplica el mismo mecanismo.
 
-Estos plazos se aplican sucesivamente hasta que el Proceso de Arranque se complete sin interrupción.
+---
+
+## Artículo 18: Proceso de Arranque - Mandato Especial
+
+El Proceso de Arranque es el periodo de 1 año inmediatamente posterior a la finalización del Proceso de Transición (artículo 17). Esta duración de 1 año no puede modificarse durante el propio Proceso de Arranque. Durante este periodo, ciertos niveles de consenso requeridos por esta Constitución son reducidos conforme se especifica en cada artículo correspondiente.
+
+Si durante el Proceso de Arranque se declara un estado de excepción conforme al artículo 54, el Proceso de Arranque se suspende por la duración del estado de excepción. Tras el cese, el Proceso de Arranque se reanuda con el tiempo restante que quedaba el día anterior a la declaración del estado de excepción, con un mínimo de 2 meses. Esta regla se aplica recursivamente: si se declara un nuevo estado de excepción durante el Arranque reanudado, se aplica el mismo mecanismo.
 
 Finalizado el Proceso de Arranque, las reducciones de consenso aplicadas durante el mismo dejan de estar en vigor. A partir de ese momento, se aplican los niveles de consenso ordinarios establecidos en cada artículo y el control popular de decisiones legislativas y judiciales se ejerce mediante los mecanismos ordinarios establecidos en el Título IV. El Proceso de Arranque no puede reactivarse, es un mecanismo único aplicable solo en la fase de establecimiento inicial de esta Constitución.
 
 ---
-
 ---
 
 **Fin del Título III**
@@ -283,11 +287,11 @@ Finalizado el Proceso de Arranque, las reducciones de consenso aplicadas durante
 
 # TÍTULO IV: SEPARACIÓN Y CONTRAPESOS DE LOS PODERES
 
-## Artículo 18: Separación de Poderes
+## Artículo 19: Separación de Poderes
 
 Los poderes Legislativo, Ejecutivo y Judicial deberán ser independientes entre sí. Ningún poder puede ejercer funciones constitucionalmente asignadas a otro. Esta separación es material, no meramente formal: cada poder debe contar con independencia de nombramiento y mecanismos de financiación económica que garanticen su autonomía efectiva.
 
-La financiación de cada poder debe ser la descrita en esta Constitución (artículos 28-30 y 51).
+La financiación de cada poder debe ser la descrita en esta Constitución (artículos 29-31 y 52).
 
 ---
 
@@ -295,23 +299,23 @@ La financiación de cada poder debe ser la descrita en esta Constitución (artí
 
 **SUBTÍTULO 1: PODER LEGISLATIVO**
 
-## Artículo 19: Poder Legislativo - Composición
+## Artículo 20: Poder Legislativo - Composición
 
 El Poder Legislativo se compone de una cámara única de representantes elegidos por distritos territoriales conforme al artículo 9. Los representantes son elegidos por mandato de 4 años y son revocables directamente por el pueblo de su distrito conforme a los artículos 10 y 11.
 
 ---
 
-## Artículo 20: Poder Legislativo - Funciones
+## Artículo 21: Poder Legislativo - Funciones
 
-El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en las excepciones previstas en esta Constitución. Es decir, solo el Legislativo puede aprobar, modificar o derogar leyes, sin perjuicio del control de constitucionalidad ejercido por el Poder Judicial (artículos 40-41). Sus funciones incluyen:
+El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en las excepciones previstas en esta Constitución. Es decir, solo el Legislativo puede aprobar, modificar o derogar leyes, sin perjuicio del control de constitucionalidad ejercido por el Poder Judicial (artículos 41-42). Sus funciones incluyen:
 
 1. Aprobar, modificar o derogar leyes.
 2. Aprobar el presupuesto anual del Estado.
-3. Ratificar el presupuesto propuesto por el Poder Judicial conforme al artículo 30.
+3. Ratificar el presupuesto propuesto por el Poder Judicial conforme al artículo 31.
 
 ---
 
-## Artículo 21: Poder Legislativo - Votaciones
+## Artículo 22: Poder Legislativo - Votaciones
 
 Todas las votaciones del Legislativo son públicas y quedan registradas en un sistema auditable por cualquier ciudadano. El voto de cada representante debe ser conocido o verificable por sus electores.
 
@@ -327,37 +331,37 @@ El Legislativo no podrá aprobar más de 7 leyes por semana. Este límite garant
 
 **SUBTÍTULO 2: PODER EJECUTIVO**
 
-## Artículo 22: Poder Ejecutivo - Presidente
+## Artículo 23: Poder Ejecutivo - Presidente
 
 El Presidente de la República es elegido por sufragio directo de todos los ciudadanos con derecho a voto conforme al artículo 4, mediante un sistema de doble vuelta.
 
 En la primera vuelta, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra segunda vuelta entre los dos candidatos con mayor porcentaje de votos. El candidato que obtenga mayor porcentaje en la segunda vuelta es proclamado electo.
 
-Un mínimo de participación del 30% del censo nacional es necesario para que la elección presidencial sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 14 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido. Durante este periodo, el Presidente saliente continúa en funciones con carácter interino. Si el Presidente saliente no puede ejercer, se aplica la línea de sucesión establecida en el artículo 24.
+Un mínimo de participación del 30% del censo nacional es necesario para que la elección presidencial sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 14 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido. Durante este periodo, el Presidente saliente continúa en funciones con carácter interino. Si el Presidente saliente no puede ejercer, se aplica la línea de sucesión establecida en el artículo 25.
 
 Su mandato es de 5 años. Ninguna persona puede ejercer la Presidencia más de dos mandatos en toda su vida, sean o no consecutivos.
 
 ---
 
-## Artículo 23: Poder Ejecutivo - Funciones del Presidente
+## Artículo 24: Poder Ejecutivo - Funciones del Presidente
 
 El Presidente ejerce la totalidad del Poder Ejecutivo. Sus funciones incluyen:
 
 1. Jefatura del Estado.
-2. Defensa nacional y mando de las Fuerzas Armadas (artículo 47).
+2. Defensa nacional y mando de las Fuerzas Armadas (artículo 48).
 3. Relaciones exteriores y representación internacional.
-4. Declaración de estados de excepción (artículo 53).
+4. Declaración de estados de excepción (artículo 54).
 5. Política interior y coordinación gubernamental.
 6. Ejecución del presupuesto aprobado por el Legislativo.
 7. Dirección de los ministerios.
 
-El Presidente puede delegar funciones en los ministros conforme al artículo 27. En todo caso, el Presidente conserva la autoridad última sobre cualquier decisión del Poder Ejecutivo. Las siguientes funciones no son delegables:
-1. Declaración de guerra y decisiones militares establecidas en los artículos 48, 49 y 50.
-2. Declaración de estados de excepción (artículo 53).
+El Presidente puede delegar funciones en los ministros conforme al artículo 28. En todo caso, el Presidente conserva la autoridad última sobre cualquier decisión del Poder Ejecutivo. Las siguientes funciones no son delegables:
+1. Declaración de guerra y decisiones militares establecidas en los artículos 49, 50 y 51.
+2. Declaración de estados de excepción (artículo 54).
 
 ---
 
-## Artículo 24: Sucesión Presidencial
+## Artículo 25: Sucesión Presidencial
 
 El Presidente nombra un Vicepresidente. Su mandato coincide con el del Presidente.
 
@@ -367,9 +371,9 @@ Si el Vicepresidente no puede asumir la Presidencia interina, la asume el repres
 
 ---
 
-## Artículo 25: Incapacidad Presidencial
+## Artículo 26: Incapacidad Presidencial
 
-La incapacidad del Presidente es declarada exclusivamente por el Poder Judicial, a solicitud del Vicepresidente o del Poder Legislativo mediante consenso N2. La declaración es recurrible mediante apelación por cualquier ciudadano con derecho a voto. Si la declaración de incapacidad es revocada en apelación, el juez o tribunal que la emitió queda sujeto a las sanciones establecidas en el artículo 42 para la responsabilidad penal de jueces.
+La incapacidad del Presidente es declarada exclusivamente por el Poder Judicial, a solicitud del Vicepresidente o del Poder Legislativo mediante consenso N2. La declaración es recurrible mediante apelación por cualquier ciudadano con derecho a voto. Si la declaración de incapacidad es revocada en apelación, el juez o tribunal que la emitió queda sujeto a las sanciones establecidas en el artículo 43 para la responsabilidad penal de jueces.
 
 Constituyen causas de incapacidad: muerte, coma y deterioro cognitivo severo. El Poder Legislativo puede ampliar esta lista pero no reducirla mediante consenso N3; durante el periodo de Arranque, mediante N2.
 
@@ -377,27 +381,27 @@ Si el Presidente recupera su capacidad tras haber sido declarado incapacitado, p
 
 ---
 
-## Artículo 26: Ministerios - Límite Constitucional
+## Artículo 27: Ministerios - Límite Constitucional
 
-El número máximo de ministerios por defecto es de 20. La estructura ministerial es competencia exclusiva del Presidente conforme al artículo 23. Esta Constitución no establece una lista cerrada de ministerios, solo el número máximo de estos.
+El número máximo de ministerios por defecto es de 20. La estructura ministerial es competencia exclusiva del Presidente conforme al artículo 24. Esta Constitución no establece una lista cerrada de ministerios, solo el número máximo de estos.
 
 Durante el Proceso de Arranque, este límite puede modificarse con consenso de Nivel N1.
 
 ---
 
-## Artículo 27: Ministerios - Nombramiento
+## Artículo 28: Ministerios - Nombramiento
 
 Los ministros son nombrados y cesados exclusivamente por el Presidente salvo que un ministro sea condenado por delito cuya pena incluya la pérdida del cargo. En ese caso, el cese es automático e independiente de la voluntad del Presidente. Toda persona que pierda un cargo público por condena penal queda inhabilitada permanentemente para ejercer cualquier cargo en la administración pública.
 
 ---
 
-## Artículo 28: Presupuesto Anterior por Defecto
+## Artículo 29: Presupuesto Anterior por Defecto
 
 Si el Legislativo no aprueba un nuevo presupuesto antes del inicio del año fiscal, se prorroga automáticamente el presupuesto del año anterior, ajustado a la inflación del periodo.
 
 ---
 
-## Artículo 29: Límite Presupuestario del Ejecutivo
+## Artículo 30: Límite Presupuestario del Ejecutivo
 
 El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobados por el Legislativo en el presupuesto anual. Todo gasto público superior a la cantidad establecida por ley se registra en un sistema público auditable por cualquier ciudadano o persona con residencia fiscal en el país, de manera permanente.
 
@@ -407,7 +411,7 @@ El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobado
 
 **SUBTÍTULO 3: PODER JUDICIAL**
 
-## Artículo 30: Poder Judicial - Independencia y Financiación
+## Artículo 31: Poder Judicial - Independencia y Financiación
 
 El Poder Judicial es independiente de los poderes Legislativo y Ejecutivo. Los jueces no reciben órdenes ni instrucciones de ningún otro poder.
 
@@ -415,7 +419,7 @@ El Tribunal Supremo elabora y propone el presupuesto anual del Poder Judicial. E
 
 ---
 
-## Artículo 31: Poder Judicial - Jerarquía
+## Artículo 32: Poder Judicial - Jerarquía
 
 La estructura judicial se organiza en tres niveles:
 
@@ -423,11 +427,11 @@ La estructura judicial se organiza en tres niveles:
 2. Segunda Instancia: Tribunales de apelación y casación.
 3. Tribunal Supremo: Tribunal de última instancia.
 
-Las decisiones del Tribunal Supremo son definitivas en el orden judicial, sin perjuicio de la anulación popular establecida en el artículo 44.
+Las decisiones del Tribunal Supremo son definitivas en el orden judicial, sin perjuicio de la anulación popular establecida en el artículo 45.
 
 ---
 
-## Artículo 32: Derecho de Apelación y Casación
+## Artículo 33: Derecho de Apelación y Casación
 
 Toda parte en un proceso judicial tiene derecho a al menos una apelación y una casación ante tribunal de segunda instancia. Este derecho se ejerce por caso y por nivel: cuando varias partes solicitan revisión del mismo caso ante el mismo nivel, el caso asciende una única vez, no una vez por cada parte que lo solicite.
 
@@ -437,7 +441,7 @@ El número total de apelaciones y casaciones en un mismo caso no puede superar 5
 
 ---
 
-## Artículo 33: Nombramiento de Jueces - Principio
+## Artículo 34: Nombramiento de Jueces - Principio
 
 Los jueces son nombrados mediante un procedimiento que garantiza independencia judicial. El nombramiento judicial requiere:
 
@@ -451,7 +455,7 @@ La modificación de estos requisitos requiere consenso de Nivel N5.
 
 ---
 
-## Artículo 34: Tribunal Supremo - Composición
+## Artículo 35: Tribunal Supremo - Composición
 
 El Tribunal Supremo se compone de 9 magistrados. Cada magistrado es nombrado por un mandato de máximo 12 años. El mandato es renovable tras un periodo de exclusión de 8 años desde la finalización del mandato anterior. La renovación es escalonada: cada 4 años se renuevan 3 magistrados.
 
@@ -467,7 +471,7 @@ Los parámetros numéricos de este artículo (9 magistrados, 12 años de mandato
 
 ---
 
-## Artículo 35: Tribunal Supremo - Nombramiento
+## Artículo 36: Tribunal Supremo - Nombramiento
 
 Los candidatos a magistrado del Tribunal Supremo son propuestos exclusivamente por las siguientes instituciones, cada una con al menos 10 años de funcionamiento en el país:
 
@@ -479,9 +483,9 @@ La elección final se realiza mediante votación popular vinculante (elección d
 
 ---
 
-## Artículo 36: Tribunal Supremo - Renovación Escalonada
+## Artículo 37: Tribunal Supremo - Renovación Escalonada
 
-Cada 4 años se procede al nombramiento de 3 nuevos magistrados del Tribunal Supremo conforme al artículo 35, sustituyendo a los 3 magistrados cuyo mandato de 12 años haya expirado conforme al artículo 34. Los magistrados salientes pueden ser propuestos nuevamente como candidatos una vez transcurrido el periodo de exclusión de 8 años establecido en el artículo 34.
+Cada 4 años se procede al nombramiento de 3 nuevos magistrados del Tribunal Supremo conforme al artículo 36, sustituyendo a los 3 magistrados cuyo mandato de 12 años haya expirado conforme al artículo 35. Los magistrados salientes pueden ser propuestos nuevamente como candidatos una vez transcurrido el periodo de exclusión de 8 años establecido en el artículo 35.
 
 ---
 
@@ -489,19 +493,19 @@ Cada 4 años se procede al nombramiento de 3 nuevos magistrados del Tribunal Sup
 
 **SUBTÍTULO 4: EQUILIBRIO ENTRE PODERES**
 
-## Artículo 37: Autodestrucción Mutua - Mecanismo
+## Artículo 38: Autodestrucción Mutua - Mecanismo
 
-El Legislativo puede cesar al Presidente mediante votación de consenso N1. El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo (artículo 12) y del Presidente (artículo 22) en un plazo máximo de 30 días. El Presidente cesado no puede presentarse a las elecciones inmediatas resultantes.
+El Legislativo puede cesar al Presidente mediante votación de consenso N1. El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo (artículo 12) y del Presidente (artículo 23) en un plazo máximo de 30 días. El Presidente cesado no puede presentarse a las elecciones inmediatas resultantes.
 
 Los parámetros numéricos de este artículo (N1, 30 días) pueden modificarse mediante consenso de Nivel N6.
 
-El mecanismo de autodestrucción mutua no puede activarse durante un estado de excepción declarado conforme al artículo 53.
+El mecanismo de autodestrucción mutua no puede activarse durante un estado de excepción declarado conforme al artículo 54.
 
 ---
 
-## Artículo 38: Autodestrucción Mutua - Periodo de Desactivación
+## Artículo 39: Autodestrucción Mutua - Periodo de Desactivación
 
-Tras la activación del mecanismo de autodestrucción mutua (artículo 37), opera un periodo de desactivación asimétrico durante el cual ninguna de las partes podrá ejecutar el mecanismo de autodestrucción mutua. El periodo de desactivación se aplica de forma diferenciada a quien lo invocó y a quien lo recibió:
+Tras la activación del mecanismo de autodestrucción mutua (artículo 38), opera un periodo de desactivación asimétrico durante el cual ninguna de las partes podrá ejecutar el mecanismo de autodestrucción mutua. El periodo de desactivación se aplica de forma diferenciada a quien lo invocó y a quien lo recibió:
 
 Si lo invocó el Legislativo:
 - Periodo de desactivación para el Legislativo: 6 meses desde las nuevas elecciones.
@@ -515,7 +519,7 @@ Los parámetros numéricos de este artículo (6 meses, 12 meses, 3 meses) pueden
 
 ---
 
-## Artículo 39: Incumplimiento Grave del Ejecutivo
+## Artículo 40: Incumplimiento Grave del Ejecutivo
 
 Cuando el Ejecutivo incurra en incumplimiento grave de resoluciones judiciales firmes, podrá iniciarse un proceso para convocar nuevas elecciones al Ejecutivo.
 
@@ -524,7 +528,7 @@ Iniciativa:
 2. Vía popular: grupo de al menos el 10% del censo nacional.
 
 Resolución:
-El Tribunal Supremo conoce directamente del proceso y determina si el incumplimiento es suficientemente grave para justificar la convocatoria de nuevas elecciones. La decisión del Tribunal Supremo es recurrible una única vez mediante apelación (artículo 32) por cualquier ciudadano con derecho a voto.
+El Tribunal Supremo conoce directamente del proceso y determina si el incumplimiento es suficientemente grave para justificar la convocatoria de nuevas elecciones. La decisión del Tribunal Supremo es recurrible una única vez mediante apelación (artículo 33) por cualquier ciudadano con derecho a voto.
 
 Causas de incumplimiento grave:
 1. Negarse a ejecutar una sentencia firme del Tribunal Supremo.
@@ -533,7 +537,7 @@ Causas de incumplimiento grave:
 La modificación de la lista de causas establecida por legislación ordinaria requiere consenso de Nivel N4.
 
 Efecto:
-Si el Tribunal Supremo declara el incumplimiento grave, se convocan nuevas elecciones al Ejecutivo en un plazo máximo de 45 días. Durante este periodo se aplican las reglas de sucesión del artículo 24.
+Si el Tribunal Supremo declara el incumplimiento grave, se convocan nuevas elecciones al Ejecutivo en un plazo máximo de 45 días. Durante este periodo se aplican las reglas de sucesión del artículo 25.
 
 ---
 
@@ -541,13 +545,13 @@ Si el Tribunal Supremo declara el incumplimiento grave, se convocan nuevas elecc
 
 **SUBTÍTULO 5: CONTROL DE LEGITIMIDAD JUDICIAL**
 
-## Artículo 40: Supremacía Constitucional
+## Artículo 41: Supremacía Constitucional
 
-Esta Constitución es la norma suprema del ordenamiento jurídico. Toda ley, reglamento, acto administrativo o decisión judicial que contravenga esta Constitución es nula de pleno derecho. El control de constitucionalidad es difuso: todo juez, en cualquier instancia, puede declarar la inaplicabilidad de una norma en el caso concreto si la considera contraria a esta Constitución. Esta declaración de inaplicabilidad puede ser recurrida conforme al sistema en capas establecido en el artículo 41.
+Esta Constitución es la norma suprema del ordenamiento jurídico. Toda ley, reglamento, acto administrativo o decisión judicial que contravenga esta Constitución es nula de pleno derecho. El control de constitucionalidad es difuso: todo juez, en cualquier instancia, puede declarar la inaplicabilidad de una norma en el caso concreto si la considera contraria a esta Constitución. Esta declaración de inaplicabilidad puede ser recurrida conforme al sistema en capas establecido en el artículo 42.
 
 ---
 
-## Artículo 41: Proceso De Análisis De Constitucionalidad
+## Artículo 42: Proceso De Análisis De Constitucionalidad
 
 Cualquier ciudadano con derecho a voto puede impugnar la constitucionalidad de cualquier ley aprobada ante los tribunales, independientemente de cuánto tiempo haya transcurrido desde su aprobación. Cada ley puede ser sometida a revisión constitucional una vez cada 6 años. Las impugnaciones pueden presentarse individualmente o en packs de hasta 10 leyes, juzgándose cada ley por separado. Solo puede existir un proceso de revisión constitucional activo por ley en cada momento; si un pack contiene una ley ya en proceso, el pack se admite pero esa ley se excluye. El máximo de packs en proceso simultáneo es de 10, lo que establece un límite de 100 leyes en revisión constitucional simultánea. La impugnación se presenta ante tribunal de primera instancia y se resuelve conforme al siguiente sistema en capas:
 
@@ -555,30 +559,30 @@ Cualquier ciudadano con derecho a voto puede impugnar la constitucionalidad de c
 
 2. Segunda Instancia (Casación): El tribunal de segunda instancia revisa exclusivamente el razonamiento jurídico aplicado. Puede confirmar la inaplicabilidad, revocarla o matizar sus términos. Su decisión es válida en cualquiera de los sentidos: tanto si confirma la inconstitucionalidad como si declara la norma constitucional. Si confirma la inaplicabilidad, la norma queda inaplicable para todos los casos. Cualquier ciudadano con derecho a voto puede recurrir esta decisión ante el Tribunal Supremo dentro de un plazo máximo de 2 semanas desde la decisión de segunda instancia. Transcurrido este plazo sin recurso, la decisión de segunda instancia deviene permanente.
 
-3. Tribunal Supremo: Es el intérprete último de la constitucionalidad de las leyes en el orden judicial. Sus decisiones son vinculantes para todos los tribunales del país. Cuando declara inconstitucional una norma, esta queda inaplicable para todos los casos. La decisión del Tribunal Supremo solo puede revertirse mediante anulación popular conforme al artículo 44 o mediante reforma constitucional. El Legislativo puede aprobar una nueva ley con cambios sustanciales que aborde el problema constitucional identificado.
+3. Tribunal Supremo: Es el intérprete último de la constitucionalidad de las leyes en el orden judicial. Sus decisiones son vinculantes para todos los tribunales del país. Cuando declara inconstitucional una norma, esta queda inaplicable para todos los casos. La decisión del Tribunal Supremo solo puede revertirse mediante anulación popular conforme al artículo 45 o mediante reforma constitucional. El Legislativo puede aprobar una nueva ley con cambios sustanciales que aborde el problema constitucional identificado.
 
-El derecho de recurso se ejerce conforme al artículo 32: por caso y por nivel. Cuando varias partes impugnan la constitucionalidad de la misma norma ante el mismo nivel, el caso asciende una única vez, no una vez por cada impugnación.
+El derecho de recurso se ejerce conforme al artículo 33: por caso y por nivel. Cuando varias partes impugnan la constitucionalidad de la misma norma ante el mismo nivel, el caso asciende una única vez, no una vez por cada impugnación.
 
 ---
 
-## Artículo 42: Responsabilidad Penal Judicial
+## Artículo 43: Responsabilidad Penal Judicial
 
 Responsabilidad penal de legisladores:
 Si una ley es declarada inconstitucional en cualquier instancia judicial y la decisión deviene firme (no recurrida dentro del plazo establecido, o confirmada como inconstitucional en instancia superior), los legisladores que votaron a favor de dicha ley serán sometidos a sanción penal.
 
 Responsabilidad penal de jueces por inconstitucionalidad:
 El juez que declare una ley inconstitucional también asume responsabilidad personal, conforme a las siguientes reglas:
-1. Mecanismo de demostración: El error se demuestra mediante una nueva revisión constitucional conforme al artículo 41.
-2. Periodo de carencia: La primera revisión solo puede iniciarse una vez transcurridos 6 años desde la declaración de inconstitucionalidad, conforme al periodo entre revisiones del artículo 41.
+1. Mecanismo de demostración: El error se demuestra mediante una nueva revisión constitucional conforme al artículo 42.
+2. Periodo de carencia: La primera revisión solo puede iniciarse una vez transcurridos 6 años desde la declaración de inconstitucionalidad, conforme al periodo entre revisiones del artículo 42.
 3. Ventana de responsabilidad: El juez responde si dentro de los 10 años siguientes a su declaración de inconstitucionalidad se demuestra que fue errónea.
 4. Gravedad: Las sanciones serán de similar o mayor dureza que las aplicables a los legisladores. Para magistrados del Tribunal Supremo, la sanción por error demostrado es de 20 años de prisión.
 
 Responsabilidad penal de jueces por anulación popular ordinaria:
-Cuando una decisión judicial ordinaria es anulada por el pueblo conforme al artículo 44, el juez responsable será sometido a sanción penal de menor gravedad que las establecidas para inconstitucionalidad.
+Cuando una decisión judicial ordinaria es anulada por el pueblo conforme al artículo 45, el juez responsable será sometido a sanción penal de menor gravedad que las establecidas para inconstitucionalidad.
 
 ---
 
-## Artículo 43: Sanciones Judiciales
+## Artículo 44: Sanciones Judiciales
 
 Las sanciones concretas para legisladores y jueces de instancias inferiores al Tribunal Supremo se establecen durante el Proceso de Arranque mediante consenso de Nivel N1 y deben ser disuasorias. Las sanciones por anulación popular ordinaria se establecen del mismo modo pero deben ser de menor gravedad que las de inconstitucionalidad. Si la sanción es económica, la multa solo puede ser pagada mediante capital obtenido del salario de trabajos personales del sancionado; no se admite el pago mediante inversiones, donaciones, venta de activos ni ningún otro medio distinto del trabajo personal. La modificación posterior de estas sanciones requiere consenso de Nivel N5.
 
@@ -588,7 +592,7 @@ Las sanciones concretas para legisladores y jueces de instancias inferiores al T
 
 **SUBTÍTULO 6: ANULACIÓN POPULAR**
 
-## Artículo 44: Anulación Popular de Decisiones Judiciales
+## Artículo 45: Anulación Popular de Decisiones Judiciales
 
 El pueblo puede anular cualquier decisión judicial que haya devenido firme, independientemente de la instancia en que adquirió firmeza, mediante anulación popular conforme a la jerarquía de legitimidad establecida en el artículo 1.
 
@@ -610,7 +614,7 @@ Cuando la anulación popular alcanza el umbral establecido:
 1. La decisión judicial queda anulada.
 2. En el ámbito constitucional: la norma que había sido declarada inconstitucional recupera su vigencia (o queda confirmada su nulidad, según el sentido de la anulación).
 3. La anulación popular no constituye precedente vinculante: futuras disputas sobre normas similares deben resolverse nuevamente por la vía judicial ordinaria, salvo nueva anulación popular.
-4. El juez o magistrado responsable de la decisión anulada queda sometido a las sanciones establecidas en el artículo 42, según el ámbito correspondiente.
+4. El juez o magistrado responsable de la decisión anulada queda sometido a las sanciones establecidas en el artículo 43, según el ámbito correspondiente.
 
 ---
 
@@ -618,7 +622,7 @@ Cuando la anulación popular alcanza el umbral establecido:
 
 **SUBTÍTULO 7: CONTROL FISCAL Y TRANSPARENCIA**
 
-## Artículo 45: Transparencia Presupuestaria
+## Artículo 46: Transparencia Presupuestaria
 
 Todos los presupuestos públicos se publican en un sistema público auditable. La publicación incluye:
 
@@ -627,11 +631,11 @@ Todos los presupuestos públicos se publican en un sistema público auditable. L
 3. Comparación entre presupuestado y ejecutado.
 4. Justificación de desviaciones significativas.
 
-Cualquier ciudadano o persona con residencia fiscal en el país puede consultar esta información gratuitamente. La transparencia presupuestaria no admite excepciones salvo las establecidas expresamente en el artículo 51.
+Cualquier ciudadano o persona con residencia fiscal en el país puede consultar esta información gratuitamente. La transparencia presupuestaria no admite excepciones salvo las establecidas expresamente en el artículo 52.
 
 ---
 
-## Artículo 46: Auditoría Pública
+## Artículo 47: Auditoría Pública
 
 Cualquier ciudadano tiene derecho a auditar los datos públicos registrados en los sistemas establecidos en esta Constitución. El Estado debe proporcionar un proceso de consulta accesible, gratuito y comprensible. Como máximo 30 días después de la consulta, la información solicitada debe haber llegado al ciudadano.
 
@@ -641,19 +645,19 @@ Cualquier ciudadano tiene derecho a auditar los datos públicos registrados en l
 
 **SUBTÍTULO 8: FUERZAS ARMADAS**
 
-## Artículo 47: Comandante en Jefe
+## Artículo 48: Comandante en Jefe
 
-El Presidente de la República es el Comandante en Jefe de las Fuerzas Armadas. Ejerce el mando operativo directo de todas las ramas militares. Este mando está sujeto a los límites constitucionales establecidos en los artículos 48 a 52.
-
----
-
-## Artículo 48: Declaración de Guerra
-
-La declaración de guerra requiere consenso de Nivel N5 del Poder Legislativo. La defensa inmediata ante ataque o invasión no requiere declaración de guerra previa (artículo 49).
+El Presidente de la República es el Comandante en Jefe de las Fuerzas Armadas. Ejerce el mando operativo directo de todas las ramas militares. Este mando está sujeto a los límites constitucionales establecidos en los artículos 49 a 53.
 
 ---
 
-## Artículo 49: Operaciones Militares sin Declaración de Guerra
+## Artículo 49: Declaración de Guerra
+
+La declaración de guerra requiere consenso de Nivel N5 del Poder Legislativo. La defensa inmediata ante ataque o invasión no requiere declaración de guerra previa (artículo 50).
+
+---
+
+## Artículo 50: Operaciones Militares sin Declaración de Guerra
 
 1. Defensa del territorio nacional ante ataque armado actual o inminente: El Presidente puede y debe ordenar la defensa inmediata sin aprobación previa del Legislativo.
 
@@ -661,18 +665,18 @@ La declaración de guerra requiere consenso de Nivel N5 del Poder Legislativo. L
 
 ---
 
-## Artículo 50: Rendición de Cuentas por Operaciones Secretas
+## Artículo 51: Rendición de Cuentas por Operaciones Secretas
 
 El Presidente puede ordenar operaciones militares secretas sin aprobación legislativa previa. Si dicha operación resulta en:
 
 1. Desastre militar (pérdida significativa de vidas o recursos).
 2. Inicio de conflicto armado no autorizado.
 
-Si se descubre o anuncia una operación secreta de este ámbito, el Poder Legislativo puede, mediante consenso de Nivel N1, iniciar proceso judicial ante el Tribunal Supremo para la aplicación del siguiente castigo: el Presidente responde personalmente mediante amputación de una mano. La decisión del Tribunal Supremo es recurrible por cualquier ciudadano con derecho a voto conforme al procedimiento ordinario de apelación establecido en el artículo 32.
+Si se descubre o anuncia una operación secreta de este ámbito, el Poder Legislativo puede, mediante consenso de Nivel N1, iniciar proceso judicial ante el Tribunal Supremo para la aplicación del siguiente castigo: el Presidente responde personalmente mediante amputación de una mano. La decisión del Tribunal Supremo es recurrible por cualquier ciudadano con derecho a voto conforme al procedimiento ordinario de apelación establecido en el artículo 33.
 
 ---
 
-## Artículo 51: Presupuesto Militar
+## Artículo 52: Presupuesto Militar
 
 El presupuesto de las Fuerzas Armadas es aprobado anualmente por el Legislativo mediante el procedimiento ordinario de aprobación presupuestaria. Todo gasto militar se registra en un sistema público auditable, permitiendo auditoría ciudadana permanente.
 
@@ -683,7 +687,7 @@ Excepciones:
 
 ---
 
-## Artículo 52: Separación de Fuerzas
+## Artículo 53: Separación de Fuerzas
 
 Las Fuerzas Armadas se organizan en ramas separadas:
 
@@ -699,15 +703,15 @@ Los jefes de cada rama son nombrados por el Presidente. El Legislativo puede rev
 
 **SUBTÍTULO 9: ESTADOS DE EXCEPCIÓN**
 
-## Artículo 53: Estados de Excepción - Principio
+## Artículo 54: Estados de Excepción - Principio
 
-Los estados de excepción solo pueden declararse ante crisis graves que no puedan gestionarse mediante medios ordinarios. Declarar un estado de excepción sin que exista crisis real constituye delito grave, sancionado por defecto con 10 años de prisión. Este parámetro puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N2 y posteriormente mediante consenso de Nivel N3. Por defecto existen tres tipos de estados de excepción, establecidos en el artículo 54. Todo estado de excepción está sujeto a los seis límites obligatorios establecidos en los artículos 56 a 61. Ninguna crisis, por grave que sea, autoriza la suspensión de estos seis límites.
+Los estados de excepción solo pueden declararse ante crisis graves que no puedan gestionarse mediante medios ordinarios. Declarar un estado de excepción sin que exista crisis real constituye delito grave, sancionado por defecto con 10 años de prisión. Este parámetro puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N2 y posteriormente mediante consenso de Nivel N3. Por defecto existen tres tipos de estados de excepción, establecidos en el artículo 55. Todo estado de excepción está sujeto a los seis límites obligatorios establecidos en los artículos 57 a 62. Ninguna crisis, por grave que sea, autoriza la suspensión de estos seis límites.
 
 ---
 
-## Artículo 54: Tipos de Estados de Excepción
+## Artículo 55: Tipos de Estados de Excepción
 
-Se establecen tres tipos de estados de excepción, clasificados según el ámbito de la crisis. Cada tipo especifica los derechos restringibles temporalmente y en la zona afectada. Fuera de los derechos expresamente mencionados, todos los demás permanecen vigentes. Todos los poderes excepcionales cesan automáticamente con la finalización del estado de excepción, retornando toda situación al estado anterior. En todos los casos están sujetos a los seis límites de los artículos 56 a 61.
+Se establecen tres tipos de estados de excepción, clasificados según el ámbito de la crisis. Cada tipo especifica los derechos restringibles temporalmente y en la zona afectada. Fuera de los derechos expresamente mencionados, todos los demás permanecen vigentes. Todos los poderes excepcionales cesan automáticamente con la finalización del estado de excepción, retornando toda situación al estado anterior. En todos los casos están sujetos a los seis límites de los artículos 57 a 62.
 
 1. Ámbito Natural y Tecnológico:
 - Causas: Catástrofe natural, crisis sanitaria, desastre tecnológico (accidente nuclear, apagón de más de 48h de duración, vertido tóxico u otros de impacto equivalente en gravedad).
@@ -729,9 +733,9 @@ Se establecen tres tipos de estados de excepción, clasificados según el ámbit
 
 ---
 
-## Artículo 55: Configurabilidad de los Estados de Excepción
+## Artículo 56: Configurabilidad de los Estados de Excepción
 
-Todas las variables del artículo 54 se definen durante el Proceso de Arranque (Título III) con consenso N1, salvo aquellas explícitamente excluidas.
+Todas las variables del artículo 55 se definen durante el Proceso de Arranque (Título III) con consenso N1, salvo aquellas explícitamente excluidas.
 
 Tras el Arranque: modificación de derechos restringibles requiere N4; modificación de causas, declaración, poderes temporales y creación de nuevos tipos requiere N5.
 
@@ -741,7 +745,7 @@ La restricción de todos los derechos fundamentales a atacantes de la nación (�
 
 ---
 
-## Artículo 56: Límite 1 - Límite Temporal
+## Artículo 57: Límite 1 - Límite Temporal
 
 Por defecto, el estado de excepción finaliza cuando desaparece la condición que lo motivó. Si la condición desaparece, el estado de excepción cesa automáticamente e inmediatamente, sin necesidad de votación legislativa.
 
@@ -757,40 +761,40 @@ Si en cualquier renovación no se alcanza el consenso requerido, el estado de ex
 
 ---
 
-## Artículo 57: Límite 2 - Límite Territorial
+## Artículo 58: Límite 2 - Límite Territorial
 
 El estado de excepción solo puede aplicarse en la zona geográfica directamente afectada por la crisis que lo motiva. El resto del territorio nacional mantiene normalidad constitucional plena. Si la crisis es nacional en alcance, la declaración de estado de excepción aplica a todo el territorio nacional.
 
 ---
 
-## Artículo 58: Límite 3 - Límite Material y Prohibición de Decretos
+## Artículo 59: Límite 3 - Límite Material y Prohibición de Decretos
 
-Los poderes excepcionales están limitados a una lista cerrada establecida por ley, específica para cada tipo de estado de excepción conforme al artículo 54. Cualquier medida que exceda los poderes establecidos en la lista cerrada es nula de pleno derecho y constituye abuso de autoridad. En caso de abuso de autoridad, el Legislativo puede revocar el estado de excepción en cualquier momento mediante consenso de Nivel N1.
+Los poderes excepcionales están limitados a una lista cerrada establecida por ley, específica para cada tipo de estado de excepción conforme al artículo 55. Cualquier medida que exceda los poderes establecidos en la lista cerrada es nula de pleno derecho y constituye abuso de autoridad. En caso de abuso de autoridad, el Legislativo puede revocar el estado de excepción en cualquier momento mediante consenso de Nivel N1.
 
-El Poder Ejecutivo puede emitir decretos exclusivamente durante un estado de excepción declarado conforme al artículo 53. Fuera de un estado de excepción, los decretos están absolutamente prohibidos. Los decretos emitidos durante un estado de excepción son estrictamente temporales, cesan automáticamente con la finalización del estado de excepción, y bajo ningún concepto pueden anular o modificar ningún artículo de esta Constitución.
-
----
-
-## Artículo 59: Límite 4 - Control Parlamentario
-
-Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. A excepción de que el mecanismo de autodestrucción mutua (artículos 37-38) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente si el estado de excepción impide garantizar las condiciones establecidas en esta Constitución para su celebración: verificabilidad, privacidad del voto, auditoría pública conforme a los artículos 5 y 16. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 24 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 24 no es aplicable. En cuanto dichas condiciones puedan garantizarse, las elecciones se celebran en el plazo más breve posible, como muy tarde, dentro de 30 días.
+El Poder Ejecutivo puede emitir decretos exclusivamente durante un estado de excepción declarado conforme al artículo 54. Fuera de un estado de excepción, los decretos están absolutamente prohibidos. Los decretos emitidos durante un estado de excepción son estrictamente temporales, cesan automáticamente con la finalización del estado de excepción, y bajo ningún concepto pueden anular o modificar ningún artículo de esta Constitución.
 
 ---
 
-## Artículo 60: Límite 5 - Control Judicial
+## Artículo 60: Límite 4 - Control Parlamentario
+
+Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. A excepción de que el mecanismo de autodestrucción mutua (artículos 38-39) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente si el estado de excepción impide garantizar las condiciones establecidas en esta Constitución para su celebración: verificabilidad, privacidad del voto, auditoría pública conforme a los artículos 5 y 16. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 25 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 25 no es aplicable. En cuanto dichas condiciones puedan garantizarse, las elecciones se celebran en el plazo más breve posible, como muy tarde, dentro de 30 días.
+
+---
+
+## Artículo 61: Límite 5 - Control Judicial
 
 El Poder Judicial mantiene todas sus funciones durante los estados de excepción. En particular se aclara que:
 
 1. Puede revisar la legalidad de cualquier medida adoptada durante la excepción.
-2. Cualquier persona cuyos derechos aplicables al contexto del estado de excepción (conforme al artículo 54) sean violados puede solicitar proceso judicial.
+2. Cualquier persona cuyos derechos aplicables al contexto del estado de excepción (conforme al artículo 55) sean violados puede solicitar proceso judicial.
 
 ---
 
-## Artículo 61: Límite 6 - Prohibiciones Absolutas
+## Artículo 62: Límite 6 - Prohibiciones Absolutas
 
 Durante cualquier estado de excepción está absolutamente prohibido:
 
-1. Modificar esta Constitución mediante el procedimiento de reforma (artículos 65-67).
+1. Modificar esta Constitución mediante el procedimiento de reforma (artículos 66-68).
 2. Modificar la ley electoral o las reglas de celebración de elecciones.
 3. Posponer elecciones salvo imposibilidad física objetiva (ej: zona de guerra activa, destrucción de infraestructura electoral).
 4. Posponer el comienzo de procesos judiciales salvo imposibilidad física objetiva. (ej: zona de guerra activa, destrucción de infraestructura judicial).
@@ -799,23 +803,23 @@ Cualquier acto que viole estas prohibiciones es nulo de pleno derecho, sin neces
 
 ---
 
-## Artículo 62: Rendición de Cuentas Post-Excepción
+## Artículo 63: Rendición de Cuentas Post-Excepción
 
 Tras la finalización de cualquier estado de excepción:
 
 1. El Ejecutivo debe presentar informe público en un plazo máximo de 60 días, detallando todas las medidas adoptadas, su justificación, resultados y costes. Cualquier ciudadano puede acceder a este informe.
 2. Si un ciudadano denuncia irregularidades, un juez de primera instancia puede ordenar auditoría independiente de las medidas adoptadas.
-3. Funcionarios que hayan abusado de poderes excepcionales o violado los seis límites (artículos 56-61) pueden ser procesados penalmente. El estado de excepción no exime de responsabilidad por abusos.
+3. Funcionarios que hayan abusado de poderes excepcionales o violado los seis límites (artículos 57-62) pueden ser procesados penalmente. El estado de excepción no exime de responsabilidad por abusos.
 
 ---
 
-## Artículo 63: Finalización Automática del Estado de Excepción
+## Artículo 64: Finalización Automática del Estado de Excepción
 
 El estado de excepción finaliza automáticamente cuando se produce cualquiera de las siguientes circunstancias:
 
-1. Desaparición de la condición que lo motivó (artículo 56).
-2. No renovación por el Legislativo en cualquiera de las revisiones obligatorias (artículo 56).
-3. Revocación por el Legislativo en caso de abuso de autoridad (artículo 58).
+1. Desaparición de la condición que lo motivó (artículo 57).
+2. No renovación por el Legislativo en cualquiera de las revisiones obligatorias (artículo 57).
+3. Revocación por el Legislativo en caso de abuso de autoridad (artículo 59).
 
 La finalización no requiere acto positivo adicional: opera automáticamente. Tras la finalización, todas las medidas excepcionales cesan inmediatamente y se restaura la normalidad constitucional plena.
 
@@ -831,27 +835,27 @@ La finalización no requiere acto positivo adicional: opera automáticamente. Tr
 
 # TÍTULO V: REFORMA Y PROTECCIÓN CONSTITUCIONAL
 
-## Artículo 64: Cláusulas Pétreas - Núcleo Intangible
+## Artículo 65: Cláusulas Pétreas - Núcleo Intangible
 
-Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 66-67. Solo pueden modificarse mediante el procedimiento especial establecido en el artículo 65:
+Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 67-68. Solo pueden modificarse mediante el procedimiento especial establecido en el artículo 66:
 
 1. Soberanía Popular (artículo 1): El poder reside en el pueblo mediante los mecanismos de representación uninominal directa en distritos pequeños y revocabilidad del mandato al individuo al cual el poder ha sido delegado.
 2. Sufragio Universal (artículo 4): Derecho al voto de todo ciudadano mayor de edad.
 3. Secreto del Voto (artículo 5): El voto es secreto por defecto y no puede ser eliminado salvo mediante este procedimiento.
 4. Garantía de Anulación Popular (artículo 6): El derecho a crear mecanismos de anulación popular directa de decisiones legislativas no puede ser suprimido.
-5. Separación de Poderes (artículo 18): Independencia de poderes Legislativo, Ejecutivo y Judicial.
+5. Separación de Poderes (artículo 19): Independencia de poderes Legislativo, Ejecutivo y Judicial.
 6. Igualdad ante la Ley (artículo 8): Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo.
-7. Equilibrio de Poderes (artículo 37): El mecanismo de autodestrucción mutua entre Legislativo y Ejecutivo no puede ser eliminado.
-8. Supremacía Constitucional (artículo 40): Esta Constitución es la norma suprema del ordenamiento jurídico.
-9. Derechos Fundamentales del Sistema Democrático (artículo 69): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
+7. Equilibrio de Poderes (artículo 38): El mecanismo de autodestrucción mutua entre Legislativo y Ejecutivo no puede ser eliminado.
+8. Supremacía Constitucional (artículo 41): Esta Constitución es la norma suprema del ordenamiento jurídico.
+9. Derechos Fundamentales del Sistema Democrático (artículo 70): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
 10. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
-11. Derecho de Reforma Constitucional (artículos 66-67): El pueblo conserva siempre el derecho de reformar esta Constitución.
+11. Derecho de Reforma Constitucional (artículos 67-68): El pueblo conserva siempre el derecho de reformar esta Constitución.
 
 ---
 
-## Artículo 65: Procedimiento de Reforma de Cláusulas Pétreas
+## Artículo 66: Procedimiento de Reforma de Cláusulas Pétreas
 
-La reforma de cualquiera de las cláusulas pétreas establecidas en el artículo 64 requiere aprobación mediante referéndum popular con consenso de Nivel N5 de votos válidos favorables y participación mínima del 75% del censo nacional. El referéndum puede convocarse por dos vías:
+La reforma de cualquiera de las cláusulas pétreas establecidas en el artículo 65 requiere aprobación mediante referéndum popular con consenso de Nivel N5 de votos válidos favorables y participación mínima del 75% del censo nacional. El referéndum puede convocarse por dos vías:
 
 1. Vía legislativa: Aprobación por consenso de Nivel N6 del Poder Legislativo.
 2. Vía popular: Iniciativa de Nivel N1 de los ciudadanos con derecho a voto.
@@ -872,9 +876,9 @@ Una vez completado el procedimiento de reforma de una cláusula pétrea, indepen
 
 ---
 
-## Artículo 66: Derecho de Reforma Ordinaria
+## Artículo 67: Derecho de Reforma Ordinaria
 
-Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en el artículo 64, puede reformarse mediante el siguiente procedimiento:
+Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en el artículo 65, puede reformarse mediante el siguiente procedimiento:
 
 1. Vía legislativa: Aprobación por consenso de Nivel N4 del Poder Legislativo.
 2. Vía popular: Aprobación mediante referéndum con consenso de Nivel N1 de votos válidos y participación mínima del 50% del censo nacional.
@@ -885,20 +889,20 @@ La reforma ordinaria entra en vigor transcurrida 1 semana desde la aprobación.
 
 ---
 
-## Artículo 67: Iniciativa de Reforma Ordinaria
+## Artículo 68: Iniciativa de Reforma Ordinaria
 
-La iniciativa para proponer reformas ordinarias conforme al artículo 66 puede provenir de:
+La iniciativa para proponer reformas ordinarias conforme al artículo 67 puede provenir de:
 
 1. Iniciativa legislativa: Un tercio (33%) de los miembros del Poder Legislativo.
 2. Iniciativa popular: El 10% del censo nacional mediante solicitud en un sistema público auditable.
 
-Ambas vías de iniciativa requieren la aprobación final conforme a las mayorías establecidas en el artículo 66.
+Ambas vías de iniciativa requieren la aprobación final conforme a las mayorías establecidas en el artículo 67.
 
 ---
 
-## Artículo 68: Supremacía de los Mecanismos Constitucionales
+## Artículo 69: Supremacía de los Mecanismos Constitucionales
 
-Ningún derecho fundamental, ya sea esencial (artículo 69) o complementario (artículo 70), puede invocarse para bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución.
+Ningún derecho fundamental, ya sea esencial (artículo 70) o complementario (artículo 71), puede invocarse para bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución.
 
 ---
 
@@ -912,15 +916,15 @@ Ningún derecho fundamental, ya sea esencial (artículo 69) o complementario (ar
 
 # TÍTULO VI: DERECHOS Y PROTECCIONES
 
-## Artículo 69: Derechos Fundamentales del Sistema Democrático
+## Artículo 70: Derechos Fundamentales del Sistema Democrático
 
-Los siguientes derechos son condiciones necesarias para el funcionamiento de los mecanismos democráticos establecidos en esta Constitución. Estos derechos aplican en tanto en cuanto garanticen el funcionamiento de dichos mecanismos, y bajo ningún concepto pueden utilizarse para alterar, bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución tal como se describe en el artículo 68.
+Los siguientes derechos son condiciones necesarias para el funcionamiento de los mecanismos democráticos establecidos en esta Constitución. Estos derechos aplican en tanto en cuanto garanticen el funcionamiento de dichos mecanismos, y bajo ningún concepto pueden utilizarse para alterar, bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución tal como se describe en el artículo 69.
 
 1. Expresión política: Toda persona tiene derecho a expresar, difundir y debatir ideas políticas sin censura.
 
 2. Información: Toda persona tiene derecho a acceder a información y a difundirla.
 
-3. Reunión y asociación política: Toda persona tiene derecho a reunirse y asociarse pacíficamente con fines políticos, incluyendo la organización necesaria para ejercer los mecanismos de revocación (artículos 10-11), anulación popular (artículo 44) e iniciativa de reforma (artículo 67).
+3. Reunión y asociación política: Toda persona tiene derecho a reunirse y asociarse pacíficamente con fines políticos, incluyendo la organización necesaria para ejercer los mecanismos de revocación (artículos 10-11), anulación popular (artículo 45) e iniciativa de reforma (artículo 68).
 
 4. Integridad personal: Ninguna persona puede ser sometida a daño físico por razón de su actividad política o su ejercicio del voto.
 
@@ -928,9 +932,9 @@ Los siguientes derechos son condiciones necesarias para el funcionamiento de los
 
 ---
 
-## Artículo 70: Derechos Fundamentales Complementarios
+## Artículo 71: Derechos Fundamentales Complementarios
 
-Durante el Proceso de Arranque conforme al Título III, el pueblo definirá mediante consenso de Nivel N1 el catálogo de derechos fundamentales complementarios a los establecidos en el artículo 69. Este catálogo podrá incluir, entre otros: privacidad general y soledad, propiedad, comercio de bienes y servicios, práctica religiosa, práctica lúdica y recreativa, reproducción y vida familiar, trabajo y profesión, educación, comunicación privada, protección estatal y movimiento, vida.
+Durante el Proceso de Arranque conforme al Título III, el pueblo definirá mediante consenso de Nivel N1 el catálogo de derechos fundamentales complementarios a los establecidos en el artículo 70. Este catálogo podrá incluir, entre otros: privacidad general y soledad, propiedad, comercio de bienes y servicios, práctica religiosa, práctica lúdica y recreativa, reproducción y vida familiar, trabajo y profesión, educación, comunicación privada, protección estatal y movimiento, vida.
 
 Una vez adoptado, la modificación o eliminación de cualquier derecho del catálogo requiere consenso de Nivel N5.
 
