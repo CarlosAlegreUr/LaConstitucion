@@ -222,6 +222,18 @@ Una duda abierta es el nivel de protección de este artículo. Actualmente no es
 
 Inmunidad parlamentaria es un concepto oligárquico. Dice: "nosotros estamos por encima de la ley". Esta Constitución lo rechaza. Si votaste a alguien, esa persona es responsable ante ti y ante la ley como cualquier otro ciudadano. El procesamiento penal de cargos públicos no requiere autorización previa de ningún órgano. Más aún: puede tramitarse con carácter preferente, porque un cargo público corrupto causa más daño que un ciudadano común corrupto.
 
+## Artículo 9: Lengua Oficial
+
+Un Estado necesita una lengua común para funcionar. Sin ella, las leyes se redactan en lenguas que parte de la ciudadanía no entiende, los procedimientos judiciales se vuelven inaccesibles y la administración pública se fragmenta. La lengua oficial no es una imposición cultural: es infraestructura operativa del Estado, al mismo nivel que el sistema electoral o la separación de poderes.
+
+¿Por qué cláusula pétrea? Porque la lengua oficial es condición necesaria para que todos los demás mecanismos constitucionales funcionen. Si un Legislativo pudiera eliminar la lengua oficial por reforma ordinaria, podría fragmentar la comunicación estatal como herramienta de control: leyes incomprensibles para parte de la población, procedimientos judiciales inaccesibles, educación desigual. La lengua común es un igualador democrático.
+
+El default (la lengua del régimen anterior) garantiza continuidad operativa desde el primer día de la Transición. Sin este default, habría un vacío: ¿en qué lengua se publica el AOCD? ¿En qué lengua se convocan las primeras elecciones? El default resuelve esto sin imponer una decisión permanente — durante el Arranque, el Legislativo puede confirmar o cambiar la lengua oficial.
+
+El umbral N4 (75%) para modificar la lengua durante el Arranque es intencionalmente alto para una decisión de Arranque. La mayoría de parámetros se configuran con N1, pero la lengua oficial afecta a toda la población de manera profunda e irreversible en la práctica: cambiar la lengua de la legislación, la justicia y la educación no es un ajuste técnico, es una transformación social. El N4 exige un consenso amplio que refleje una voluntad real, no una mayoría coyuntural.
+
+La cooficialidad por legislación ordinaria permite adaptar el sistema a realidades lingüísticas territoriales sin debilitar la lengua común. Un territorio bilingüe puede operar en ambas lenguas, pero la lengua oficial siempre está presente como garantía de que cualquier ciudadano del país pueda entender las leyes y acceder a la justicia en cualquier territorio.
+
 ---
 ---
 

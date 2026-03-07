@@ -118,6 +118,16 @@ Los procedimientos penales contra cargos públicos podrán tramitarse con carác
 
 ---
 
+### Artículo 9: Lengua Oficial
+
+El Estado tiene al menos una lengua oficial. La lengua oficial es la lengua en la que se redactan las leyes, se conducen los procedimientos judiciales, se ejerce la administración pública y se garantiza la enseñanza obligatoria. En caso de conflicto de interpretación entre versiones lingüísticas de una norma, prevalece la versión en lengua oficial.
+
+Por defecto, la lengua oficial es aquella que ostentaba dicha condición en el régimen anterior a la entrada en vigor de esta Constitución. Durante el Proceso de Arranque conforme al Título III, el Poder Legislativo puede confirmar o modificar la lengua oficial mediante consenso de Nivel N4.
+
+La designación de una lengua oficial no prohíbe el uso de otras lenguas en el ámbito privado ni en la vida pública. El Estado puede reconocer lenguas cooficiales en territorios específicos mediante legislación ordinaria, siempre que la lengua oficial mantenga su carácter obligatorio en los ámbitos establecidos en este artículo.
+
+---
+
 ---
 
 **Fin del Título I**
@@ -853,6 +863,7 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 9. Derechos Fundamentales del Sistema Democrático (artículo 70): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
 10. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
 11. Derecho de Reforma Constitucional (artículos 67-68): El pueblo conserva siempre el derecho de reformar esta Constitución.
+12. Lengua Oficial (artículo 9): El Estado debe tener al menos una lengua oficial con carácter obligatorio en legislación, justicia, administración y educación.
 
 ---
 
