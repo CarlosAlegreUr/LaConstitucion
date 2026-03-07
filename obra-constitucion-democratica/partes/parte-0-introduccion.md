@@ -29,6 +29,6 @@ Se recomienda leer la Parte 1 primero, de principio a fin, sin detenerse en los 
 **Estructura del libro:**
 
 - **Parte 0** — Esta introducción.
-- **Parte 1** — Texto constitucional completo (71 artículos, 6 títulos).
+- **Parte 1** — Texto constitucional completo (72 artículos, 6 títulos).
 - **Parte 2** — Argumentación y filosofía de cada decisión de diseño.
 - **Parte 3** — Conclusión y referencias.
