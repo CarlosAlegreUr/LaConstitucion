@@ -314,7 +314,9 @@ La secuencia de elecciones es deliberada: Legislativo primero, Ejecutivo segundo
 
 La publicación del AOCD con datos verificables garantiza que cualquier ciudadano pueda replicar el cálculo y verificar que los distritos se formaron correctamente. Esto minimiza la posibilidad de que el régimen anterior manipule la distribución electoral a su favor.
 
-Si durante la Transición se produce un estado de excepción, el régimen anterior asume el control (es el único actor con capacidad ejecutiva antes de que el Presidente sea elegido). El mecanismo es recursivo: si hay sucesivas interrupciones, cada vez se reanuda desde donde se interrumpió. No hace falta límite temporal forzado porque la Transición avanza por hitos (publicar AOCD, celebrar elecciones legislativas, celebrar elecciones ejecutivas), no por reloj.
+El plazo de 3 semanas para la publicación del AOCD, combinado con las elecciones en meses consecutivos, establece un techo implícito de aproximadamente 3 meses para la Transición completa. Es una referencia temporal para el pueblo, no una garantía institucional: durante la Transición no existen aún los mecanismos judiciales para hacer cumplir plazos. La verdadera garantía es la vigilancia ciudadana, la verificabilidad del proceso y la presión popular sobre un régimen que gobierna con carácter interino.
+
+Si durante la Transición se produce un estado de excepción, el régimen anterior asume el control (es el único actor con capacidad ejecutiva antes de que el Presidente sea elegido). El mecanismo es recursivo: si hay sucesivas interrupciones, cada vez se reanuda desde donde se interrumpió.
 
 ## Artículo 18: Proceso de Arranque
 

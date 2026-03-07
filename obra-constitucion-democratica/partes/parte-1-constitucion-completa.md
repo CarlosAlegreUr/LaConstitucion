@@ -262,7 +262,7 @@ Esta Constitución no prescribe una tecnología específica: lo que importa son 
 
 El Proceso de Transición comienza inmediatamente tras la aprobación de esta Constitución y finaliza cuando el Presidente electo conforme al artículo 23 toma posesión del cargo. Durante este periodo, el régimen anterior a la entrada en vigor de esta Constitución continúa gobernando con carácter interino, ejerciendo exclusivamente funciones ejecutivas y sometido a los principios y normas de esta Constitución.
 
-El régimen anterior publica el resultado del Algoritmo de Optimización de la Corruptibilidad de Distritos conforme al artículo 13, junto con todos los datos utilizados para su ejecución, de manera que cualquier ciudadano pueda verificar el resultado. Tras la publicación y formación de distritos, se convocan elecciones en el siguiente orden, cada una en un mes distinto: primero, elecciones al Poder Legislativo conforme al artículo 12; segundo, elecciones al Poder Ejecutivo conforme al artículo 23.
+El régimen anterior publica el resultado del Algoritmo de Optimización de la Corruptibilidad de Distritos conforme al artículo 13, junto con todos los datos utilizados para su ejecución, de manera que cualquier ciudadano pueda verificar el resultado, en un plazo máximo de 3 semanas desde la aprobación de esta Constitución. Tras la publicación y formación de distritos, se convocan elecciones en el siguiente orden, cada una en un mes distinto y consecutivo: primero, elecciones al Poder Legislativo conforme al artículo 12; segundo, elecciones al Poder Ejecutivo conforme al artículo 23.
 
 Si durante el Proceso de Transición se declara un estado de excepción conforme al artículo 54, el régimen anterior asume el control hasta el cese del estado de excepción, siempre bajo los principios de esta Constitución. Tras el cese, el Proceso de Transición se reanuda desde el punto en que fue interrumpido. Esta regla se aplica recursivamente: si se declara un nuevo estado de excepción durante el Proceso de Transición reanudado, se aplica el mismo mecanismo.
 
@@ -274,7 +274,7 @@ El Proceso de Arranque es el periodo de 1 año inmediatamente posterior a la fin
 
 Si durante el Proceso de Arranque se declara un estado de excepción conforme al artículo 54, el Proceso de Arranque se suspende por la duración del estado de excepción. Tras el cese, el Proceso de Arranque se reanuda con el tiempo restante que quedaba el día anterior a la declaración del estado de excepción, con un mínimo de 2 meses. Esta regla se aplica recursivamente: si se declara un nuevo estado de excepción durante el Arranque reanudado, se aplica el mismo mecanismo.
 
-Finalizado el Proceso de Arranque, las reducciones de consenso aplicadas durante el mismo dejan de estar en vigor. A partir de ese momento, se aplican los niveles de consenso ordinarios establecidos en cada artículo y el control popular de decisiones legislativas y judiciales se ejerce mediante los mecanismos ordinarios establecidos en el Título IV. El Proceso de Arranque no puede reactivarse, es un mecanismo único aplicable solo en la fase de establecimiento inicial de esta Constitución.
+Finalizado el Proceso de Arranque, las reducciones de consenso aplicadas durante el mismo dejan de estar en vigor. A partir de ese momento, se aplican los niveles de consenso ordinarios establecidos en cada artículo. El Proceso de Arranque no puede reactivarse, es un mecanismo único aplicable solo en la fase de establecimiento inicial de esta Constitución.
 
 ---
 ---
