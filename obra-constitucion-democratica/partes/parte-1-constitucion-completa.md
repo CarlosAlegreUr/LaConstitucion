@@ -352,10 +352,11 @@ El Presidente ejerce la totalidad del Poder Ejecutivo. Sus funciones incluyen:
 3. Relaciones exteriores y representación internacional.
 4. Declaración de estados de excepción (artículo 54).
 5. Política interior y coordinación gubernamental.
-6. Ejecución del presupuesto aprobado por el Legislativo.
-7. Dirección de los ministerios.
+6. Gestión del gasto público conforme al presupuesto aprobado por el Legislativo.
+7. Estructura y dirección de los ministerios.
 
-El Presidente puede delegar funciones en los ministros conforme al artículo 28. En todo caso, el Presidente conserva la autoridad última sobre cualquier decisión del Poder Ejecutivo. Las siguientes funciones no son delegables:
+El Presidente puede delegar la preparación y propuesta de decisiones en los ministros conforme al artículo 28. Toda decisión del Poder Ejecutivo requiere la aprobación del Presidente para su ejecución. Las siguientes funciones no son delegables en ningún aspecto:
+
 1. Declaración de guerra y decisiones militares establecidas en los artículos 49, 50 y 51.
 2. Declaración de estados de excepción (artículo 54).
 
@@ -365,9 +366,11 @@ El Presidente puede delegar funciones en los ministros conforme al artículo 28.
 
 El Presidente nombra un Vicepresidente. Su mandato coincide con el del Presidente.
 
-Si el Presidente fallece, dimite o queda permanentemente incapacitado, el Vicepresidente asume la Presidencia con carácter interino. Se convocan nuevas elecciones presidenciales en un plazo máximo de 45 días desde la asunción interina. El Vicepresidente interino puede presentarse como candidato. Quien asuma la Presidencia interina queda sujeto a exactamente las mismas responsabilidades, obligaciones y consecuencias que el Presidente electo. Si las elecciones no se celebran dentro del plazo de 45 días, quien ocupe la Presidencia interina se considera usurpador del cargo, con todas las consecuencias legales aplicables.
+Si el Presidente dimite o es declarado incapaz conforme al artículo 26, el Vicepresidente asume la Presidencia con carácter interino. Se convocan nuevas elecciones presidenciales en un plazo máximo de 45 días desde la asunción interina, salvo durante estados de excepción conforme al artículo 60. El Vicepresidente interino puede presentarse como candidato. Quien asuma la Presidencia interina queda sujeto a las mismas responsabilidades, obligaciones y consecuencias que el Presidente electo. Si las elecciones no se celebran dentro del plazo establecido, quien ocupe la Presidencia interina se considera usurpador del cargo, con todas las consecuencias legales aplicables.
 
-Si el Vicepresidente no puede asumir la Presidencia interina, la asume el representante del Legislativo de mayor antigüedad en el cargo, con las mismas condiciones: carácter interino, mismas responsabilidades y consecuencias, y nuevas elecciones en un plazo máximo de 45 días. El Poder Legislativo puede ampliar la línea de sucesión mediante consenso N3; durante el periodo de Arranque, mediante N1.
+Si el Presidente es cesado mediante el mecanismo de autodestrucción mutua conforme al artículo 38, el Vicepresidente asume la Presidencia con carácter interino hasta la celebración de las nuevas elecciones. Durante este periodo, el Vicepresidente interino ejerce exclusivamente funciones de mantenimiento del orden institucional: no puede aprobar nuevos presupuestos, nombrar ni cesar ministros, ni iniciar nuevas políticas.
+
+Si el Vicepresidente no puede asumir la Presidencia interina, la asume el representante del Legislativo de mayor antigüedad en el cargo, con las mismas condiciones. El Poder Legislativo puede ampliar la línea de sucesión pero no reducirla mediante consenso de Nivel N3; durante el periodo de Arranque, mediante consenso de Nivel N1.
 
 ---
 
