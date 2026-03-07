@@ -862,7 +862,7 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 8. Supremacía Constitucional (artículo 42): Esta Constitución es la norma suprema del ordenamiento jurídico.
 9. Derechos Fundamentales del Sistema Democrático (artículo 71): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
 10. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
-11. Derecho de Reforma Constitucional (artículos 68-69): El pueblo conserva siempre el derecho de reformar esta Constitución.
+11. Derecho y Procedimientos de Reforma Constitucional (artículos 67-69): El pueblo conserva siempre el derecho de reformar esta Constitución mediante los procedimientos establecidos. Los procedimientos de reforma no pueden ser suprimidos.
 12. Lengua Oficial (artículo 9): El Estado debe tener al menos una lengua oficial con carácter obligatorio en legislación, justicia, administración y educación.
 
 ---
@@ -887,6 +887,10 @@ Si la segunda votación no alcanza las mayorías requeridas, la propuesta de ref
 Periodo de espera:
 
 Una vez completado el procedimiento de reforma de una cláusula pétrea, independientemente de si la reforma es aprobada o rechazada, esa misma cláusula no puede someterse a nuevo procedimiento de reforma hasta transcurridos 21 años.
+
+Protección de parámetros:
+
+Los parámetros de este artículo pueden modificarse mediante los procedimientos establecidos en este mismo artículo.
 
 ---
 
