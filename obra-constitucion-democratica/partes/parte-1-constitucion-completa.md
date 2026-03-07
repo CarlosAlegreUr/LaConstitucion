@@ -853,17 +853,17 @@ La finalización no requiere acto positivo adicional: opera automáticamente. Tr
 Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 68 y 69. Solo pueden modificarse mediante el procedimiento especial establecido en el artículo 67:
 
 1. Soberanía Popular (artículo 1): El poder reside en el pueblo mediante los mecanismos de representación uninominal directa en distritos pequeños y revocabilidad del mandato al individuo al cual el poder ha sido delegado.
-2. Sufragio Universal (artículo 4): Derecho al voto de todo ciudadano mayor de edad.
-3. Secreto del Voto (artículo 5): El voto es secreto por defecto y no puede ser eliminado salvo mediante este procedimiento.
-4. Garantía de Anulación Popular (artículo 6): El derecho a crear mecanismos de anulación popular directa de decisiones legislativas no puede ser suprimido.
-5. Separación de Poderes (artículo 20): Independencia de poderes Legislativo, Ejecutivo y Judicial.
+2. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
+3. Sufragio Universal (artículo 4): Derecho al voto de todo ciudadano mayor de edad.
+4. Secreto del Voto (artículo 5): El voto es secreto por defecto y no puede ser eliminado salvo mediante este procedimiento.
+5. Garantía de Anulación Popular (artículo 6): El derecho a crear mecanismos de anulación popular directa de decisiones legislativas no puede ser suprimido.
 6. Igualdad ante la Ley (artículo 8): Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo.
-7. Equilibrio de Poderes (artículo 39): El mecanismo de autodestrucción mutua entre Legislativo y Ejecutivo no puede ser eliminado.
-8. Supremacía Constitucional (artículo 42): Esta Constitución es la norma suprema del ordenamiento jurídico.
-9. Derechos Fundamentales del Sistema Democrático (artículo 71): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
-10. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
+7. Lengua Oficial (artículo 9): El Estado debe tener al menos una lengua oficial con carácter obligatorio en legislación, justicia, administración y educación.
+8. Separación de Poderes (artículo 20): Independencia de poderes Legislativo, Ejecutivo y Judicial.
+9. Equilibrio de Poderes (artículo 39): El mecanismo de autodestrucción mutua entre Legislativo y Ejecutivo no puede ser eliminado.
+10. Supremacía Constitucional (artículo 42): Esta Constitución es la norma suprema del ordenamiento jurídico.
 11. Derecho y Procedimientos de Reforma Constitucional (artículos del 67 al 69 incluidos): El pueblo conserva siempre el derecho de reformar esta Constitución mediante los procedimientos establecidos. Los procedimientos de reforma no pueden ser suprimidos.
-12. Lengua Oficial (artículo 9): El Estado debe tener al menos una lengua oficial con carácter obligatorio en legislación, justicia, administración y educación.
+12. Derechos Fundamentales del Sistema Democrático (artículo 71): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
 
 ---
 

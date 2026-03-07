@@ -592,21 +592,22 @@ El Ejecutivo solo puede emitir decretos durante un estado de excepción. Fuera d
 
 # TÍTULO V: REFORMA Y PROTECCIÓN CONSTITUCIONAL
 
-## ¿Por qué estas once cláusulas pétreas específicas?
+## ¿Por qué estas doce cláusulas pétreas específicas?
 
 Las cláusulas pétreas protegen los pilares sin los cuales la democracia deja de ser democracia:
 
 1. Soberanía popular (artículo 1): sin ella, el poder no reside en el pueblo.
-2. Sufragio universal (artículo 4): sin él, no todos participan.
-3. Secreto del voto (artículo 5): sin él, el voto es coaccionable y la democracia es simulada.
-4. Garantía de anulación popular (artículo 6): sin ella, el pueblo pierde la capacidad de corregir errores del poder delegado.
-5. Separación de poderes (artículo 20): sin ella, el poder se concentra.
+2. Jerarquía de legitimidad (artículo 1): sin ella, un poder subordinado puede capturar al superior.
+3. Sufragio universal (artículo 4): sin él, no todos participan.
+4. Secreto del voto (artículo 5): sin él, el voto es coaccionable y la democracia es simulada.
+5. Garantía de anulación popular (artículo 6): sin ella, el pueblo pierde la capacidad de corregir errores del poder delegado.
 6. Igualdad ante la ley (artículo 8): sin ella, los gobernantes se convierten en clase privilegiada inmune a las consecuencias de sus actos.
-7. Equilibrio de poderes (artículo 39): sin la autodestrucción mutua, un poder puede someter al otro indefinidamente sin consecuencias.
-8. Supremacía constitucional (artículo 42): sin ella, una ley ordinaria puede vaciar la Constitución de contenido.
-9. Derechos fundamentales democráticos (artículo 71): sin ellos (expresión, información, reunión, integridad, privacidad del voto), los mecanismos democráticos funcionan en el papel pero no en la práctica.
-10. Jerarquía de legitimidad (artículo 1): sin ella, un poder subordinado puede capturar al superior.
-11. Derecho de reforma (artículos 68-69): sin él, la Constitución se convierte en tiranía de los muertos sobre los vivos.
+7. Lengua oficial (artículo 9): sin al menos una lengua oficial compartida, la legislación, la justicia y la administración no pueden funcionar de forma uniforme ni accesible para todos los ciudadanos.
+8. Separación de poderes (artículo 20): sin ella, el poder se concentra.
+9. Equilibrio de poderes (artículo 39): sin la autodestrucción mutua, un poder puede someter al otro indefinidamente sin consecuencias.
+10. Supremacía constitucional (artículo 42): sin ella, una ley ordinaria puede vaciar la Constitución de contenido.
+11. Derecho y procedimientos de reforma (artículos del 67 al 69 incluidos): sin ellos, la Constitución se convierte en tiranía de los muertos sobre los vivos. La cláusula protege no solo el derecho a reformar sino también el procedimiento de reforma de cláusulas pétreas (artículo 67), evitando que un atacante rebaje los umbrales del procedimiento pétreo vía reforma ordinaria.
+12. Derechos fundamentales democráticos (artículo 71): sin ellos (expresión, información, reunión, integridad, privacidad del voto), los mecanismos democráticos funcionan en el papel pero no en la práctica.
 
 Lo que no es cláusula pétrea: detalles administrativos, números de representantes, procedimientos específicos. Estos pueden evolucionar sin destruir la democracia. La distinción es clara: lo pétreo protege la existencia de mecanismos fundamentales; los parámetros numéricos de esos mecanismos se protegen mediante niveles de consenso específicos (N5, N6) que permiten ajustes sin eliminar el mecanismo en sí.
 

@@ -9,13 +9,9 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Revisión del Artículo 1
 
-Sin hallazgos.
-
 **Art 1, Consistencia (punto 3):** El Art 1 dice "anulación popular de decisiones legislativas (artículo 6)". Pero el Art 6 se titula "Garantía de Anulación Popular" y garantiza el **derecho a crear mecanismos** de anulación, no la anulación en sí. Es decir, el Art 6 no es un mecanismo de ejercicio del Poder Popular, sino una garantía de que ese mecanismo pueda existir. El Art 1 lo presenta como si fuera un mecanismo activo ya establecido, cuando en realidad es una garantía de que no se puede prohibir su creación.
 
 Propuesta: Ajustar la referencia para reflejar la naturaleza real del Art 6. Por ejemplo: "la anulación popular de decisiones legislativas, cuya existencia está garantizada por el artículo 6". O alternativamente, se podría argumentar que la referencia está bien como está porque el Art 1 simplemente enumera las herramientas del Poder Popular y el Art 6 es la que habilita esa herramienta. Pero es una inconsistencia sutil: el lector que va al Art 6 esperando encontrar un mecanismo de anulación encuentra una garantía abstracta.
-
-Esto no es necesariamente un loophole del Art 1 (es una decisión de diseño discutida en la Parte 2 sobre el trilema democrático), pero vale la pena señalarlo: la jerarquía de legitimidad lista los mecanismos del Poder Popular, y la ausencia de anulación popular de decisiones ejecutivas es notable. El Ejecutivo está sujeto a control judicial (constitucionalidad) y legislativo (autodestrucción mutua, control fiscal), pero no a anulación popular directa de sus actos.
 
 ## Revisión del Artículo 2: Niveles de Consenso
 
@@ -602,9 +598,8 @@ Propuesta: Definir explícitamente el estatus del Legislativo durante los 30 dí
 
 Propuesta: Verificar que la secuencia "revocar estado de excepción + activar autodestrucción mutua" es viable sin bloqueos temporales. Si el Legislativo puede hacer ambas cosas en la misma sesión, el loophole es manejable. Si hay plazos intermedios, es explotable. No necesariamente requiere cambio en el Art 39 sino confirmación de que la secuencia es fluida.
 
-1. **Asimetría de candidatura post-cese** -- los legisladores pueden volver a presentarse, el Presidente no. Discutible si es intencional.
-2. **Vacío sobre el estatus del Legislativo durante los 30 días** -- el Ejecutivo interino está regulado (Art 26), el Legislativo interino no.
-3. **Estado de excepción como escudo temporal** -- mitigado por la revocación legislativa con N1, pero la secuencia operativa merece verificación.
+1. **Vacío sobre el estatus del Legislativo durante los 30 días** -- el Ejecutivo interino está regulado (Art 26), el Legislativo interino no.
+2. **Estado de excepción como escudo temporal** -- mitigado por la revocación legislativa con N1, pero la secuencia operativa merece verificación.
 
 **Art 40 - Hallazgos:**
 
@@ -919,21 +914,13 @@ Resumen: los hallazgos 1 y 2 son sustanciales. El 1 (quién propone la guerra) e
 
 **Art 66 (Clausulas Petreas):**
 
-1. **Inconsistencia Parte 2 vs Parte 1:** La Parte 2 dice "once clausulas petreas" (linea 595), pero la Parte 1 lista 12 (la numero 12 es "Lengua Oficial", articulo 9, aniadida en el commit mas reciente). La argumentacion no incluye justificacion para la clausula petrea 12. Hay que actualizar la Parte 2: cambiar "once" por "doce" y aniadir la justificacion de por que la lengua oficial es clausula petrea.
+1. **Clausula 5 - ambiguedad:** Dice "El derecho a crear mecanismos de anulacion popular directa de decisiones legislativas no puede ser suprimido." Sin embargo, el articulo 6 real no habla de "crear mecanismos" sino de ejercer la anulacion popular. La redaccion "derecho a crear" sugiere que aun no existen, cuando ya estan definidos. Propuesta: "El mecanismo de anulacion popular directa de decisiones legislativas no puede ser suprimido."
 
-2. **Clausula 4 - ambiguedad:** Dice "El derecho a crear mecanismos de anulacion popular directa de decisiones legislativas no puede ser suprimido." Sin embargo, el articulo 6 real no habla de "crear mecanismos" sino de ejercer la anulacion popular. La redaccion "derecho a crear" sugiere que aun no existen, cuando ya estan definidos. Propuesta: "El mecanismo de anulacion popular directa de decisiones legislativas no puede ser suprimido."
-
-3. **Clausula 3 - parentesis integrable:** "El voto es secreto por defecto y no puede ser eliminado salvo mediante este procedimiento" -- el "este procedimiento" referencia al procedimiento del art 67 pero esta implicitamente integrado. No es grave pero podria ser mas explicito. Menor prioridad.
-
-4. **Loophole - clausula petrea de reforma (11):** Protege el "derecho de reforma" (arts 68-69), pero no protege el propio art 67 (reforma de clausulas petreas). Un atacante con N4 legislativo podria reformar el art 67 via reforma ordinaria, rebajando los umbrales del procedimiento petreo (ej: bajar de N5+75% a N1+30%). Esto vaciaria de contenido todas las clausulas petreas sin tocarlas directamente. Propuesta: incluir el articulo 67 en la clausula petrea 11, o crear una clausula petrea 13 que proteja el procedimiento de reforma de clausulas petreas.
-
-Contraargumento: el art 68 parrafo 2 dice que "la reforma del articulo en su conjunto requiere un consenso igual o superior al mayor nivel de proteccion de los parametros que contiene". El art 67 tiene parametros a N5 y N6 implicitos en su texto, pero no dice explicitamente "estos parametros pueden modificarse mediante consenso de Nivel NX" -- es decir, no tiene la clausula de proteccion de parametros que si tienen otros articulos. Esto refuerza el loophole: como el art 67 no especifica un nivel de proteccion para sus parametros numericos, una reforma ordinaria a N4 podria reescribirlo entero.
+2. **Clausula 4 - parentesis integrable:** "El voto es secreto por defecto y no puede ser eliminado salvo mediante este procedimiento" -- el "este procedimiento" referencia al procedimiento del art 67 pero esta implicitamente integrado. No es grave pero podria ser mas explicito. Menor prioridad.
 
 **Art 67 (Procedimiento de Reforma de Clausulas Petreas):**
 
-1. **Loophole - falta nivel de proteccion de parametros:** Los parametros numericos del art 67 (N5 referendum, 75% participacion, N6 via legislativa, N1 via popular, 2 anios reflexion, 21 anios cooldown) no tienen clausula de proteccion explicita como otros articulos. Comparar con el art 13 que dice "Los parametros numericos de este articulo pueden modificarse mediante consenso de Nivel N6". El art 67 no tiene nada equivalente. Propuesta: aniadir clausula de proteccion de parametros a N6, o directamente hacerlo clausula petrea (ver Art 66 punto 4).
-
-2. **Ambiguedad - "periodo de espera" tras procedimiento completo:** Dice "independientemente de si la reforma es aprobada o rechazada, esa misma clausula no puede someterse a nuevo procedimiento de reforma hasta transcurridos 21 anios." Pero si la primera votacion se aprueba y la segunda (tras 2 anios) se rechaza, el cooldown de 21 anios arranca desde cuando? Desde la primera votacion o desde la segunda? Propuesta: aclarar "transcurridos 21 anios desde la ultima votacion del procedimiento".
+1. **Ambiguedad - "periodo de espera" tras procedimiento completo:** Dice "independientemente de si la reforma es aprobada o rechazada, esa misma clausula no puede someterse a nuevo procedimiento de reforma hasta transcurridos 21 anios." Pero si la primera votacion se aprueba y la segunda (tras 2 anios) se rechaza, el cooldown de 21 anios arranca desde cuando? Desde la primera votacion o desde la segunda? Propuesta: aclarar "transcurridos 21 anios desde la ultima votacion del procedimiento".
 
 **Art 68 (Derecho de Reforma Ordinaria):**
 
