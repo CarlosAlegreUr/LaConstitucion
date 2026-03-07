@@ -36,7 +36,7 @@ La soberanía reside en el pueblo. El pueblo ejerce su soberanía mediante los m
 
 Se establece la siguiente jerarquía de legitimidad democrática, de mayor a menor:
 
-1. Poder Popular, que se ejerce mediante la elección directa de representantes (artículos 10 y 13), la revocación de cargos electos (artículos 11-12), la anulación popular de decisiones legislativas (artículo 6) y judiciales (artículo 46), y la iniciativa y referéndum de reforma constitucional (artículos 67-69).
+1. Poder Popular, que se ejerce mediante la elección directa de representantes (artículos 10 y 13), la revocación de cargos electos (artículos 11 y 12), la anulación popular de decisiones legislativas (artículo 6) y judiciales (artículo 46), y la iniciativa y referéndum de reforma constitucional (artículos del 67 al 69 incluidos).
 2. Poderes delegados: Legislativo (Subtítulo 1 del Título IV), Ejecutivo (Subtítulo 2 del Título IV) y Judicial (Subtítulo 3 del Título IV), iguales entre sí y sujetos a control recíproco conforme a los mecanismos establecidos en esta Constitución (Subtítulos 4-9 del Título IV).
 
 El Poder Popular puede oponerse a las decisiones de cualquier poder delegado únicamente conforme a los procedimientos establecidos en esta Constitución. Ningún poder delegado prevalece sobre otro; sus conflictos se resuelven mediante los mecanismos de control mutuo que esta Constitución establece.
@@ -146,7 +146,7 @@ Los distritos pueden contar con un sistema de suplentes para garantizar continui
 
 El número de suplentes por distrito puede modificarse mediante consenso de Nivel N4, ya sea a nivel nacional (decisión del Legislativo aplicable a todos los distritos) o a nivel distrital (decisión del distrito aplicable solo a ese distrito), según procedimientos establecidos por ley ordinaria.
 
-El poder popular a nivel distrital prevalece sobre el Legislativo nacional únicamente en los casos mencionados explícitamente en esta Constitución, como la configuración de suplentes establecida en este artículo o la revocación del representante del distrito conforme a los artículos 11-12. Fuera de estos casos específicos, el poder popular distrital no puede anular decisiones del Legislativo nacional.
+El poder popular a nivel distrital prevalece sobre el Legislativo nacional únicamente en los casos mencionados explícitamente en esta Constitución, como la configuración de suplentes establecida en este artículo o la revocación del representante del distrito conforme a los artículos 11 y 12. Fuera de estos casos específicos, el poder popular distrital no puede anular decisiones del Legislativo nacional.
 
 ---
 
@@ -301,7 +301,7 @@ Finalizado el Proceso de Arranque, las reducciones de consenso aplicadas durante
 
 Los poderes Legislativo, Ejecutivo y Judicial deberán ser independientes entre sí. Ningún poder puede ejercer funciones constitucionalmente asignadas a otro. Esta separación es material, no meramente formal: cada poder debe contar con independencia de nombramiento y mecanismos de financiación económica que garanticen su autonomía efectiva.
 
-La financiación de cada poder debe ser la descrita en los artículos 30 a 32 y 53 de esta Constitución.
+La financiación de cada poder debe ser la descrita en los artículos del 30 al 32 incluidos y 53 de esta Constitución.
 
 ---
 
@@ -660,7 +660,7 @@ Cualquier ciudadano tiene derecho a auditar los datos públicos registrados en l
 
 ### Artículo 49: Comandante en Jefe
 
-El Presidente de la República es el Comandante en Jefe de las Fuerzas Armadas. Ejerce el mando operativo directo de todas las ramas militares. Este mando está sujeto a los límites constitucionales establecidos en los artículos 50 a 54.
+El Presidente de la República es el Comandante en Jefe de las Fuerzas Armadas. Ejerce el mando operativo directo de todas las ramas militares. Este mando está sujeto a los límites constitucionales establecidos en los artículos del 50 al 54 incluidos.
 
 ---
 
@@ -718,13 +718,13 @@ Los jefes de cada rama son nombrados por el Presidente. El Legislativo puede rev
 
 ### Artículo 55: Estados de Excepción - Principio
 
-Los estados de excepción solo pueden declararse ante crisis graves que no puedan gestionarse mediante medios ordinarios. Declarar un estado de excepción sin que exista crisis real constituye delito grave, sancionado por defecto con 10 años de prisión. Este parámetro puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N2 y posteriormente mediante consenso de Nivel N3. Por defecto existen tres tipos de estados de excepción, establecidos en el artículo 56. Todo estado de excepción está sujeto a los seis límites obligatorios establecidos en los artículos 58 a 63. Ninguna crisis, por grave que sea, autoriza la suspensión de estos seis límites.
+Los estados de excepción solo pueden declararse ante crisis graves que no puedan gestionarse mediante medios ordinarios. Declarar un estado de excepción sin que exista crisis real constituye delito grave, sancionado por defecto con 10 años de prisión. Este parámetro puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N2 y posteriormente mediante consenso de Nivel N3. Por defecto existen tres tipos de estados de excepción, establecidos en el artículo 56. Todo estado de excepción está sujeto a los seis límites obligatorios establecidos en los artículos del 58 al 63 incluidos. Ninguna crisis, por grave que sea, autoriza la suspensión de estos seis límites.
 
 ---
 
 ### Artículo 56: Tipos de Estados de Excepción
 
-Se establecen tres tipos de estados de excepción, clasificados según el ámbito de la crisis. Cada tipo especifica los derechos restringibles temporalmente y en la zona afectada. Fuera de los derechos expresamente mencionados, todos los demás permanecen vigentes. Todos los poderes excepcionales cesan automáticamente con la finalización del estado de excepción, retornando toda situación al estado anterior. En todos los casos están sujetos a los seis límites de los artículos 58 a 63.
+Se establecen tres tipos de estados de excepción, clasificados según el ámbito de la crisis. Cada tipo especifica los derechos restringibles temporalmente y en la zona afectada. Fuera de los derechos expresamente mencionados, todos los demás permanecen vigentes. Todos los poderes excepcionales cesan automáticamente con la finalización del estado de excepción, retornando toda situación al estado anterior. En todos los casos están sujetos a los seis límites de los artículos del 58 al 63 incluidos.
 
 1. Ámbito Natural y Tecnológico:
 - Causas: Catástrofe natural, crisis sanitaria, desastre tecnológico (accidente nuclear, apagón de más de 48h de duración, vertido tóxico u otros de impacto equivalente en gravedad).
@@ -790,7 +790,7 @@ El Poder Ejecutivo puede emitir decretos exclusivamente durante un estado de exc
 
 ### Artículo 61: Límite 4 - Control Parlamentario
 
-Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. A excepción de que el mecanismo de autodestrucción mutua (artículos 39-40) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente si el estado de excepción impide garantizar las condiciones establecidas en esta Constitución para su celebración: verificabilidad, privacidad del voto, auditoría pública conforme a los artículos 5 y 17. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 26 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 26 no es aplicable. En cuanto dichas condiciones puedan garantizarse, las elecciones se celebran en el plazo más breve posible, como muy tarde, dentro de 30 días.
+Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. A excepción de que el mecanismo de autodestrucción mutua (artículos 39 y 40) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente si el estado de excepción impide garantizar las condiciones establecidas en esta Constitución para su celebración: verificabilidad, privacidad del voto, auditoría pública conforme a los artículos 5 y 17. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 26 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 26 no es aplicable. En cuanto dichas condiciones puedan garantizarse, las elecciones se celebran en el plazo más breve posible, como muy tarde, dentro de 30 días.
 
 ---
 
@@ -807,7 +807,7 @@ El Poder Judicial mantiene todas sus funciones durante los estados de excepción
 
 Durante cualquier estado de excepción está absolutamente prohibido:
 
-1. Modificar esta Constitución mediante el procedimiento de reforma (artículos 67-69).
+1. Modificar esta Constitución mediante el procedimiento de reforma (artículos del 67 al 69 incluidos).
 2. Modificar la ley electoral o las reglas de celebración de elecciones.
 3. Posponer elecciones salvo imposibilidad física objetiva (ej: zona de guerra activa, destrucción de infraestructura electoral).
 4. Posponer el comienzo de procesos judiciales salvo imposibilidad física objetiva. (ej: zona de guerra activa, destrucción de infraestructura judicial).
@@ -822,7 +822,7 @@ Tras la finalización de cualquier estado de excepción:
 
 1. El Ejecutivo debe presentar informe público en un plazo máximo de 60 días, detallando todas las medidas adoptadas, su justificación, resultados y costes. Cualquier ciudadano puede acceder a este informe.
 2. Si un ciudadano denuncia irregularidades, un juez de primera instancia puede ordenar auditoría independiente de las medidas adoptadas.
-3. Funcionarios que hayan abusado de poderes excepcionales o violado los seis límites (artículos 58-63) pueden ser procesados penalmente. El estado de excepción no exime de responsabilidad por abusos.
+3. Funcionarios que hayan abusado de poderes excepcionales o violado los seis límites (artículos del 58 al 63 incluidos) pueden ser procesados penalmente. El estado de excepción no exime de responsabilidad por abusos.
 
 ---
 
@@ -850,7 +850,7 @@ La finalización no requiere acto positivo adicional: opera automáticamente. Tr
 
 ### Artículo 66: Cláusulas Pétreas - Núcleo Intangible
 
-Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 68-69. Solo pueden modificarse mediante el procedimiento especial establecido en el artículo 67:
+Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 68 y 69. Solo pueden modificarse mediante el procedimiento especial establecido en el artículo 67:
 
 1. Soberanía Popular (artículo 1): El poder reside en el pueblo mediante los mecanismos de representación uninominal directa en distritos pequeños y revocabilidad del mandato al individuo al cual el poder ha sido delegado.
 2. Sufragio Universal (artículo 4): Derecho al voto de todo ciudadano mayor de edad.
@@ -862,7 +862,7 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 8. Supremacía Constitucional (artículo 42): Esta Constitución es la norma suprema del ordenamiento jurídico.
 9. Derechos Fundamentales del Sistema Democrático (artículo 71): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
 10. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
-11. Derecho y Procedimientos de Reforma Constitucional (artículos 67-69): El pueblo conserva siempre el derecho de reformar esta Constitución mediante los procedimientos establecidos. Los procedimientos de reforma no pueden ser suprimidos.
+11. Derecho y Procedimientos de Reforma Constitucional (artículos del 67 al 69 incluidos): El pueblo conserva siempre el derecho de reformar esta Constitución mediante los procedimientos establecidos. Los procedimientos de reforma no pueden ser suprimidos.
 12. Lengua Oficial (artículo 9): El Estado debe tener al menos una lengua oficial con carácter obligatorio en legislación, justicia, administración y educación.
 
 ---
@@ -942,7 +942,7 @@ Los siguientes derechos son condiciones necesarias para el funcionamiento de los
 
 2. Información: Toda persona tiene derecho a acceder a información y a difundirla.
 
-3. Reunión y asociación política: Toda persona tiene derecho a reunirse y asociarse pacíficamente con fines políticos, incluyendo la organización necesaria para ejercer los mecanismos de revocación (artículos 11-12), anulación popular (artículo 46) e iniciativa de reforma (artículo 69).
+3. Reunión y asociación política: Toda persona tiene derecho a reunirse y asociarse pacíficamente con fines políticos, incluyendo la organización necesaria para ejercer los mecanismos de revocación (artículos 11 y 12), anulación popular (artículo 46) e iniciativa de reforma (artículo 69).
 
 4. Integridad personal: Ninguna persona puede ser sometida a daño físico por razón de su actividad política o su ejercicio del voto.
 
