@@ -23,3 +23,33 @@ Hallazgos que ya fueron abordados y no requieren más acción.
 **Hallazgo 1 - Loophole falta nivel de protección de parámetros:** Los parámetros numéricos del art 67 (N5, 75%, N6, N1, 2 años, 21 años) no tenían cláusula de protección explícita como otros artículos.
 
 **Resolución:** Commit d05cbb3. Añadida sección "Protección de parámetros" al Art 67: los parámetros solo pueden modificarse cumpliendo los procedimientos del propio Art 67. Patrón de doble capa (igual que Art 2): cláusula pétrea impide supresión + auto-protección especifica procedimiento para modificar parámetros.
+
+---
+
+## Correcciones mecánicas (batch)
+
+Las siguientes correcciones son puramente mecánicas: ortografía, gramática, consistencia terminológica, anglicismos y paréntesis integrables. No cambian contenido ni diseño.
+
+**Art 14/15 — "Corruptabilidad" → "Corruptibilidad":** Error ortográfico. La forma correcta en español es "corruptibilidad" (de "corruptible" + "-idad").
+
+**Art 11 — "aplica" → "se aplica":** Corrección gramatical. El verbo requiere pronombre reflexivo.
+
+**Art 22 — "Ratificar" → "Aprobar o rechazar":** Consistencia con Art 32, que es la fuente definitiva del mecanismo. "Ratificar" implica que no se puede rechazar, lo cual contradice el Art 32.
+
+**Art 23 — "consenso N1" → "consenso de Nivel N1":** Formato inconsistente con el resto del texto constitucional.
+
+**Art 40 — "ejecutar" → "activar", "invocó" → "activó" (3 cambios):** Consistencia verbal con Art 39 (que usa "activar") y con el propio primer párrafo del Art 40 (que usa "activación").
+
+**Art 43 — "packs" → "grupos" (2 veces):** Anglicismo. Regla del proyecto: todo en español.
+
+**Art 43 — Frase redundante eliminada:** "Su decisión es válida en cualquiera de los sentidos: tanto si confirma la inconstitucionalidad como si declara la norma constitucional." La frase anterior ya dice que puede "confirmar, revocar, matizar o reinterpretar".
+
+**Art 35 — Paréntesis eliminado:** "(como los años de experiencia mínima requeridos)" era redundante. El texto ya dice "límites y condiciones específicas" y da el valor por defecto.
+
+**Art 37 — Paréntesis integrado:** "votación popular vinculante (elección directa)" → "votación popular directa y vinculante".
+
+**Art 62 — "En particular se aclara que:" → "En particular:":** "Se aclara" es débil para texto constitucional.
+
+**Art 63 — "el procedimiento de reforma" → "los procedimientos de reforma":** Hay dos procedimientos (Art 67 para pétreas, Arts 68-69 para ordinarias). El singular era incorrecto.
+
+**Art 61 — "A excepción de que el mecanismo..." → "El mecanismo...":** Construcción gramatical forzada eliminada. La excepción se entiende por el contexto (el Legislativo funciona con normalidad; la autodestrucción mutua es lo que se suspende).

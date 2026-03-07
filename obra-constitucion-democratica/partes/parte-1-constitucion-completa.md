@@ -152,7 +152,7 @@ El poder popular a nivel distrital prevalece sobre el Legislativo nacional únic
 
 ### Artículo 11: Revocabilidad de Representantes
 
-Los representantes del Poder Legislativo serán siempre revocables directamente por el pueblo del distrito que los eligió. Este mecanismo aplica exclusivamente a representantes legislativos en su distrito de elección. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá suprimir este derecho.
+Los representantes del Poder Legislativo serán siempre revocables directamente por el pueblo del distrito que los eligió. Este mecanismo se aplica exclusivamente a representantes legislativos en su distrito de elección. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá suprimir este derecho.
 
 ---
 
@@ -196,7 +196,7 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 ### Artículo 14: Tamaño de Distritos
 
-El tamaño de cada distrito es de 95.000 a 120.000 habitantes. La cifra exacta se determina mediante el Algoritmo de Optimización de la Corruptabilidad de Distritos (AOCD), cuyas especificaciones completas son las siguientes:
+El tamaño de cada distrito es de 95.000 a 120.000 habitantes. La cifra exacta se determina mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD), cuyas especificaciones completas son las siguientes:
 
 Función objetivo: Maximizar el valor mínimo del percentil 25 de renta entre todos los distritos del país. Es decir, la distribución óptima de distritos es aquella en la que el distrito con el percentil 25 de renta más bajo tiene dicho valor lo más alto posible.
 
@@ -217,7 +217,7 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 ### Artículo 15: Actualización Distrital Periódica
 
-Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el Algoritmo de Optimización de la Corruptabilidad de Distritos (AOCD) conforme al artículo 14. Las especificaciones completas del AOCD se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado mediante referéndum.
+Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD) conforme al artículo 14. Las especificaciones completas del AOCD se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado mediante referéndum.
 
 La primera distribución de distritos será establecida durante el Proceso de Transición (artículo 18). La primera actualización se realizará 21 años después de la entrada en vigor de esta Constitución.
 
@@ -321,7 +321,7 @@ El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en 
 
 1. Aprobar, modificar o derogar leyes.
 2. Aprobar el presupuesto anual del Estado.
-3. Ratificar el presupuesto propuesto por el Poder Judicial conforme al artículo 32.
+3. Aprobar o rechazar el presupuesto propuesto por el Poder Judicial conforme al artículo 32.
 
 ---
 
@@ -331,7 +331,7 @@ Todas las votaciones del Legislativo son públicas y quedan registradas en un si
 
 En las votaciones del Poder Legislativo, los niveles de consenso se calculan sobre el número total de escaños. No existen la abstención ni el voto en blanco: un representante que no emita voto a favor se contabiliza como voto en contra. Los escaños vacantes se contabilizan igualmente como votos en contra.
 
-La mayoría requerida por defecto para aprobar, modificar o derogar leyes es de consenso N1, salvo en los casos en que esta Constitución establezca mayorías cualificadas específicas.
+La mayoría requerida por defecto para aprobar, modificar o derogar leyes es de consenso de Nivel N1, salvo en los casos en que esta Constitución establezca mayorías cualificadas específicas.
 
 El Legislativo no podrá aprobar más de 7 leyes por semana.
 
@@ -462,7 +462,7 @@ Los jueces son nombrados mediante un procedimiento que garantiza independencia j
 2. Experiencia profesional mínima establecida por ley.
 3. Superación de examen público de capacitación.
 
-Los límites y condiciones específicas (como los años de experiencia mínima requeridos) se establecen durante el Proceso de Arranque mediante consenso de Nivel N1. Por defecto, la experiencia profesional mínima requerida es de 1,5 años.
+Los límites y condiciones específicas se establecen durante el Proceso de Arranque mediante consenso de Nivel N1. Por defecto, la experiencia profesional mínima requerida es de 1,5 años.
 
 La modificación de estos requisitos requiere consenso de Nivel N5.
 
@@ -492,7 +492,7 @@ Los candidatos a magistrado del Tribunal Supremo son propuestos exclusivamente p
 2. Facultades de derecho acreditadas.
 3. Asociaciones de jueces de instancias inferiores al Tribunal Supremo.
 
-La elección final se realiza mediante votación popular vinculante (elección directa). El procedimiento específico, incluyendo el número de candidatos propuestos por cada institución y el sistema de votación, se establece durante el Proceso de Arranque conforme al Título III.
+La elección final se realiza mediante votación popular directa y vinculante. El procedimiento específico, incluyendo el número de candidatos propuestos por cada institución y el sistema de votación, se establece durante el Proceso de Arranque conforme al Título III.
 
 ---
 
@@ -518,13 +518,13 @@ El mecanismo de autodestrucción mutua no puede activarse durante un estado de e
 
 ### Artículo 40: Autodestrucción Mutua - Periodo de Desactivación
 
-Tras la activación del mecanismo de autodestrucción mutua (artículo 39), opera un periodo de desactivación asimétrico durante el cual ninguna de las partes podrá ejecutar el mecanismo de autodestrucción mutua. El periodo de desactivación se aplica de forma diferenciada a quien lo invocó y a quien lo recibió:
+Tras la activación del mecanismo de autodestrucción mutua (artículo 39), opera un periodo de desactivación asimétrico durante el cual ninguna de las partes podrá activar el mecanismo de autodestrucción mutua. El periodo de desactivación se aplica de forma diferenciada a quien lo invocó y a quien lo recibió:
 
-Si lo invocó el Legislativo:
+Si lo activó el Legislativo:
 - Periodo de desactivación para el Legislativo: 6 meses desde las nuevas elecciones.
 - Periodo de desactivación para el Ejecutivo: 3 meses desde las nuevas elecciones.
 
-Si lo invocó el Presidente:
+Si lo activó el Presidente:
 - Periodo de desactivación para el Ejecutivo: 12 meses desde las nuevas elecciones.
 - Periodo de desactivación para el Legislativo: 3 meses desde las nuevas elecciones.
 
@@ -566,11 +566,11 @@ Esta Constitución es la norma suprema del ordenamiento jurídico. Toda ley, reg
 
 ### Artículo 43: Proceso De Análisis De Constitucionalidad
 
-Cualquier ciudadano con derecho a voto puede impugnar la constitucionalidad de cualquier ley aprobada ante los tribunales, independientemente de cuánto tiempo haya transcurrido desde su aprobación. Cada ley puede ser sometida a revisión constitucional una vez cada 6 años. Las impugnaciones pueden presentarse individualmente o en packs de hasta 10 leyes, juzgándose cada ley por separado. Solo puede existir un proceso de revisión constitucional activo por ley en cada momento; si un pack contiene una ley ya en proceso, el pack se admite pero esa ley se excluye. El máximo de packs en proceso simultáneo es de 10, lo que establece un límite de 100 leyes en revisión constitucional simultánea. La impugnación se presenta ante tribunal de primera instancia y se resuelve conforme al siguiente sistema en capas:
+Cualquier ciudadano con derecho a voto puede impugnar la constitucionalidad de cualquier ley aprobada ante los tribunales, independientemente de cuánto tiempo haya transcurrido desde su aprobación. Cada ley puede ser sometida a revisión constitucional una vez cada 6 años. Las impugnaciones pueden presentarse individualmente o en grupos de hasta 10 leyes, juzgándose cada ley por separado. Solo puede existir un proceso de revisión constitucional activo por ley en cada momento; si un pack contiene una ley ya en proceso, el pack se admite pero esa ley se excluye. El máximo de grupos en proceso simultáneo es de 10, lo que establece un límite de 100 leyes en revisión constitucional simultánea. La impugnación se presenta ante tribunal de primera instancia y se resuelve conforme al siguiente sistema en capas:
 
 1. Primera Instancia: El tribunal puede declarar inaplicable una norma que considere contraria a esta Constitución. Esta declaración tiene efecto únicamente para el caso concreto. El tribunal debe fundamentar detalladamente las razones por las cuales considera que la norma contraviene la Constitución. Cualquier ciudadano con derecho a voto puede recurrir esta decisión ante segunda instancia, independientemente de su participación en el proceso inicial.
 
-2. Segunda Instancia (Casación): El tribunal de segunda instancia revisa exclusivamente el razonamiento jurídico aplicado. Puede confirmar la inaplicabilidad, revocarla o matizar sus términos. Su decisión es válida en cualquiera de los sentidos: tanto si confirma la inconstitucionalidad como si declara la norma constitucional. Si confirma la inaplicabilidad, la norma queda inaplicable para todos los casos. Cualquier ciudadano con derecho a voto puede recurrir esta decisión ante el Tribunal Supremo dentro de un plazo máximo de 2 semanas desde la decisión de segunda instancia. Transcurrido este plazo sin recurso, la decisión de segunda instancia deviene permanente.
+2. Segunda Instancia (Casación): El tribunal de segunda instancia revisa exclusivamente el razonamiento jurídico aplicado. Puede confirmar la inaplicabilidad, revocarla o matizar sus términos. Si confirma la inaplicabilidad, la norma queda inaplicable para todos los casos. Cualquier ciudadano con derecho a voto puede recurrir esta decisión ante el Tribunal Supremo dentro de un plazo máximo de 2 semanas desde la decisión de segunda instancia. Transcurrido este plazo sin recurso, la decisión de segunda instancia deviene permanente.
 
 3. Tribunal Supremo: Es el intérprete último de la constitucionalidad de las leyes en el orden judicial. Sus decisiones son vinculantes para todos los tribunales del país. Cuando declara inconstitucional una norma, esta queda inaplicable para todos los casos. La decisión del Tribunal Supremo solo puede revertirse mediante anulación popular conforme al artículo 46 o mediante reforma constitucional. El Legislativo puede aprobar una nueva ley con cambios sustanciales que aborde el problema constitucional identificado.
 
@@ -790,13 +790,13 @@ El Poder Ejecutivo puede emitir decretos exclusivamente durante un estado de exc
 
 ### Artículo 61: Límite 4 - Control Parlamentario
 
-Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. A excepción de que el mecanismo de autodestrucción mutua (artículos 39 y 40) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente si el estado de excepción impide garantizar las condiciones establecidas en esta Constitución para su celebración: verificabilidad, privacidad del voto, auditoría pública conforme a los artículos 5 y 17. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 26 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 26 no es aplicable. En cuanto dichas condiciones puedan garantizarse, las elecciones se celebran en el plazo más breve posible, como muy tarde, dentro de 30 días.
+Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. El mecanismo de autodestrucción mutua (artículos 39 y 40) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente si el estado de excepción impide garantizar las condiciones establecidas en esta Constitución para su celebración: verificabilidad, privacidad del voto, auditoría pública conforme a los artículos 5 y 17. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 26 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 26 no es aplicable. En cuanto dichas condiciones puedan garantizarse, las elecciones se celebran en el plazo más breve posible, como muy tarde, dentro de 30 días.
 
 ---
 
 ### Artículo 62: Límite 5 - Control Judicial
 
-El Poder Judicial mantiene todas sus funciones durante los estados de excepción. En particular se aclara que:
+El Poder Judicial mantiene todas sus funciones durante los estados de excepción. En particular:
 
 1. Puede revisar la legalidad de cualquier medida adoptada durante la excepción.
 2. Cualquier persona cuyos derechos aplicables al contexto del estado de excepción (conforme al artículo 56) sean violados puede solicitar proceso judicial.
@@ -807,7 +807,7 @@ El Poder Judicial mantiene todas sus funciones durante los estados de excepción
 
 Durante cualquier estado de excepción está absolutamente prohibido:
 
-1. Modificar esta Constitución mediante el procedimiento de reforma (artículos del 67 al 69 incluidos).
+1. Modificar esta Constitución mediante los procedimientos de reforma (artículos del 67 al 69 incluidos).
 2. Modificar la ley electoral o las reglas de celebración de elecciones.
 3. Posponer elecciones salvo imposibilidad física objetiva (ej: zona de guerra activa, destrucción de infraestructura electoral).
 4. Posponer el comienzo de procesos judiciales salvo imposibilidad física objetiva. (ej: zona de guerra activa, destrucción de infraestructura judicial).

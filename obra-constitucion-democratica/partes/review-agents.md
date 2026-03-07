@@ -143,9 +143,8 @@ Propuesta: Decidir si el Art 10 necesita o no flexibilidad de Arranque. Si no la
 **Art 11, Loophole / Alcance (3)**: El artículo dice "Los representantes del Poder Legislativo serán siempre revocables directamente por el pueblo del distrito que los eligió." El Art 1 dice "la revocación de cargos electos (artículos 11-12)". Hay una discrepancia sutil: el Art 1 habla de "cargos electos" en general, pero el Art 11 limita la revocación explícitamente a legisladores. El Presidente es un cargo electo (Art 24) y no es revocable por el pueblo directamente -- solo puede ser cesado por autodestrucción mutua (Art 39) o incapacidad (Art 27). No es necesariamente un problema de diseño (puede ser deliberado), pero la referencia del Art 1 a "cargos electos" sin matizar genera una expectativa que el Art 11 contradice. --> Propuesta: cambiar en el Art 1 "la revocación de cargos electos" por "la revocación de representantes legislativos" para que sea coherente con el Art 11. Alternativamente, si la intención es que el Presidente también sea revocable en el futuro, habría que añadir un mecanismo.
 
 1. **Frase final redundante con cláusula pétrea (Art 66.1)** -- viola DRY. Propuesta: eliminarla.
-2. **"aplica" debería ser "se aplica"** -- corrección gramatical menor.
-3. **Art 1 dice "cargos electos" pero Art 11 solo cubre legisladores** -- inconsistencia de alcance. Propuesta: corregir el Art 1 para que diga "representantes legislativos" en vez de "cargos electos".
-4. **Título ambiguo** -- "Representantes" a secas podría incluir al Presidente. Propuesta: "Representantes Legislativos".
+2. **Art 1 dice "cargos electos" pero Art 11 solo cubre legisladores** -- inconsistencia de alcance. Propuesta: corregir el Art 1 para que diga "representantes legislativos" en vez de "cargos electos".
+3. **Título ambiguo** -- "Representantes" a secas podría incluir al Presidente. Propuesta: "Representantes Legislativos".
 
 Los puntos 5 y 6 son más del Art 12 que del 11, los dejo señalados para cuando toque revisar ese artículo.
 
@@ -189,9 +188,8 @@ Los puntos 5 y 6 son más del Art 12 que del 11, los dejo señalados para cuando
 
 **Art 14 - "Coherencia histórico-cultural" es subjetiva y explotable**: La restricción 3 dice "la delimitación debe respetar fronteras provinciales, municipales o comarcales cuando sea posible." El "cuando sea posible" es una válvula de escape muy amplia. Un atacante podría argumentar que "no era posible" respetar fronteras para justificar un gerrymandering disfrazado. La argumentación en Parte 2 (l.290) dice que esto "previene el gerrymandering por riqueza", pero la vaguedad de "cuando sea posible" la debilita. --> Propuesta: reformular para invertir la carga: "la delimitación respeta fronteras provinciales, municipales o comarcales. Solo puede cruzar estas fronteras cuando sea estrictamente necesario para cumplir las restricciones de población y continuidad geográfica." Esto hace que cruzar fronteras sea la excepción que hay que justificar, no la regla con una excepción difusa.
 
-1. **"Corruptabilidad" vs "Corruptibilidad"** -- error ortografico claro, corregir en Arts 14 y 15.
-2. **Loophole en granularidad de datos** -- vector de ataque real, la disponibilidad de datos es manipulable.
-3. **"Cuando sea posible" en coherencia histórico-cultural** -- válvula de escape demasiado amplia, invertir la carga de la prueba.
+1. **Loophole en granularidad de datos** -- vector de ataque real, la disponibilidad de datos es manipulable.
+2. **"Cuando sea posible" en coherencia histórico-cultural** -- válvula de escape demasiado amplia, invertir la carga de la prueba.
 
 ## Revisión del Artículo 15: Actualización Distrital Periódica
 
@@ -283,10 +281,6 @@ Resumen: el hallazgo sustancial es el primero (vacío de financiación del Legis
 
 **Art 21 - Loophole (protección de parámetros)**: El mandato de 4 años no tiene ninguna cláusula de protección de parámetro (a diferencia de otros artículos donde se especifica qué nivel de consenso se requiere para modificar los valores numéricos). Compara con el Art 13 que protege sus parámetros con N6, o el Art 36 que protege los suyos con N5. El mandato de 4 años podría modificarse por reforma ordinaria (N4 legislativo o N1 popular, Art 68). Propuesta: añadir una cláusula de protección del parámetro, al menos N5, dado que cambiar la duración del mandato legislativo altera el equilibrio de poderes (recordar que el desacople con el mandato presidencial de 5 años es intencional, como dice la Parte 2).
 
-## Revisión del Artículo 22: Poder Legislativo - Funciones
-
-**Art 22 (Consistencia terminológica):** El punto 3 dice "Ratificar" el presupuesto judicial, pero el Art 32 define la acción como "aprobar o rechazar" (con la precisión de que no puede modificarlo). "Ratificar" tiene una connotación distinta: implica confirmar algo ya decidido, sin opción de rechazo. El Art 32 sí contempla el rechazo. Propuesta: cambiar "Ratificar" por "Aprobar o rechazar" para alinear con la terminología del Art 32, o como mínimo "Pronunciarse sobre".
-
 ## Revisión del Artículo 23: Poder Legislativo - Votaciones
 
 **Art 23 - Hallazgo 1 (Loophole): El parámetro "7 leyes por semana" no tiene cláusula de modificabilidad.** Casi todos los parámetros numéricos de otros artículos tienen una cláusula que indica con qué nivel de consenso pueden modificarse y qué se puede hacer durante el Proceso de Arranque. El Art 23 no dice nada: ni que sea modificable, ni que sea inmutable. Comparar con el Art 13 (parámetros modificables con N5), el Art 15 (parámetros modificables con N6), el Art 34 (parámetros modificables con N5), etc. Esto es un vacío: un atacante podría argumentar que el límite es inmutable (porque no se dice que se pueda cambiar), pero eso sería raro en el contexto de la Constitución donde casi todo tiene su cláusula. O bien debería tener un nivel de modificabilidad explícito, o bien una declaración explícita de inmutabilidad.
@@ -297,16 +291,13 @@ Propuesta: Añadir una cláusula del tipo "Este límite puede modificarse median
 
 Propuesta: No creo que la definición de "ley" deba estar en la Constitución (sería demasiada granularidad), pero merece discusión. Una opción sería que el Poder Judicial tenga potestad para fragmentar leyes ómnibus en unidades revisables independientes, o que el Art 23 establezca que cada ley debe tratar una materia única. Otra opción es dejarlo como está y confiar en que el control de constitucionalidad del Judicial y la anulación popular son suficientes salvaguardas.
 
-Propuesta: Cambiar "consenso N1" a "consenso de Nivel N1" para consistencia con el resto del texto.
-
 Propuesta: No necesariamente debe definirse en la Constitución (KISS), pero si se quiere ser más preciso, se podría decir "por cada periodo de 7 días naturales consecutivos" en lugar de "por semana". Alternativamente, dejarlo como está y que se regule por reglamento.
 
 **Resumen de prioridad:**
 1. **Hallazgo 1** (modificabilidad del "7") -- sustancial, patrón roto respecto al resto de la Constitución.
 2. **Hallazgo 2** (leyes ómnibus) -- sustancial, loophole real con atacante con recursos.
-3. **Hallazgo 3** (consistencia "consenso N1") -- menor, formato.
-4. **Hallazgo 4** (definición de semana) -- menor, probablemente regulable por reglamento.
-5. **Hallazgo 5** (referencia al Art 2) -- menor, estilo.
+3. **Hallazgo 3** (definición de semana) -- menor, probablemente regulable por reglamento.
+4. **Hallazgo 4** (referencia al Art 2) -- menor, estilo.
 
 ## Revisión del Artículo 24: Poder Ejecutivo - Presidente
 
@@ -470,15 +461,12 @@ Propuesta: Precisar "ajustado a la inflación anual del año fiscal inmediatamen
 
 ## Revisión del Artículo 32: Poder Judicial - Independencia y Financiación
 
-**Art 32 - Inconsistencia terminológica con Art 22**: El Art 22.3 dice que el Legislativo puede "ratificar" el presupuesto judicial. El Art 32 dice que puede "aprobar o rechazar". "Ratificar" implica solo aprobar; "aprobar o rechazar" es más preciso. Hay una discrepancia. Propuesta: cambiar Art 22.3 a "Aprobar o rechazar el presupuesto propuesto por el Poder Judicial conforme al artículo 32" para que sea consistente con el artículo que realmente regula el mecanismo.
-
 **Art 32 - Loophole: presupuesto inflado sin límite superior**: El Tribunal Supremo propone su propio presupuesto. Si lo rechazan, mantiene el anterior ajustado a inflación. Pero no hay ningún límite al presupuesto que puede proponer. Un Tribunal Supremo capturado podría proponer presupuestos desproporcionados y forzar al Legislativo a rechazarlos repetidamente (lo cual requiere N3, una mayoría difícil de alcanzar). Con un Legislativo que no logre N3, se aprobaría un presupuesto abusivo. No hay contrapeso. Propuesta: considerar un tope, por ejemplo que el presupuesto propuesto no pueda exceder un porcentaje del presupuesto general del Estado, o que el incremento interanual no pueda superar un porcentaje salvo consenso legislativo. Alternativamente, aceptar este riesgo como coste de la independencia financiera (un Tribunal Supremo capturado tiene problemas mayores que el presupuesto).
 
 **Art 32 - Falta de cláusula de modificabilidad de parámetros**: Los Arts 35, 36 y otros artículos judiciales especifican explícitamente qué nivel de consenso se necesita para modificar sus parámetros. El Art 32 no tiene ninguna cláusula de modificabilidad. El nivel N3 de rechazo presupuestario, por ejemplo, no tiene protección explícita contra reforma. Comparar con Art 36 ("Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N5") o Art 35 ("La modificación de estos requisitos requiere consenso de Nivel N5"). Propuesta: añadir una cláusula indicando que el nivel de consenso requerido para rechazar el presupuesto (N3) puede modificarse mediante consenso de Nivel N5, en línea con los demás artículos judiciales. Esto evita que una reforma ordinaria (N4, Art 68) lo baje a N1 y haga trivial estrangular financieramente al Judicial.
 
-1. **Inconsistencia Art 22 vs Art 32**: "ratificar" vs "aprobar o rechazar". Propuesta: unificar en Art 22.
-2. **Falta de cláusula de modificabilidad**: N3 no está protegido contra reforma. Propuesta: proteger a N5 como el resto de parámetros judiciales.
-3. **Loophole presupuesto inflado**: Sin tope al presupuesto propuesto. Propuesta: discutir si aceptar el riesgo o poner límite.
+1. **Falta de cláusula de modificabilidad**: N3 no está protegido contra reforma. Propuesta: proteger a N5 como el resto de parámetros judiciales.
+2. **Loophole presupuesto inflado**: Sin tope al presupuesto propuesto. Propuesta: discutir si aceptar el riesgo o poner límite.
 
 ## Revisión del Artículo 33: Poder Judicial - Jerarquía
 
@@ -508,8 +496,6 @@ Los jueces son nombrados mediante un procedimiento que garantiza independencia j
 
 Los límites y condiciones específicas (como los años de experiencia mínima requeridos) se establecen durante el Proceso de Arranque mediante consenso de Nivel N1. Por defecto, la experiencia profesional mínima requerida es de 1,5 años.
 
-**Art 35 (Redaccion)**: El paréntesis "(como los años de experiencia mínima requeridos)" es integrable. La frase ya dice "límites y condiciones específicas" y luego da un valor por defecto de experiencia, con lo cual el ejemplo entre paréntesis es redundante. --> Eliminar el paréntesis entero: "Los límites y condiciones específicas se establecen durante el Proceso de Arranque mediante consenso de Nivel N1."
-
 **Art 35 (Redaccion 2)**: "1,5 años" de experiencia profesional mínima por defecto es un valor curiosamente bajo para un juez. No es un problema de redacción sino de contenido: un profesional con 18 meses de experiencia decidiendo casos judiciales. Si es deliberado, la argumentación (parte 2) no lo justifica. Si no lo es, considerar un valor por defecto más alto (5-10 años es el estándar en la mayoría de sistemas). Esto es una decisión de diseño tuya, pero te lo señalo.
 
 **Art 35 (Referencia cruzada)**: El artículo no es referenciado por ningún otro artículo de la constitución. El Art 37 (nombramiento del Tribunal Supremo) no referencia el Art 35 como requisito base para magistrados del Supremo. --> Considerar si los magistrados del Tribunal Supremo deben cumplir también los requisitos del Art 35 (titulación, experiencia, examen). Si es la intención, el Art 37 debería decir "Además de los requisitos del artículo 35, los candidatos a magistrado..." Si no lo es, debería quedar claro que el Art 35 aplica solo a jueces de primera y segunda instancia.
@@ -524,9 +510,7 @@ Los límites y condiciones específicas (como los años de experiencia mínima r
 
 3. **Referencia cruzada**: Relación ambigua con Art 37 -- no queda claro si los requisitos del Art 35 aplican también a magistrados del Tribunal Supremo.
 
-4. **Redaccion**: Paréntesis eliminable en el segundo párrafo.
-
-5. **Contenido (opinión)**: 1,5 años de experiencia por defecto parece muy bajo, aunque al ser un valor por defecto modificable durante el Arranque, es menos crítico.
+4. **Contenido (opinión)**: 1,5 años de experiencia por defecto parece muy bajo, aunque al ser un valor por defecto modificable durante el Arranque, es menos crítico.
 
 ---
 
@@ -556,13 +540,10 @@ Los candidatos a magistrado del Tribunal Supremo son propuestos exclusivamente p
 
 **Art 37 - Consistencia: Falta clausula de modificabilidad del procedimiento post-Arranque.** El procedimiento se establece durante el Proceso de Arranque, pero no se dice con que nivel de consenso puede modificarse despues. Comparar con el Art 36 que distingue explicitamente entre Arranque y post-Arranque. --> Anadir algo como: "La modificacion del procedimiento fuera del Proceso de Arranque requiere consenso de Nivel N5."
 
-**Art 37 - Redaccion: Parentesis integrable.** "(eleccion directa)" es un parentesis que podria integrarse. --> Cambiar "votacion popular vinculante (eleccion directa)" a "eleccion directa de toda la ciudadania" o simplemente "votacion popular directa y vinculante", que es mas claro sin parentesis.
-
 1. **Critico** - Falta clausula de proteccion de parametros (loophole 1). Esto es un vacio real que permite modificacion por ley ordinaria.
 2. **Importante** - Falta clausula de modificabilidad del procedimiento post-Arranque (consistencia). Actualmente queda ambiguo si el procedimiento configurado en el Arranque es inmutable o modificable por cualquier mayoria.
 3. **Medio** - Sin minimo de candidatos por vacante (loophole 2). Riesgo de eleccion sin opcion real.
-4. **Menor** - Parentesis integrable "(eleccion directa)".
-5. **Informativo** - Riesgo de captura de instituciones proponentes (loophole 3). Riesgo aceptado por diseno.
+4. **Informativo** - Riesgo de captura de instituciones proponentes (loophole 3). Riesgo aceptado por diseno.
 
 ## Revisión del Artículo 38: Tribunal Supremo - Renovación Escalonada
 
@@ -603,10 +584,6 @@ Propuesta: Verificar que la secuencia "revocar estado de excepción + activar au
 
 **Art 40 - Hallazgos:**
 
-**Art 40 (Redacción)**: La frase introductoria dice "ninguna de las partes podrá ejecutar el mecanismo de autodestrucción mutua" pero luego diferencia los periodos por poder. "Ninguna de las partes" es redundante con la explicación posterior; la frase ya se entiende con "opera un periodo de desactivación asimétrico". Además, "ejecutar" no es el verbo correcto: en el Art. 39 se usa "activar" (línea 515: "no puede activarse"). Debería ser "activar" por consistencia.
-
-Propuesta: Cambiar "ejecutar" por "activar" para consistencia con Art. 39.
-
 **Art 40 (Loophole 1 - Estado de excepción durante cooldown)**: El Art. 39 prohíbe activar la autodestrucción durante un estado de excepción, y el Art. 61 lo confirma. Pero no se dice qué pasa con el cómputo del periodo de desactivación del Art. 40 si se declara un estado de excepción durante el cooldown. Escenario de ataque: un Presidente recién elegido tras autodestrucción mutua declara un estado de excepción fabricado que dura 4 meses. Durante ese tiempo el cooldown sigue corriendo (no hay suspensión explícita). Al terminar el estado de excepción, el cooldown del Legislativo (6 meses) ya casi expiró, pero el cooldown se computó durante un periodo en que el mecanismo era inusable de todos modos. No es un loophole grave porque el estado de excepción ya bloquea la activación, pero sí genera ambigüedad: ¿el cooldown corre en paralelo al estado de excepción o se pausa?
 
 Propuesta: Aclarar si el periodo de desactivación se suspende durante un estado de excepción (y se reanuda al finalizar) o corre independientemente. Lo más defensivo sería que se suspenda (no cuente tiempo durante estado de excepción).
@@ -615,12 +592,7 @@ Propuesta: No requiere cambio necesariamente. El Art. 41 tiene sus propios contr
 
 Propuesta: Menor. No requiere cambio si no te chirría.
 
-**Art 40 (Consistencia - terminología)**: El Art. 40 dice "Si lo invocó el Presidente" pero el Art. 39 dice "El Presidente puede disolver el Legislativo". No habla de "invocar" sino de "disolver" y "cesar". El Art. 40 unifica ambas acciones bajo "activación" e "invocar", lo cual está bien, pero podría ser más preciso: "Si lo activó el Legislativo" / "Si lo activó el Presidente" para consistencia con "activación" en la primera línea del mismo artículo.
-
-Propuesta: Cambiar "invocó" por "activó" (aparece 2 veces) para consistencia interna con "activación" en el primer párrafo y con "activarse" del Art. 39.
-
-1. **Consistencia verbal**: "ejecutar" debería ser "activar", e "invocó" debería ser "activó". Tres cambios de palabra para alinear con Art. 39 y con el propio primer párrafo del Art. 40.
-2. **Loophole estado de excepción / cooldown**: Ambigüedad sobre si el cooldown se pausa durante estados de excepción. Vale aclarar.
+1. **Loophole estado de excepción / cooldown**: Ambigüedad sobre si el cooldown se pausa durante estados de excepción. Vale aclarar.
 3. **Loophole Art. 41 durante cooldown**: El cooldown no bloquea la vía del Art. 41. Riesgo bajo pero real.
 
 ---
@@ -655,11 +627,7 @@ El hallazgo principal es la tensión **nulidad de pleno derecho vs. inaplicabili
 
 ## Revisión del Artículo 43: Proceso De Análisis De Constitucionalidad
 
-**Art 43 [Redaccion-1] Anglicismo "packs"** -- El texto usa "packs" dos veces. Es un anglicismo directo. El principio "todo en español" lo pide. Se podría usar "grupos" o "conjuntos".
-
 **Art 43 [Redaccion-2] Párrafo introductorio denso** -- El primer párrafo (línea 569) mete 6 reglas distintas en un solo bloque de texto corrido: (1) legitimación activa, (2) prescripción, (3) periodo entre revisiones, (4) impugnaciones agrupadas, (5) exclusión de ley ya en proceso, (6) límite de procesos simultáneos. Es el párrafo más denso de toda la constitución. Propuesta: desglosarlo en lista numerada o al menos separar en párrafos, como se hace en otros artículos (ej. Art 46 que usa "Convocatoria:", "Recogida de firmas:", "Efecto:" como subsecciones).
-
-**Art 43 [Redaccion-3] "Su decisión es válida en cualquiera de los sentidos"** -- En el punto 2 (Segunda Instancia), la frase "Su decisión es válida en cualquiera de los sentidos: tanto si confirma la inconstitucionalidad como si declara la norma constitucional" es redundante. Si puede confirmar, revocar o matizar, es obvio que su decisión es válida en cualquier sentido. Propuesta: eliminar esa frase.
 
 **Art 43 [Loophole-1] Plazo de recurso solo en segunda instancia** -- El punto 2 establece un plazo de 2 semanas para recurrir ante el Tribunal Supremo, y si no se recurre, la decisión deviene permanente. Pero el punto 1 no establece ningún plazo para recurrir de primera a segunda instancia. Un atacante puede dejar una decisión de primera instancia en limbo indefinido: ni firme ni recurrida. La ley nunca deviene formalmente inaplicable (porque solo es "para el caso concreto"), pero tampoco se cierra el proceso. Propuesta: establecer plazo de recurso también para primera instancia, o declarar que la decisión de primera instancia deviene firme tras el mismo plazo si no se recurre.
 
@@ -669,9 +637,7 @@ El hallazgo principal es la tensión **nulidad de pleno derecho vs. inaplicabili
 
 **Art 43 [Loophole-4] Falta plazo de resolución** -- No se establece plazo máximo para que cada instancia resuelva. Un tribunal podría dilatar indefinidamente la resolución de una impugnación de constitucionalidad, manteniendo una ley inconstitucional en vigor durante años. Combinado con el límite de 100 leyes simultáneas (Loophole-2), esto podría usarse para bloquear el sistema: se impugnan 100 leyes, los tribunales las dilatan, y ninguna nueva impugnación puede entrar. Propuesta: establecer plazo máximo de resolución por instancia, o al menos delegar al Proceso de Arranque la definición de ese plazo.
 
-1. Anglicismo "packs" (menor, pero viola el principio del proyecto).
-2. Frase redundante en punto 2 ("Su decisión es válida en cualquiera de los sentidos").
-3. **Loophole serio**: falta plazo de recurso de primera a segunda instancia.
+1. **Loophole serio**: falta plazo de recurso de primera a segunda instancia.
 4. **Loophole serio**: las 100 plazas de impugnación simultánea son saturables por un atacante sin filtro de admisibilidad.
 5. Ambiguedad en cuándo empieza a contar el periodo de 6 años entre revisiones.
 6. Falta plazo máximo de resolución por instancia (dilación como arma).
@@ -870,9 +836,7 @@ Resumen: los hallazgos 1 y 2 son sustanciales. El 1 (quién propone la guerra) e
 
 **Art 61 (Límite 4 - Control Parlamentario):**
 
-1. **Redacción / ambigüedad**: El artículo dice "A excepción de que el mecanismo de autodestrucción mutua (artículos 39-40) queda suspendido durante el estado de excepción." La construcción "A excepción de que..." es gramaticalmente forzada. Propuesta: reformular a "El mecanismo de autodestrucción mutua (artículos 39-40) queda suspendido durante el estado de excepción."  como oración independiente, separada de la anterior con punto.
-
-2. **Redundancia con Art 39**: El artículo 39 ya dice "El mecanismo de autodestrucción mutua no puede activarse durante un estado de excepción declarado conforme al artículo 55." Esto es lo mismo que dice el artículo 61. Es una violación de DRY. Propuesta: eliminar la mención en uno de los dos sitios. Yo lo dejaría en el Art 39 (donde se define el mecanismo) y en el Art 61 haría una referencia: "El mecanismo de autodestrucción mutua queda suspendido conforme al artículo 39."
+1. **Redundancia con Art 39**: El artículo 39 ya dice "El mecanismo de autodestrucción mutua no puede activarse durante un estado de excepción declarado conforme al artículo 55." Esto es lo mismo que dice el artículo 61. Es una violación de DRY. Propuesta: eliminar la mención en uno de los dos sitios. Yo lo dejaría en el Art 39 (donde se define el mecanismo) y en el Art 61 haría una referencia: "El mecanismo de autodestrucción mutua queda suspendido conforme al artículo 39."
 
 3. **Referencia cruzada incompleta**: El artículo menciona "artículos 5 y 17" como condiciones para celebración de elecciones, pero lista explícitamente "verificabilidad, privacidad del voto, auditoría pública". Esa lista es una paráfrasis de los artículos referenciados. Propuesta: o se deja la referencia sola ("conforme a los artículos 5 y 17") o se deja la lista sola. Tener ambas es redundante y crea riesgo de inconsistencia si se reforman los arts 5 o 17.
 
@@ -882,17 +846,13 @@ Resumen: los hallazgos 1 y 2 son sustanciales. El 1 (quién propone la guerra) e
 
 **Art 62 (Límite 5 - Control Judicial):**
 
-1. **Redacción**: "En particular se aclara que:" -- el "se aclara" es débil para un texto constitucional. Propuesta: "En particular:" a secas, o "Esto incluye, sin limitarse a:".
-
-2. **Punto 2 - ambigüedad**: "Cualquier persona cuyos derechos aplicables al contexto del estado de excepción (conforme al artículo 56) sean violados puede solicitar proceso judicial." La frase "derechos aplicables al contexto del estado de excepción" es confusa. ¿Se refiere a los derechos que NO fueron restringidos (y por tanto siguen vigentes)? ¿O a los derechos restringidos, cuando la restricción excede lo permitido? Propuesta: clarificar. Probablemente la intención es ambas cosas: que se pueda recurrir tanto por violación de derechos vigentes como por restricción excesiva de derechos restringibles.
+1. **Punto 2 - ambigüedad**: "Cualquier persona cuyos derechos aplicables al contexto del estado de excepción (conforme al artículo 56) sean violados puede solicitar proceso judicial." La frase "derechos aplicables al contexto del estado de excepción" es confusa. ¿Se refiere a los derechos que NO fueron restringidos (y por tanto siguen vigentes)? ¿O a los derechos restringidos, cuando la restricción excede lo permitido? Propuesta: clarificar. Probablemente la intención es ambas cosas: que se pueda recurrir tanto por violación de derechos vigentes como por restricción excesiva de derechos restringibles.
 
 **Art 63 (Límite 6 - Prohibiciones Absolutas):**
 
 1. **Paréntesis integrables**: Los puntos 3 y 4 tienen paréntesis con ejemplos: "(ej: zona de guerra activa, destrucción de infraestructura electoral)" y "(ej: zona de guerra activa, destrucción de infraestructura judicial)". Son ejemplos ilustrativos en un texto constitucional, lo cual es inusual. Propuesta: mantenerlos o eliminarlos; si se mantienen, al menos usar una fórmula como "tales como" integrada en el texto en vez de paréntesis.
 
-2. **Referencia cruzada faltante en punto 1**: Dice "Modificar esta Constitución mediante el procedimiento de reforma (artículos 67-69)." Pero el artículo 67 cubre cláusulas pétreas y los 68-69 reforma ordinaria. ¿La prohibición cubre ambos tipos? Si sí, la referencia es correcta. Pero como el punto dice "el procedimiento de reforma", en singular, y hay dos procedimientos distintos, conviene decir "los procedimientos de reforma" en plural.
-
-3. **Loophole sutil en punto 3 vs Art 61**: El Art 63.3 dice que está prohibido posponer elecciones salvo imposibilidad física objetiva. El Art 61 dice que las elecciones se posponen si el estado de excepción "impide garantizar las condiciones establecidas en esta Constitución". "Impedir garantizar condiciones" (Art 61) es un umbral más bajo que "imposibilidad física objetiva" (Art 63). Un gobierno podría argumentar que las condiciones del Art 5 no están garantizadas (ej: no se puede auditar bien) sin que haya imposibilidad física objetiva. Propuesta: alinear el lenguaje de ambos artículos, o al menos que el Art 61 referencie explícitamente al Art 63 como marco dentro del cual opera.
+2. **Loophole sutil en punto 3 vs Art 61**: El Art 63.3 dice que está prohibido posponer elecciones salvo imposibilidad física objetiva. El Art 61 dice que las elecciones se posponen si el estado de excepción "impide garantizar las condiciones establecidas en esta Constitución". "Impedir garantizar condiciones" (Art 61) es un umbral más bajo que "imposibilidad física objetiva" (Art 63). Un gobierno podría argumentar que las condiciones del Art 5 no están garantizadas (ej: no se puede auditar bien) sin que haya imposibilidad física objetiva. Propuesta: alinear el lenguaje de ambos artículos, o al menos que el Art 61 referencie explícitamente al Art 63 como marco dentro del cual opera.
 
 **Art 64 (Rendición de Cuentas Post-Excepción):**
 
