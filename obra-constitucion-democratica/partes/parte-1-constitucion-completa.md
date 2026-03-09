@@ -90,7 +90,9 @@ La edad de voto puede ajustarse entre 18 y 23 años mediante consenso de Nivel N
 
 El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 23. Ninguna persona o institución puede conocer el sentido del voto emitido por un ciudadano. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable, como mínimo, por ciudadanos con derecho a voto.
 
-Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III. Si se demuestra que un proceso de votación incumplió las garantías establecidas en este artículo, los responsables quedarán sujetos a las consecuencias penales que establezca la legislación ordinaria.
+Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III.
+
+Si un proceso de votación incumplió las garantías establecidas en este artículo, cualquier ciudadano con derecho a voto puede instar su nulidad ante el Poder Judicial. Si el número de votos afectados es suficiente para haber alterado el resultado, el juez declarará la votación nula y esta debe repetirse. Los responsables quedarán sujetos en todo caso a las consecuencias penales que establezca la legislación ordinaria.
 
 ---
 

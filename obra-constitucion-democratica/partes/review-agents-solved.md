@@ -53,3 +53,11 @@ Las siguientes correcciones son puramente mecánicas: ortografía, gramática, c
 **Art 63 — "el procedimiento de reforma" → "los procedimientos de reforma":** Hay dos procedimientos (Art 67 para pétreas, Arts 68-69 para ordinarias). El singular era incorrecto.
 
 **Art 61 — "A excepción de que el mecanismo..." → "El mecanismo...":** Construcción gramatical forzada eliminada. La excepción se entiende por el contexto (el Legislativo funciona con normalidad; la autodestrucción mutua es lo que se suspende).
+
+---
+
+## Art 5 (Nulidad Electoral)
+
+**Hallazgo 3 - Loophole: sin mecanismo de nulidad electoral.** El artículo establecía consecuencias penales para los responsables de violar las garantías de votación, pero no decía nada sobre la validez de la votación afectada. Un atacante podía manipular una elección, sacrificar testaferros, y el resultado fraudulento quedaba en pie.
+
+**Resolución:** Añadido mecanismo de nulidad electoral con tres elementos: (1) cualquier ciudadano con derecho a voto puede instar la nulidad ante el Poder Judicial; (2) si los votos afectados son suficientes para haber alterado el resultado, el juez declara la votación nula y debe repetirse; (3) las consecuencias penales aplican en todo caso, haya nulidad o no. El umbral de "suficiente para alterar el resultado" evita que un saboteador fuerce repeticiones anulando pocos votos deliberadamente.

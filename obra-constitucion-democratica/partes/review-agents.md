@@ -37,10 +37,6 @@ Propuesta: Esto probablemente necesita tratarse en el Art 3, no aquí. Pero al m
 
 Propuesta: Reformular a algo como "El sistema de votacion debe garantizar que ningun tercero pueda determinar el sentido del voto de un ciudadano sin la cooperacion voluntaria de este." Esto es mas preciso y no crea la contradiccion logica, aunque abre la puerta a la coaccion por cooperacion forzada. Alternativa mas defensiva: "El sistema de votacion debe garantizar que ningun tercero pueda determinar el sentido del voto de un ciudadano. El sistema no debe generar prueba verificable por terceros del sentido individual del voto." Esto ultimo es mas fuerte pero puede entrar en tension con la verificabilidad individual, depende de la implementacion criptografica.
 
-**Art 5 - Hallazgo 3 (Loophole):** "Si se demuestra que un proceso de votacion incumplio las garantias establecidas en este articulo, los responsables quedaran sujetos a las consecuencias penales que establezca la legislacion ordinaria." El articulo establece consecuencias penales para los responsables, pero no dice nada sobre la validez de la votacion afectada. Un atacante con recursos ilimitados podria manipular una votacion, aceptar las consecuencias penales (o usar testaferros sacrificables), y el resultado manipulado quedaria en pie. No hay mecanismo de nulidad electoral en este articulo ni referencia a uno.
-
-Propuesta: Anadir que si se demuestra incumplimiento de las garantias, la votacion sera nula y debera repetirse, ademas de las consecuencias penales.
-
 **Art 5 - Hallazgo 4 (Consistencia / DRY):** La clausula petrea 3 del Art. 66 dice: "Secreto del Voto (articulo 5): El voto es secreto por defecto y no puede ser eliminado salvo mediante este procedimiento." Solo protege el secreto. Pero el Art. 5 contiene cuatro propiedades: secreto, indelegabilidad, verificabilidad y auditabilidad. La verificabilidad y la auditabilidad son tan criticas como el secreto para la integridad democratica (la Parte 2 lo argumenta explicitamente). Un Legislativo con N4 podria reformar el Art. 5 para eliminar la verificabilidad o la auditabilidad sin tocar la clausula petrea del secreto.
 
 Propuesta: Ampliar la clausula petrea 3 del Art. 66 para cubrir tambien verificabilidad y auditabilidad, o crear clausula petrea separada. Esto es un hallazgo del Art. 66 mas que del 5, pero la vulnerabilidad nace aqui.
@@ -49,11 +45,10 @@ Propuesta: Ampliar la clausula petrea 3 del Art. 66 para cubrir tambien verifica
 
 Propuesta: Cambiar a "El proceso electoral debe ser auditable por cualquier ciudadano con derecho a voto" y dejar la extension a otros sujetos para legislacion ordinaria.
 
-1. **Hallazgo 3 (nulidad electoral)** - El mas grave. Sin mecanismo de nulidad, un atacante puede sacrificar peones y quedarse con el resultado.
-2. **Hallazgo 4 (clausula petrea incompleta)** - Verificabilidad y auditabilidad desprotegidas ante reforma ordinaria.
-3. **Hallazgo 2 (redaccion del secreto)** - La frase absoluta es imprecisa y potencialmente contradictoria.
-4. **Hallazgo 6 (ambiguedad auditabilidad)** - Facil de corregir alineando con la redaccion del Art. 17.
-5. **Hallazgo 1 (formato)** - Menor, inconsistencia estetica con Art. 17.
+1. **Hallazgo 4 (clausula petrea incompleta)** - Verificabilidad y auditabilidad desprotegidas ante reforma ordinaria.
+2. **Hallazgo 2 (redaccion del secreto)** - La frase absoluta es imprecisa y potencialmente contradictoria.
+3. **Hallazgo 6 (ambiguedad auditabilidad)** - Facil de corregir alineando con la redaccion del Art. 17.
+4. **Hallazgo 1 (formato)** - Menor, inconsistencia estetica con Art. 17.
 
 ---
 
