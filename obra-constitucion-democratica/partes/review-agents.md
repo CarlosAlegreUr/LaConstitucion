@@ -33,22 +33,12 @@ Propuesta: Esto probablemente necesita tratarse en el Art 3, no aquí. Pero al m
 
 ## Revisión del Artículo 5: Secreto y Verificabilidad del Voto
 
-**Art 5 - Hallazgo 2 (Loophole - serio):** "Ninguna persona o institución puede conocer el sentido del voto emitido por un ciudadano." Esto es demasiado absoluto y contradice la realidad del propio votante. El votante si conoce su propio voto. Tal como esta redactado, aplicado literalmente, tambien prohibe que el votante conozca su voto, lo cual es absurdo. Ademas, en un sistema verificable, el votante necesariamente accede a informacion que demuestra el sentido de su voto, y podria mostrarla voluntariamente a un tercero. La frase no protege contra la coaccion post-voto (alguien que obliga al votante a mostrar su recibo de verificacion). La Parte 2 identifica bien que el secreto significa "nadie sabe que votaste", pero el texto constitucional no lo expresa con precision.
-
-Propuesta: Reformular a algo como "El sistema de votacion debe garantizar que ningun tercero pueda determinar el sentido del voto de un ciudadano sin la cooperacion voluntaria de este." Esto es mas preciso y no crea la contradiccion logica, aunque abre la puerta a la coaccion por cooperacion forzada. Alternativa mas defensiva: "El sistema de votacion debe garantizar que ningun tercero pueda determinar el sentido del voto de un ciudadano. El sistema no debe generar prueba verificable por terceros del sentido individual del voto." Esto ultimo es mas fuerte pero puede entrar en tension con la verificabilidad individual, depende de la implementacion criptografica.
-
-**Art 5 - Hallazgo 4 (Consistencia / DRY):** La clausula petrea 3 del Art. 66 dice: "Secreto del Voto (articulo 5): El voto es secreto por defecto y no puede ser eliminado salvo mediante este procedimiento." Solo protege el secreto. Pero el Art. 5 contiene cuatro propiedades: secreto, indelegabilidad, verificabilidad y auditabilidad. La verificabilidad y la auditabilidad son tan criticas como el secreto para la integridad democratica (la Parte 2 lo argumenta explicitamente). Un Legislativo con N4 podria reformar el Art. 5 para eliminar la verificabilidad o la auditabilidad sin tocar la clausula petrea del secreto.
-
-Propuesta: Ampliar la clausula petrea 3 del Art. 66 para cubrir tambien verificabilidad y auditabilidad, o crear clausula petrea separada. Esto es un hallazgo del Art. 66 mas que del 5, pero la vulnerabilidad nace aqui.
-
 **Art 5 - Hallazgo 6 (Ambiguedad):** "El proceso electoral debe ser auditable, como minimo, por ciudadanos con derecho a voto." El "como minimo" sugiere que podria ser auditable por mas gente (personas no ciudadanas, observadores internacionales). Esto esta bien como intencion, pero la frase "como minimo, por ciudadanos con derecho a voto" es ambigua: podria leerse como "auditable por al menos un ciudadano con derecho a voto" en vez de "auditable por cualquier ciudadano con derecho a voto". El Art. 17 usa "cualquier ciudadano con derecho a voto puede verificar la integridad del proceso", que es mas claro.
 
 Propuesta: Cambiar a "El proceso electoral debe ser auditable por cualquier ciudadano con derecho a voto" y dejar la extension a otros sujetos para legislacion ordinaria.
 
-1. **Hallazgo 4 (clausula petrea incompleta)** - Verificabilidad y auditabilidad desprotegidas ante reforma ordinaria.
-2. **Hallazgo 2 (redaccion del secreto)** - La frase absoluta es imprecisa y potencialmente contradictoria.
-3. **Hallazgo 6 (ambiguedad auditabilidad)** - Facil de corregir alineando con la redaccion del Art. 17.
-4. **Hallazgo 1 (formato)** - Menor, inconsistencia estetica con Art. 17.
+1. **Hallazgo 6 (ambiguedad auditabilidad)** - Facil de corregir alineando con la redaccion del Art. 17.
+2. **Hallazgo 1 (formato)** - Menor, inconsistencia estetica con Art. 17.
 
 ---
 
@@ -59,10 +49,6 @@ Propuesta: Cambiar a "El proceso electoral debe ser auditable por cualquier ciud
 **Art 6, hallazgo 1 (Loophole / Ambigüedad grave):** El segundo párrafo dice "apoyo del 51% de los ciudadanos con derecho a voto". "De los ciudadanos con derecho a voto" implica sobre el censo, no sobre votos válidos emitidos. Esto es distinto al default del Art 2 ("sobre el total de votos válidos emitidos"). 51% del censo es muchísimo más exigente que 51% de votos válidos emitidos. Además, el Art 46 (anulación judicial) usa "censo nacional" explícitamente en sus umbrales, con lo que ambos mecanismos de anulación popular son sobre censo, pero el Art 6 no usa la palabra "censo" ni referencia al Art 3 para la definición. Hay inconsistencia terminológica.
 
 Propuesta: decidir si los umbrales de anulación legislativa van sobre censo o sobre votos emitidos, y usar la terminología consistente. Si es sobre censo, escribir "del censo" como hace el Art 46. Si es sobre votos emitidos, quitar "de los ciudadanos con derecho a voto" y dejar que aplique el default del Art 2.
-
-**Art 6, hallazgo 2 (Loophole):** El artículo no define base de cálculo para "el nivel de consenso de dicha decisión". Una ley aprobada con N1 en el Legislativo (51% de votos legislativos presentes, conforme al Art 23) requeriría N1 de los ciudadanos con derecho a voto para ser anulada. Pero el N1 legislativo y el N1 popular son bases completamente diferentes: 51% de 300 legisladores vs 51% de millones de ciudadanos. El principio que enuncia la argumentación ("el mismo nivel de consenso que se necesitó para aprobarlas") suena simétrico pero en la práctica es brutalmente asimétrico. Un atacante que controle el 51% del Legislativo puede aprobar leyes que requerirían movilizar al 51% del censo completo para anular. Es un mecanismo defensivo extremadamente débil si la base es el censo, o extremadamente fuerte si es sobre votos emitidos, pero en ningún caso es simétrico como sugiere la argumentación.
-
-Propuesta: esto es más una decisión de diseño que un error de redacción, pero merece reflexión. Si la intención es que la anulación sea viable, calcular sobre votos emitidos en un referéndum con participación mínima. Si la intención es que sea una "opción nuclear" casi imposible, dejarlo sobre censo.
 
 **Art 6, hallazgo 3 (Consistencia / Formato):** El artículo enumera explícitamente "las decisiones de Nivel N1 podrán ser anuladas con apoyo del 51%... las de Nivel N2 con el 60%, y así sucesivamente". Esto es redundante con el Art 2 que ya define qué porcentaje corresponde a cada nivel. Basta con decir "con apoyo del nivel de consenso correspondiente conforme al artículo 2". Además, si algún día cambian los porcentajes de los niveles en el Art 2 y olvidan actualizar el Art 6, quedarían en conflicto (violación DRY).
 

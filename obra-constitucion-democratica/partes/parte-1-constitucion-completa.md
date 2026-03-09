@@ -88,7 +88,7 @@ La edad de voto puede ajustarse entre 18 y 23 años mediante consenso de Nivel N
 
 ### Artículo 5: Secreto y Verificabilidad del Voto
 
-El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 23. Ninguna persona o institución puede conocer el sentido del voto emitido por un ciudadano. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable, como mínimo, por ciudadanos con derecho a voto.
+El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 23. Ninguna persona, salvo el propio ciudadano que lo emitió, puede conocer el sentido del voto. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable, como mínimo, por ciudadanos con derecho a voto.
 
 Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III.
 
@@ -857,7 +857,7 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 1. Soberanía Popular (artículo 1): El poder reside en el pueblo mediante los mecanismos de representación uninominal directa en distritos pequeños y revocabilidad del mandato al individuo al cual el poder ha sido delegado.
 2. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
 3. Sufragio Universal (artículo 4): Derecho al voto de todo ciudadano mayor de edad.
-4. Secreto del Voto (artículo 5): El voto es secreto por defecto y no puede ser eliminado salvo mediante este procedimiento.
+4. Garantías del Voto (artículo 5): El voto es secreto, indelegable, verificable y auditable. Ninguna de estas propiedades puede ser eliminada salvo mediante este procedimiento.
 5. Garantía de Anulación Popular (artículo 6): El derecho a crear mecanismos de anulación popular directa de decisiones legislativas no puede ser suprimido.
 6. Igualdad ante la Ley (artículo 8): Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo.
 7. Lengua Oficial (artículo 9): El Estado debe tener al menos una lengua oficial con carácter obligatorio en legislación, justicia, administración y educación.

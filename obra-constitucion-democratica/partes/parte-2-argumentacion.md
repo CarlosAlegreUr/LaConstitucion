@@ -199,9 +199,13 @@ Tres propiedades simultáneas: secreto (nadie sabe qué votaste), verificabilida
 
 La legitimidad del voto emerge de la ausencia de coerción en el proceso. Si el voto es secreto, nadie puede presionarte para votar de una forma concreta. Si es verificable, nadie puede falsificarlo sin que lo detectes. Si es auditable, nadie puede manipular el recuento sin que la sociedad lo descubra. En estas condiciones, cada individuo puede velar por sus intereses de manera honesta, y es esta honestidad agregada la que fortalece el bucle de retroalimentación que enriquece las soluciones democráticas.
 
+Estas garantías serían vacías sin consecuencias ante su violación. Por eso el artículo 5 establece un mecanismo de nulidad electoral: si los votos afectados por una violación de las garantías son suficientes para haber alterado el resultado, la votación es declarada nula y debe repetirse. El umbral evita dos extremos: que un atacante sacrifique peones y conserve un resultado fraudulento (sin nulidad), o que un saboteador comprometa unos pocos votos para forzar la repetición de una elección que perdió (nulidad automática sin umbral). Cualquier ciudadano con derecho a voto puede instar el procedimiento ante el Poder Judicial.
+
 ## Artículo 6: Garantía de Anulación Popular
 
 Este artículo garantiza que siempre pueda existir un mecanismo de anulación popular directa. No lo impone (el mecanismo específico se define durante el Arranque o por legislación posterior), pero prohíbe que cualquier poder del Estado bloquee su creación. Es un seguro contra la captura legislativa: si el parlamento aprueba leyes contra el interés popular, el pueblo siempre tiene la opción nuclear de anularlas directamente, con el mismo nivel de consenso que se necesitó para aprobarlas.
+
+La base de cálculo es deliberadamente asimétrica: una ley aprobada con N1 del Legislativo (51% de los escaños) requiere N1 del censo ciudadano (51% de todos los ciudadanos con derecho a voto) para ser anulada. Esta asimetría es inherente a la diferencia entre democracia representativa y directa. La anulación popular no pretende ser un mecanismo cotidiano sino una válvula de emergencia para medidas profundamente impopulares cuya corrección no puede esperar al ciclo de revocación distrito a distrito.
 
 ## Artículo 7: Derecho a la Autodeterminación Territorial
 
@@ -599,7 +603,7 @@ Las cláusulas pétreas protegen los pilares sin los cuales la democracia deja d
 1. Soberanía popular (artículo 1): sin ella, el poder no reside en el pueblo.
 2. Jerarquía de legitimidad (artículo 1): sin ella, un poder subordinado puede capturar al superior.
 3. Sufragio universal (artículo 4): sin él, no todos participan.
-4. Secreto del voto (artículo 5): sin él, el voto es coaccionable y la democracia es simulada.
+4. Garantías del voto (artículo 5): sin secreto, el voto es coaccionable; sin verificabilidad y auditabilidad, el fraude es indetectable.
 5. Garantía de anulación popular (artículo 6): sin ella, el pueblo pierde la capacidad de corregir errores del poder delegado.
 6. Igualdad ante la ley (artículo 8): sin ella, los gobernantes se convierten en clase privilegiada inmune a las consecuencias de sus actos.
 7. Lengua oficial (artículo 9): sin al menos una lengua oficial compartida, la legislación, la justicia y la administración no pueden funcionar de forma uniforme ni accesible para todos los ciudadanos.

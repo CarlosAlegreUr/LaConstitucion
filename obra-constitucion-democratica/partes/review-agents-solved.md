@@ -61,3 +61,23 @@ Las siguientes correcciones son puramente mecánicas: ortografía, gramática, c
 **Hallazgo 3 - Loophole: sin mecanismo de nulidad electoral.** El artículo establecía consecuencias penales para los responsables de violar las garantías de votación, pero no decía nada sobre la validez de la votación afectada. Un atacante podía manipular una elección, sacrificar testaferros, y el resultado fraudulento quedaba en pie.
 
 **Resolución:** Añadido mecanismo de nulidad electoral con tres elementos: (1) cualquier ciudadano con derecho a voto puede instar la nulidad ante el Poder Judicial; (2) si los votos afectados son suficientes para haber alterado el resultado, el juez declara la votación nula y debe repetirse; (3) las consecuencias penales aplican en todo caso, haya nulidad o no. El umbral de "suficiente para alterar el resultado" evita que un saboteador fuerce repeticiones anulando pocos votos deliberadamente.
+
+---
+
+**Hallazgo 4 - Cláusula pétrea incompleta:** La cláusula pétrea 3 del Art 66 solo protegía el secreto del voto, pero el Art 5 define cuatro propiedades (secreto, indelegabilidad, verificabilidad, auditabilidad). Un Legislativo con N4 podía eliminar la verificabilidad o auditabilidad sin tocar la cláusula pétrea.
+
+**Resolución:** Cláusula pétrea 4 (antes "Secreto del Voto") ampliada a "Garantías del Voto": cubre explícitamente las cuatro propiedades del Art 5. Parte 2 actualizada con justificación expandida.
+
+---
+
+**Hallazgo 2 - Redacción del secreto demasiado absoluta:** "Ninguna persona o institución puede conocer el sentido del voto emitido por un ciudadano" era técnicamente falso (el propio votante lo conoce) e impedía implícitamente que instituciones procesaran votos (necesario si no se usa criptografía ZKP).
+
+**Resolución:** Reformulado a "Ninguna persona, salvo el propio ciudadano que lo emitió, puede conocer el sentido del voto." Elimina "institución" (el sistema necesita procesar votos) y excluye al votante de la prohibición.
+
+---
+
+## Art 6 (Asimetría de la Anulación Popular)
+
+**Hallazgo 2 - Asimetría base de cálculo:** La anulación popular usa el censo ciudadano como base, mientras que la aprobación legislativa usa los escaños. Esto hace que anular una ley N1 requiera movilizar al 51% de millones de ciudadanos, cuando aprobarla solo requirió el 51% de ~300 legisladores.
+
+**Resolución:** Design choice intencional. La anulación popular es una válvula de emergencia para medidas profundamente impopulares, no un mecanismo cotidiano. La asimetría es inherente a la diferencia entre democracia representativa y directa. Justificación añadida en parte 2.
