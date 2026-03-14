@@ -439,6 +439,14 @@ Primera instancia, apelación/casación, y Tribunal Supremo. La Constitución ga
 
 El máximo total de apelaciones y casaciones en un mismo caso es 5. Demasiadas rondas hacen el sistema judicial lento e inoperante, pero el límite exacto entre niveles — cuántas apelaciones y cuántas casaciones dentro de esas 5 — se deja a la legislación ordinaria.
 
+### Nombramiento de jueces ordinarios y acreditaciones
+
+El nombramiento de jueces de primera y segunda instancia es competencia exclusiva del Poder Judicial. Ni el Ejecutivo ni el Legislativo participan en el proceso. El examen de capacitación es diseñado, administrado y corregido por el Poder Judicial. La razón es directa: quien controla la puerta de entrada al sistema judicial controla el sistema judicial. Un juez ya nombrado es independiente, pero si otro poder decide quién entra, la independencia es nominal.
+
+Las titulaciones válidas y las facultades de derecho acreditadas son determinadas por 2/3 del Tribunal Supremo. El ciclo de modificación de 8 años impide cambios oportunistas (desacreditar una facultad que forma jueces incómodos). El periodo de transición de 1 año protege a quienes acaban de graduarse bajo una acreditación vigente. Durante el Arranque, todas las facultades del régimen anterior quedan acreditadas por defecto; tras la primera ronda de magistrados, la lista se puede ajustar con N1 del Supremo para permitir una calibración inicial sin exigir el umbral completo de 2/3.
+
+Los candidatos al Tribunal Supremo deben acreditar un mínimo de 5 años de experiencia como juez (ajustable entre 5 y 10 años). Este requisito no aplica a jueces ordinarios, donde sería paradójico exigir experiencia judicial a quien aún no es juez. Para los ordinarios basta la titulación y el examen; para el Supremo se añade experiencia porque sus decisiones son definitivas en el orden judicial.
+
 ### Tribunal Supremo: composición y renovación
 
 9 magistrados, mandatos de 12 años, renovación escalonada (3 cada 4 años). ¿Por qué escalonada? Para evitar que un solo gobierno nombre a todo el tribunal y lo capture. El periodo de exclusión de 8 años tras finalizar el mandato impide las puertas giratorias: un magistrado saliente no puede volver a entrar inmediatamente, rompiendo el incentivo de servir al poder actual para asegurar la reelección. Todos estos parámetros numéricos (9, 12, 8, 4, 3) están protegidos a N5, en línea con los demás parámetros judiciales (requisitos de jueces, sanciones). No se permiten reducciones durante el Arranque: la estructura del Tribunal Supremo debe ser estable desde el primer día.

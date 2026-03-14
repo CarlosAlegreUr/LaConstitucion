@@ -402,10 +402,6 @@ Propuesta: añadir "condena penal firme" en lugar de "condenado por delito", coh
 
 ## Revisión del Artículo 30: Presupuesto Anterior por Defecto
 
-**Art 30 - Hallazgo 1 (Loophole / Vacío):** No define quién calcula ni certifica la inflación, ni qué índice de inflación se usa. La argumentación (Parte 2, líneas 424) reconoce explícitamente que "el único vector de ataque restante es la manipulación de los datos de inflación", pero el artículo no establece ninguna protección contra ello. Confiar en "el enfado popular" como mecanismo de corrección contradice la mentalidad defensiva de la propia constitución (mecanismos > moral/voluntad). Un atacante que controle el organismo estadístico puede inflar el presupuesto indefinidamente sin que el Legislativo tenga que aprobar nada.
-
-Propuesta: Añadir que el índice de inflación utilizado debe ser determinado por un organismo estadístico independiente del Poder Ejecutivo, o al menos establecer que el método de cálculo lo fija el Legislativo por ley ordinaria. Alternativamente, si se quiere mantener KISS, al menos especificar "ajustado al índice oficial de inflación publicado por el organismo competente".
-
 **Art 30 - Hallazgo 2 (Consistencia):** El artículo 32 (presupuesto judicial) tiene una mecánica similar pero más detallada: el Judicial propone, el Legislativo aprueba o rechaza por N3, y si rechaza se mantiene el anterior ajustado a inflación. El Art 30 no especifica qué nivel de consenso se necesita para aprobar el presupuesto general. Por defecto sería N1 (según Art 23), pero el Art 32 fija explícitamente N3 para el presupuesto judicial. No es un error pero la asimetría podría documentarse mejor, o al menos el Art 30 podría ser explícito: "El Legislativo aprueba el presupuesto general mediante consenso de Nivel N1" (o el que corresponda).
 
 Propuesta: Explicitar el nivel de consenso requerido para la aprobación presupuestaria, para evitar que un lector asuma que debería ser igual al N3 del Art 32.

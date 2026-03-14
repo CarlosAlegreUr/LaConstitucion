@@ -461,13 +461,15 @@ El número total de apelaciones y casaciones en un mismo caso no puede superar 5
 Los jueces son nombrados mediante un procedimiento que garantiza la independencia judicial. El nombramiento judicial requiere:
 
 1. Titulación jurídica acreditada por el Poder Judicial.
-2. Superación de examen público de capacitación.
+2. Superación de un examen público de capacitación.
 
 El examen de capacitación es diseñado, administrado y corregido exclusivamente por el Poder Judicial. Ningún otro poder, organismo ni entidad externa participa en su elaboración ni evaluación.
 
-Las titulaciones válidas son determinadas por acuerdo de al menos 2/3 de los magistrados del Tribunal Supremo. Esta determinación solo puede modificarse una vez cada 8 años. Toda modificación incluye un periodo de transición de 3 años durante el cual las titulaciones previamente acreditadas mantienen su validez.
+Las titulaciones válidas son determinadas por acuerdo de al menos 2/3 de los magistrados del Tribunal Supremo. Esta determinación solo puede modificarse una vez cada 8 años. Toda modificación incluye un periodo de transición de 1 año durante el cual las titulaciones previamente acreditadas mantienen su validez.
 
-La modificación de estos requisitos requiere consenso de Nivel N5.
+El mismo régimen de acreditación se aplica a las facultades de derecho e instituciones jurídicas reconocidas por el Poder Judicial. Durante el Proceso de Arranque, todas las facultades de derecho existentes en el régimen anterior quedan acreditadas por defecto. Tras el nombramiento de la primera ronda de magistrados del Tribunal Supremo, la lista inicial puede modificarse por consenso de Nivel N1 de los magistrados. A partir de entonces, toda modificación requiere acuerdo de 2/3 conforme al régimen general de este artículo.
+
+La modificación de estos requisitos requiere consenso de Nivel N5 del Poder Legislativo.
 
 ---
 
@@ -492,7 +494,7 @@ Los parámetros numéricos de este artículo (9 magistrados, 12 años de mandato
 Los candidatos a magistrado del Tribunal Supremo son propuestos exclusivamente por las siguientes instituciones, cada una con al menos 10 años de funcionamiento en el país:
 
 1. Colegios de abogados.
-2. Facultades de derecho acreditadas.
+2. Facultades de derecho acreditadas conforme al artículo 35.
 3. Asociaciones de jueces de instancias inferiores al Tribunal Supremo.
 
 Los candidatos a magistrado del Tribunal Supremo deben acreditar una experiencia mínima como juez de 5 años. Este mínimo puede ajustarse entre 5 y 10 años; durante el Proceso de Arranque mediante consenso de Nivel N1, fuera de él mediante consenso de Nivel N4.

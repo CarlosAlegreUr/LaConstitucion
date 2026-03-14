@@ -94,4 +94,12 @@ Las siguientes correcciones son puramente mecánicas: ortografía, gramática, c
 
 **Referencia cruzada Art 37:** No quedaba claro si los requisitos del Art 35 aplican a magistrados del Supremo, ni si estos necesitan experiencia judicial previa.
 
-**Resolución:** Art 35 reescrito: eliminado requisito de experiencia (paradójico), examen y acreditación exclusivamente diseñados y administrados por el Poder Judicial, titulaciones válidas determinadas por 2/3 del Tribunal Supremo con ciclo de 8 años y periodo de transición de 3 años, corregida gramática ("la independencia judicial"). Art 37: añadido requisito de experiencia mínima como juez de 5 años (rango 5-10, Arranque N1, post-Arranque N4).
+**Resolución:** Art 35 reescrito: eliminado requisito de experiencia (paradójico), examen y acreditación exclusivamente diseñados y administrados por el Poder Judicial, titulaciones válidas determinadas por 2/3 del Tribunal Supremo con ciclo de 8 años y periodo de transición de 1 año, corregida gramática ("la independencia judicial"). Añadido régimen de acreditación de facultades (mismo sistema que titulaciones, Arranque con defaults del régimen anterior, primera ronda N1, después 2/3). Art 37: añadido requisito de experiencia mínima como juez de 5 años (rango 5-10, Arranque N1, post-Arranque N4), referencia explícita al Art 35 para facultades acreditadas. Desambiguada cláusula N5 ("del Poder Legislativo"). Parte 2 actualizada con argumentación.
+
+---
+
+## Art 30 (Manipulación del Índice de Inflación)
+
+**Hallazgo 1 - Loophole: no se define quién calcula ni certifica la inflación.** Un atacante que controle el organismo estadístico podría inflar el presupuesto indefinidamente sin votación legislativa.
+
+**Resolución:** Riesgo aceptado por diseño. La inflación es perceptible en el día a día por cualquier ciudadano; una manipulación grosera sería evidente sin carga cognitiva significativa. Una manipulación sutil (1-2% extra) produce un beneficio marginal que no justifica el riesgo político. Además, el Legislativo puede aprobar un presupuesto nuevo en cualquier momento, así que la prórroga con inflación es un fallback temporal.
