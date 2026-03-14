@@ -111,3 +111,11 @@ Las siguientes correcciones son puramente mecánicas: ortografía, gramática, c
 **Hallazgo 2 - Sin umbral mínimo constitucional de participación ni consenso para la votación de independencia.** Un Legislativo hostil podría poner umbrales ridículamente bajos (fragmentar el Estado) o imposibles (bloquear la secesión de facto).
 
 **Resolución:** Design choice. El artículo delega los umbrales a ley ordinaria deliberadamente: dependen del contexto (tamaño del territorio, demografía). El rango de 21-42 años ya es un filtro serio contra separaciones impulsivas. Si un Legislativo pone umbrales abusivos, el Judicial puede declararlos inconstitucionales por violar el espíritu del artículo ("bajo ninguna circunstancia puede prohibirse ni suprimirse").
+
+---
+
+## Art 42-43 (Nulidad de Pleno Derecho vs. Inaplicabilidad)
+
+**Hallazgo - Contradicción entre nulidad automática y declaración judicial:** Art 42 dice "nula de pleno derecho" (automático) pero Art 43 requiere declaración judicial de inaplicabilidad (procesal). Un atacante podría argumentar que una ley inconstitucional sigue vigente hasta sentencia firme.
+
+**Resolución:** Non-issue. Es una distinción jurídica clásica presente en prácticamente todas las constituciones: la nulidad de pleno derecho es el principio, la declaración judicial es el mecanismo procesal para constatarla. Sin procedimiento, cualquiera podría incumplir cualquier ley alegando inconstitucionalidad sin confirmación judicial. El Art 44 ya castiga penalmente a los legisladores que aprobaron leyes declaradas inconstitucionales, lo que disuade el abuso.

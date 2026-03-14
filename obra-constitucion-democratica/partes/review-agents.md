@@ -561,17 +561,11 @@ Aqui van los hallazgos del Artículo 41:
 
 ## Revisión del Artículo 42: Supremacía Constitucional
 
-**Art 42 (Loophole / Ambiguedad)**: Tensión conceptual entre "nula de pleno derecho" e "inaplicabilidad". La segunda frase declara que toda norma contraria a la Constitución **es nula de pleno derecho** (efecto automático, absoluto, desde el origen). Pero el mecanismo concreto que establece el propio artículo es la **declaración de inaplicabilidad** por un juez, que según el Art 43 tiene efecto solo para el caso concreto en primera instancia y se extiende a todos los casos solo si se confirma en segunda instancia o Tribunal Supremo. Hay una contradicción: si es nula de pleno derecho, no debería necesitar declaración judicial para dejar de aplicarse; y si necesita declaración judicial, no es nula de pleno derecho sino anulable. Un atacante jurídicamente sofisticado podría explotar esto de dos formas: (1) argumentar que una norma inconstitucional sigue vigente hasta que un juez la declare inaplicable (vaciando la "nulidad de pleno derecho"), o (2) argumentar que ya es nula sin necesidad de pasar por el Art 43 (saltándose las garantías procesales).
-
-Propuesta: Clarificar que la nulidad de pleno derecho es el principio, y la declaración de inaplicabilidad es el mecanismo procesal para hacerla efectiva. Algo como: *"Toda ley, reglamento, acto administrativo o decisión judicial que contravenga esta Constitución es nula de pleno derecho. La constatación de dicha nulidad se realiza mediante declaración de inaplicabilidad conforme al procedimiento establecido en esta Constitución."* Esto conecta ambos conceptos sin contradicción.
-
-Propuesta: Si la intención es que el control difuso sea de oficio, dejarlo explícito. Si no, aclarar que la inaplicabilidad del Art 42 solo procede a instancia de parte.
-
 **Art 42 (Consistencia)**: El artículo menciona "acto administrativo" como uno de los tipos de norma que son nulos si contravienen la Constitución, pero el Art 43 solo regula el procedimiento para impugnar **leyes**. No hay mecanismo procesal para impugnar reglamentos o actos administrativos por inconstitucionalidad. El Art 44 (responsabilidad penal) solo sanciona a legisladores y jueces, no al Ejecutivo por actos administrativos inconstitucionales. Un atacante desde el Ejecutivo podría emitir actos administrativos inconstitucionales sabiendo que el procedimiento del Art 43 no los cubre explícitamente y no hay sanción penal asociada.
 
 Propuesta: Esto puede ser intencional (los actos administrativos se impugnarían por vía judicial ordinaria, no por el Art 43). Si es así, no es un problema del Art 42 sino del Art 43. Pero vale la pena ser consciente de que la promesa del Art 42 ("toda... acto administrativo... es nula") no tiene un procedimiento tan robusto como el de las leyes.
 
-El hallazgo principal es la tensión **nulidad de pleno derecho vs. inaplicabilidad**, que es un problema real de coherencia jurídica. El segundo hallazgo (cobertura de actos administrativos sin procedimiento específico) es menos urgente pero relevante. El tercero (control de oficio vs. a instancia de parte) es menor.
+El hallazgo de actos administrativos sin procedimiento específico es relevante. El de control de oficio vs. a instancia de parte es menor.
 
 ## Revisión del Artículo 43: Proceso De Análisis De Constitucionalidad
 
