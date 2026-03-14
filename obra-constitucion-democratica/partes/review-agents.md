@@ -467,32 +467,6 @@ Propuesta: Precisar "ajustado a la inflación anual del año fiscal inmediatamen
 
 Los hallazgos 3-4-5 están interrelacionados y apuntan a un mismo problema de fondo: el Art 34 no define bien la relación entre el sistema de recursos y la jerarquía de 3 niveles del Art 33.
 
-## Revisión del Artículo 35: Nombramiento de Jueces - Principio
-
-Los jueces son nombrados mediante un procedimiento que garantiza independencia judicial. El nombramiento judicial requiere:
-
-1. Titulación jurídica acreditada.
-2. Experiencia profesional mínima establecida por ley.
-3. Superación de examen público de capacitación.
-
-Los límites y condiciones específicas (como los años de experiencia mínima requeridos) se establecen durante el Proceso de Arranque mediante consenso de Nivel N1. Por defecto, la experiencia profesional mínima requerida es de 1,5 años.
-
-**Art 35 (Redaccion 2)**: "1,5 años" de experiencia profesional mínima por defecto es un valor curiosamente bajo para un juez. No es un problema de redacción sino de contenido: un profesional con 18 meses de experiencia decidiendo casos judiciales. Si es deliberado, la argumentación (parte 2) no lo justifica. Si no lo es, considerar un valor por defecto más alto (5-10 años es el estándar en la mayoría de sistemas). Esto es una decisión de diseño tuya, pero te lo señalo.
-
-**Art 35 (Referencia cruzada)**: El artículo no es referenciado por ningún otro artículo de la constitución. El Art 37 (nombramiento del Tribunal Supremo) no referencia el Art 35 como requisito base para magistrados del Supremo. --> Considerar si los magistrados del Tribunal Supremo deben cumplir también los requisitos del Art 35 (titulación, experiencia, examen). Si es la intención, el Art 37 debería decir "Además de los requisitos del artículo 35, los candidatos a magistrado..." Si no lo es, debería quedar claro que el Art 35 aplica solo a jueces de primera y segunda instancia.
-
-**Art 35 (Loophole 1)**: El artículo no dice quién nombra a los jueces de primera y segunda instancia. El Art 37 cubre el procedimiento para el Tribunal Supremo (propuestos por colegios/facultades/asociaciones, elegidos por votación popular). Pero para el resto de jueces no hay nada: ni quién propone, ni quién decide, ni qué procedimiento se sigue. Solo hay requisitos mínimos (titulación, experiencia, examen). Un atacante con recursos ilimitados podría capturar el mecanismo de nombramiento de jueces ordinarios si este se deja enteramente a la ley ordinaria, que solo requiere N1 para aprobarse. --> Considerar al menos establecer el principio del procedimiento de nombramiento (no solo los requisitos) a nivel constitucional, o al menos exigir que la ley que regule el procedimiento requiera un nivel de consenso elevado.
-
-**Art 35 (Loophole 2)**: "Superación de examen público de capacitación" -- quién diseña el examen y quién lo evalúa no está definido. Si el Ejecutivo controla el contenido del examen o la evaluación, puede filtrar jueces afines. El Art 32 garantiza independencia del Judicial respecto al Legislativo y Ejecutivo, pero el nombramiento de jueces nuevos (que aún no son parte del Judicial) podría estar controlado por otro poder. --> Considerar especificar que el examen es diseñado y administrado por el Poder Judicial o por un órgano independiente.
-
-1. **Loophole grave**: No se define quién nombra a los jueces ordinarios (primera y segunda instancia). Solo se establecen requisitos mínimos. El procedimiento de nombramiento queda completamente abierto, creando un vector de captura del poder judicial desde la base.
-
-2. **Loophole medio**: No se define quién diseña y administra el examen de capacitación. Vector de filtrado político.
-
-3. **Referencia cruzada**: Relación ambigua con Art 37 -- no queda claro si los requisitos del Art 35 aplican también a magistrados del Tribunal Supremo.
-
-4. **Contenido (opinión)**: 1,5 años de experiencia por defecto parece muy bajo, aunque al ser un valor por defecto modificable durante el Arranque, es menos crítico.
-
 ---
 
 ## Arts 36-40

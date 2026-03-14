@@ -458,13 +458,14 @@ El número total de apelaciones y casaciones en un mismo caso no puede superar 5
 
 ### Artículo 35: Nombramiento de Jueces - Principio
 
-Los jueces son nombrados mediante un procedimiento que garantiza independencia judicial. El nombramiento judicial requiere:
+Los jueces son nombrados mediante un procedimiento que garantiza la independencia judicial. El nombramiento judicial requiere:
 
-1. Titulación jurídica acreditada.
-2. Experiencia profesional mínima establecida por ley.
-3. Superación de examen público de capacitación.
+1. Titulación jurídica acreditada por el Poder Judicial.
+2. Superación de examen público de capacitación.
 
-Los límites y condiciones específicas se establecen durante el Proceso de Arranque mediante consenso de Nivel N1. Por defecto, la experiencia profesional mínima requerida es de 1,5 años.
+El examen de capacitación es diseñado, administrado y corregido exclusivamente por el Poder Judicial. Ningún otro poder, organismo ni entidad externa participa en su elaboración ni evaluación.
+
+Las titulaciones válidas son determinadas por acuerdo de al menos 2/3 de los magistrados del Tribunal Supremo. Esta determinación solo puede modificarse una vez cada 8 años. Toda modificación incluye un periodo de transición de 3 años durante el cual las titulaciones previamente acreditadas mantienen su validez.
 
 La modificación de estos requisitos requiere consenso de Nivel N5.
 
@@ -493,6 +494,8 @@ Los candidatos a magistrado del Tribunal Supremo son propuestos exclusivamente p
 1. Colegios de abogados.
 2. Facultades de derecho acreditadas.
 3. Asociaciones de jueces de instancias inferiores al Tribunal Supremo.
+
+Los candidatos a magistrado del Tribunal Supremo deben acreditar una experiencia mínima como juez de 5 años. Este mínimo puede ajustarse entre 5 y 10 años; durante el Proceso de Arranque mediante consenso de Nivel N1, fuera de él mediante consenso de Nivel N4.
 
 La elección final se realiza mediante votación popular directa y vinculante. El procedimiento específico, incluyendo el número de candidatos propuestos por cada institución y el sistema de votación, se establece durante el Proceso de Arranque conforme al Título III.
 

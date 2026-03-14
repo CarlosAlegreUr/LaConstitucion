@@ -81,3 +81,17 @@ Las siguientes correcciones son puramente mecánicas: ortografía, gramática, c
 **Hallazgo 2 - Asimetría base de cálculo:** La anulación popular usa el censo ciudadano como base, mientras que la aprobación legislativa usa los escaños. Esto hace que anular una ley N1 requiera movilizar al 51% de millones de ciudadanos, cuando aprobarla solo requirió el 51% de ~300 legisladores.
 
 **Resolución:** Design choice intencional. La anulación popular es una válvula de emergencia para medidas profundamente impopulares, no un mecanismo cotidiano. La asimetría es inherente a la diferencia entre democracia representativa y directa. Justificación añadida en parte 2.
+
+---
+
+## Art 35 (Nombramiento de Jueces) y Art 37 (Experiencia Tribunal Supremo)
+
+**Loophole 1 - Quién nombra a los jueces ordinarios:** El artículo definía requisitos (titulación, experiencia, examen) pero no quién nombra. El procedimiento quedaba delegado a ley ordinaria (N1), permitiendo captura de la base judicial.
+
+**Loophole 2 - Quién diseña el examen:** Sin definir, un Ejecutivo podía controlar el contenido del examen para filtrar jueces afines.
+
+**Redacción 2 - Experiencia 1,5 años:** Valor paradójico (no puedes tener experiencia judicial sin ser juez) y curiosamente bajo.
+
+**Referencia cruzada Art 37:** No quedaba claro si los requisitos del Art 35 aplican a magistrados del Supremo, ni si estos necesitan experiencia judicial previa.
+
+**Resolución:** Art 35 reescrito: eliminado requisito de experiencia (paradójico), examen y acreditación exclusivamente diseñados y administrados por el Poder Judicial, titulaciones válidas determinadas por 2/3 del Tribunal Supremo con ciclo de 8 años y periodo de transición de 3 años, corregida gramática ("la independencia judicial"). Art 37: añadido requisito de experiencia mínima como juez de 5 años (rango 5-10, Arranque N1, post-Arranque N4).
