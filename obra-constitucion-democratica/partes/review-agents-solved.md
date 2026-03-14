@@ -103,3 +103,11 @@ Las siguientes correcciones son puramente mecánicas: ortografía, gramática, c
 **Hallazgo 1 - Loophole: no se define quién calcula ni certifica la inflación.** Un atacante que controle el organismo estadístico podría inflar el presupuesto indefinidamente sin votación legislativa.
 
 **Resolución:** Riesgo aceptado por diseño. La inflación es perceptible en el día a día por cualquier ciudadano; una manipulación grosera sería evidente sin carga cognitiva significativa. Una manipulación sutil (1-2% extra) produce un beneficio marginal que no justifica el riesgo político. Además, el Legislativo puede aprobar un presupuesto nuevo en cualquier momento, así que la prórroga con inflación es un fallback temporal.
+
+---
+
+## Art 7 (Umbral de Votación para Independencia Territorial)
+
+**Hallazgo 2 - Sin umbral mínimo constitucional de participación ni consenso para la votación de independencia.** Un Legislativo hostil podría poner umbrales ridículamente bajos (fragmentar el Estado) o imposibles (bloquear la secesión de facto).
+
+**Resolución:** Design choice. El artículo delega los umbrales a ley ordinaria deliberadamente: dependen del contexto (tamaño del territorio, demografía). El rango de 21-42 años ya es un filtro serio contra separaciones impulsivas. Si un Legislativo pone umbrales abusivos, el Judicial puede declararlos inconstitucionales por violar el espíritu del artículo ("bajo ninguna circunstancia puede prohibirse ni suprimirse").

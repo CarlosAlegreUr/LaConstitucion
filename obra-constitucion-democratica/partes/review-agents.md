@@ -69,16 +69,13 @@ Aqui van los hallazgos del Artículo 7:
 **Art 7 (Loophole 1 - Grave):** El articulo no define que es "territorio". Un atacante con recursos ilimitados podria: (a) declarar que un barrio es un "territorio" e iniciar un proceso de independencia frívolo, o (b) a la inversa, un Estado podria argumentar que un territorio que busca independencia "no es un territorio" en sentido constitucional porque no tiene la entidad administrativa requerida. No hay criterio minimo (poblacion, extension, reconocimiento administrativo previo) ni remision a ley ordinaria para definirlo.
 - Propuesta: Añadir que la ley regulara los criterios para determinar que constituye un territorio a efectos de este articulo, con un minimo constitucional (por ejemplo, que coincida con al menos un distrito electoral, o que tenga un minimo poblacional).
 
-**Art 7 (Loophole 2):** No hay participacion minima ni umbral de consenso para la votacion definitiva de independencia. El articulo dice que "la ley podra establecer requisitos y condiciones" pero no pone ningun piso constitucional. Una ley ordinaria podria fijar un umbral del 30% de participacion con 51% de votos, haciendo que un ~15% de la poblacion del territorio decida la secesion. Esto contrasta con el rigor de umbrales que tiene el resto de la constitucion.
-- Propuesta: Establecer un minimo constitucional para la votacion final (por ejemplo, participacion minima del 50% del censo territorial y consenso de N2 o N3), dejando que la ley pueda ser mas exigente pero no mas laxa.
-
 **Art 7 (Loophole 3):** No hay limite al numero de procesos de independencia simultaneos ni cooldown tras un rechazo. Un atacante podria lanzar procesos de independencia en docenas de territorios simultaneamente para desestabilizar el Estado, o reiniciar inmediatamente tras un rechazo.
 - Propuesta: Establecer un cooldown tras rechazo (por ejemplo, 21 anos, coherente con el ciclo generacional del resto de la constitucion) y considerar si debe haber un limite de procesos simultaneos.
 
 **Art 7 (Referencia cruzada):** El articulo 7 no aparece en la lista de clausulas petreas del articulo 66, y la Parte 2 explica por que. Esto es coherente. Sin embargo, tampoco hay ninguna referencia cruzada desde ningun otro articulo hacia el articulo 7. Esto significa que el artículo 7 esta completamente aislado: ningun mecanismo constitucional lo conecta con el sistema electoral, la reforma, ni los derechos fundamentales. Si un territorio se independiza, no hay ningun articulo que establezca que pasa con sus representantes en el Legislativo, sus distritos, o la aplicacion de la constitucion en ese territorio durante el proceso.
 - Propuesta: Esto puede ser intencionalmente delegado a la ley ordinaria, pero merece al menos una mencion: "La ley regulara las consecuencias institucionales del proceso de independencia, incluyendo la representacion legislativa del territorio durante y despues del proceso."
 
-Resumen: 3 loopholes sustanciales (definicion de "territorio", umbral de votacion, cooldown/simultaneidad), 2 mejoras de redaccion (doble negacion, parentesis), 1 inconsistencia en la argumentacion (referencia al Art 15), y 1 referencia cruzada ausente (consecuencias institucionales del proceso).
+Resumen: 2 loopholes sustanciales (definicion de "territorio", cooldown/simultaneidad), 2 mejoras de redaccion (doble negacion, parentesis), 1 inconsistencia en la argumentacion (referencia al Art 15), y 1 referencia cruzada ausente (consecuencias institucionales del proceso).
 
 ## Revisión del Artículo 8: Igualdad ante la Ley
 
