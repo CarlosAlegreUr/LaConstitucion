@@ -207,6 +207,12 @@ Este artículo garantiza que siempre pueda existir un mecanismo de anulación po
 
 La base de cálculo es deliberadamente asimétrica: una ley aprobada con N1 del Legislativo (51% de los escaños) requiere N1 del censo ciudadano (51% de todos los ciudadanos con derecho a voto) para ser anulada. Esta asimetría es inherente a la diferencia entre democracia representativa y directa. La anulación popular no pretende ser un mecanismo cotidiano sino una válvula de emergencia para medidas profundamente impopulares cuya corrección no puede esperar al ciclo de revocación distrito a distrito.
 
+### Excepción para legislación de estados de excepción
+
+La regla general del artículo 6 asume un campo de juego nivelado entre Estado y pueblo: el mismo nivel de consenso para aprobar que para anular. Esta simetría se rompe durante los estados de excepción, donde el Estado dispone de poderes expandidos (restricción de derechos, movilización militar, control de información) y el pueblo se encuentra en desventaja estructural. Exigir al pueblo el mismo umbral que usó el Legislativo para aprobar la legislación de excepción (N3, un 67% del censo) mientras el Estado opera con poderes ampliados produce una desigualdad real que contradice el principio de jerarquía de legitimidad del artículo 1.
+
+Por eso, la legislación que define los supuestos concretos de los estados de excepción — qué cuenta como golpe de estado, quién es «atacante de la nación», qué constituye insurgencia armada — puede ser anulada por el pueblo con N1 (51% del censo), independientemente de que el Legislativo la aprobara con N3. Es una compensación calibrada: el umbral legislativo alto (N3) dificulta que una facción abuse de las definiciones, mientras que el umbral popular bajo (N1) garantiza que el pueblo pueda corregirlas si el abuso ocurre.
+
 ## Artículo 7: Derecho a la Autodeterminación Territorial
 
 Un territorio que quiere independizarse es, por definición, un demos: un pueblo con identidad y voluntad propias. Aunque sea minoría dentro del Estado, sigue siendo un grupo de seres humanos cuya soberanía merece respeto. Negar el derecho a la autodeterminación es negar que ese demos exista, lo cual contradice el principio fundacional de esta Constitución: que la soberanía reside en el pueblo.
@@ -578,6 +584,14 @@ La lógica es sencilla: una crisis legítima genera consenso fácilmente. Una ps
 ## Declaración falsa de estado de excepción
 
 Declarar un estado de excepción sin crisis real es un delito grave (10 años de prisión por defecto). La razón es obvia: un estado de excepción concentra temporalmente poder en el Ejecutivo. Si no hay consecuencias por declararlo falsamente, se convierte en una herramienta de concentración de poder bajo pretexto de crisis. La sanción por defecto es alta pero modificable (N2 durante Arranque, N3 después) porque es un parámetro operativo cuyo valor óptimo depende del contexto.
+
+## Supuestos concretos y definición de «atacante de la nación»
+
+Las causas de cada tipo de estado de excepción (catástrofe natural, golpe de estado, invasión) son necesariamente genéricas en el texto constitucional. Es imposible anticipar cada supuesto concreto: ¿un ciberataque masivo es un «desastre tecnológico» o un acto de «guerra»? ¿Una protesta violenta es «insurgencia armada»? Intentar enumerar cada caso en la Constitución garantiza lagunas.
+
+La solución es delegar la definición de supuestos concretos a la legislación ordinaria, pero con un umbral alto: N3 (67% del Legislativo). Este nivel es deliberadamente superior al N1 o N2 habitual para legislación ordinaria porque estas definiciones determinan cuándo el Estado puede restringir derechos fundamentales. Un umbral bajo permitiría que una mayoría simple definiera «golpe de estado» de forma que incluyera protestas pacíficas o «atacante de la nación» de forma que incluyera opositores políticos. N3 exige un consenso amplio que dificulta el uso partidista de estas definiciones.
+
+La misma lógica aplica con especial fuerza a la definición de «atacante de la nación» en el Ámbito Bélico, donde se pueden restringir todos los derechos fundamentales. La historia muestra repetidamente que los gobiernos etiquetan opositores como enemigos del Estado para justificar represión. N3 no elimina este riesgo, pero lo dificulta sustancialmente. Y si aun así ocurre, la excepción de anulación popular del artículo 6 permite al pueblo corregirlo con solo N1 del censo.
 
 ## Seis límites no suspendibles
 

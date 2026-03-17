@@ -100,7 +100,7 @@ Si un proceso de votación incumplió las garantías establecidas en este artíc
 
 Esta Constitución garantiza permanentemente el derecho a crear mecanismos de anulación popular directa de decisiones legislativas. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá prohibir la creación ni el funcionamiento de tales mecanismos.
 
-Si se implementa un mecanismo de anulación popular, el nivel de apoyo ciudadano requerido para anular una decisión corresponderá al nivel de consenso de dicha decisión: las decisiones de Nivel N1 podrán ser anuladas con apoyo del 51% de los ciudadanos con derecho a voto, las de Nivel N2 con el 60%, y así sucesivamente conforme a los niveles de consenso N1 a N6 establecidos en el artículo 2. Todo proceso de anulación popular deberá cumplir las garantías de secreto, verificabilidad y auditoría pública establecidas en los artículos 5 y 17.
+Si se implementa un mecanismo de anulación popular, el nivel de apoyo ciudadano requerido para anular una decisión corresponderá al nivel de consenso de dicha decisión: las decisiones de Nivel N1 podrán ser anuladas con apoyo del 51% de los ciudadanos con derecho a voto, las de Nivel N2 con el 60%, y así sucesivamente conforme a los niveles de consenso N1 a N6 establecidos en el artículo 2. Como excepción, la legislación que desarrolle los supuestos concretos de los estados de excepción conforme al artículo 56 podrá ser anulada mediante apoyo del 51% de los ciudadanos con derecho a voto, independientemente del nivel de consenso legislativo con el que fue aprobada. Todo proceso de anulación popular deberá cumplir las garantías de secreto, verificabilidad y auditoría pública establecidas en los artículos 5 y 17.
 
 ---
 
@@ -749,7 +749,7 @@ Se establecen tres tipos de estados de excepción, clasificados según el ámbit
 - Causas: Guerra declarada, invasión extranjera, insurgencia armada.
 - Declaración: Activación automática sin aprobación legislativa previa.
 - Derechos restringibles a atacantes de la nación: Todos los derechos fundamentales. Esta variable no es configurable en el Arranque.
-- Poderes temporales: Transferencia de funciones civiles a autoridad militar en zona afectada más aquellos definidos en el Proceso de Arranque. La transferencia de funciones civiles a autoridad militar no es configurable en el Arranque.
+- Poderes temporales: Transferencia de funciones civiles a la autoridad militar en zona afectada más aquellos definidos en el Proceso de Arranque. La transferencia de funciones civiles a la autoridad militar no es configurable en el Arranque.
 
 ---
 
@@ -757,11 +757,9 @@ Se establecen tres tipos de estados de excepción, clasificados según el ámbit
 
 Todas las variables del artículo 56 se definen durante el Proceso de Arranque (Título III) con consenso N1, salvo aquellas explícitamente excluidas.
 
-Tras el Arranque: modificación de derechos restringibles requiere N4; modificación de causas, declaración, poderes temporales y creación de nuevos tipos requiere N5.
+Tras el Arranque: la modificación de derechos restringibles requiere consenso de Nivel N4; la modificación de causas, declaración, poderes temporales y la creación de nuevos tipos de estado de excepción requiere consenso de Nivel N5. La legislación que desarrolle los supuestos concretos de cada causa requiere consenso de Nivel N3 para ser aprobada y está sujeta a la excepción de anulación popular establecida en el artículo 6.
 
-La lista de supuestos de desastre tecnológico puede ampliarse con N4.
-
-La restricción de todos los derechos fundamentales a atacantes de la nación (Ámbito Bélico) no es configurable en el Arranque; su modificación posterior requiere consenso del nivel N6. La transferencia de funciones civiles a autoridad militar (Ámbito Bélico) no es configurable en el Arranque; su modificación posterior requiere consenso del nivel N6.
+La restricción de todos los derechos fundamentales a atacantes de la nación (Ámbito Bélico) no es configurable en el Arranque; su modificación posterior requiere consenso del nivel N6. La transferencia de funciones civiles a la autoridad militar (Ámbito Bélico) no es configurable en el Arranque; su modificación posterior requiere consenso del nivel N6.
 
 ---
 
