@@ -7,24 +7,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 1-5
 
-## Revisión del Artículo 2: Niveles de Consenso
-
-**Art 2 - Redaccion (N3 = "66%")**: N3 se define como "mayoría de dos tercios: 66%". Dos tercios es 66,666...%, no 66%. Esto crea ambiguedad: si una votacion obtiene exactamente 66,5%, se aprueba con la definicion del 66% pero no con "dos tercios". La etiqueta y el numero se contradicen. Propuesta: definir N3 como "66,67%" o directamente "2/3", y eliminar la etiqueta "mayoría de dos tercios" si se quiere mantener el 66% redondo. Hay que elegir uno: o el numero redondo manda, o la fraccion manda.
-
-## Revisión del Artículo 3: Sujetos Constitucionales
-
-**Art 3 (Loophole - definición de "persona"):** "Persona: Todo ser humano presente en el territorio nacional." Esto excluye explícitamente a ciudadanos fuera del territorio. El párrafo siguiente lo mitiga: "Los ciudadanos conservan todos los derechos establecidos para personas independientemente de su ubicación geográfica." Pero un ciudadano en el extranjero conserva derechos de *persona*, no necesariamente de *ciudadano*. La redacción es: "Los ciudadanos conservan todos los derechos establecidos **para personas**". No dice "conservan todos sus derechos de ciudadano". Con un atacante sofisticado, un tribunal podría argumentar que un ciudadano en el extranjero conserva derechos de persona pero pierde derechos de ciudadano (por ejemplo, acceso a información pública del Art 48, derecho a auditoría). La cascada dice que todo ciudadano goza de los derechos de persona + ciudadano + (si aplica) votante, pero la cláusula geográfica solo preserva explícitamente el nivel "persona". **Propuesta:** cambiar "Los ciudadanos conservan todos los derechos establecidos para personas" por "Los ciudadanos conservan todos los derechos inherentes a su condición" o similar, para que cubra tanto derechos de persona como de ciudadano fuera del territorio.
-
-**Art 4, hallazgo 1 (Loophole - edad):** El artículo dice "mayor de 18 años" como regla base, pero luego permite ajustar la edad entre 18 y 23 con N5. Si el Legislativo sube la edad a 23, la primera frase ("mayor de 18 años") se contradice con la edad vigente. La primera frase debería ser genérica y no fijar "18" como valor concreto, o bien aclarar que "18" es el valor por defecto sujeto al ajuste del segundo párrafo.
-
-Propuesta: Reformular la primera frase para que sea coherente con el ajuste. Por ejemplo: "Todo ciudadano que alcance la edad de voto tiene derecho al sufragio. La edad de voto es de 18 años." Y luego el segundo párrafo con el mecanismo de ajuste. Así la primera frase no queda en contradicción cuando se ajusta la edad.
-
-**Art 4, hallazgo 2 (Ambiguedad - "consenso de Nivel N5"):** No especifica quién vota ese N5. En el Art 2 se dice que por defecto los porcentajes se calculan "sobre el total de votos válidos emitidos", pero no queda claro si es N5 legislativo, N5 en referéndum, o ambos. Comparar con otros artículos: el Art 7 dice "un proceso de consenso configurable entre N3 y N5" sin especificar quién (mismo problema), pero el Art 68 sí distingue "Nivel N4 del Poder Legislativo" o "referéndum con N1". En el Art 4, este N5 probablemente es legislativo, pero debería decirlo explícitamente.
-
-Propuesta: Cambiar "mediante consenso de Nivel N5" a "mediante consenso de Nivel N5 del Poder Legislativo" (o lo que corresponda).
-
-Propuesta: Esto probablemente necesita tratarse en el Art 3, no aquí. Pero al menos anotarlo como vector de ataque conocido. Si se quiere blindar en el Art 4, se podría añadir: "Ninguna ley podrá establecer requisitos de nacionalidad cuyo efecto sea restringir el sufragio universal." Aunque eso quizá pertenece mejor al Art 3 o al Art 72.
-
 ## Revisión del Artículo 5: Secreto y Verificabilidad del Voto
 
 **Art 5 - Hallazgo 6 (Ambiguedad):** "El proceso electoral debe ser auditable, como minimo, por ciudadanos con derecho a voto." El "como minimo" sugiere que podria ser auditable por mas gente (personas no ciudadanas, observadores internacionales). Esto esta bien como intencion, pero la frase "como minimo, por ciudadanos con derecho a voto" es ambigua: podria leerse como "auditable por al menos un ciudadano con derecho a voto" en vez de "auditable por cualquier ciudadano con derecho a voto". El Art. 17 usa "cualquier ciudadano con derecho a voto puede verificar la integridad del proceso", que es mas claro.

@@ -47,12 +47,12 @@ El Poder Popular puede oponerse a las decisiones de cualquier poder delegado ún
 
 Esta Constitución establece seis niveles de consenso para la toma de decisiones:
 
-1. Nivel N1, mayoría simple: 51%.
-2. Nivel N2, mayoría reforzada: 60%.
-3. Nivel N3, mayoría de dos tercios: 66%.
-4. Nivel N4, supermayoría: 75%.
-5. Nivel N5, supermayoría reforzada: 85%.
-6. Nivel N6, cuasi-unanimidad: 95%.
+1. Nivel N1: 51%.
+2. Nivel N2: 60%.
+3. Nivel N3: 66%.
+4. Nivel N4: 75%.
+5. Nivel N5: 85%.
+6. Nivel N6: 95%.
 
 Salvo indicación explícita en contrario, los porcentajes se calculan sobre el total de votos válidos emitidos. Cuando un artículo especifica "del censo", el porcentaje se calcula sobre el censo electoral conforme al artículo 3. Las votaciones del Poder Legislativo se rigen por la regla específica establecida en el artículo 23.
 
@@ -80,9 +80,9 @@ Las restricciones de derechos derivadas de condena penal firme se rigen por la l
 
 ### Artículo 4: Sufragio Universal
 
-Todo ciudadano mayor de 18 años tiene derecho al voto. Cada ciudadano dispone de un voto con igual valor: un ciudadano, un voto. El sufragio no puede restringirse salvo dentro de los límites de edad establecidos en este artículo.
+Todo ciudadano que alcance la edad de voto tiene derecho al sufragio. Cada ciudadano dispone de un voto con igual valor: un ciudadano, un voto. El sufragio no puede restringirse salvo dentro de los límites de edad establecidos en este artículo.
 
-La edad de voto puede ajustarse entre 18 y 23 años mediante consenso de Nivel N5. Los límites de este rango solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 67.
+La edad de voto es de 18 años por defecto. Este valor puede ajustarse entre 18 y 23 años mediante consenso de Nivel N5 del Poder Legislativo. Los límites de este rango solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 67.
 
 ---
 

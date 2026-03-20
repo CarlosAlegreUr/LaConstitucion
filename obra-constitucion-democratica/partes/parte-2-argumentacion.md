@@ -173,7 +173,7 @@ La soberanía reside en el pueblo no como declaración retórica, sino como prin
 
 ## Artículo 2: Niveles de Consenso
 
-Los seis niveles de consenso son la herramienta operativa de toda la Constitución. Cada nivel representa un grado distinto de acuerdo social: desde la mayoría simple (N1, 51%) hasta el consenso casi unánime (N6, 95%). La idea es que decisiones más trascendentales requieran acuerdos más amplios: cambiar una ley ordinaria necesita N1, pero modificar una cláusula pétrea necesita N6. La definición formal en un artículo propio evita ambigüedades: cada vez que la Constitución dice "consenso de Nivel N3", el significado es exacto y no depende de interpretación.
+Los seis niveles de consenso son la herramienta operativa de toda la Constitución. Cada nivel representa un grado distinto de acuerdo social, desde la mayoría simple hasta el consenso casi unánime. En terminología clásica: N1 (51%) es mayoría simple, N2 (60%) mayoría reforzada, N3 (66%) mayoría cualificada, N4 (75%) supermayoría, N5 (85%) supermayoría reforzada y N6 (95%) cuasi-unanimidad. El texto constitucional usa exclusivamente el porcentaje como definición formal, sin etiquetas descriptivas, para evitar ambigüedades como la que existiría entre "dos tercios" (66,67%) y "66%". La idea es que decisiones más trascendentales requieran acuerdos más amplios: cambiar una ley ordinaria necesita N1, pero modificar una cláusula pétrea necesita N6. La definición formal en un artículo propio evita ambigüedades: cada vez que la Constitución dice "consenso de Nivel N3", el significado es exacto y no depende de interpretación.
 
 ## Artículo 3: Sujetos Constitucionales
 
@@ -381,7 +381,7 @@ La separación es material, no formal. Muchas constituciones declaran separació
 
 Dicho esto, la independencia no es absoluta ni puede serlo. ¿Por qué? Porque alguien tiene que decir "sí, esto se aprueba". Un presupuesto, una ley, una estructura organizativa: en algún punto del proceso, algún órgano debe tener la última palabra. Lo más lógico es que sea el poder más cercano al demos —el Legislativo, compuesto por representantes directos de distrito— quien ejerza esa función de aprobación final. Pero debe hacerlo con límites, porque el pueblo no puede estar pendiente permanentemente de cada batalla presupuestaria entre poderes: la sobrecarga cognitiva lo hace imposible en la práctica.
 
-De ahí que existan puntos de contacto deliberados entre poderes, diseñados para que se controlen mutuamente sin que ninguno pueda estrangular al otro. El caso más claro es el presupuesto judicial (artículo 32): el Judicial propone su propio presupuesto, pero el Legislativo debe aprobarlo o rechazarlo. ¿Es esto una dependencia? Sí, pero con tres protecciones que la neutralizan como vector de ataque: el Legislativo no puede modificar el presupuesto propuesto (solo aceptar o rechazar en bloque), el rechazo requiere una supermayoría de dos tercios (N3), y si lo rechaza se mantiene el presupuesto anterior ajustado a inflación. Es decir, el Legislativo no puede usar el presupuesto para castigar al Judicial: lo peor que puede hacer es mantener el statu quo.
+De ahí que existan puntos de contacto deliberados entre poderes, diseñados para que se controlen mutuamente sin que ninguno pueda estrangular al otro. El caso más claro es el presupuesto judicial (artículo 32): el Judicial propone su propio presupuesto, pero el Legislativo debe aprobarlo o rechazarlo. ¿Es esto una dependencia? Sí, pero con tres protecciones que la neutralizan como vector de ataque: el Legislativo no puede modificar el presupuesto propuesto (solo aceptar o rechazar en bloque), el rechazo requiere consenso de Nivel N3 (66%), y si lo rechaza se mantiene el presupuesto anterior ajustado a inflación. Es decir, el Legislativo no puede usar el presupuesto para castigar al Judicial: lo peor que puede hacer es mantener el statu quo.
 
 La autodestrucción mutua (artículos 39-40) sigue la misma lógica: es un punto de contacto entre Ejecutivo y Legislativo que existe precisamente para resolver bloqueos, pero diseñado para que activarlo tenga un coste simétrico que desincentiva su abuso.
 
@@ -437,7 +437,7 @@ Un Presidente no puede inflar la burocracia para crear feudos de poder, y un Leg
 
 ### Independencia financiera
 
-El Tribunal Supremo propone su propio presupuesto. El Legislativo puede aprobarlo o rechazarlo (con mayoría de dos tercios), pero no modificarlo. Si lo rechaza, se mantiene el anterior ajustado a inflación. Esta mecánica impide que el Legislativo estrangule económicamente al Judicial como forma de presión política.
+El Tribunal Supremo propone su propio presupuesto. El Legislativo puede aprobarlo o rechazarlo (con consenso de Nivel N3), pero no modificarlo. Si lo rechaza, se mantiene el anterior ajustado a inflación. Esta mecánica impide que el Legislativo estrangule económicamente al Judicial como forma de presión política.
 
 ### Estructura en tres niveles
 

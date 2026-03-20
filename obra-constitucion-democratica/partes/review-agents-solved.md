@@ -227,3 +227,35 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 - **Art 68, hallazgo 3 plazo entrada en vigor** — "Desde la aprobación" suficientemente claro. Menor.
 - **Art 71, hallazgo 1 DRY Art 70** — Redundancia intencional como refuerzo en texto constitucional.
 - **Art 72, hallazgo 2 lista orientativa** — Paréntesis con lista orientativa. Menor.
+
+---
+
+## Art 2 (N3 = "66%" vs dos tercios)
+
+**Hallazgo:** N3 se definía como "mayoría de dos tercios: 66%". Dos tercios es 66,67%, no 66%. Ambigüedad entre la etiqueta y el porcentaje.
+
+**Resolución:** El porcentaje redondo (66%) manda. Eliminadas todas las etiquetas descriptivas del Art 2 (mayoría simple, mayoría reforzada, etc.), dejando solo "Nivel NX: Y%". Los nombres clásicos se documentan en la parte 2 como referencia. Corregidas dos menciones a "dos tercios" en la parte 2 que referían a N3.
+
+---
+
+## Art 3 (Derechos de ciudadano en el extranjero)
+
+**Hallazgo:** La cláusula "conservan todos los derechos establecidos para personas" podría interpretarse como que los derechos de ciudadano sí dependen de ubicación.
+
+**Resolución:** Non-issue. La ciudadanía se define por nacionalidad, no por ubicación. La cláusula existe para resolver que "persona" depende de presencia física; los derechos de ciudadano no necesitan cláusula equivalente porque la ciudadanía no depende de ubicación. El argumento contrario requiere una lectura *a silentio* que ignora la definición explícita de ciudadano.
+
+---
+
+## Art 4 hallazgo 1 (Contradicción "18 años")
+
+**Hallazgo:** "Todo ciudadano mayor de 18 años" se contradice con la edad vigente si el Legislativo la sube a 23 con N5.
+
+**Resolución:** Reformulado: "Todo ciudadano que alcance la edad de voto tiene derecho al sufragio." Segundo párrafo: "La edad de voto es de 18 años por defecto." El derecho es genérico; el valor concreto es un default modificable.
+
+---
+
+## Art 4 hallazgo 2 (N5 sin especificar quién)
+
+**Hallazgo:** "mediante consenso de Nivel N5" no especificaba si era legislativo, referéndum, o ambos.
+
+**Resolución:** Añadido "del Poder Legislativo" explícitamente.
