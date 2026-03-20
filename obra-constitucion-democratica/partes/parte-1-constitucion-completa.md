@@ -725,7 +725,7 @@ Los jefes de cada rama son nombrados por el Presidente. El Legislativo puede rev
 
 ### Artículo 55: Estados de Excepción - Principio
 
-Los estados de excepción solo pueden declararse ante crisis graves que no puedan gestionarse mediante medios ordinarios. Declarar un estado de excepción sin que exista crisis real constituye delito grave, sancionado por defecto con 10 años de prisión. Este parámetro puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N2 y posteriormente mediante consenso de Nivel N3. Por defecto existen tres tipos de estados de excepción, establecidos en el artículo 56. Todo estado de excepción está sujeto a los seis límites obligatorios establecidos en los artículos del 58 al 63 incluidos. Ninguna crisis, por grave que sea, autoriza la suspensión de estos seis límites.
+Los estados de excepción solo pueden declararse, conforme al artículo 56, ante crisis graves que no puedan gestionarse mediante medios ordinarios. Declarar un estado de excepción sin que exista crisis real constituye delito grave, sancionado por defecto con 10 años de prisión. Este parámetro puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N2 y posteriormente mediante consenso de Nivel N3. Por defecto existen tres tipos de estados de excepción, establecidos en el artículo 56. Todo estado de excepción está sujeto a los seis límites obligatorios establecidos en los artículos del 58 al 63 incluidos. Ninguna crisis, por grave que sea, autoriza la suspensión de estos seis límites.
 
 ---
 
@@ -748,8 +748,8 @@ Se establecen tres tipos de estados de excepción, clasificados según el ámbit
 3. Ámbito Bélico:
 - Causas: Guerra declarada, invasión extranjera, insurgencia armada.
 - Declaración: Activación automática sin aprobación legislativa previa.
-- Derechos restringibles a atacantes de la nación: Todos los derechos fundamentales. Esta variable no es configurable en el Arranque.
-- Poderes temporales: Transferencia de funciones civiles a la autoridad militar en zona afectada más aquellos definidos en el Proceso de Arranque. La transferencia de funciones civiles a la autoridad militar no es configurable en el Arranque.
+- Derechos restringibles a atacantes de la nación: Todos los derechos fundamentales.
+- Poderes temporales: Transferencia de funciones civiles a la autoridad militar en zona afectada más aquellos definidos en el Proceso de Arranque.
 
 ---
 

@@ -585,6 +585,10 @@ La lógica es sencilla: una crisis legítima genera consenso fácilmente. Una ps
 
 Declarar un estado de excepción sin crisis real es un delito grave (10 años de prisión por defecto). La razón es obvia: un estado de excepción concentra temporalmente poder en el Ejecutivo. Si no hay consecuencias por declararlo falsamente, se convierte en una herramienta de concentración de poder bajo pretexto de crisis. La sanción por defecto es alta pero modificable (N2 durante Arranque, N3 después) porque es un parámetro operativo cuyo valor óptimo depende del contexto.
 
+## Activación automática
+
+En los ámbitos de Seguridad Interior y Bélico, la activación es automática: el estado de excepción existe como hecho jurídico desde que se produce la causa, no desde que alguien lo declara. No hay filtro previo en la entrada. Esto es deliberado: ante un golpe de estado o una invasión, condicionar la activación a un acto formal de un cargo que podría estar comprometido o incapacitado es peor que no tener filtro. Los controles están en la salida: ratificación legislativa (Seguridad Interior), control judicial (Art 62), delito por falsedad (Art 55) y rendición de cuentas (Art 64).
+
 ## Supuestos concretos y definición de «atacante de la nación»
 
 Las causas de cada tipo de estado de excepción (catástrofe natural, golpe de estado, invasión) son necesariamente genéricas en el texto constitucional. Es imposible anticipar cada supuesto concreto: ¿un ciberataque masivo es un «desastre tecnológico» o un acto de «guerra»? ¿Una protesta violenta es «insurgencia armada»? Intentar enumerar cada caso en la Constitución garantiza lagunas.

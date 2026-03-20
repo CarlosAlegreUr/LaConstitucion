@@ -119,3 +119,111 @@ Las siguientes correcciones son puramente mecánicas: ortografía, gramática, c
 **Hallazgo - Contradicción entre nulidad automática y declaración judicial:** Art 42 dice "nula de pleno derecho" (automático) pero Art 43 requiere declaración judicial de inaplicabilidad (procesal). Un atacante podría argumentar que una ley inconstitucional sigue vigente hasta sentencia firme.
 
 **Resolución:** Non-issue. Es una distinción jurídica clásica presente en prácticamente todas las constituciones: la nulidad de pleno derecho es el principio, la declaración judicial es el mecanismo procesal para constatarla. Sin procedimiento, cualquiera podría incumplir cualquier ley alegando inconstitucionalidad sin confirmación judicial. El Art 44 ya castiga penalmente a los legisladores que aprobaron leyes declaradas inconstitucionales, lo que disuade el abuso.
+
+---
+
+## Art 56 (Atacantes de la Nación) y Art 57 (Inconsistencia N4/N5)
+
+**Hallazgo Art 56.2 - Loophole: "atacantes de la nación" sin definir.** El término no estaba definido en ningún artículo. Un gobierno hostil podría etiquetar opositores políticos como "atacantes" para despojarlos de todos los derechos fundamentales.
+
+**Hallazgo Art 57.2 - Inconsistencia N4/N5 para supuestos tecnológicos.** La línea "La lista de supuestos de desastre tecnológico puede ampliarse con N4" contradecía la regla general de N5 para modificación de causas en la misma frase.
+
+**Resolución:** Commit 80ab674. (1) Los supuestos concretos de cada causa (incluyendo la definición de "atacante de la nación") se desarrollan por ley con N3 (Art 57). (2) Se añade excepción en Art 6: esta legislación puede ser anulada por el pueblo con N1 (51% del censo), independientemente del N3 legislativo, compensando la asimetría de poder durante estados de excepción. (3) Se elimina la línea de N4 para desastres tecnológicos — con el nuevo N3 para supuestos concretos, la distinción era redundante y confusa. (4) Corrección menor: "a autoridad militar" → "a la autoridad militar" (x2 en Art 56). Argumentación añadida en Parte 2 en dos secciones.
+
+---
+
+## Art 56 (Corrección gramatical)
+
+**Hallazgo: "a autoridad militar"** faltaba el artículo determinado en dos ocurrencias.
+
+**Resolución:** Corregido a "a la autoridad militar" en ambas instancias (commit 80ab674).
+
+---
+
+## Non-issues descartados (lote Arts 1-16)
+
+Los siguientes hallazgos fueron evaluados y descartados como non-issues:
+
+- **Art 1 (l.12)** — "Art 6 es garantía, no mecanismo activo". Sutileza semántica; Art 1 referencia correctamente al artículo que habilita la herramienta.
+- **Art 6, hallazgo 3 (l.53)** — DRY: enumera porcentajes ya en Art 2. Legibilidad > DRY estricto en texto constitucional. Art 2 es cláusula pétrea, los porcentajes no cambiarán sin Art 67.
+- **Art 6, hallazgo 5 (l.61)** — Falta plazo y procedimiento de anulación. Intencional: Art 6 garantiza el derecho, no impone mecanismo.
+- **Art 7, referencia cruzada (l.75)** — Art 7 aislado sin consecuencias institucionales. Deliberadamente delegado a ley ordinaria; proceso de 21-42 años da tiempo para legislar.
+- **Art 9, hallazgo 2 (l.93)** — Cooficialidad por N1 como sabotaje. Escenario teórico extremo; la carga administrativa recae sobre el Estado que lo aprueba.
+- **Art 10, hallazgo 1 (l.99)** — Formato de configurabilidad no estandarizado. Cosmético; la información está en el artículo, solo en prosa.
+- **Art 10, hallazgo 5 (l.113)** — Falta cláusula de Arranque. El rango 0-2 con N4 es razonable desde el día uno.
+- **Art 13, hallazgos 1-2 empates (l.143-145)** — Empates en primera y segunda vuelta. Estadísticamente casi imposible con distritos de 100.000+ hab. La ley electoral puede cubrirlo.
+- **Art 13, hallazgo 7 (l.161)** — "Más votos" vs "mayor porcentaje". Equivalentes en la práctica con un solo censo.
+- **Art 15, hallazgo 3 (l.178)** — Discrepancia argumentación vs texto sobre Arranque. Verificar y corregir parte 2 si necesario, no es cambio al texto constitucional.
+- **Art 16, hallazgo 1 (l.188)** — "Si esta situación se repite" sin decir "2" explícitamente. Legible como está.
+
+---
+
+## Non-issues descartados (lote Arts 55-65)
+
+- **Art 55, hallazgo 1** — Artículo largo en un solo párrafo. Denso pero legible; hay artículos más largos.
+- **Art 55, hallazgo 4** — No define quién juzga falsedad de declaración. Ya cubierto por Art 52 (responsabilidad penal presidencial) y Art 8 (no inmunidad).
+- **Art 56, hallazgo 1** — "Activación automática" sin definir quién constata. Diseño deliberado: la activación es hecho jurídico, no acto discrecional. Controles en la salida (ratificación, Art 62, Art 55). Explicación añadida en parte 2.
+- **Art 58, hallazgo 1** — Renovación sin quórum definido. Ya cubierto por Art 23: escaños vacantes cuentan como votos en contra, creando quórum implícito. Explicado en parte 2 (l.394).
+
+---
+
+## Non-issues descartados (lote Arts 16-30)
+
+- **Art 16, hallazgo 5** — "Dinero sobrante" ambiguo. Redacción mejorable pero contexto lo aclara; no es loophole explotable.
+- **Art 17, hallazgo 1 DRY** — Lista 1-2-3 duplica Art 5. Legibilidad > DRY en texto constitucional; artículo funciona autocontenido.
+- **Art 17, hallazgo 3 coerción** — Voto remoto no garantiza secreto físico. Limitación inherente, no resoluble constitucionalmente. Materia de ley ordinaria.
+- **Art 18, hallazgo 3** — Fase intermedia Legislativo sin Presidente. El texto ya dice "sometido a los principios y normas de esta Constitución"; el Legislativo ejerce funciones desde que se constituye.
+- **Art 19, hallazgo 2** — Art 19 no dice que Judicial se constituye en Arranque. Cada artículo dice lo suyo (Arts 36-38). No necesita ser autocontenido.
+- **Art 20, hallazgo 2** — "Independencia de nombramiento" abstracta. Cada subtítulo lo concreta; no necesita referencias cruzadas aquí.
+- **Art 23, hallazgo 3** — "Por semana" no definido. Regulable por reglamento. KISS.
+- **Art 24, hallazgo 4** — Empate en segunda vuelta presidencial. Con millones de votos, estadísticamente imposible.
+- **Art 25, redacción-2** — "En ningún aspecto" debería explicitar preparación y propuesta. Ya es suficientemente claro.
+- **Art 25, loophole-1** — Funciones de alto riesgo delegables como propuesta. Correcto por diseño; propuesta requiere aprobación presidencial.
+- **Art 26, hallazgo muerte** — "Muerte" redundante con Art 25. Válido técnicamente pero moverlo solo simplifica, no cierra loophole. Menor.
+- **Art 26, hallazgo formato** — "Consenso N2" vs "consenso de Nivel N2". Inconsistencia global conocida, no específica de este artículo.
+- **Art 26, referencia Art 43** — Referencia imprecisa pero funcional como marco general de responsabilidad judicial.
+- **Art 28, hallazgo 1** — Falta nivel de modificabilidad explícito fuera del Arranque. Art 68 aplica por defecto. Patrón roto pero no explotable.
+- **Art 29, hallazgo 1** — Oración larga, falta coma. Cosmético.
+
+---
+
+## Non-issues descartados (lote Arts 30-44)
+
+- **Art 30, hallazgo 5** — "Del periodo" ligeramente ambiguo. Detalle técnico menor; la interpretación razonable es obvia (inflación anual).
+- **Art 31, DRY con Art 47** — Solapamiento en "sistema público auditable". Complementarios, no redundantes.
+- **Art 31, referencia cruzada faltante** — Art 31 debería referenciar Art 47. Menor; ambos autocontenidos.
+- **Art 31, consistencia Art 53** — Tensión con partidas clasificadas. Ya cubierto por Art 47 que reconoce excepción del Art 53.
+- **Art 33, inconsistencia "Segunda Instancia"** — Confusión terminológica entre Art 33 y Art 43. Problema más del Art 43, menor.
+- **Art 36, redacción 2 "pulgar del pie"** — Estilístico. Chirriante pero funcional.
+- **Art 38, falta modificabilidad** — Consecuencia de la redundancia DRY. Se resuelve eliminando/reduciendo Art 38.
+- **Art 39, hallazgo 1 asimetría candidatura** — Design choice. La asimetría de coste es intencional por la concentración de poder del Presidente.
+- **Art 40, cooldown/estado de excepción** — Ambigüedad menor. Durante estado de excepción la autodestrucción ya está bloqueada (Art 39), el cooldown es irrelevante.
+- **Art 41, hallazgo 5 "resoluciones" vs "sentencias"** — Menor. Párrafo introductorio general para abarcar causa 2 (legislación ordinaria).
+- **Art 43, consistencia "Segunda Instancia (Casación)"** — Etiqueta confusa pero sustancia clara. Menor.
+
+---
+
+## Non-issues descartados (lote Arts 43-61)
+
+- **Art 43, redacción-2 párrafo denso** — Denso pero funcional. Comparable al Art 55 (mismo criterio).
+- **Art 44, hallazgo 5 título engañoso** — Cosmético. Contenido claro pese al título impreciso.
+- **Art 44, hallazgo 6 legisladores fuera del cargo** — Principio general del derecho penal: responsabilidad no se extingue por cese. No necesita explicitación.
+- **Art 45, redacción párrafo monolítico** — Denso pero funcional. Mismo criterio que Art 55/43.
+- **Art 46, redacción 2.b** — Mejorable pero comprensible. No es loophole.
+- **Art 47, solapamiento Art 31** — Complementarios, no redundantes (ya marcado desde Art 31).
+- **Art 48, ambigüedad "sistemas establecidos"** — Intencional. Legislación ordinaria puede ampliar.
+- **Art 52, redacción doble condicional** — Estilístico. Funcional como está.
+- **Art 53, redacción "procedimiento ordinario"** — Referencia implícita razonable. Arts 30-31 cubren presupuesto.
+- **Art 61, referencia cruzada incompleta** — Paráfrasis + referencia redundante pero no peligroso.
+
+---
+
+## Non-issues descartados (lote Arts 62-72)
+
+- **Art 63, paréntesis integrables** — Estilístico. Ejemplos entre paréntesis menores.
+- **Art 65, redundancia DRY** — Resumen útil para legibilidad. No es loophole.
+- **Art 66, clausula 4 paréntesis** — "Este procedimiento" se entiende por contexto. Menor.
+- **Art 68, hallazgo 1 vías alternativas** — Se entiende del contexto. Menor.
+- **Art 68, hallazgo 3 plazo entrada en vigor** — "Desde la aprobación" suficientemente claro. Menor.
+- **Art 71, hallazgo 1 DRY Art 70** — Redundancia intencional como refuerzo en texto constitucional.
+- **Art 72, hallazgo 2 lista orientativa** — Paréntesis con lista orientativa. Menor.
