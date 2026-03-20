@@ -7,47 +7,9 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 1-5
 
-## Revisión del Artículo 5: Secreto y Verificabilidad del Voto
-
-**Art 5 - Hallazgo 6 (Ambiguedad):** "El proceso electoral debe ser auditable, como minimo, por ciudadanos con derecho a voto." El "como minimo" sugiere que podria ser auditable por mas gente (personas no ciudadanas, observadores internacionales). Esto esta bien como intencion, pero la frase "como minimo, por ciudadanos con derecho a voto" es ambigua: podria leerse como "auditable por al menos un ciudadano con derecho a voto" en vez de "auditable por cualquier ciudadano con derecho a voto". El Art. 17 usa "cualquier ciudadano con derecho a voto puede verificar la integridad del proceso", que es mas claro.
-
-Propuesta: Cambiar a "El proceso electoral debe ser auditable por cualquier ciudadano con derecho a voto" y dejar la extension a otros sujetos para legislacion ordinaria.
-
-1. **Hallazgo 6 (ambiguedad auditabilidad)** - Facil de corregir alineando con la redaccion del Art. 17.
-2. **Hallazgo 1 (formato)** - Menor, inconsistencia estetica con Art. 17.
-
 ---
 
 ## Arts 6-10
-
-## Revisión del Artículo 6: Garantía de Anulación Popular
-
-**Art 6, hallazgo 1 (Loophole / Ambigüedad grave):** El segundo párrafo dice "apoyo del 51% de los ciudadanos con derecho a voto". "De los ciudadanos con derecho a voto" implica sobre el censo, no sobre votos válidos emitidos. Esto es distinto al default del Art 2 ("sobre el total de votos válidos emitidos"). 51% del censo es muchísimo más exigente que 51% de votos válidos emitidos. Además, el Art 46 (anulación judicial) usa "censo nacional" explícitamente en sus umbrales, con lo que ambos mecanismos de anulación popular son sobre censo, pero el Art 6 no usa la palabra "censo" ni referencia al Art 3 para la definición. Hay inconsistencia terminológica.
-
-Propuesta: decidir si los umbrales de anulación legislativa van sobre censo o sobre votos emitidos, y usar la terminología consistente. Si es sobre censo, escribir "del censo" como hace el Art 46. Si es sobre votos emitidos, quitar "de los ciudadanos con derecho a voto" y dejar que aplique el default del Art 2.
-
-**Art 6, hallazgo 4 (Loophole):** El artículo no establece ningún mecanismo de verificación de cuál fue el nivel de consenso original de la decisión que se quiere anular. Un atacante legislativo podría aprobar leyes formalmente con N4 (75%) cuando solo necesitaba N1, para que sean prácticamente inanulables por vía popular. No hay ningún artículo que prohíba aprobar con un nivel superior al requerido, y aquí eso se convierte en arma defensiva contra la anulación.
-
-Propuesta: definir que el nivel de consenso para la anulación corresponde al nivel mínimo requerido por la Constitución o la ley para esa categoría de decisión, no al nivel con el que efectivamente se votó. Es decir, si una ley ordinaria requiere N1 pero se aprobó con el 90% de los votos, la anulación sigue siendo N1.
-
-Aqui van los hallazgos del Artículo 7:
-
-**Art 7 (Loophole 1 - Grave):** El articulo no define que es "territorio". Un atacante con recursos ilimitados podria: (a) declarar que un barrio es un "territorio" e iniciar un proceso de independencia frívolo, o (b) a la inversa, un Estado podria argumentar que un territorio que busca independencia "no es un territorio" en sentido constitucional porque no tiene la entidad administrativa requerida. No hay criterio minimo (poblacion, extension, reconocimiento administrativo previo) ni remision a ley ordinaria para definirlo.
-- Propuesta: Añadir que la ley regulara los criterios para determinar que constituye un territorio a efectos de este articulo, con un minimo constitucional (por ejemplo, que coincida con al menos un distrito electoral, o que tenga un minimo poblacional).
-
-**Art 7 (Loophole 3):** No hay limite al numero de procesos de independencia simultaneos ni cooldown tras un rechazo. Un atacante podria lanzar procesos de independencia en docenas de territorios simultaneamente para desestabilizar el Estado, o reiniciar inmediatamente tras un rechazo.
-- Propuesta: Establecer un cooldown tras rechazo (por ejemplo, 21 anos, coherente con el ciclo generacional del resto de la constitucion) y considerar si debe haber un limite de procesos simultaneos.
-
-## Revisión del Artículo 8: Igualdad ante la Ley
-
-**Art 8 [Loophole - procesamiento como arma]**: El artículo elimina inmunidad y garantiza procesamiento sin autorización previa, lo cual es correcto. Pero con un atacante con recursos ilimitados, esto abre un vector de ataque inverso: usar el sistema penal como arma para neutralizar cargos públicos incómodos. Presentar denuncias penales masivas y frívolas contra representantes legislativos, jueces o el presidente para paralizarlos con procesos judiciales. El artículo no tiene ningún mecanismo anti-abuso procesal. No digo que el artículo deba incluirlo necesariamente (puede ser materia de ley ordinaria), pero vale la pena discutirlo: un atacante puede usar la igualdad ante la ley precisamente como vector de ataque. La Parte 2 tampoco aborda este riesgo.
-
-**Art 8 [Loophole - suspensión durante proceso]**: El artículo no dice nada sobre qué pasa con el cargo mientras el proceso penal está en curso. Si un presidente o legislador es procesado y el juicio dura 2 años, ¿sigue ejerciendo? Si sigue, puede usar el cargo para obstaculizar el proceso. Si no sigue, un atacante puede usar denuncias para forzar suspensiones. Esto es un vacío. El Art 25 (ministros) sí resuelve esto parcialmente: "condenado por delito cuya pena incluya la pérdida del cargo" implica que el ministro sigue hasta condena firme. Pero para el Presidente y legisladores no hay claridad equivalente.
-
-1. **Loophole de weaponización procesal**: sin inmunidad, un atacante puede usar denuncias masivas frívolas para paralizar cargos públicos. No hay mecanismo anti-abuso.
-2. **Vacío sobre estatus del cargo durante proceso penal**: no se dice si el procesado sigue ejerciendo o se suspende mientras dura el juicio.
-
-Los dos están relacionados. La pregunta de fondo es: qué te parece, vale la pena abordarlos en el artículo o se delegan a ley ordinaria?
 
 Aqui van los hallazgos del Articulo 10:
 

@@ -259,3 +259,36 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 **Hallazgo:** "mediante consenso de Nivel N5" no especificaba si era legislativo, referéndum, o ambos.
 
 **Resolución:** Añadido "del Poder Legislativo" explícitamente.
+
+---
+
+## Art 5 (Ambigüedad auditabilidad)
+
+**Hallazgo:** "como mínimo, por ciudadanos con derecho a voto" era ambiguo — podía leerse como "al menos un ciudadano" en vez de "cualquier ciudadano".
+
+**Resolución:** Cambiado a "auditable por cualquier ciudadano con derecho a voto". Alineado con la formulación del Art 17.
+
+---
+
+## Art 6 hallazgo 1 (Censo vs votos emitidos)
+
+**Hallazgo:** "apoyo del 51% de los ciudadanos con derecho a voto" no usaba la palabra "censo", inconsistente con Art 46 y la regla del Art 2.
+
+**Resolución:** Cambiado a "del censo nacional" (x2, incluyendo la excepción de estados de excepción). Alineado con la terminología del Art 46 y la regla del Art 2/3.
+
+---
+
+## Art 6 hallazgo 4 (Aprobar con nivel alto para hacer inanulable)
+
+**Hallazgo:** Un atacante legislativo podría aprobar leyes con N4 cuando solo necesitaba N1, haciendo la anulación popular prácticamente imposible (requeriría 75% del censo).
+
+**Resolución:** Cambiado "nivel de consenso de dicha decisión" → "nivel de consenso mínimo requerido para dicha decisión". La anulación siempre corresponde al nivel mínimo constitucional, no al nivel con el que se votó efectivamente.
+
+---
+
+## Non-issues descartados (lote continuación revisión 1-a-1)
+
+- **Art 7, loophole 1 "territorio" sin definir** — Non-issue por diseño. El proceso dura 21-42 años, la ley puede exigir requisitos (ejército, autosuficiencia, viabilidad económica) que un barrio no cumple. La delegación a ley ordinaria ya está en el artículo.
+- **Art 7, loophole 3 cooldown y procesos simultáneos** — Non-issue. El proceso de 21 años mínimo ya es el cooldown. Lanzar docenas de procesos simultáneos requiere territorios reales que cumplan requisitos legales durante décadas.
+- **Art 8, weaponización procesal** — Non-issue. Materia de ley procesal (filtros, costas, denuncia falsa). Art 8 ya prevé tramitación preferente. Aclaración añadida en parte 2.
+- **Art 8, suspensión durante proceso** — Non-issue. Presunción de inocencia: ejerce hasta condena firme. Art 29 lo confirma para ministros. Ley ordinaria desarrolla. Aclaración añadida en parte 2.

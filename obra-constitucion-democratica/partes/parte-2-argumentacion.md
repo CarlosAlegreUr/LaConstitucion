@@ -232,6 +232,8 @@ Una duda abierta es el nivel de protección de este artículo. Actualmente no es
 
 Inmunidad parlamentaria es un concepto oligárquico. Dice: "nosotros estamos por encima de la ley". Esta Constitución lo rechaza. Si votaste a alguien, esa persona es responsable ante ti y ante la ley como cualquier otro ciudadano. El procesamiento penal de cargos públicos no requiere autorización previa de ningún órgano. Más aún: puede tramitarse con carácter preferente, porque un cargo público corrupto causa más daño que un ciudadano común corrupto.
 
+La eliminación de inmunidad abre un vector de ataque inverso: denuncias frívolas masivas como herramienta para paralizar cargos públicos incómodos. Esta Constitución asume presunción de inocencia: un cargo público procesado sigue ejerciendo hasta condena firme, y la regulación de mecanismos anti-abuso procesal (filtros de admisibilidad, costas por litigación temeraria, sanciones por denuncia falsa) es materia de ley ordinaria. La tramitación preferente mitiga parcialmente la parálisis al resolver más rápido los procesos contra cargos públicos.
+
 ## Artículo 9: Lengua Oficial
 
 Un Estado necesita una lengua común para funcionar. Sin ella, las leyes se redactan en lenguas que parte de la ciudadanía no entiende, los procedimientos judiciales se vuelven inaccesibles y la administración pública se fragmenta. La lengua oficial no es una imposición cultural: es infraestructura operativa del Estado, al mismo nivel que el sistema electoral o la separación de poderes.

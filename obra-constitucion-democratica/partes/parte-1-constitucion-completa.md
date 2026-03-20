@@ -88,7 +88,7 @@ La edad de voto es de 18 años por defecto. Este valor puede ajustarse entre 18 
 
 ### Artículo 5: Secreto y Verificabilidad del Voto
 
-El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 23. Ninguna persona, salvo el propio ciudadano que lo emitió, puede conocer el sentido del voto. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable, como mínimo, por ciudadanos con derecho a voto.
+El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 23. Ninguna persona, salvo el propio ciudadano que lo emitió, puede conocer el sentido del voto. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable por cualquier ciudadano con derecho a voto.
 
 Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III.
 
@@ -100,7 +100,7 @@ Si un proceso de votación incumplió las garantías establecidas en este artíc
 
 Esta Constitución garantiza permanentemente el derecho a crear mecanismos de anulación popular directa de decisiones legislativas. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá prohibir la creación ni el funcionamiento de tales mecanismos.
 
-Si se implementa un mecanismo de anulación popular, el nivel de apoyo ciudadano requerido para anular una decisión corresponderá al nivel de consenso de dicha decisión: las decisiones de Nivel N1 podrán ser anuladas con apoyo del 51% de los ciudadanos con derecho a voto, las de Nivel N2 con el 60%, y así sucesivamente conforme a los niveles de consenso N1 a N6 establecidos en el artículo 2. Como excepción, la legislación que desarrolle los supuestos concretos de los estados de excepción conforme al artículo 56 podrá ser anulada mediante apoyo del 51% de los ciudadanos con derecho a voto, independientemente del nivel de consenso legislativo con el que fue aprobada. Todo proceso de anulación popular deberá cumplir las garantías de secreto, verificabilidad y auditoría pública establecidas en los artículos 5 y 17.
+Si se implementa un mecanismo de anulación popular, el nivel de apoyo ciudadano requerido para anular una decisión corresponderá al nivel de consenso mínimo requerido para dicha decisión: las decisiones de Nivel N1 podrán ser anuladas con apoyo del 51% del censo nacional, las de Nivel N2 con el 60%, y así sucesivamente conforme a los niveles de consenso N1 a N6 establecidos en el artículo 2. Como excepción, la legislación que desarrolle los supuestos concretos de los estados de excepción conforme al artículo 56 podrá ser anulada mediante apoyo del 51% del censo nacional, independientemente del nivel de consenso legislativo con el que fue aprobada. Todo proceso de anulación popular deberá cumplir las garantías de secreto, verificabilidad y auditoría pública establecidas en los artículos 5 y 17.
 
 ---
 
