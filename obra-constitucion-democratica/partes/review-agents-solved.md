@@ -292,3 +292,20 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 - **Art 7, loophole 3 cooldown y procesos simultáneos** — Non-issue. El proceso de 21 años mínimo ya es el cooldown. Lanzar docenas de procesos simultáneos requiere territorios reales que cumplan requisitos legales durante décadas.
 - **Art 8, weaponización procesal** — Non-issue. Materia de ley procesal (filtros, costas, denuncia falsa). Art 8 ya prevé tramitación preferente. Aclaración añadida en parte 2.
 - **Art 8, suspensión durante proceso** — Non-issue. Presunción de inocencia: ejerce hasta condena firme. Art 29 lo confirma para ministros. Ley ordinaria desarrolla. Aclaración añadida en parte 2.
+- **Art 10, hallazgo 2 mecanismo distrital** — Non-issue. El Art 10 ya dice "según procedimientos establecidos por ley ordinaria". El *qué* (el distrito puede hacer override) es explícito; el *cómo* está delegado.
+
+---
+
+## Art 10 hallazgo 3 (Suplentes agotados)
+
+**Hallazgo:** No se definía qué pasa cuando un distrito queda sin representante ni suplentes. Escaños vacantes cuentan como votos en contra (Art 23), creando incentivo perverso.
+
+**Resolución:** Añadida frase al Art 10: "Cuando un distrito queda sin representante ni suplentes disponibles, se convoca nueva elección conforme al artículo 13."
+
+---
+
+## Art 10 DRY (Enumeración ejemplificativa)
+
+**Hallazgo:** El último párrafo enumeraba ejemplos de prevalencia distrital ("como la configuración de suplentes... o la revocación...") que ya constaban en sus propios artículos. Frágil ante cambios futuros.
+
+**Resolución:** Eliminada la enumeración. Queda: "únicamente en los casos establecidos explícitamente en esta Constitución." Los Arts 10, 11 y 12 ya son explícitos sobre la prevalencia distrital en cada caso.

@@ -144,11 +144,11 @@ La designación de una lengua oficial no prohíbe el uso de otras lenguas en el 
 
 Los representantes del Poder Legislativo son elegidos por distritos territoriales mediante elección uninominal. Cada distrito elige un representante.
 
-Los distritos pueden contar con un sistema de suplentes para garantizar continuidad de representación, con un mínimo de 0 y un máximo de 2 suplentes por distrito.
+Los distritos pueden contar con un sistema de suplentes para garantizar continuidad de representación, con un mínimo de 0 y un máximo de 2 suplentes por distrito. Cuando un distrito queda sin representante ni suplentes disponibles, se convoca nueva elección conforme al artículo 13.
 
 El número de suplentes por distrito puede modificarse mediante consenso de Nivel N4, ya sea a nivel nacional (decisión del Legislativo aplicable a todos los distritos) o a nivel distrital (decisión del distrito aplicable solo a ese distrito), según procedimientos establecidos por ley ordinaria.
 
-El poder popular a nivel distrital prevalece sobre el Legislativo nacional únicamente en los casos mencionados explícitamente en esta Constitución, como la configuración de suplentes establecida en este artículo o la revocación del representante del distrito conforme a los artículos 11 y 12. Fuera de estos casos específicos, el poder popular distrital no puede anular decisiones del Legislativo nacional.
+El poder popular a nivel distrital prevalece sobre el Legislativo nacional únicamente en los casos establecidos explícitamente en esta Constitución. Fuera de estos casos, el poder popular distrital no puede anular decisiones del Legislativo nacional.
 
 ---
 

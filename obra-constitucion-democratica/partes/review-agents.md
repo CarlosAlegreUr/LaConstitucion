@@ -11,18 +11,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 6-10
 
-Aqui van los hallazgos del Articulo 10:
-
-**Art 10 - Hallazgo 2 (Loophole)**: El articulo dice que el numero de suplentes puede modificarse "a nivel nacional (decision del Legislativo)" o "a nivel distrital (decision del distrito)". Sin embargo, no especifica que mecanismo usa el distrito para tomar esa decision. No dice si es por referendum distrital, por votacion del censo del distrito, ni que quorum o participacion minima se requiere. Un atacante podria capturar un distrito con baja participacion y modificar el sistema de suplentes a su conveniencia (por ejemplo, poner 0 suplentes para crear un vacio de poder tras una revocacion exitosa, o poner 2 suplentes que sean afines).
-
-Propuesta: Especificar que la decision distrital se toma mediante referendum del censo del distrito, con la participacion minima del 25% que ya se usa en otros mecanismos distritales (Arts 12 y 13), y con el mismo nivel de consenso N4.
-
-**Art 10 - Hallazgo 3 (Loophole)**: El articulo establece suplentes entre 0 y 2, pero no define que pasa cuando un representante es revocado (Art 11-12) y hay 0 suplentes. Tampoco dice que pasa cuando hay suplentes pero se agotan. El Art 12 dice "se convoca nueva eleccion en un plazo maximo de 7 dias" tras la revocacion, pero eso se refiere al representante principal. Si hay un suplente y este tambien es revocado, o si el suplente dimite, no queda claro si se convoca nueva eleccion o el escaño queda vacante. El Art 23 dice que "los escaños vacantes se contabilizan como votos en contra", lo que crea un incentivo perverso: revocar representantes de distritos rivales para convertir sus escaños en votos en contra permanentes.
-
-Propuesta: Aclarar que cuando se agota la cadena de suplentes (o hay 0), se convoca nueva eleccion conforme al Art 13. Esto ya se infiere del Art 12, pero hacerlo explicito en el Art 10 cierra el loophole y deja claro que un escaño vacante por agotamiento de suplentes siempre desencadena nueva eleccion.
-
-Propuesta: Simplificar a: "El poder popular a nivel distrital prevalece sobre el Legislativo nacional unicamente en los casos establecidos explicitamente en esta Constitucion. Fuera de estos casos, el poder popular distrital no puede anular decisiones del Legislativo nacional." Eliminar la enumeracion ejemplificativa, que viola DRY (repite lo que ya dicen los Arts 11-12 y el propio Art 10) y es fragil ante cambios futuros.
-
 ---
 
 ## Arts 11-15
