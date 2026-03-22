@@ -283,6 +283,12 @@ La participación mínima del 25% del censo distrital es idéntica a la de las e
 
 La elección de un mecanismo directo y no burocrático es deliberada. ¿Cuántos ciudadanos en un distrito estarán realmente dispuestos a navegar procedimientos legales complejos, plazos administrativos y requisitos formales para determinar si pueden revocar a su representante? En la práctica, la burocracia actúa como un filtro que reduce la participación a quienes tienen tiempo, recursos y conocimientos para manejarla. El resultado previsible es la formación de oligarquías de distrito: pequeños grupos que dominan los mecanismos por ser los únicos que los entienden. Estas oligarquías locales pueden formarse de todas formas —la Ley de Hierro de Michels opera en todos los niveles—, pero la burocracia las haría significativamente más fuertes al añadir una barrera de entrada que solo ellas podrían superar con facilidad.
 
+### Antigüedad censal y migración masiva
+
+El requisito de 2 años censado en el distrito para votar en revocación es una protección contra migración masiva coordinada: un atacante que quiera revocar a un representante incómodo tendría que mudar miles de personas al distrito y esperar 2 años antes de que puedan votar. Durante esos 2 años, esas personas siguen votando en su distrito anterior — no se crean votos nuevos, solo se desplazan con un retardo de 2 años.
+
+Las elecciones ordinarias (artículo 13) no tienen este requisito porque la migración masiva es menos útil como vector de ataque: hay candidatos locales que conocen el distrito, el AOCD redistribuye por población cada 21 años (un distrito que crece artificialmente se redimensiona), y mover miles de personas durante años es un coste enorme incluso para un atacante con recursos. La asimetría entre elegir (sin antigüedad) y revocar (con antigüedad) es deliberada: la revocación es un acto más agresivo y concentrado que requiere protección adicional contra manipulación externa.
+
 ## Artículo 13: Doble Vuelta Electoral
 
 La doble vuelta previene la captura por minorías. En un sistema de vuelta única con múltiples candidatos, un candidato con el 20% puede ganar. La doble vuelta garantiza que el elegido tenga al menos el apoyo de la mayoría en la ronda final. Es el mecanismo más simple y efectivo para evitar bloqueos constantes y garantizar un mínimo nivel de acuerdo social. No es perfecto, pero con los límites tecnológicos y de cognición humana actuales, es lo mejor que tenemos.

@@ -36,7 +36,7 @@ La soberanía reside en el pueblo. El pueblo ejerce su soberanía mediante los m
 
 Se establece la siguiente jerarquía de legitimidad democrática, de mayor a menor:
 
-1. Poder Popular, que se ejerce mediante la elección directa de representantes (artículos 10 y 13), la revocación de cargos electos (artículos 11 y 12), la anulación popular de decisiones legislativas (artículo 6) y judiciales (artículo 46), y la iniciativa y referéndum de reforma constitucional (artículos del 67 al 69 incluidos).
+1. Poder Popular, que se ejerce mediante la elección directa de representantes (artículos 10 y 13), la revocación de representantes legislativos (artículos 11 y 12), la anulación popular de decisiones legislativas (artículo 6) y judiciales (artículo 46), y la iniciativa y referéndum de reforma constitucional (artículos del 67 al 69 incluidos).
 2. Poderes delegados: Legislativo (Subtítulo 1 del Título IV), Ejecutivo (Subtítulo 2 del Título IV) y Judicial (Subtítulo 3 del Título IV), iguales entre sí y sujetos a control recíproco conforme a los mecanismos establecidos en esta Constitución (Subtítulos 4-9 del Título IV).
 
 El Poder Popular puede oponerse a las decisiones de cualquier poder delegado únicamente conforme a los procedimientos establecidos en esta Constitución. Ningún poder delegado prevalece sobre otro; sus conflictos se resuelven mediante los mecanismos de control mutuo que esta Constitución establece.
@@ -169,7 +169,7 @@ Convocatoria:
 Requiere recogida de firmas del 10% del censo del distrito en un plazo máximo de 31 días.
 
 Votación:
-Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es necesario para que la votación sea válida. El proceso completo de revocación, desde convocatoria hasta resultado, no puede superar 2 semanas de duración.
+Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es necesario para que la votación sea válida. El proceso completo de revocación, desde la convocatoria formal de la votación hasta el resultado, no puede superar las 2 semanas de duración.
 
 Efecto:
 Si el resultado alcanza el nivel de consenso N4 a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.

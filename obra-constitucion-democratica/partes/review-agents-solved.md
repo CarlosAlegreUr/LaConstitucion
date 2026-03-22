@@ -292,6 +292,28 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 - **Art 7, loophole 3 cooldown y procesos simultáneos** — Non-issue. El proceso de 21 años mínimo ya es el cooldown. Lanzar docenas de procesos simultáneos requiere territorios reales que cumplan requisitos legales durante décadas.
 - **Art 8, weaponización procesal** — Non-issue. Materia de ley procesal (filtros, costas, denuncia falsa). Art 8 ya prevé tramitación preferente. Aclaración añadida en parte 2.
 - **Art 8, suspensión durante proceso** — Non-issue. Presunción de inocencia: ejerce hasta condena firme. Art 29 lo confirma para ministros. Ley ordinaria desarrolla. Aclaración añadida en parte 2.
+- **Art 11, frase final redundante** — Non-issue. La cláusula pétrea protege contra reforma constitucional; la frase del Art 11 contra ley ordinaria. Capas distintas.
+- **Art 11, título ambiguo** — Non-issue. La primera frase dice "del Poder Legislativo".
+- **Art 12, asimetría 2 años censado** — Design choice documentado en parte 2. La revocación es más vulnerable a migración masiva coordinada que la elección. Los 2 años son mitigación activa.
+- **Art 12, migración censal en elecciones** — Mitigado por los 2 años en revocación, candidatos locales, AOCD y coste de mover miles de personas. Documentado en parte 2.
+- **Art 12, cooldown tras revocación fallida** — Non-issue. Un cooldown sería explotable: el representante en el poder podría iniciar una recogida, fallar aposta y activar el cooldown como escudo. El filtro natural es que recoger firmas del 10% repetidamente sin causa real genera rechazo social.
+- **Art 12, conflicto entre plazos** — Non-issue. Las 2 semanas (proceso de revocación) y los 7 días (nueva elección) son eventos consecutivos, no solapados.
+
+---
+
+## Art 1/11 ("cargos electos" → "representantes legislativos")
+
+**Hallazgo:** Art 1 decía "la revocación de cargos electos" pero Art 11 solo cubre legisladores. El Presidente es cargo electo y no es revocable por el pueblo.
+
+**Resolución:** Cambiado en Art 1 a "la revocación de representantes legislativos".
+
+---
+
+## Art 12 (Ambigüedad "convocatoria")
+
+**Hallazgo:** "Desde convocatoria hasta resultado" era ambiguo — ¿desde inicio de recogida de firmas o desde que se alcanzan?
+
+**Resolución:** Cambiado a "desde la convocatoria formal de la votación hasta el resultado". Corregidos artículos gramaticales faltantes.
 - **Art 10, hallazgo 2 mecanismo distrital** — Non-issue. El Art 10 ya dice "según procedimientos establecidos por ley ordinaria". El *qué* (el distrito puede hacer override) es explícito; el *cómo* está delegado.
 
 ---

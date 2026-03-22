@@ -15,25 +15,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 11-15
 
-**Art 11, Loophole / Alcance (3)**: El artículo dice "Los representantes del Poder Legislativo serán siempre revocables directamente por el pueblo del distrito que los eligió." El Art 1 dice "la revocación de cargos electos (artículos 11-12)". Hay una discrepancia sutil: el Art 1 habla de "cargos electos" en general, pero el Art 11 limita la revocación explícitamente a legisladores. El Presidente es un cargo electo (Art 24) y no es revocable por el pueblo directamente -- solo puede ser cesado por autodestrucción mutua (Art 39) o incapacidad (Art 27). No es necesariamente un problema de diseño (puede ser deliberado), pero la referencia del Art 1 a "cargos electos" sin matizar genera una expectativa que el Art 11 contradice. --> Propuesta: cambiar en el Art 1 "la revocación de cargos electos" por "la revocación de representantes legislativos" para que sea coherente con el Art 11. Alternativamente, si la intención es que el Presidente también sea revocable en el futuro, habría que añadir un mecanismo.
-
-1. **Frase final redundante con cláusula pétrea (Art 66.1)** -- viola DRY. Propuesta: eliminarla.
-2. **Art 1 dice "cargos electos" pero Art 11 solo cubre legisladores** -- inconsistencia de alcance. Propuesta: corregir el Art 1 para que diga "representantes legislativos" en vez de "cargos electos".
-3. **Título ambiguo** -- "Representantes" a secas podría incluir al Presidente. Propuesta: "Representantes Legislativos".
-
-Los puntos 5 y 6 son más del Art 12 que del 11, los dejo señalados para cuando toque revisar ese artículo.
-
-## Revisión del Artículo 12: Procedimiento de Revocación
-
-**Art 12 - Redacción (ambigüedad temporal):** "El proceso completo de revocación, desde convocatoria hasta resultado, no puede superar 2 semanas de duración." El término "convocatoria" es ambiguo: puede referirse al inicio de la recogida de firmas o al momento en que se logran las firmas y se convoca la votación. Si es lo segundo, las 2 semanas no incluyen los 31 días de recogida de firmas (que tiene sentido). Si es lo primero, 2 semanas es incompatible con los 31 días de plazo de firmas. Propuesta: aclarar que las 2 semanas cuentan desde que se alcanza el umbral de firmas y se convoca formalmente la votación, no desde el inicio de la recogida.
-
-**Art 12 - Consistencia (requisito de 2 años censado):** El Art 12 exige "al menos 2 años censado en el distrito" para votar en revocación, pero el Art 13 (elecciones ordinarias) no establece ningún requisito de antigüedad censal para votar. Esto crea una asimetría: cualquiera puede elegir al representante, pero no cualquiera puede revocarlo. Puede ser intencional (evitar migración masiva para revocar), pero no se justifica en la Parte 2 ni se menciona la diferencia. Propuesta: si es intencional, merece al menos una mención en la argumentación. Si no lo es, o unificar o justificar la diferencia.
-
-**Art 12 - Loophole (ataque por migración censal en elecciones):** El requisito de 2 años censado protege la revocación contra migración masiva, pero no protege las elecciones ordinarias (Art 13). Un atacante podría registrar masivamente ciudadanos en un distrito para ganar la elección y luego instalar un representante capturado, sin que el distrito original pueda revocarlo fácilmente (el representante está protegido por el 75%). La protección anti-migración está en el lugar equivocado, o falta en el Art 13. Propuesta: considerar si el requisito de antigüedad censal debería aplicarse también a las elecciones ordinarias del Art 13, o al menos discutirlo.
-
-**Art 12 - Loophole (periodo de reflexión solo para el sucesor):** "No puede convocarse nueva revocación contra el sucesor antes de haber transcurrido 4 meses desde su elección." Esto protege al sucesor, pero no protege contra revocaciones en serie del mismo representante. Un atacante con recursos podría hostigar al representante titular iniciando procesos de revocación repetidos (recogiendo firmas una y otra vez) como forma de desgaste, sin que haya cooldown entre intentos fallidos. Propuesta: añadir un cooldown tras revocación fallida (por ejemplo, X meses antes de poder iniciar un nuevo proceso contra el mismo representante).
-
-**Art 12 - Loophole (conflicto entre plazos):** Si las 2 semanas incluyen todo el proceso post-firmas, y la nueva elección debe convocarse en 7 días tras la revocación... la votación de revocación tendría como máximo 7 días (2 semanas menos 7 días = 7 días). Esto es muy ajustado si se necesita organizar una votación con garantías del Art 5 y Art 17. Propuesta: verificar que los plazos son realistas tomados en conjunto, o aclarar que los 7 días de nueva elección empiezan después de las 2 semanas del proceso de revocación.
 
 ## Revisión Art 13: Sistema de Doble Vuelta Electoral en Distritos
 
