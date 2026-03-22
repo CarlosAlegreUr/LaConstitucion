@@ -354,6 +354,46 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 **Hallazgo 3 - Rechazo sin fallback.**
 
 **Resolución:** Añadido mecanismo de dos intentos: si el Legislativo rechaza, la comisión puede ejecutar una nueva propuesta con datos corregidos o actualizados. Si la segunda propuesta también es rechazada, se mantiene la distribución vigente hasta la siguiente actualización programada.
+
+---
+
+## Art 16 (Financiación electoral — todos non-issues)
+
+- **Hallazgo 2 - Financiación ilegal por candidato:** Non-issue. El anti-DoS ya existe: segunda convocatoria procede independientemente. El DoS máximo es 7 días y el atacante pierde todo el dinero (expropiado). La concentración por candidato es dinero tirado si la elección se anula.
+- **Hallazgo 3 - Donación secreta inauditable:** Non-issue / delegado a diseño de sistema. La Constitución establece la garantía ("1 donación, verificable, secreto en destino"), la implementación técnica queda delegada. Con criptografía ZK se puede verificar sin revelar destinatario — mencionable en parte 2 pero no prescribible constitucionalmente.
+- **Hallazgo 4 - Falta Arranque:** Design choice. N6 para financiación electoral incluso durante Arranque es más defensivo. Intencional.
+- **Hallazgo 6 - Sanción solo si se identifica:** Non-issue. La anulación de la elección ya es el castigo principal. La sanción económica es disuasorio adicional, no la defensa principal.
+- **Art 17 - Obligación de habilitar voto remoto:** Non-issue. "Puede" es deliberado — derecho, no obligación inmediata. Art 5 ya delega detalles tecnológicos al Arranque. Implementación por ley ordinaria.
+- **Art 18, hallazgo 1 - Quién declara excepción Natural durante Transición:** Non-issue / design choice. Sin instituciones democráticas, solo operan activaciones automáticas. Darle función declarativa al régimen anterior sería darle más poder.
+- **Art 18, hallazgo 2 - Estado de excepción como bloqueo de Transición:** Riesgo aceptado. Sin instituciones democráticas no hay controles institucionales. Art 55 sanciona declaración falsa con 10 años. La garantía real es la vigilancia ciudadana.
+- **Art 19 - Extensión indefinida del Arranque:** Non-issue. Durante el Arranque ya hay Legislativo y Presidente en funciones. La ciudadanía recién movilizada por la Constitución nueva es el momento de mayor vigilancia social. Un abuso de estados de excepción sucesivos generaría reacción social inmediata.
+
+---
+
+## Non-issues descartados (limpieza final pre-Art 20)
+
+- **Art 25, redacción decisiones militares** — Menor, la argumentación en parte 2 lo justifica.
+- **Art 26, ambigüedad gramatical "mediante N2"** — Lectura forzada. "A o B mediante X" aplica X a B.
+- **Art 30, hallazgo 2 consistencia N1 presupuesto** — Art 23 define N1 como default. No necesita explicitación.
+- **Art 30, hallazgo 3 primer año fiscal** — Cubierto por Transición/Arranque.
+- **Art 39, estado excepción como escudo** — Legislativo revoca con N1 y activa autodestrucción en misma sesión. Secuencia fluida.
+- **Art 40, Art 41 durante cooldown** — Riesgo bajo. Tribunal Supremo filtra abusos.
+- **Art 42, actos administrativos sin procedimiento** — Se impugnan por vía judicial ordinaria. Art 43 es específico para leyes.
+- **Art 46, hallazgo 4b verificación firmas** — Materia de ley ordinaria.
+- **Art 46, hallazgo 4c paréntesis confuso** — Redacción menor, no loophole.
+- **Art 47, solapamiento Art 31** — Complementarios, no redundantes.
+- **Art 50, hallazgos 3-4 menores** — El propio agente los califica de menores.
+- **Art 52, prescripción acusación** — No-prescripción de operaciones militares secretas es estándar en derecho internacional.
+- **Art 61, DRY Art 39** — Redundancia intencional por legibilidad (agrupa los 6 límites).
+- **Art 62, ambigüedad "derechos aplicables"** — Intención clara: recurrir por violación de derechos vigentes o restricción excesiva.
+
+---
+
+## Art 69 (Corrección mecánica)
+
+**Hallazgo:** "Un tercio (33%)" inconsistente con el principio de usar porcentajes redondos (Art 2). Un tercio es 33,33%, no 33%.
+
+**Resolución:** Cambiado a "El 33% de los miembros del Poder Legislativo". Consistente con la eliminación de etiquetas descriptivas del Art 2.
 - **Art 10, hallazgo 2 mecanismo distrital** — Non-issue. El Art 10 ya dice "según procedimientos establecidos por ley ordinaria". El *qué* (el distrito puede hacer override) es explícito; el *cómo* está delegado.
 
 ---

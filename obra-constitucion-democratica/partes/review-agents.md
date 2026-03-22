@@ -21,40 +21,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 16-20
 
-## Revisión Art 16: Financiación Electoral
-
-**Art 16 - Hallazgo 2 (Loophole - Financiación ilegal por candidato)**: El mecanismo de detección de financiación ilegal se basa en que la cuantía *total* recaudada por *todos los candidatos* supere el máximo global. Pero un atacante con recursos ilimitados podría concentrar la financiación ilegal en un solo candidato sin que el total global se exceda. Ejemplo: si hay 1000 votantes y la donación máxima es 100, el tope global es 100.000. El atacante dona 90.000 ilegalmente a su candidato y los otros 999 ciudadanos donan 100 cada uno a otros candidatos. Total: 189.900, que sí supera el tope. Pero si el atacante es más sutil y dona solo 10.000 al candidato capturado, el total queda en 109.900 y no se dispara la alarma, pese a que ese candidato tiene una ventaja masiva e ilegal. La detección solo funciona cuando la financiación ilegal es tan masiva que supera la capacidad matemática del censo entero.
-- Propuesta: ademas del tope global, establecer un tope individual por candidato (por ejemplo, que ningun candidato pueda recaudar mas del doble del promedio de recaudacion por candidato, o un limite absoluto por candidato). Esto es sustancial, asi que a discutir.
-
-**Art 16 - Hallazgo 3 (Loophole - Donación secreta + 1 donación)**: El origen de las donaciones es secreto y cada ciudadano solo puede hacer 1 donación. Pero si el origen es secreto, no hay forma de verificar que un ciudadano no haya donado mas de una vez (a distintos candidatos, por ejemplo). El secreto del origen hace inauditable la regla de "1 donación por proceso electoral". Un atacante podria usar testaferros o identidades falsas para multiplicar donaciones.
-- Propuesta: esto es una tension real entre privacidad del donante y auditabilidad de la regla. Podria resolverse con un sistema que verifique que cada ciudadano dona una sola vez sin revelar a quien (similar a las garantias del Art 5/17 para el voto: verificable individualmente, secreto en contenido). Pero esto es diseño de sistema, no redaccion constitucional. Como minimo, el texto podria exigir que el sistema de donaciones garantice que cada ciudadano dona como maximo 1 vez por proceso electoral, de forma verificable, sin revelar el destinatario. Similar a como el Art 17 exige garantias del voto sin prescribir tecnologia.
-
-**Art 16 - Hallazgo 4 (Consistencia - Falta clausula de Arranque)**: Los articulos 12 y 14 tienen clausula explicita de configurabilidad durante el Proceso de Arranque (con nivel de consenso reducido). El Art 16 no la tiene. Puede ser intencional (no se quiere que la financiacion electoral sea configurable con consenso reducido durante el Arranque), pero rompe el patron del resto del Titulo II. Si es intencional, es un buen criterio defensivo. Si es un olvido, falta.
-- Propuesta: confirmar si es intencional. Si lo es, OK. Si no, anadir clausula de Arranque como en Arts 12 y 14.
-
-**Art 16 - Hallazgo 6 (Loophole - Sancion solo si se identifica)**: "Si se identifica a los responsables de la financiacion ilegal, cada culpable debera pagar una sancion de 10 veces la cuantia". La sancion depende de la identificacion. Con donaciones de origen secreto, la identificacion es extraordinariamente dificil. Un atacante sofisticado puede inyectar dinero ilegal de forma que se detecte (por el tope global) pero nunca se identifique al responsable. La anulacion de la eleccion ocurre, pero la sancion disuasoria no.
-- Propuesta: esto se mitiga parcialmente porque la anulacion ya es un coste para el atacante (pierde tiempo, la segunda convocatoria procede sin su ventaja). Pero la sancion economica es papel mojado si el origen es secreto. Quiza anadir que los fondos excedentes que no puedan atribuirse a donantes se confiscan sin devolucion (van al erario o se distribuyen entre candidatos), en vez de depender de identificar culpables.
-
-**Resumen de prioridades**:
-- Hallazgos 2 y 3 son los mas graves (loopholes explotables por atacante con recursos ilimitados).
-- Hallazgos 4 y 6 merecen discusion pero son menos urgentes.
-
-## Revisión del Artículo 17: Voto Remoto Verificable
-
-**Art 17 [Loophole - ausencia de regulación de acceso]**: El artículo dice que el voto "puede" ejercerse remotamente pero no establece ninguna condición sobre quién decide si se habilita el voto remoto, en qué elecciones aplica, ni quién es responsable de garantizar que el sistema cumple los requisitos. Art 5 al menos dice que los detalles se definen durante el Proceso de Arranque. Art 17 no dice nada equivalente. Un atacante podría argumentar que al no estar regulada la implementación, el voto remoto queda en el limbo: existe el derecho pero nadie tiene la obligación de habilitarlo. --> Propuesta: añadir que la implementación del voto remoto se regula por legislación ordinaria o durante el Proceso de Arranque, consistente con el Art 5.
-
-1. **Loophole (implementación)**: No se establece quién tiene la obligación de habilitar el voto remoto ni cuándo. Propuesta: añadir que la implementación se regula por legislación ordinaria o durante el Arranque.
-
-## Revisión del Artículo 18: Transición Institucional
-
-**Art 18 - Loophole: quién declara estados de excepción durante la Transición**: El Art 18 dice "si se declara un estado de excepción conforme al artículo 55", pero el Art 55 remite al Art 56, donde la declaración de estados de excepción requiere en algunos casos al Legislativo (consenso N1 para ámbito Natural/Tecnológico, ratificación N2 para Seguridad Interior). Durante la Transición no existe Legislativo ni Presidente. Los de activación automática (Bélico, Seguridad Interior) funcionan, pero el de ámbito Natural/Tecnológico requiere "Consenso N1 del Legislativo" salvo "peligro inminente para la vida". Hay un vacío: si ocurre una catástrofe natural que no implique peligro inminente para la vida (ej: apagón de 48h, vertido tóxico sin víctimas inmediatas), nadie puede declarar ese estado de excepción porque no hay Legislativo. La argumentación (Parte 2) no aborda este caso. --> Dos opciones: (a) especificar que durante la Transición el régimen anterior asume la función declarativa del Legislativo para estados de excepción, o (b) aceptar el vacío y documentarlo en la Parte 2, justificando que sin Legislativo solo operan las activaciones automáticas. Lo segundo es más coherente con el principio de limitar el poder del régimen interino.
-
-**Art 18 - Loophole: estado de excepción como herramienta de bloqueo de la Transición**: El régimen anterior, que "continúa gobernando con carácter interino", es el mismo que "asume el control" durante un estado de excepción en la Transición. Si el estado de excepción es de activación automática (Bélico, Seguridad Interior), el régimen anterior podría fabricar o prolongar la condición que lo activa para mantener indefinidamente el control. La Parte 2 reconoce que "la verdadera garantía es la vigilancia ciudadana", pero no hay mecanismo formal de protección. Esto es coherente con el diseño (no hay instituciones democráticas aún que puedan fiscalizar), pero es el loophole más serio del artículo. --> Considerar si vale la pena añadir un techo temporal al estado de excepción durante la Transición (ej: máximo 6 meses, pasados los cuales la Transición se reanuda automáticamente aunque la condición persista), o si eso crearía más problemas de los que resuelve. En cualquier caso, la Parte 2 debería al menos mencionar este vector de ataque explícitamente.
-
-## Revisión del Artículo 19: Proceso de Arranque - Mandato Especial
-
-**Art 19 - Loophole: estados de excepción sucesivos como herramienta de extensión indefinida del Arranque.** La regla recursiva con mínimo de 2 meses permite algo peligroso: un atacante que controle la declaración de estados de excepción (Art 55) puede declarar uno cuando quede poco tiempo de Arranque, pausarlo, y al reanudarse obtiene mínimo 2 meses frescos. Repitiendo este ciclo, el Arranque se extiende indefinidamente con sus consensos reducidos. La argumentación (Parte 2) reconoce que el mínimo de 2 meses existe para dar tiempo útil post-crisis, pero no aborda la explotación iterativa. Propuesta: establecer un tope acumulado para las extensiones por mínimo (por ejemplo, "el tiempo total del Proceso de Arranque, incluyendo las extensiones por mínimo, no podrá superar los 18 meses de tiempo efectivo" o similar), o limitar el número de veces que se puede aplicar el mínimo de 2 meses.
-
 ## Revisión del Artículo 20: Separación de Poderes
 
 **Art 20 (referencia cruzada incorrecta):** La segunda frase dice "La financiación de cada poder debe ser la descrita en los artículos 30 a 32 y 53 de esta Constitución." Pero esos artículos no cubren la financiación de "cada poder":
@@ -104,10 +70,6 @@ Propuesta: No creo que la definición de "ley" deba estar en la Constitución (s
 
 ## Revisión del Artículo 25
 
-Propuesta: separar en dos puntos, o reformular como "Decisiones militares establecidas en los artículos 50, 51 y 52, incluyendo la propuesta de declaración de guerra".
-
-Dicho esto, es un hallazgo menor. La argumentación en la Parte 2 lo justifica bien.
-
 **Art 25 [Consistencia-1]**: El Art 25 dice "conforme al artículo 29" al hablar de delegación ministerial. Pero el Art 29 trata exclusivamente de *nombramiento y cese* de ministros, no de delegación de funciones. La delegación se define en el propio Art 25. La referencia al Art 29 parece incorrecta o al menos confusa. Lo que el Art 25 quiere decir es que el Presidente delega en los ministros *que nombra conforme al Art 29*, pero la redacción actual sugiere que el Art 29 establece las reglas de delegación, cuando en realidad establece las reglas de nombramiento.
 
 Propuesta: cambiar "conforme al artículo 29" por "en los ministros nombrados conforme al artículo 29" o eliminar la referencia al Art 29 aquí, dado que el Art 29 no regula la delegación sino el nombramiento.
@@ -125,11 +87,7 @@ Propuesta: esto es un vacío entre el Art 25 (toda decisión requiere aprobació
 
 **Art 26**: hallazgos:
 
-**1. Redaccion**
-
-- El parrafo 1 mezcla dos reglas distintas en una sola oracion: quien puede solicitar la declaracion (Vicepresidente o Legislativo con N2) y quien puede recurrir (cualquier ciudadano). La frase "a solicitud del Vicepresidente o del Poder Legislativo mediante consenso N2" es ambigua: gramaticalmente, "mediante consenso N2" podria modificar solo al Legislativo o a ambos. Propuesta: separar en dos oraciones o aclarar explicitamente que el N2 aplica solo al Legislativo: "a solicitud del Vicepresidente o, en el caso del Poder Legislativo, mediante consenso N2."
-
-**2. Loopholes**
+**Loopholes**
 
 - **Loophole principal - ambiguedad de solicitud**: La solicitud puede hacerla el Vicepresidente sin umbral de consenso (es una persona sola). Esto crea un vector de ataque: el Vicepresidente, con una sola decision propia, puede iniciar un proceso de declaracion de incapacidad contra el Presidente para beneficio propio (quedaria como interino y candidato, segun Art 25). No hay contrapeso al Vicepresidente actuando de mala fe. La parte-2 justifica el N2 del Legislativo para evitar que una minoria instrumentalice el mecanismo, pero no aborda el caso del Vicepresidente actuando solo. Propuesta a discutir: exigir tambien un umbral minimo para la solicitud del Vicepresidente (por ejemplo, acompanada de N1 del Legislativo o aval judicial previo), o al menos que la declaracion judicial solo sea posible si el Vicepresidente no tiene conflicto de interes.
 
@@ -137,13 +95,11 @@ Propuesta: esto es un vacío entre el Art 25 (toda decisión requiere aprobació
 
 - **Loophole - "deterioro cognitivo severo"**: Es una causa subjetiva. Un Judicial hostil al Presidente puede declarar deterioro cognitivo severo con un peritaje comprometido. La disuasion del Art 43 existe (si la declaracion es revocada el juez sufre sancion), pero el proceso puede usarse igualmente como herramienta de acoso: aunque finalmente se revoque, el Presidente queda desplazado mientras dura la apelacion. No esta claro si durante la apelacion el Presidente sigue ejerciendo el cargo o si la declaracion de incapacidad tiene efecto inmediato. Propuesta: anadir que la declaracion de incapacidad no tiene efecto hasta que sea firme (es decir, hasta que se agote el plazo de apelacion o la apelacion sea resuelta).
 
-1. **Ambiguedad gramatical** en parrafo 1: "mediante consenso N2" podria leerse como aplicable al Vicepresidente tambien. -> Separar o aclarar.
+1. **Loophole - Vicepresidente sin umbral**: puede iniciar el proceso unilateralmente con conflicto de interes directo. -> Discutir si anadir algun contrapeso.
 
-2. **Loophole - Vicepresidente sin umbral**: puede iniciar el proceso unilateralmente con conflicto de interes directo. -> Discutir si anadir algun contrapeso.
+2. **Loophole - recuperacion antes de elecciones**: la constitucion no cubre este caso. -> Anadir regla explicita.
 
-3. **Loophole - recuperacion antes de elecciones**: la constitucion no cubre este caso. -> Anadir regla explicita.
-
-4. **Efecto suspensivo no definido**: no se sabe si la declaracion de incapacidad es ejecutiva de inmediato o suspendida durante apelacion. -> Definir explicitamente para evitar vacio.
+3. **Efecto suspensivo no definido**: no se sabe si la declaracion de incapacidad es ejecutiva de inmediato o suspendida durante apelacion. -> Definir explicitamente para evitar vacio.
 
 **Art 27 - Referencia cruzada al Art 44 incorrecta**: El artículo dice que si la declaracion de incapacidad es revocada en apelacion, el juez queda sujeto a "las sanciones establecidas en el artículo 44 para la responsabilidad penal de jueces". Pero el Art 44 regula solo dos supuestos de responsabilidad judicial: (1) declarar una ley inconstitucional erroneamente y (2) emitir decisiones anuladas por anulacion popular. Ninguno de los dos cubre el caso de una declaracion de incapacidad presidencial revocada. La referencia apunta a un articulo que no contiene la sancion prometida.
 Propuesta: o bien anadir un tercer supuesto al Art 44 que cubra la declaracion de incapacidad revocada, o bien establecer la sancion directamente en el Art 27 sin referenciar al 44.
@@ -174,14 +130,6 @@ Propuesta: extraer la regla de inhabilitación permanente a un artículo de prin
 Propuesta: añadir "condena penal firme" en lugar de "condenado por delito", coherente con la terminología del Art 4.
 
 ## Revisión del Artículo 30: Presupuesto Anterior por Defecto
-
-**Art 30 - Hallazgo 2 (Consistencia):** El artículo 32 (presupuesto judicial) tiene una mecánica similar pero más detallada: el Judicial propone, el Legislativo aprueba o rechaza por N3, y si rechaza se mantiene el anterior ajustado a inflación. El Art 30 no especifica qué nivel de consenso se necesita para aprobar el presupuesto general. Por defecto sería N1 (según Art 23), pero el Art 32 fija explícitamente N3 para el presupuesto judicial. No es un error pero la asimetría podría documentarse mejor, o al menos el Art 30 podría ser explícito: "El Legislativo aprueba el presupuesto general mediante consenso de Nivel N1" (o el que corresponda).
-
-Propuesta: Explicitar el nivel de consenso requerido para la aprobación presupuestaria, para evitar que un lector asuma que debería ser igual al N3 del Art 32.
-
-**Art 30 - Hallazgo 3 (Loophole / Vacío):** No hay mecanismo para el primer año fiscal. Si es el primer presupuesto de la historia de esta constitución (post-Arranque), no hay "presupuesto del año anterior" que prorrogar. El Art 19 (Arranque) debería cubrir esto, pero el Art 30 no lo referencia ni contempla el caso.
-
-Propuesta: Añadir una disposición o referencia cruzada que aclare qué ocurre en el primer año fiscal, o verificar que el Título III ya lo cubre y referenciar explícitamente.
 
 **Art 30 - Hallazgo 4 (Loophole):** El artículo dice "se prorroga automáticamente el presupuesto del año anterior", pero no limita cuántas veces consecutivas puede ocurrir esto. Un Legislativo deliberadamente disfuncional (o un Ejecutivo que no envía propuesta) podría perpetuar un presupuesto obsoleto indefinidamente, sin que nunca haya debate presupuestario real. Esto podría usarse como estrategia: aprobar un presupuesto favorable una vez y luego bloquear cualquier cambio para siempre, ajustándose solo por inflación.
 
@@ -277,16 +225,7 @@ Propuesta: añadir (en Art 36 o 38, donde se decida) algo como: *"En caso de vac
 
 Propuesta: Definir explícitamente el estatus del Legislativo durante los 30 días post-activación. Opciones: (a) el Legislativo saliente continúa en funciones limitadas, análogo al Ejecutivo interino; (b) la actividad legislativa se suspende completamente durante 30 días. Esto podría ir en el propio Art 39 o en un artículo separado del Subtítulo 1.
 
-**Art 39 - Hallazgo 3 (Loophole - estado de excepción como escudo):** El último párrafo bloquea la autodestrucción mutua durante un estado de excepción. El Art 55 permite al Ejecutivo declarar estados de excepción (Art 25.4). Un Presidente corrupto podría declarar un estado de excepción fabricado para blindarse contra el cese. Sí, el Art 55 dice que declarar sin crisis real es delito grave (10 años de prisión), pero eso es castigo posterior, no prevención. El Legislativo puede revocar el estado de excepción con N1 (Art 58, según lo visto en la búsqueda), lo cual mitiga el problema. Pero el orden de operaciones importa: si el Presidente declara estado de excepción y el Legislativo necesita primero revocarlo y luego activar autodestrucción mutua, el Presidente gana tiempo.
-
-Propuesta: Verificar que la secuencia "revocar estado de excepción + activar autodestrucción mutua" es viable sin bloqueos temporales. Si el Legislativo puede hacer ambas cosas en la misma sesión, el loophole es manejable. Si hay plazos intermedios, es explotable. No necesariamente requiere cambio en el Art 39 sino confirmación de que la secuencia es fluida.
-
 1. **Vacío sobre el estatus del Legislativo durante los 30 días** -- el Ejecutivo interino está regulado (Art 26), el Legislativo interino no.
-2. **Estado de excepción como escudo temporal** -- mitigado por la revocación legislativa con N1, pero la secuencia operativa merece verificación.
-
-**Art 40 - Hallazgos:**
-
-1. **Loophole Art. 41 durante cooldown**: El cooldown no bloquea la vía del Art. 41. Riesgo bajo pero real.
 
 ---
 
@@ -301,14 +240,6 @@ Aqui van los hallazgos del Artículo 41:
 **Art 41 - Hallazgo 3 (Loophole): No hay cooldown equivalente al Art 40.** Tras la autodestrucción mutua (Art 39), el Art 40 establece un periodo de desactivación para evitar uso como arma de desgaste. El Art 41 no tiene cooldown. Esto permite al Legislativo o a un grupo popular activar el mecanismo repetidamente contra un Presidente recién elegido. En principio el filtro del Tribunal Supremo debería frenar abusos, pero un atacante con recursos ilimitados podría intentarlo sucesivamente para desgastar políticamente al Ejecutivo, incluso si el Supremo rechaza. Propuesta: considerar un cooldown tras la resolución del Tribunal Supremo (sea favorable o desfavorable), por ejemplo 3-6 meses antes de poder reiniciar el proceso.
 
 **Art 41 - Hallazgo 6 (Loophole): La referencia al Art 26 para sucesión puede no encajar.** El Art 26 contempla tres escenarios: dimisión/incapacidad, autodestrucción mutua (Art 39), y fallo de la línea de sucesión. El incumplimiento grave (Art 41) no está listado en el Art 26. Además, el Art 26 en su segundo párrafo (cesado por autodestrucción mutua) dice que el Vicepresidente "ejerce exclusivamente funciones de mantenimiento del orden institucional: no puede aprobar nuevos presupuestos, nombrar ni cesar ministros, ni iniciar nuevas políticas." Pero el primer párrafo (dimisión/incapacidad) no tiene esa restricción. No queda claro qué régimen de sucesión aplica al caso del Art 41: el restrictivo (segundo párrafo) o el normal (primer párrafo). Propuesta: especificar en el Art 41 qué régimen de sucesión aplica, o añadir el caso del Art 41 en el Art 26.
-
-## Revisión del Artículo 42: Supremacía Constitucional
-
-**Art 42 (Consistencia)**: El artículo menciona "acto administrativo" como uno de los tipos de norma que son nulos si contravienen la Constitución, pero el Art 43 solo regula el procedimiento para impugnar **leyes**. No hay mecanismo procesal para impugnar reglamentos o actos administrativos por inconstitucionalidad. El Art 44 (responsabilidad penal) solo sanciona a legisladores y jueces, no al Ejecutivo por actos administrativos inconstitucionales. Un atacante desde el Ejecutivo podría emitir actos administrativos inconstitucionales sabiendo que el procedimiento del Art 43 no los cubre explícitamente y no hay sanción penal asociada.
-
-Propuesta: Esto puede ser intencional (los actos administrativos se impugnarían por vía judicial ordinaria, no por el Art 43). Si es así, no es un problema del Art 42 sino del Art 43. Pero vale la pena ser consciente de que la promesa del Art 42 ("toda... acto administrativo... es nula") no tiene un procedimiento tan robusto como el de las leyes.
-
-El hallazgo de actos administrativos sin procedimiento específico es relevante. El de control de oficio vs. a instancia de parte es menor.
 
 ## Revisión del Artículo 43: Proceso De Análisis De Constitucionalidad
 
@@ -369,12 +300,6 @@ Propuesta: Verificar que el Art 44 cubra este caso explícitamente, o crear un m
 **Art 46 - Loophole (4a):** El periodo de reflexion de 3 meses corre "desde que la decisión judicial devino firme." Pero no hay plazo maximo para iniciar la recogida de firmas ni para completarla. Un atacante con recursos podria mantener una campana de recogida de firmas indefinidamente contra cualquier decision judicial, creando inseguridad juridica permanente. Ademas, podria iniciar recogidas de firmas simultaneas contra multiples decisiones judiciales como forma de presion sistemica al poder judicial.
 - Propuesta: establecer (a) un plazo maximo desde la firmeza de la decision para iniciar la recogida de firmas (ej: 2 anos), (b) un plazo maximo para completar la recogida una vez iniciada, y (c) considerar un limite de procesos de anulacion popular activos simultaneamente (similar al limite de 10 packs del Art. 43).
 
-**Art 46 - Loophole (4b):** "Solo se contabilizan firmas de ciudadanos vivos con derecho a voto en el momento de la verificación." No se define cuando ni como ocurre "la verificacion". Si es continua, el sistema es muy costoso. Si es puntual al alcanzar el umbral, un atacante podria inflar firmas con personas que luego pierden derecho a voto. Si no hay verificacion intermedia, no se sabe cuando se alcanzo realmente el umbral para empezar a contar los 7 dias.
-- Propuesta: definir minimamente el proceso de verificacion, o al menos establecer que la verificacion se realizara conforme a procedimiento establecido por ley, garantizando su integridad.
-
-**Art 46 - Loophole (4c):** El efecto punto 2 dice "la norma que había sido declarada inconstitucional recupera su vigencia (o queda confirmada su nulidad, según el sentido de la anulación)." El parentesis "(o queda confirmada su nulidad, según el sentido de la anulación)" es confuso. Si el pueblo anula la decision judicial que declaraba una ley inconstitucional, la ley vuelve. Pero no queda claro que significaria "confirmar la nulidad": si el Tribunal Supremo declaro la ley inconstitucional y el pueblo *confirma* esa nulidad mediante anulacion popular... esta anulando la decision judicial para *ratificarla*? Eso es contradictorio con el concepto de "anular."
-- Propuesta: eliminar el parentesis. Si la anulacion popular anula la decision judicial, el efecto logico unico es que la norma recupera su vigencia. Si alguien quiere *ratificar* la decision judicial, simplemente no inicia anulacion popular. El parentesis introduce ambiguedad sin resolver ningun caso real.
-
 **Art 46 - Loophole (4d):** El Art. 46 punto 4 remite al Art. 44 para sanciones al juez. Pero el Art. 44 solo contempla "anulacion popular ordinaria" (tercer bloque del Art. 44). Para el ambito constitucional, el Art. 44 ya tiene un mecanismo propio de responsabilidad penal judicial (segundo bloque), que se basa en el Art. 43 (revision constitucional cada 6 anos), no en anulacion popular. Si se anula popularmente una decision de inconstitucionalidad via Art. 46 ambito constitucional, no queda claro si el juez es sancionado por el Art. 44 bloque 2 (inconstitucionalidad, 20 anos de prision para magistrados del TS) o por alguna otra via. El Art. 46.4 dice "según el ámbito correspondiente", pero el Art. 44 no tiene un bloque especifico para "anulacion popular constitucional."
 - Propuesta: verificar si la intencion es que la anulacion popular constitucional active las sanciones del bloque de inconstitucionalidad del Art. 44 (con sus 20 anos de prision para TS), y si es asi, hacerlo explicito. Si no, definir que sancion aplica.
 
@@ -388,8 +313,6 @@ Propuesta: Verificar que el Art 44 cubra este caso explícitamente, o crear un m
 **Art 47 - "Desviaciones significativas" sin definir**: El numeral 4 exige "justificación de desviaciones significativas" sin definir qué es "significativa". Un atacante puede presentar desviaciones enormes y argumentar que no son "significativas" porque no hay umbral. Propuesta: definir un umbral numérico (porcentaje sobre la partida, o sobre el total presupuestado) a partir del cual la desviación requiere justificación, o delegar explícitamente la definición a legislación ordinaria.
 
 **Art 47 - No especifica quién publica ni consecuencias por incumplimiento**: El artículo dice "se publican" en voz pasiva. No identifica al responsable de la publicación ni establece consecuencias si no se publica, si se publica tarde o si se publica información falsa. Un atacante puede simplemente no publicar o publicar datos maquillados sin que el artículo establezca responsabilidad ni sanción. Propuesta: identificar al responsable (Ejecutivo, cada poder para su propio presupuesto, o un órgano específico) y, como mínimo, que la omisión o falsificación sea causa de las consecuencias ya previstas en otros artículos (o delegar a legislación ordinaria).
-
-**Art 47 - Solapamiento parcial con Art 31**: El Art 31 ya dice que "todo gasto público superior a la cantidad establecida por ley se registra en un sistema público auditable por cualquier ciudadano o persona con residencia fiscal en el país, de manera permanente". El Art 47 repite parcialmente lo mismo pero para "todos los presupuestos públicos". Técnicamente son complementarios (el 31 es sobre gastos del Ejecutivo por encima de un umbral, el 47 es sobre todos los presupuestos), pero la coexistencia de dos "sistemas públicos auditables" sin referencia cruzada genera ambiguedad: son el mismo sistema o son dos distintos? Propuesta: referencia cruzada explícita, o aclarar que el sistema es el mismo.
 
 1. **Loophole**: "desviaciones significativas" sin umbral -- explotable.
 2. **Loophole**: no hay responsable identificado ni consecuencia por incumplimiento de la obligación de publicación.
@@ -417,7 +340,7 @@ Propuesta: añadir una consecuencia. Opciones: (a) silencio positivo (se entiend
 
 **Art 50 - Hallazgo 2 (Vacío):** No hay mecanismo para finalizar o revocar una declaración de guerra. Una vez declarada, no se establece cómo se termina: tratado de paz, votación legislativa, cese de hostilidades. Esto importa porque el Ámbito Bélico del Art 56 (estado de excepción) se activa por "guerra declarada" y otorga poderes extremos (restricción de todos los derechos a atacantes, transferencia de funciones civiles a autoridad militar). Sin mecanismo de revocación, la guerra declarada podría perpetuarse formalmente incluso tras cesar las hostilidades reales, manteniendo activo el estado de excepción bélico indefinidamente. Propuesta: añadir que la declaración de guerra puede revocarse por el Legislativo con un nivel de consenso (N1 o N2 bastaría, ya que revocar es volver a la normalidad, no escalar).
 
-Resumen: los hallazgos 1 y 2 son sustanciales. El 1 (quién propone la guerra) es un vacío menor pero real. El 2 (cómo se revoca la guerra) es un loophole serio por su interacción con el estado de excepción bélico del Art 56. Los hallazgos 3 y 4 son menores.
+Resumen: los hallazgos 1 y 2 son sustanciales.
 
 ---
 
@@ -433,9 +356,7 @@ Resumen: los hallazgos 1 y 2 son sustanciales. El 1 (quién propone la guerra) e
 
 **Art 52: Rendicion de Cuentas por Operaciones Secretas**
 
-1. **Loophole -- no hay limite temporal para la acusacion.** El articulo no establece plazo ni prescripcion para que el Legislativo inicie el proceso. Esto podria usarse como arma politica decadas despues. Pero tambien podria ser intencional (que no prescriba nunca). Si es intencional, merece mencion explicita. Si no, anadir prescripcion.
-
-3. **Consistencia -- falta clausula de modificabilidad.** El nivel N1 para iniciar el proceso no tiene clausula de modificabilidad ni durante Arranque ni posterior. Otros articulos con niveles de consenso si la tienen.
+1. **Consistencia -- falta clausula de modificabilidad.** El nivel N1 para iniciar el proceso no tiene clausula de modificabilidad ni durante Arranque ni posterior. Otros articulos con niveles de consenso si la tienen.
 
 **Art 53: Presupuesto Militar**
 
@@ -463,16 +384,9 @@ Resumen: los hallazgos 1 y 2 son sustanciales. El 1 (quién propone la guerra) e
 
 **Art 61 (Límite 4 - Control Parlamentario):**
 
-1. **Redundancia con Art 39**: El artículo 39 ya dice "El mecanismo de autodestrucción mutua no puede activarse durante un estado de excepción declarado conforme al artículo 55." Esto es lo mismo que dice el artículo 61. Es una violación de DRY. Propuesta: eliminar la mención en uno de los dos sitios. Yo lo dejaría en el Art 39 (donde se define el mecanismo) y en el Art 61 haría una referencia: "El mecanismo de autodestrucción mutua queda suspendido conforme al artículo 39."
-
-
-4. **Loophole - plazo "más breve posible"**: Dice "como muy tarde, dentro de 30 días" tras cesar la imposibilidad. Pero no define quién determina cuándo "dichas condiciones pueden garantizarse". Un ejecutivo interesado en prolongar su mandato interino podría alegar indefinidamente que las condiciones no están garantizadas. Propuesta: asignar la determinación a un órgano específico (ej: el Poder Judicial o el Legislativo por N1) para que no quede al arbitrio del Ejecutivo.
+1. **Loophole - plazo "más breve posible"**: Dice "como muy tarde, dentro de 30 días" tras cesar la imposibilidad. Pero no define quién determina cuándo "dichas condiciones pueden garantizarse". Un ejecutivo interesado en prolongar su mandato interino podría alegar indefinidamente que las condiciones no están garantizadas. Propuesta: asignar la determinación a un órgano específico (ej: el Poder Judicial o el Legislativo por N1) para que no quede al arbitrio del Ejecutivo.
 
 5. **Loophole - penalización del Art 26 suspendida**: El artículo suspende la penalización por usurpación del Art 26 durante el estado de excepción. Esto es necesario, pero combinado con el punto anterior, un Ejecutivo que controle la narrativa sobre si "las condiciones están garantizadas" puede prolongar indefinidamente su mandato interino sin consecuencia alguna. Refuerza la necesidad del punto 4.
-
-**Art 62 (Límite 5 - Control Judicial):**
-
-1. **Punto 2 - ambigüedad**: "Cualquier persona cuyos derechos aplicables al contexto del estado de excepción (conforme al artículo 56) sean violados puede solicitar proceso judicial." La frase "derechos aplicables al contexto del estado de excepción" es confusa. ¿Se refiere a los derechos que NO fueron restringidos (y por tanto siguen vigentes)? ¿O a los derechos restringidos, cuando la restricción excede lo permitido? Propuesta: clarificar. Probablemente la intención es ambas cosas: que se pueda recurrir tanto por violación de derechos vigentes como por restricción excesiva de derechos restringibles.
 
 **Art 63 (Límite 6 - Prohibiciones Absolutas):**
 
@@ -503,10 +417,6 @@ Resumen: los hallazgos 1 y 2 son sustanciales. El 1 (quién propone la guerra) e
 1. **Ambiguedad - "periodo de espera" tras procedimiento completo:** Dice "independientemente de si la reforma es aprobada o rechazada, esa misma clausula no puede someterse a nuevo procedimiento de reforma hasta transcurridos 21 anios." Pero si la primera votacion se aprueba y la segunda (tras 2 anios) se rechaza, el cooldown de 21 anios arranca desde cuando? Desde la primera votacion o desde la segunda? Propuesta: aclarar "transcurridos 21 anios desde la ultima votacion del procedimiento".
 
 **Art 68 (Derecho de Reforma Ordinaria):**
-
-**Art 69 (Iniciativa de Reforma Ordinaria):**
-
-1. **Inconsistencia terminologica:** Usa "Un tercio (33%)" como porcentaje para la iniciativa legislativa, pero en ningun otro lugar de la Constitucion se define un umbral como fraccion+porcentaje asi. Ademas, un tercio es 33.33%, no 33%. Propuesta: usar "33%" a secas (consistente con el resto de la Constitucion que usa porcentajes) o definir como fraccion exacta.
 
 ---
 

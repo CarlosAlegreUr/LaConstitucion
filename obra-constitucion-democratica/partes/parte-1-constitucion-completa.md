@@ -918,7 +918,7 @@ La reforma ordinaria entra en vigor transcurrida 1 semana desde la aprobación.
 
 La iniciativa para proponer reformas ordinarias conforme al artículo 68 puede provenir de:
 
-1. Iniciativa legislativa: Un tercio (33%) de los miembros del Poder Legislativo.
+1. Iniciativa legislativa: El 33% de los miembros del Poder Legislativo.
 2. Iniciativa popular: El 10% del censo nacional mediante solicitud en un sistema público auditable.
 
 Ambas vías de iniciativa requieren la aprobación final conforme a las mayorías establecidas en el artículo 68.
