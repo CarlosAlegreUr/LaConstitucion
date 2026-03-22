@@ -16,30 +16,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 ## Arts 11-15
 
 
-## Revisión Art 13: Sistema de Doble Vuelta Electoral en Distritos
-
-**Art 13 - Loophole: repetición indefinida por participación insuficiente**. "Así sucesivamente hasta que se alcance el mínimo de participación requerido." Un atacante podría organizar boicots sostenidos en un distrito para dejarlo sin representación indefinidamente, bloqueando la composición del Legislativo. No hay límite al número de repeticiones ni mecanismo de salida. El Art 24 (elección presidencial) tiene el mismo diseño pero al menos prevé que el presidente saliente continúa en funciones. Aquí no se dice qué pasa con el escaño vacante mientras tanto. Propuesta: establecer un límite de repeticiones o un mecanismo de salida (por ejemplo, reducir el umbral de participación tras N intentos, o que el suplente asuma interinamente).
-
-**Art 13 - Vacío: plazo entre primera y segunda vuelta**. No se establece en cuántos días debe celebrarse la segunda vuelta tras la primera. Un atacante con control sobre la administración electoral podría dilatar indefinidamente la segunda vuelta. Propuesta: fijar plazo máximo entre primera y segunda vuelta (por ejemplo, 14 días, como hace el Art 24 implícitamente al referirse a su repetición).
-
-**Art 13 - Vacío: plazo para repetición por participación insuficiente**. Dice "se repite la elección dentro de 7 días", pero no especifica si se repite desde la primera vuelta o solo la vuelta que no alcanzó participación. Si un candidato ya ganó la primera vuelta con 51% pero sin participación mínima, ¿se repite todo o solo esa vuelta? Propuesta: aclarar que se repite la vuelta que no alcanzó el mínimo de participación.
-
-**Art 13 - Configurabilidad: falta mención al Arranque**. El Art 12 permite modificar sus parámetros durante el Arranque con N2. El Art 14 permite modificar sus parámetros durante el Arranque con N3. El Art 13 no menciona el Arranque. Esto significa que durante el Arranque los parámetros del Art 13 solo se pueden modificar con N6 (cuasi-unanimidad), que es extremadamente alto para un sistema recién constituido. Si es intencional, bien. Si no, es una omisión. Propuesta: discutir si se quiere permitir configurabilidad durante el Arranque con un nivel inferior.
-
-1. **Repetición indefinida** por boicot de participación, sin mecanismo de salida.
-2. **Sin plazo entre primera y segunda vuelta** -- vacío temporal explotable.
-3. **Ambigüedad sobre qué se repite** cuando no se alcanza participación mínima.
-4. **Falta de cláusula de Arranque** en configurabilidad (posible omisión).
-5. **Redacción mejorable** en la frase de participación mínima.
-
-## Revisión Art 14: Tamaño de Distritos
-
-**Art 14 - Loophole en "unidad geográfica mínima disponible"**: Los datos de entrada del AOCD dicen "Datos de población por unidad geográfica mínima disponible, como municipio, sección censal o equivalente." El problema es que un gobierno puede manipular qué datos están "disponibles" -- si solo publica datos a nivel de provincia, el AOCD pierde granularidad y se vuelve trivial de manipular. No hay obligación constitucional de producir o mantener datos a un nivel de granularidad mínimo. --> Propuesta: añadir que la unidad geográfica debe ser la de mayor resolución que exista en cualquier registro oficial, o establecer un techo (por ejemplo, la unidad no puede superar X habitantes). Alternativamente, esto se podría considerar cubierto por el espíritu general de la constitución y la vigilancia ciudadana, pero como atacante con recursos ilimitados esto es un vector real.
-
-**Art 14 - "Coherencia histórico-cultural" es subjetiva y explotable**: La restricción 3 dice "la delimitación debe respetar fronteras provinciales, municipales o comarcales cuando sea posible." El "cuando sea posible" es una válvula de escape muy amplia. Un atacante podría argumentar que "no era posible" respetar fronteras para justificar un gerrymandering disfrazado. La argumentación en Parte 2 (l.290) dice que esto "previene el gerrymandering por riqueza", pero la vaguedad de "cuando sea posible" la debilita. --> Propuesta: reformular para invertir la carga: "la delimitación respeta fronteras provinciales, municipales o comarcales. Solo puede cruzar estas fronteras cuando sea estrictamente necesario para cumplir las restricciones de población y continuidad geográfica." Esto hace que cruzar fronteras sea la excepción que hay que justificar, no la regla con una excepción difusa.
-
-1. **Loophole en granularidad de datos** -- vector de ataque real, la disponibilidad de datos es manipulable.
-2. **"Cuando sea posible" en coherencia histórico-cultural** -- válvula de escape demasiado amplia, invertir la carga de la prueba.
 
 ## Revisión del Artículo 15: Actualización Distrital Periódica
 

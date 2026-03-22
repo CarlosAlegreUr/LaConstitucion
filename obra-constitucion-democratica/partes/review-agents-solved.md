@@ -314,6 +314,32 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 **Hallazgo:** "Desde convocatoria hasta resultado" era ambiguo — ¿desde inicio de recogida de firmas o desde que se alcanzan?
 
 **Resolución:** Cambiado a "desde la convocatoria formal de la votación hasta el resultado". Corregidos artículos gramaticales faltantes.
+
+---
+
+## Art 13 (Plazo entre vueltas, participación, repetición)
+
+**Hallazgo 1 - Boicot indefinido:** Non-issue. En distritos pequeños, un boicot sostenido es expresión democrática. El escaño cuenta como voto en contra (Art 23), lo cual es autocorrector.
+
+**Hallazgo 2 - Sin plazo entre primera y segunda vuelta:** Vacío explotable.
+
+**Hallazgo 3 - Ambigüedad sobre qué se repite:** No quedaba claro si se repetía todo o solo la vuelta fallida.
+
+**Hallazgo 4 - Falta Arranque:** Non-issue / design choice. N6 para parámetros electorales es coherente con su importancia.
+
+**Hallazgo 5 - Redacción:** Non-issue menor.
+
+**Resolución hallazgos 2 y 3:** Añadido plazo máximo de 7 días entre primera y segunda vuelta. Aclarado que si falla la participación en cualquier vuelta, se repite la elección completa desde la primera vuelta. Añadido el nuevo parámetro (7 días entre vueltas) a la cláusula de configurabilidad.
+
+---
+
+## Art 14 (Granularidad de datos y "cuando sea posible")
+
+**Hallazgo 1 - Granularidad de datos manipulable:** Non-issue. Demasiado complejo para nivel constitucional; regulado por legislación ordinaria.
+
+**Hallazgo 2 - "Cuando sea posible" como válvula de escape.**
+
+**Resolución hallazgo 2:** Invertida la carga de la prueba. Antes: "la delimitación debe respetar fronteras... cuando sea posible." Ahora: "la delimitación respeta fronteras... Solo puede cruzar estas fronteras cuando sea estrictamente necesario para cumplir las restricciones de población establecidas en este artículo."
 - **Art 10, hallazgo 2 mecanismo distrital** — Non-issue. El Art 10 ya dice "según procedimientos establecidos por ley ordinaria". El *qué* (el distrito puede hacer override) es explícito; el *cómo* está delegado.
 
 ---

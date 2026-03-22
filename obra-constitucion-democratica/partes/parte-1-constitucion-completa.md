@@ -188,11 +188,11 @@ Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse 
 
 Este artículo aplica a las elecciones de representantes del Poder Legislativo por distrito.
 
-En la primera vuelta electoral, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra segunda vuelta entre los dos candidatos más votados. El candidato que obtenga más votos en la segunda vuelta es proclamado electo.
+En la primera vuelta electoral, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra una segunda vuelta entre los dos candidatos más votados en un plazo máximo de 7 días. El candidato que obtenga más votos en la segunda vuelta es proclamado electo.
 
-Un mínimo de participación del 25% del censo del distrito es necesario para que la elección sea válida. Si no se alcanza este mínimo, se repite la elección dentro de 7 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido.
+Un mínimo de participación del 25% del censo del distrito es necesario para que la elección sea válida en cada vuelta. Si no se alcanza este mínimo en cualquiera de las vueltas, se repite la elección completa desde la primera vuelta dentro de 7 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido.
 
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 25% de participación mínima del censo del distrito y 7 días máximo para repetir elección si no se alcanza la participación mínima.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 25% de participación mínima del censo del distrito, 7 días máximo entre primera y segunda vuelta y 7 días máximo para repetir la elección si no se alcanza la participación mínima.
 
 ---
 
@@ -210,7 +210,7 @@ Datos de entrada:
 Restricciones:
 1. Cada distrito tiene entre 95.000 y 120.000 habitantes.
 2. Continuidad geográfica: cada distrito debe ser un territorio continuo, sin enclaves ni exclaves.
-3. Coherencia histórico-cultural: la delimitación debe respetar fronteras provinciales, municipales o comarcales cuando sea posible.
+3. Coherencia histórico-cultural: la delimitación respeta fronteras provinciales, municipales o comarcales. Solo puede cruzar estas fronteras cuando sea estrictamente necesario para cumplir las restricciones de población establecidas en este artículo.
 4. Excepción por imposibilidad geográfica: cuando las restricciones de continuidad geográfica y coherencia histórico-cultural impidan formar un distrito dentro del rango de población establecido, se permite que ese distrito exceda o no alcance los límites, siempre que la desviación sea la mínima necesaria.
 
 Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6. Estos son: 95.000 y 120.000 habitantes como límites del rango de población por distrito. Durante el Proceso de Arranque, el Legislativo puede establecer parámetros distintos mediante consenso de Nivel N3.
