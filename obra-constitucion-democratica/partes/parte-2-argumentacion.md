@@ -293,6 +293,8 @@ Las elecciones ordinarias (artículo 13) no tienen este requisito porque la migr
 
 La doble vuelta previene la captura por minorías. En un sistema de vuelta única con múltiples candidatos, un candidato con el 20% puede ganar. La doble vuelta garantiza que el elegido tenga al menos el apoyo de la mayoría en la ronda final. Es el mecanismo más simple y efectivo para evitar bloqueos constantes y garantizar un mínimo nivel de acuerdo social. No es perfecto, pero con los límites tecnológicos y de cognición humana actuales, es lo mejor que tenemos.
 
+Si la participación no alcanza el mínimo del 25% del censo en cualquiera de las dos vueltas, se repite la elección completa desde la primera vuelta. ¿Por qué no repetir solo la vuelta que falló? Porque la baja participación en la segunda vuelta puede ser síntoma de que los dos candidatos finalistas no representan al distrito. En un voto muy fragmentado, los dos más votados pueden tener un 10% cada uno — técnicamente los más votados, pero la última opción para el 80% restante. Repetir solo la segunda vuelta forzaría a elegir entre dos candidatos que nadie quiere. Repetir desde la primera vuelta permite que el panorama político se reorganice: nuevas alianzas, candidatos que se retiran, votantes que concentran su apoyo. El coste (repetir una primera vuelta que quizás fue válida) es menor que el riesgo de imponer un representante sin apoyo real.
+
 ## Artículo 14: Tamaño de Distritos y AOCD
 
 ### ¿Por qué 95.000-120.000 habitantes?
