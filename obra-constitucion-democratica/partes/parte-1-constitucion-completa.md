@@ -144,7 +144,7 @@ La designación de una lengua oficial no prohíbe el uso de otras lenguas en el 
 
 Los representantes del Poder Legislativo son elegidos por distritos territoriales mediante elección uninominal. Cada distrito elige un representante.
 
-Los distritos pueden contar con un sistema de suplentes para garantizar continuidad de representación, con un mínimo de 0 y un máximo de 2 suplentes por distrito. Cuando un distrito queda sin representante ni suplentes disponibles, se convoca nueva elección conforme al artículo 13.
+Los distritos pueden contar con un sistema de suplentes para garantizar la continuidad de representación, con un mínimo de 0 y un máximo de 2 suplentes por distrito. Cuando un distrito queda sin representante ni suplentes disponibles, se convoca nueva elección conforme al artículo 13.
 
 El número de suplentes por distrito puede modificarse mediante consenso de Nivel N4, ya sea a nivel nacional (decisión del Legislativo aplicable a todos los distritos) o a nivel distrital (decisión del distrito aplicable solo a ese distrito), según procedimientos establecidos por ley ordinaria.
 
@@ -166,7 +166,7 @@ Iniciativa:
 Cualquier ciudadano con derecho a voto, de manera individual o en grupo, puede iniciar un procedimiento de revocación. Esta capacidad de iniciativa individual solo puede modificarse mediante consenso de nivel N6.
 
 Convocatoria:
-Requiere recogida de firmas del 10% del censo del distrito en un plazo máximo de 31 días.
+Requiere la recogida de firmas del 10% del censo del distrito en un plazo máximo de 31 días.
 
 Votación:
 Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es necesario para que la votación sea válida. El proceso completo de revocación, desde la convocatoria formal de la votación hasta el resultado, no puede superar las 2 semanas de duración.
@@ -683,7 +683,7 @@ La declaración de guerra requiere consenso de Nivel N5 del Poder Legislativo. L
 
 1. Defensa del territorio nacional ante ataque armado actual o inminente: El Presidente puede y debe ordenar la defensa inmediata sin aprobación previa del Legislativo.
 
-2. Rescate de ciudadanos en situación de peligro inmediato en el extranjero: El Presidente puede ordenar la operación sin aprobación previa del Legislativo. El Presidente debe notificar al Legislativo inmediatamente tras ordenar la operación. Si la operación se extiende más allá de 30 días e implica uso significativo de fuerza, requiere ratificación legislativa con consenso de Nivel N3.
+2. Rescate de ciudadanos en situación de peligro inmediato en el extranjero: El Presidente puede ordenar la operación sin aprobación previa del Legislativo. El Presidente debe notificar al Legislativo inmediatamente tras ordenar la operación. Si la operación se extiende más allá de 30 días e implica un uso significativo de fuerza, requiere ratificación legislativa con consenso de Nivel N3.
 
 ---
 
@@ -694,7 +694,7 @@ El Presidente puede ordenar operaciones militares secretas sin aprobación legis
 1. Desastre militar (pérdida significativa de vidas o recursos).
 2. Inicio de conflicto armado no autorizado.
 
-Si se descubre o anuncia una operación secreta de este ámbito, el Poder Legislativo puede, mediante consenso de Nivel N1, iniciar proceso judicial ante el Tribunal Supremo para la aplicación del siguiente castigo: el Presidente responde personalmente mediante amputación de una mano. La decisión del Tribunal Supremo es recurrible por cualquier ciudadano con derecho a voto conforme al procedimiento ordinario de apelación establecido en el artículo 34.
+Si se descubre o anuncia una operación secreta de este ámbito, el Poder Legislativo puede, mediante consenso de Nivel N1, iniciar un proceso judicial ante el Tribunal Supremo para la aplicación del siguiente castigo: el Presidente responde personalmente mediante la amputación de una mano. La decisión del Tribunal Supremo es recurrible por cualquier ciudadano con derecho a voto conforme al procedimiento ordinario de apelación establecido en el artículo 34.
 
 ---
 
@@ -751,7 +751,7 @@ Se establecen tres tipos de estados de excepción, clasificados según el ámbit
 - Causas: Guerra declarada, invasión extranjera, insurgencia armada.
 - Declaración: Activación automática sin aprobación legislativa previa.
 - Derechos restringibles a atacantes de la nación: Todos los derechos fundamentales.
-- Poderes temporales: Transferencia de funciones civiles a la autoridad militar en zona afectada más aquellos definidos en el Proceso de Arranque.
+- Poderes temporales: Transferencia de funciones civiles a la autoridad militar en la zona afectada más aquellos definidos en el Proceso de Arranque.
 
 ---
 
@@ -806,7 +806,7 @@ Durante cualquier estado de excepción, el Poder Legislativo funciona con normal
 El Poder Judicial mantiene todas sus funciones durante los estados de excepción. En particular:
 
 1. Puede revisar la legalidad de cualquier medida adoptada durante la excepción.
-2. Cualquier persona cuyos derechos aplicables al contexto del estado de excepción (conforme al artículo 56) sean violados puede solicitar proceso judicial.
+2. Cualquier persona cuyos derechos aplicables al contexto del estado de excepción (conforme al artículo 56) sean violados puede solicitar un proceso judicial.
 
 ---
 
@@ -827,8 +827,8 @@ Cualquier acto que viole estas prohibiciones es nulo de pleno derecho, sin neces
 
 Tras la finalización de cualquier estado de excepción:
 
-1. El Ejecutivo debe presentar informe público en un plazo máximo de 60 días, detallando todas las medidas adoptadas, su justificación, resultados y costes. Cualquier ciudadano puede acceder a este informe.
-2. Si un ciudadano denuncia irregularidades, un juez de primera instancia puede ordenar auditoría independiente de las medidas adoptadas.
+1. El Ejecutivo debe presentar un informe público en un plazo máximo de 60 días, detallando todas las medidas adoptadas, su justificación, resultados y costes. Cualquier ciudadano puede acceder a este informe.
+2. Si un ciudadano denuncia irregularidades, un juez de primera instancia puede ordenar una auditoría independiente de las medidas adoptadas.
 3. Funcionarios que hayan abusado de poderes excepcionales o violado los seis límites (artículos del 58 al 63 incluidos) pueden ser procesados penalmente. El estado de excepción no exime de responsabilidad por abusos.
 
 ---
