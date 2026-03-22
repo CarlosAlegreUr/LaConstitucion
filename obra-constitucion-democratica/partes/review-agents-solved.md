@@ -340,6 +340,20 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 **Hallazgo 2 - "Cuando sea posible" como válvula de escape.**
 
 **Resolución hallazgo 2:** Invertida la carga de la prueba. Antes: "la delimitación debe respetar fronteras... cuando sea posible." Ahora: "la delimitación respeta fronteras... Solo puede cruzar estas fronteras cuando sea estrictamente necesario para cumplir las restricciones de población establecidas en este artículo."
+
+---
+
+## Art 15 (Referéndum sin umbral, comisión, rechazo)
+
+**Hallazgo 1 - Referéndum sin umbral.** No especificaba nivel de consenso ni participación mínima.
+
+**Resolución:** Cambiado de referéndum popular a ratificación por el Poder Legislativo con N1. El AOCD con especificaciones públicas y auditables ya es el control principal; el Legislativo ratifica la ejecución correcta. El conflicto de interés se mitiga porque el algoritmo constitucionalizado deja poco margen de manipulación.
+
+**Hallazgo 2 - Comisión técnica sin definir.** Non-issue. La comisión es un órgano operativo delegado a ley ordinaria. El control real está en el algoritmo público + la ratificación legislativa.
+
+**Hallazgo 3 - Rechazo sin fallback.**
+
+**Resolución:** Añadido mecanismo de dos intentos: si el Legislativo rechaza, la comisión puede ejecutar una nueva propuesta con datos corregidos o actualizados. Si la segunda propuesta también es rechazada, se mantiene la distribución vigente hasta la siguiente actualización programada.
 - **Art 10, hallazgo 2 mecanismo distrital** — Non-issue. El Art 10 ya dice "según procedimientos establecidos por ley ordinaria". El *qué* (el distrito puede hacer override) es explícito; el *cómo* está delegado.
 
 ---

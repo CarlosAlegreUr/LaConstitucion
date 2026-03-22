@@ -17,14 +17,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 
 
-## Revisión del Artículo 15: Actualización Distrital Periódica
-
-**Art 15 - Loophole: referéndum sin umbral**: El articulo dice "ratificado mediante referéndum" pero no especifica nivel de consenso ni participacion minima. Comparar con Art 67 que dice "referéndum popular con consenso de Nivel N5 de votos válidos favorables y participación mínima del 75% del censo nacional" y Art 68 que especifica "consenso de Nivel N1 de votos válidos y participación mínima del 50%". Sin umbral, el referéndum de ratificacion distrital podria aprobarse con un solo voto. Propuesta: especificar nivel de consenso (N1 parece razonable, es ratificacion de un resultado algoritmico) y participacion minima.
-
-**Art 15 - Loophole: comisión técnica independiente sin definir**: No se define quien nombra esta comision, cuantos miembros tiene, que requisitos deben cumplir, ni que poder la supervisa. Es el unico organo "independiente" del texto constitucional que no tiene un articulo o procedimiento de nombramiento asociado. Un atacante podria capturar la comision desde su nombramiento. Propuesta: especificar que poder la nombra y con que consenso, o delegar a legislacion ordinaria indicandolo explicitamente.
-
-**Art 15 - Vacío: qué pasa si el referéndum rechaza la actualización**: No hay mecanismo de fallback. Si la comision ejecuta el AOCD y el referéndum lo rechaza, no queda claro que sucede. Se mantienen los distritos anteriores? Se repite el proceso? Hay plazo? Un atacante podria bloquear indefinidamente la actualizacion distrital organizando campanas contra el referéndum. Propuesta: establecer que si el referéndum rechaza la actualizacion, se mantienen los distritos vigentes hasta la siguiente actualizacion programada, o definir un mecanismo de reintento.
-
 ---
 
 ## Arts 16-20

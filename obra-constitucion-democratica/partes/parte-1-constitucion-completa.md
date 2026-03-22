@@ -219,7 +219,9 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 ### Artículo 15: Actualización Distrital Periódica
 
-Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD) conforme al artículo 14. Las especificaciones completas del AOCD se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado mediante referéndum.
+Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD) conforme al artículo 14. Las especificaciones completas del AOCD se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado por el Poder Legislativo mediante consenso de Nivel N1.
+
+Si el Legislativo rechaza la actualización, la comisión puede ejecutar una nueva propuesta con datos corregidos o actualizados. Si la nueva propuesta es también rechazada, se mantiene la distribución de distritos vigente hasta la siguiente actualización programada.
 
 La primera distribución de distritos será establecida durante el Proceso de Transición (artículo 18). La primera actualización se realizará 21 años después de la entrada en vigor de esta Constitución.
 
