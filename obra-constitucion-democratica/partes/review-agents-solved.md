@@ -435,7 +435,7 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 
 - **Art 28, organismos equivalentes:** Non-issue. El Presidente controla la estructura; el Legislativo controla el presupuesto. La proliferación de entidades menores es materia de ley ordinaria.
 - **Art 29, "condena" sin "firme":** Corregido a "sentencia penal firme". Sin "firme", un juez corrupto podría cesar automáticamente a un ministro con condena en primera instancia que será revocada en apelación. Explicación añadida en parte 2.
-- **Art 29, inhabilitación en artículo de ministerios:** Pendiente. Debe moverse al Título I y protegerse a N5. Requiere renumeración.
+- **Art 29, inhabilitación en artículo de ministerios:** Resuelto. Movida al Art 8 (Título I) como principio general. Protegida a N5. Art 29 ahora referencia al Art 8. No requirió renumeración.
 - **Art 30, prórrogas indefinidas:** Non-issue. La prórroga con inflación es el fallback seguro. La parálisis legislativa se desbloquea con autodestrucción mutua (Art 39).
 - **Art 24, hallazgos 2-3 redacción segunda vuelta** — Menores descartados.
 - **Art 24, hallazgo 5 bucle infinito participación** — Non-issue. Mismo diseño que Art 13; presidente saliente sigue en funciones.

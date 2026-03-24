@@ -112,11 +112,13 @@ La ley podrá establecer requisitos y condiciones para el proceso de independenc
 
 ---
 
-### Artículo 8: Igualdad ante la Ley
+### Artículo 8: Igualdad ante la Ley y Responsabilidad Pública
 
 Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo. Todos son ciudadanos sujetos a las mismas leyes que cualquier otro ciudadano. El procesamiento penal de cualquier cargo público no requiere autorización previa del poder al que pertenezca ni de ningún otro órgano.
 
 Los procedimientos penales contra cargos públicos podrán tramitarse con carácter preferente respecto de los procedimientos contra ciudadanos comunes. Esta Constitución no establece el método de priorización, pero garantiza que dicho mecanismo pueda existir y no sea suprimido por ley ordinaria.
+
+Toda persona que pierda un cargo público por condena penal firme queda inhabilitada permanentemente para ejercer cualquier cargo en la administración pública, con independencia del poder al que perteneciera el cargo. La modificación de esta inhabilitación requiere consenso de Nivel N5.
 
 ---
 
@@ -408,7 +410,7 @@ Durante el Proceso de Arranque, este límite puede modificarse con consenso de N
 
 ### Artículo 29: Ministerios - Nombramiento
 
-Los ministros son nombrados y cesados exclusivamente por el Presidente salvo que un ministro sea condenado mediante sentencia penal firme cuya pena incluya la pérdida del cargo. En ese caso, el cese es automático e independiente de la voluntad del Presidente. Toda persona que pierda un cargo público por condena penal queda inhabilitada permanentemente para ejercer cualquier cargo en la administración pública.
+Los ministros son nombrados y cesados exclusivamente por el Presidente salvo que un ministro sea condenado mediante sentencia penal firme cuya pena incluya la pérdida del cargo. En ese caso, el cese es automático e independiente de la voluntad del Presidente. La inhabilitación permanente se rige por el artículo 8.
 
 ---
 

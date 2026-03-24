@@ -29,8 +29,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 26-30
 
-**Art 29 - Hallazgo 2 (Scope / Loophole) — PENDIENTE**: La inhabilitación permanente por condena penal es una regla general metida dentro de un artículo específico sobre ministerios. Debe moverse al Título I. Pendiente de implementar (requiere renumeración). Proteger a N5.
-
 ---
 
 ## Arts 31-35

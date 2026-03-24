@@ -230,11 +230,13 @@ Una duda abierta es el nivel de protección de este artículo. Actualmente no es
 ---
 ---
 
-## Artículo 8: Igualdad ante la Ley
+## Artículo 8: Igualdad ante la Ley y Responsabilidad Pública
 
 Inmunidad parlamentaria es un concepto oligárquico. Dice: "nosotros estamos por encima de la ley". Esta Constitución lo rechaza. Si votaste a alguien, esa persona es responsable ante ti y ante la ley como cualquier otro ciudadano. El procesamiento penal de cargos públicos no requiere autorización previa de ningún órgano. Más aún: puede tramitarse con carácter preferente, porque un cargo público corrupto causa más daño que un ciudadano común corrupto.
 
 La eliminación de inmunidad abre un vector de ataque inverso: denuncias frívolas masivas como herramienta para paralizar cargos públicos incómodos. Esta Constitución asume presunción de inocencia: un cargo público procesado sigue ejerciendo hasta condena firme, y la regulación de mecanismos anti-abuso procesal (filtros de admisibilidad, costas por litigación temeraria, sanciones por denuncia falsa) es materia de ley ordinaria. La tramitación preferente mitiga parcialmente la parálisis al resolver más rápido los procesos contra cargos públicos.
+
+La inhabilitación permanente por condena penal firme se establece en este artículo como principio general aplicable a todos los poderes del Estado. La ubicación en el Título I (Fundamentos) y no en un artículo específico de un poder concreto evita ambigüedades interpretativas sobre su alcance. La protección a N5 impide que un Legislativo con mayoría ordinaria (N4) rebaje esta consecuencia para proteger a aliados condenados.
 
 ## Artículo 9: Lengua Oficial
 
