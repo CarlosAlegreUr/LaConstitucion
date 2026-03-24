@@ -33,22 +33,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 31-35
 
-## Revisión Artículo 31: Límite Presupuestario del Ejecutivo
-
-**Art 31 (Redacción / Ambiguedad):** La segunda frase es ambigua. "Todo gasto público superior a la cantidad establecida por ley" -- ¿qué cantidad? ¿Un umbral mínimo a partir del cual se registra? ¿O se refiere a los gastos que excedan el presupuesto aprobado? Si es un umbral de registro, no queda claro que sea distinto de la primera frase. Si es "todo gasto que supere el límite presupuestario", entonces esa segunda frase describe algo que la primera frase prohíbe, lo cual es contradictorio: se prohíbe exceder el presupuesto pero al mismo tiempo se regula cómo registrar gastos que lo excedan. --> Clarificar qué se quiere decir. Si la intención es que *todo* gasto público por encima de cierta cuantía individual (un umbral de transparencia) se registre públicamente, hay que decirlo con esa claridad. Si la intención es registrar transgresiones presupuestarias, hay que decirlo explícitamente.
-
-**Art 31 (Loophole - Sin consecuencia):** La primera frase prohíbe exceder el presupuesto pero no establece consecuencia alguna. No dice qué pasa si el Ejecutivo lo hace. No hay referencia a nulidad de los compromisos, ni a responsabilidad del Presidente, ni a mecanismo de corrección. Comparar con el Art. 62 (estados de excepción) que dice explícitamente "nula de pleno derecho y constituye abuso de autoridad". Un atacante con recursos puede exceder el presupuesto contando con que la única consecuencia es que quede registrado. --> Considerar añadir consecuencia: nulidad de los compromisos que excedan el presupuesto, y/o que constituya causa de moción de censura o juicio de responsabilidad.
-
-**Art 31 (Loophole - Compromisos indirectos):** "Comprometer gastos" es una formulación que un atacante sofisticado puede evadir. El Ejecutivo puede crear obligaciones futuras (contratos a largo plazo, garantías, avales, deuda contingente) que no se contabilizan como "gasto comprometido" en el presupuesto anual pero que generan obligaciones reales. --> Considerar expandir a "comprometer gastos ni asumir obligaciones financieras" o similar, o dejarlo a desarrollo legislativo pero siendo consciente del vector.
-
-## Revisión del Artículo 32: Poder Judicial - Independencia y Financiación
-
-**Art 32 - Loophole: presupuesto inflado sin límite superior**: El Tribunal Supremo propone su propio presupuesto. Si lo rechazan, mantiene el anterior ajustado a inflación. Pero no hay ningún límite al presupuesto que puede proponer. Un Tribunal Supremo capturado podría proponer presupuestos desproporcionados y forzar al Legislativo a rechazarlos repetidamente (lo cual requiere N3, una mayoría difícil de alcanzar). Con un Legislativo que no logre N3, se aprobaría un presupuesto abusivo. No hay contrapeso. Propuesta: considerar un tope, por ejemplo que el presupuesto propuesto no pueda exceder un porcentaje del presupuesto general del Estado, o que el incremento interanual no pueda superar un porcentaje salvo consenso legislativo. Alternativamente, aceptar este riesgo como coste de la independencia financiera (un Tribunal Supremo capturado tiene problemas mayores que el presupuesto).
-
-**Art 32 - Falta de cláusula de modificabilidad de parámetros**: Los Arts 35, 36 y otros artículos judiciales especifican explícitamente qué nivel de consenso se necesita para modificar sus parámetros. El Art 32 no tiene ninguna cláusula de modificabilidad. El nivel N3 de rechazo presupuestario, por ejemplo, no tiene protección explícita contra reforma. Comparar con Art 36 ("Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N5") o Art 35 ("La modificación de estos requisitos requiere consenso de Nivel N5"). Propuesta: añadir una cláusula indicando que el nivel de consenso requerido para rechazar el presupuesto (N3) puede modificarse mediante consenso de Nivel N5, en línea con los demás artículos judiciales. Esto evita que una reforma ordinaria (N4, Art 68) lo baje a N1 y haga trivial estrangular financieramente al Judicial.
-
-1. **Falta de cláusula de modificabilidad**: N3 no está protegido contra reforma. Propuesta: proteger a N5 como el resto de parámetros judiciales.
-2. **Loophole presupuesto inflado**: Sin tope al presupuesto propuesto. Propuesta: discutir si aceptar el riesgo o poner límite.
 
 ## Revisión del Artículo 33: Poder Judicial - Jerarquía
 

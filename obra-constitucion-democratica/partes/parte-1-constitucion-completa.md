@@ -422,7 +422,7 @@ Si el Legislativo no aprueba un nuevo presupuesto antes del inicio del año fisc
 
 ### Artículo 31: Límite Presupuestario del Ejecutivo
 
-El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobados por el Legislativo en el presupuesto anual. Todo gasto público superior a la cantidad establecida por ley se registra en un sistema público auditable por cualquier ciudadano o persona con residencia fiscal en el país, de manera permanente.
+El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobados por el Legislativo en el presupuesto anual. Todo gasto público cuya cuantía por operación supere el umbral establecido por ley se registra en un sistema público auditable por cualquier ciudadano o persona con residencia fiscal en el país, de manera permanente.
 
 ---
 
@@ -435,6 +435,8 @@ El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobado
 El Poder Judicial es independiente de los poderes Legislativo y Ejecutivo. Los jueces no reciben órdenes ni instrucciones de ningún otro poder.
 
 El Tribunal Supremo elabora y propone el presupuesto anual del Poder Judicial. El Legislativo puede aprobar o rechazar el presupuesto propuesto mediante consenso de Nivel N3, pero no puede modificarlo. Si el presupuesto propuesto es rechazado, se mantiene automáticamente el presupuesto del año anterior ajustado a la inflación.
+
+El nivel de consenso requerido para el rechazo del presupuesto judicial puede modificarse mediante consenso de Nivel N5.
 
 ---
 

@@ -437,6 +437,25 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 - **Art 29, "condena" sin "firme":** Corregido a "sentencia penal firme". Sin "firme", un juez corrupto podría cesar automáticamente a un ministro con condena en primera instancia que será revocada en apelación. Explicación añadida en parte 2.
 - **Art 29, inhabilitación en artículo de ministerios:** Resuelto. Movida al Art 8 (Título I) como principio general. Protegida a N5. Art 29 ahora referencia al Art 8. No requirió renumeración.
 - **Art 30, prórrogas indefinidas:** Non-issue. La prórroga con inflación es el fallback seguro. La parálisis legislativa se desbloquea con autodestrucción mutua (Art 39).
+- **Art 31, sin consecuencia por exceder presupuesto:** Non-issue. Art 42 declara nulo todo acto inconstitucional. Arts 39/41 son mecanismos de cese disponibles.
+- **Art 31, compromisos indirectos:** Non-issue. Materia de legislación presupuestaria ordinaria. KISS.
+- **Art 32, presupuesto inflado sin tope:** Non-issue. Riesgo aceptado como coste de independencia judicial. Un Supremo corrupto tiene problemas mayores que el presupuesto. N3 para rechazar es alcanzable.
+
+---
+
+## Art 31 (Ambigüedad "cantidad establecida por ley")
+
+**Hallazgo:** "Todo gasto público superior a la cantidad establecida por ley" era ambiguo — podía leerse como transgresiones presupuestarias o como umbral de transparencia por operación.
+
+**Resolución:** Aclarado a "Todo gasto público cuya cuantía por operación supere el umbral establecido por ley". La intención es un umbral de transparencia: cada gasto por encima de cierta cuantía se registra públicamente, independientemente del presupuesto.
+
+---
+
+## Art 32 (N3 sin protección)
+
+**Hallazgo:** El nivel N3 de rechazo presupuestario no tenía protección explícita. Podía bajarse a N1 con reforma ordinaria (N4).
+
+**Resolución:** Añadida cláusula: "El nivel de consenso requerido para el rechazo del presupuesto judicial puede modificarse mediante consenso de Nivel N5." Coherente con el resto de parámetros judiciales del bloque 32-38.
 - **Art 24, hallazgos 2-3 redacción segunda vuelta** — Menores descartados.
 - **Art 24, hallazgo 5 bucle infinito participación** — Non-issue. Mismo diseño que Art 13; presidente saliente sigue en funciones.
 
