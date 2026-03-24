@@ -454,9 +454,11 @@ Las decisiones del Tribunal Supremo son definitivas en el orden judicial, sin pe
 
 ### Artículo 34: Derecho de Apelación y Casación
 
-Toda parte en un proceso judicial tiene derecho a al menos una apelación y una casación ante tribunal de segunda instancia. Este derecho se ejerce por caso y por nivel: cuando varias partes solicitan revisión del mismo caso ante el mismo nivel, el caso asciende una única vez, no una vez por cada parte que lo solicite.
+Toda parte en un proceso judicial tiene derecho a al menos una apelación y una casación ante tribunal de instancia superior. Este derecho se ejerce por caso y por nivel: cuando varias partes solicitan revisión del mismo caso ante el mismo nivel, el caso asciende una única vez, no una vez por cada parte que lo solicite.
 
 La apelación permite revisión completa de hechos y derecho. La casación es una revisión adicional que examina exclusivamente la correcta aplicación del derecho, sin reexamen de hechos salvo arbitrariedad manifiesta en su valoración.
+
+Las apelaciones de decisiones del Tribunal Supremo son resueltas por un magistrado distinto del mismo Tribunal. El magistrado que emitió la decisión apelada no puede participar en la resolución de la apelación. El magistrado asignado se selecciona mediante un mecanismo aleatorio determinista. El procedimiento por defecto es el siguiente: se aplica una función hash criptográfica a los datos biométricos del apelante. El dato biométrico se selecciona según la siguiente prioridad: huella dactilar de la mano izquierda (del meñique al pulgar), de la mano derecha (del pulgar al meñique), del pie izquierdo, del pie derecho, retina del ojo izquierdo, retina del ojo derecho. Se utiliza el primer dato disponible. Si ninguno de estos datos biométricos está disponible, se utilizan los del magistrado que emitió la decisión apelada. Los magistrados se ordenan por antigüedad en el cargo (el de mayor antigüedad es el primero). El resultado del hash, en módulo del número de magistrados, determina el magistrado asignado. Si el resultado señala al magistrado que emitió la decisión apelada, se incrementa en uno y se aplica el módulo de nuevo. El método de asignación puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N1, siempre que el método alternativo sea determinista, no manipulable y públicamente verificable.
 
 El número total de apelaciones y casaciones en un mismo caso no puede superar 5.
 
