@@ -450,11 +450,13 @@ La estructura judicial se organiza en tres niveles:
 
 Las decisiones del Tribunal Supremo son definitivas en el orden judicial, sin perjuicio de la anulación popular establecida en el artículo 46.
 
+La modificación de la estructura de tres niveles requiere consenso de Nivel N5.
+
 ---
 
 ### Artículo 34: Derecho de Apelación y Casación
 
-Toda parte en un proceso judicial tiene derecho a al menos una apelación y una casación ante tribunal de instancia superior. Este derecho se ejerce por caso y por nivel: cuando varias partes solicitan revisión del mismo caso ante el mismo nivel, el caso asciende una única vez, no una vez por cada parte que lo solicite.
+Toda parte en un proceso judicial tiene derecho a al menos una apelación y una casación ante un tribunal de instancia inmediatamente superior. Este derecho se ejerce por caso y por nivel: cuando varias partes solicitan revisión del mismo caso ante el mismo nivel, el caso asciende una única vez, no una vez por cada parte que lo solicite.
 
 La apelación permite revisión completa de hechos y derecho. La casación es una revisión adicional que examina exclusivamente la correcta aplicación del derecho, sin reexamen de hechos salvo arbitrariedad manifiesta en su valoración.
 

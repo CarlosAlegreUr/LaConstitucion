@@ -463,9 +463,11 @@ El Tribunal Supremo propone su propio presupuesto. El Legislativo puede aprobarl
 
 ### Estructura en tres niveles
 
-Primera instancia, apelación/casación, y Tribunal Supremo. La Constitución garantiza un mínimo de una apelación (revisión completa de hechos y derecho) y una casación (revisión solo de derecho). Este mínimo de uno existe para asegurar a todo ciudadano el derecho a volver a intentarlo: nadie se queda sin segunda oportunidad ante una decisión judicial que considera injusta.
+Primera instancia, apelación/casación, y Tribunal Supremo. La estructura de tres niveles está protegida a N5 porque los artículos 34 y 43 dependen de que existan exactamente estos tres niveles — modificar la estructura requiere repensar todo el sistema de recursos y constitucionalidad.
 
-El máximo total de apelaciones y casaciones en un mismo caso es 5. Demasiadas rondas hacen el sistema judicial lento e inoperante, pero el límite exacto entre niveles — cuántas apelaciones y cuántas casaciones dentro de esas 5 — se deja a la legislación ordinaria.
+La Constitución garantiza un mínimo de una apelación (revisión completa de hechos y derecho) y una casación (revisión solo de derecho) ante tribunal de instancia inmediatamente superior. "Inmediatamente" es deliberado: las apelaciones siempre van al nivel +1 (primera a segunda, segunda a Supremo), nunca se salta un nivel. El máximo total de apelaciones y casaciones en un mismo caso es 5.
+
+Las decisiones del Tribunal Supremo son definitivas por defecto. Solo cuando la Constitución lo establece expresamente (como el incumplimiento presidencial del artículo 41 o la rendición de cuentas del artículo 52), una decisión del Supremo es recurrible. En esos casos, la apelación la resuelve un magistrado distinto del mismo Tribunal, seleccionado mediante un mecanismo aleatorio determinista basado en datos biométricos del apelante. Este mecanismo impide que el apelante elija al magistrado que revisará su caso — la asignación es determinista y verificable, pero no manipulable. El proceso de constitucionalidad del artículo 43 tiene su propio sistema de capas (primera instancia, casación, Tribunal Supremo) que funciona como procedimiento específico, sustituyendo al régimen general del artículo 34 para cuestiones de constitucionalidad.
 
 ### Nombramiento de jueces ordinarios y acreditaciones
 

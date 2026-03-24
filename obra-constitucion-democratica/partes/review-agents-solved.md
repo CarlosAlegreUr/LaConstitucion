@@ -343,6 +343,24 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 
 ---
 
+## Art 33 (Estructura sin protección)
+
+**Hallazgo:** La estructura de tres niveles no tenía protección. Un Legislativo con N4 podría añadir o eliminar un nivel.
+
+**Resolución:** Añadida cláusula: "La modificación de la estructura de tres niveles requiere consenso de Nivel N5."
+
+---
+
+## Art 34 (Apelaciones e instancia superior)
+
+**Hallazgo 1 - Protección del "5":** Non-issue. N4 default es suficiente para este parámetro operativo.
+
+**Hallazgo 2 - Art 43 vs Art 34:** Non-issue. Art 43 es lex specialis — su sistema de capas para constitucionalidad sustituye al régimen general del Art 34. Interpretación estándar.
+
+**Hallazgos 4 y 5 - "segunda instancia" y apelación del Supremo:** Resueltos. "Ante tribunal de segunda instancia" → "ante tribunal de instancia inmediatamente superior". Añadido mecanismo de apelación interna del Supremo con asignación por hash biométrico del apelante, aplicable solo cuando la Constitución establezca expresamente que una decisión del Supremo es recurrible.
+
+---
+
 ## Art 15 (Referéndum sin umbral, comisión, rechazo)
 
 **Hallazgo 1 - Referéndum sin umbral.** No especificaba nivel de consenso ni participación mínima.
