@@ -386,6 +386,37 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 - **Art 52, prescripción acusación** — No-prescripción de operaciones militares secretas es estándar en derecho internacional.
 - **Art 61, DRY Art 39** — Redundancia intencional por legibilidad (agrupa los 6 límites).
 - **Art 62, ambigüedad "derechos aplicables"** — Intención clara: recurrir por violación de derechos vigentes o restricción excesiva.
+- **Art 20, referencia Art 53** — Non-issue. El presupuesto militar es parte de la financiación del Ejecutivo. La referencia es correcta e intencional. El Legislativo no necesita protección financiera especial porque él mismo aprueba el presupuesto general.
+- **Art 21, mandato 4 años sin protección** — Non-issue. N4 ya es el default por Art 68. No necesita cláusula explícita.
+- **Art 23, hallazgo 1 "7 leyes" sin modificabilidad** — Non-issue. Misma razón: N4 por defecto vía Art 68.
+- **Art 23, hallazgo 2 leyes ómnibus** — Non-issue. Definir "ley" en la Constitución viola KISS. Control de constitucionalidad y anulación popular son salvaguardas suficientes.
+- **Art 25, parálisis ejecutiva temporal** — Non-issue. Feature, no bug. Unos días sin decisiones no es crisis. Delegación temporal abriría vector de ataque del Vicepresidente.
+
+---
+
+## Art 25 (Referencia Art 29)
+
+**Hallazgo:** "conforme al artículo 29" sugería que el Art 29 regulaba la delegación, cuando regula el nombramiento.
+
+**Resolución:** Cambiado a "en los ministros nombrados conforme al artículo 29".
+
+---
+
+## Art 43 (Anglicismo "pack")
+
+**Hallazgo:** "pack" usado 2 veces como anglicismo.
+
+**Resolución:** Cambiado a "paquete" (x2).
+- **Art 24, hallazgos 2-3 redacción segunda vuelta** — Menores descartados.
+- **Art 24, hallazgo 5 bucle infinito participación** — Non-issue. Mismo diseño que Art 13; presidente saliente sigue en funciones.
+
+---
+
+## Art 24 (Configurabilidad de parámetros)
+
+**Hallazgo:** Parámetros electorales presidenciales (51%, 30%, 14 días, 5 años, 2 mandatos, 1 cooldown) sin cláusula de protección. El Art 13 (equivalente distrital) los protege a N6.
+
+**Resolución:** Añadida cláusula de configurabilidad a N6, coherente con el Art 13. Lista completa de parámetros incluida.
 
 ---
 

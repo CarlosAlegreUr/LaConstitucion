@@ -355,6 +355,8 @@ Un mínimo de participación del 30% del censo nacional es necesario para que la
 
 Su mandato es de 5 años. Ninguna persona puede ejercer la Presidencia más de dos mandatos consecutivos. Tras dos mandatos consecutivos, debe transcurrir al menos un mandato presidencial completo antes de poder ser elegido nuevamente.
 
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 30% de participación mínima del censo nacional, 14 días máximo para repetir la elección si no se alcanza la participación mínima, 5 años de mandato, 2 mandatos consecutivos máximo y 1 mandato de espera antes de poder ser reelegido.
+
 ---
 
 ### Artículo 25: Poder Ejecutivo - Funciones del Presidente
@@ -368,11 +370,9 @@ El Presidente ejerce la totalidad del Poder Ejecutivo. Sus funciones incluyen:
 5. Política interior y coordinación gubernamental.
 6. Gestión del gasto público conforme al presupuesto aprobado por el Legislativo.
 7. Estructura y dirección de los ministerios.
+8. Declaración de guerra y decisiones militares establecidas en los artículos 50, 51 y 52.
 
-El Presidente puede delegar la preparación y propuesta de decisiones en los ministros conforme al artículo 29. Toda decisión del Poder Ejecutivo requiere la aprobación del Presidente para su ejecución. Las siguientes funciones no son delegables en ningún aspecto:
-
-1. Declaración de guerra y decisiones militares establecidas en los artículos 50, 51 y 52.
-2. Declaración de estados de excepción (artículo 55).
+El Presidente puede delegar la preparación y propuesta de decisiones en los ministros nombrados conforme al artículo 29. Toda decisión del Poder Ejecutivo requiere la aprobación del Presidente para su ejecución.
 
 ---
 
@@ -575,7 +575,7 @@ Esta Constitución es la norma suprema del ordenamiento jurídico. Toda ley, reg
 
 ### Artículo 43: Proceso De Análisis De Constitucionalidad
 
-Cualquier ciudadano con derecho a voto puede impugnar la constitucionalidad de cualquier ley aprobada ante los tribunales, independientemente de cuánto tiempo haya transcurrido desde su aprobación. Cada ley puede ser sometida a revisión constitucional una vez cada 6 años. Las impugnaciones pueden presentarse individualmente o en grupos de hasta 10 leyes, juzgándose cada ley por separado. Solo puede existir un proceso de revisión constitucional activo por ley en cada momento; si un pack contiene una ley ya en proceso, el pack se admite pero esa ley se excluye. El máximo de grupos en proceso simultáneo es de 10, lo que establece un límite de 100 leyes en revisión constitucional simultánea. La impugnación se presenta ante tribunal de primera instancia y se resuelve conforme al siguiente sistema en capas:
+Cualquier ciudadano con derecho a voto puede impugnar la constitucionalidad de cualquier ley aprobada ante los tribunales, independientemente de cuánto tiempo haya transcurrido desde su aprobación. Cada ley puede ser sometida a revisión constitucional una vez cada 6 años. Las impugnaciones pueden presentarse individualmente o en grupos de hasta 10 leyes, juzgándose cada ley por separado. Solo puede existir un proceso de revisión constitucional activo por ley en cada momento; si un paquete contiene una ley ya en proceso, el paquete se admite pero esa ley se excluye. El máximo de grupos en proceso simultáneo es de 10, lo que establece un límite de 100 leyes en revisión constitucional simultánea. La impugnación se presenta ante tribunal de primera instancia y se resuelve conforme al siguiente sistema en capas:
 
 1. Primera Instancia: El tribunal puede declarar inaplicable una norma que considere contraria a esta Constitución. Esta declaración tiene efecto únicamente para el caso concreto. El tribunal debe fundamentar detalladamente las razones por las cuales considera que la norma contraviene la Constitución. Cualquier ciudadano con derecho a voto puede recurrir esta decisión ante segunda instancia, independientemente de su participación en el proceso inicial.
 

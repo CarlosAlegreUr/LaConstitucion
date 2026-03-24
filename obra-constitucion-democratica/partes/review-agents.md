@@ -21,65 +21,9 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 16-20
 
-## Revisión del Artículo 20: Separación de Poderes
-
-**Art 20 (referencia cruzada incorrecta):** La segunda frase dice "La financiación de cada poder debe ser la descrita en los artículos 30 a 32 y 53 de esta Constitución." Pero esos artículos no cubren la financiación de "cada poder":
-- Art. 30: presupuesto por defecto (general, no de un poder específico).
-- Art. 31: límite presupuestario del Ejecutivo.
-- Art. 32: independencia y financiación del Judicial.
-- Art. 53: presupuesto militar (Fuerzas Armadas, que no son un poder).
-
-Faltan dos cosas: (1) no hay ningún artículo que regule la financiación del propio Legislativo, y (2) el Art. 53 no es la financiación de un poder sino de las Fuerzas Armadas (que están bajo el Ejecutivo). La referencia promete cubrir "cada poder" pero no lo hace. Esto es un vacío real, no solo una referencia incorrecta: un atacante desde el Ejecutivo podría estrangular financieramente al Legislativo porque no hay mecanismo que proteja su presupuesto.
-
-Propuesta: Dos opciones. (a) Crear un artículo de financiación del Legislativo con protecciones análogas al Art. 32 (propone su propio presupuesto, rechazo solo con supermayoría, presupuesto anterior por defecto). O (b) si se decide que el Legislativo controla su propio presupuesto al aprobar el presupuesto general, explicitarlo en algún artículo del subtítulo 1. En cualquier caso, corregir la referencia del Art. 20 para que refleje la realidad: quitar "53" (las FFAA no son un poder) y añadir el artículo de financiación del Legislativo cuando exista.
-
-Resumen: el hallazgo sustancial es el primero (vacío de financiación del Legislativo + referencia inexacta al Art. 53).
-
 ---
 
 ## Arts 21-25
-
-## Revisión del Artículo 21: Poder Legislativo - Composición
-
-**Art 21 - Loophole (protección de parámetros)**: El mandato de 4 años no tiene ninguna cláusula de protección de parámetro (a diferencia de otros artículos donde se especifica qué nivel de consenso se requiere para modificar los valores numéricos). Compara con el Art 13 que protege sus parámetros con N6, o el Art 36 que protege los suyos con N5. El mandato de 4 años podría modificarse por reforma ordinaria (N4 legislativo o N1 popular, Art 68). Propuesta: añadir una cláusula de protección del parámetro, al menos N5, dado que cambiar la duración del mandato legislativo altera el equilibrio de poderes (recordar que el desacople con el mandato presidencial de 5 años es intencional, como dice la Parte 2).
-
-## Revisión del Artículo 23: Poder Legislativo - Votaciones
-
-**Art 23 - Hallazgo 1 (Loophole): El parámetro "7 leyes por semana" no tiene cláusula de modificabilidad.** Casi todos los parámetros numéricos de otros artículos tienen una cláusula que indica con qué nivel de consenso pueden modificarse y qué se puede hacer durante el Proceso de Arranque. El Art 23 no dice nada: ni que sea modificable, ni que sea inmutable. Comparar con el Art 13 (parámetros modificables con N5), el Art 15 (parámetros modificables con N6), el Art 34 (parámetros modificables con N5), etc. Esto es un vacío: un atacante podría argumentar que el límite es inmutable (porque no se dice que se pueda cambiar), pero eso sería raro en el contexto de la Constitución donde casi todo tiene su cláusula. O bien debería tener un nivel de modificabilidad explícito, o bien una declaración explícita de inmutabilidad.
-
-Propuesta: Añadir una cláusula del tipo "Este límite puede modificarse mediante consenso de Nivel N[X]. Durante el Proceso de Arranque, mediante consenso de Nivel N[Y]." El nivel debería ser alto (N4 o N5), porque bajar el límite debilitaría la protección del Judicial que la Parte 2 describe como su razón de ser.
-
-**Art 23 - Hallazgo 2 (Loophole): No se define qué cuenta como "una ley".** Un atacante podría esquivar el límite de 7 leyes por semana aprobando leyes ómnibus (una sola "ley" que modifica 50 materias distintas), anulando el propósito del límite. La Parte 2 dice que el límite existe para proteger al Judicial de inundación legislativa; una ley ómnibus de 200 páginas satura igual que 20 leyes separadas. No hay nada en la Constitución que regule esto.
-
-Propuesta: No creo que la definición de "ley" deba estar en la Constitución (sería demasiada granularidad), pero merece discusión. Una opción sería que el Poder Judicial tenga potestad para fragmentar leyes ómnibus en unidades revisables independientes, o que el Art 23 establezca que cada ley debe tratar una materia única. Otra opción es dejarlo como está y confiar en que el control de constitucionalidad del Judicial y la anulación popular son suficientes salvaguardas.
-
-**Resumen de prioridad:**
-1. **Hallazgo 1** (modificabilidad del "7") -- sustancial, patrón roto respecto al resto de la Constitución.
-2. **Hallazgo 2** (leyes ómnibus) -- sustancial, loophole real con atacante con recursos.
-
-## Revisión del Artículo 24: Poder Ejecutivo - Presidente
-
-**Art 24 - Hallazgo 1 (Consistencia / Loophole): Falta cláusula de configurabilidad de parámetros numéricos.** El Art 13 (doble vuelta distrital) lista explícitamente sus parámetros numéricos y el nivel de consenso para modificarlos (N6). El Art 24 contiene parámetros análogos (51%, 30% participación, 14 días repetición, 5 años mandato, 2 mandatos consecutivos, 1 mandato de cooldown) pero no dice cómo se modifican. Esto crea dos problemas: (a) un atacante podría argumentar que son modificables por ley ordinaria (N1), y (b) es inconsistente con el patrón del resto de la Constitución donde cada artículo con parámetros numéricos especifica su nivel de modificación.
-**Propuesta:** Agregar al final del Art 24 una cláusula de configurabilidad similar a la del Art 13, listando los parámetros y el nivel requerido (probablemente N6, como en el Art 13, dado que son parámetros electorales equivalentes). Considerar si alguno merece protección de cláusula pétrea.
-
-**Resumen de prioridades:**
-- **Hallazgo 1** (configurabilidad): el más importante. Es un vacío real que rompe el patrón del resto de la Constitución.
-- **Hallazgos 2-3** (inconsistencia redacción segunda vuelta): fácil de corregir, mejora la coherencia.
-- **Hallazgo 5** (bucle infinito): decisión de diseño a discutir.
-- **Hallazgos 6-7**: menores.
-
-## Revisión del Artículo 25
-
-**Art 25 [Consistencia-1]**: El Art 25 dice "conforme al artículo 29" al hablar de delegación ministerial. Pero el Art 29 trata exclusivamente de *nombramiento y cese* de ministros, no de delegación de funciones. La delegación se define en el propio Art 25. La referencia al Art 29 parece incorrecta o al menos confusa. Lo que el Art 25 quiere decir es que el Presidente delega en los ministros *que nombra conforme al Art 29*, pero la redacción actual sugiere que el Art 29 establece las reglas de delegación, cuando en realidad establece las reglas de nombramiento.
-
-Propuesta: cambiar "conforme al artículo 29" por "en los ministros nombrados conforme al artículo 29" o eliminar la referencia al Art 29 aquí, dado que el Art 29 no regula la delegación sino el nombramiento.
-
-**Art 25 [Loophole-2]**: El artículo dice "Toda decisión del Poder Ejecutivo requiere la aprobación del Presidente para su ejecución." Esto es correcto y la argumentación lo justifica bien (evitar acciones irreversibles de ministros capturados). Pero no hay mecanismo para el caso en que el Presidente esté temporalmente indisponible (enfermo unos días, en cirugía, incomunicado por viaje) sin llegar al umbral de "incapacidad" del Art 27 (muerte, coma, deterioro cognitivo severo). Durante esas ventanas, todo el Poder Ejecutivo se paraliza porque nadie puede aprobar decisiones. El Vicepresidente del Art 26 solo asume si hay dimisión o incapacidad declarada judicialmente, no por indisponibilidad temporal menor.
-
-Propuesta: esto es un vacío entre el Art 25 (toda decisión requiere aprobación presidencial) y el Art 27 (incapacidad solo por muerte, coma, deterioro severo). Podría resolverse con una cláusula de delegación temporal limitada al Vicepresidente para casos de ausencia breve, o aceptarse como feature: si el Presidente se va unos días, el Ejecutivo espera. Depende de si se considera aceptable esa parálisis temporal.
-
-1. **Consistencia-1**: Referencia al Art 29 incorrecta o confusa -- el Art 29 regula nombramiento, no delegación.
-2. **Loophole-2**: Vacío entre indisponibilidad temporal del Presidente (no llega a incapacidad del Art 27) y la exigencia de que toda decisión requiera su aprobación. Parálisis ejecutiva sin mecanismo de cobertura.
 
 ---
 
