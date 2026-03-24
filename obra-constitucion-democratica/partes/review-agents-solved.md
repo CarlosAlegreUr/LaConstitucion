@@ -407,6 +407,27 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 **Hallazgo:** "pack" usado 2 veces como anglicismo.
 
 **Resolución:** Cambiado a "paquete" (x2).
+
+---
+
+## Arts 26-27 (Sucesión e Incapacidad Presidencial)
+
+**Art 26.1 - Vicepresidente sin umbral:** Non-issue. El juez es el filtro, la declaración es recurrible por cualquier ciudadano, y el juez paga si se revoca. Contrapesos suficientes.
+
+**Art 26.2 - Recuperación antes de elecciones:** Vacío real.
+**Resolución:** Añadido al Art 27: "Si el Presidente recupera su capacidad antes de que se celebren nuevas elecciones presidenciales, retoma el cargo de forma automática."
+
+**Art 26.3 - Efecto suspensivo:** Non-issue. Efecto inmediato es correcto — un Presidente en coma no puede esperar semanas de apelación. Documentado en parte 2.
+
+**Art 27.1 - Referencia Art 44 incorrecta:** El Art 44 no cubría incapacidad revocada.
+**Resolución:** Añadido cuarto bloque al Art 44: "Responsabilidad penal de jueces por declaración de incapacidad presidencial revocada". La referencia del Art 27 al Art 44 ahora es correcta.
+
+**Art 27.2 - Muerte como causa de incapacidad:** Absurdo exigir declaración judicial para muerte evidente.
+**Resolución:** "Muerte" movida del Art 27 al Art 26 como activador directo de sucesión ("Si el Presidente fallece, dimite o es declarado incapaz"). Art 27 reservado para coma y deterioro cognitivo.
+
+**Art 27.3 - Declaración revocada vs recuperación:** Non-issue. Tras elecciones, el nuevo Presidente es legítimo. La elección democrática es definitiva.
+
+**Art 27.4 - N1 para restitución:** Non-issue (eliminado). El mecanismo de restitución N1 se eliminó. Tras elecciones, no hay restitución. El remedio contra declaración errónea es la sanción al juez, no anular una elección.
 - **Art 24, hallazgos 2-3 redacción segunda vuelta** — Menores descartados.
 - **Art 24, hallazgo 5 bucle infinito participación** — Non-issue. Mismo diseño que Art 13; presidente saliente sigue en funciones.
 

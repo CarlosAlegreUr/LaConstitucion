@@ -380,7 +380,7 @@ El Presidente puede delegar la preparación y propuesta de decisiones en los min
 
 El Presidente nombra un Vicepresidente. Su mandato coincide con el del Presidente.
 
-Si el Presidente dimite o es declarado incapaz conforme al artículo 27, el Vicepresidente asume la Presidencia con carácter interino. Se convocan nuevas elecciones presidenciales en un plazo máximo de 45 días desde la asunción interina, salvo durante estados de excepción conforme al artículo 61. El Vicepresidente interino puede presentarse como candidato. Quien asuma la Presidencia interina queda sujeto a las mismas responsabilidades, obligaciones y consecuencias que el Presidente electo. Si las elecciones no se celebran dentro del plazo establecido, quien ocupe la Presidencia interina se considera usurpador del cargo, con todas las consecuencias legales aplicables.
+Si el Presidente fallece, dimite o es declarado incapaz conforme al artículo 27, el Vicepresidente asume la Presidencia con carácter interino. Se convocan nuevas elecciones presidenciales en un plazo máximo de 45 días desde la asunción interina, salvo durante estados de excepción conforme al artículo 61. El Vicepresidente interino puede presentarse como candidato. Quien asuma la Presidencia interina queda sujeto a las mismas responsabilidades, obligaciones y consecuencias que el Presidente electo. Si las elecciones no se celebran dentro del plazo establecido, quien ocupe la Presidencia interina se considera usurpador del cargo, con todas las consecuencias legales aplicables.
 
 Si el Presidente es cesado mediante el mecanismo de autodestrucción mutua conforme al artículo 39, el Vicepresidente asume la Presidencia con carácter interino hasta la celebración de las nuevas elecciones. Durante este periodo, el Vicepresidente interino ejerce exclusivamente funciones de mantenimiento del orden institucional: no puede aprobar nuevos presupuestos, nombrar ni cesar ministros, ni iniciar nuevas políticas.
 
@@ -392,9 +392,9 @@ Si el Vicepresidente no puede asumir la Presidencia interina, la asume el repres
 
 La incapacidad del Presidente es declarada exclusivamente por el Poder Judicial, a solicitud del Vicepresidente o del Poder Legislativo mediante consenso N2. La declaración es recurrible mediante apelación por cualquier ciudadano con derecho a voto. Si la declaración de incapacidad es revocada en apelación, el juez o tribunal que la emitió queda sujeto a las sanciones establecidas en el artículo 44 para la responsabilidad penal de jueces.
 
-Constituyen causas de incapacidad: muerte, coma y deterioro cognitivo severo. El Poder Legislativo puede ampliar esta lista pero no reducirla mediante consenso N3; durante el periodo de Arranque, mediante N2.
+Constituyen causas de incapacidad: coma y deterioro cognitivo severo. El Poder Legislativo puede ampliar esta lista pero no reducirla mediante consenso N3; durante el periodo de Arranque, mediante N2.
 
-Si el Presidente recupera su capacidad tras haber sido declarado incapacitado, pero ya se han celebrado nuevas elecciones presidenciales, el Poder Legislativo decide por N1 si el Presidente original retoma el cargo o si el nuevo Presidente electo continúa en funciones.
+Si el Presidente recupera su capacidad antes de que se celebren nuevas elecciones presidenciales, retoma el cargo de forma automática.
 
 ---
 
@@ -601,6 +601,9 @@ El juez que declare una ley inconstitucional también asume responsabilidad pers
 
 Responsabilidad penal de jueces por anulación popular ordinaria:
 Cuando una decisión judicial ordinaria es anulada por el pueblo conforme al artículo 46, el juez responsable será sometido a sanción penal de menor gravedad que las establecidas para inconstitucionalidad.
+
+Responsabilidad penal de jueces por declaración de incapacidad presidencial revocada:
+Si una declaración de incapacidad presidencial conforme al artículo 27 es revocada en apelación, el juez o tribunal que la emitió será sometido a sanción penal de similar gravedad que las establecidas para inconstitucionalidad.
 
 ---
 

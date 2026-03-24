@@ -29,34 +29,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 26-30
 
-**Art 26**: hallazgos:
-
-**Loopholes**
-
-- **Loophole principal - ambiguedad de solicitud**: La solicitud puede hacerla el Vicepresidente sin umbral de consenso (es una persona sola). Esto crea un vector de ataque: el Vicepresidente, con una sola decision propia, puede iniciar un proceso de declaracion de incapacidad contra el Presidente para beneficio propio (quedaria como interino y candidato, segun Art 25). No hay contrapeso al Vicepresidente actuando de mala fe. La parte-2 justifica el N2 del Legislativo para evitar que una minoria instrumentalice el mecanismo, pero no aborda el caso del Vicepresidente actuando solo. Propuesta a discutir: exigir tambien un umbral minimo para la solicitud del Vicepresidente (por ejemplo, acompanada de N1 del Legislativo o aval judicial previo), o al menos que la declaracion judicial solo sea posible si el Vicepresidente no tiene conflicto de interes.
-
-- **Loophole - recuperacion del Presidente sin elecciones**: El tercer parrafo solo contempla la recuperacion "pero ya se han celebrado nuevas elecciones". No cubre el caso: el Presidente es declarado incapacitado, el Vicepresidente asume, pero el plazo de 45 dias aun no ha transcurrido y el Presidente se recupera antes de que haya elecciones. En ese caso, no hay regla: la constitucion queda en silencio sobre si el Presidente recuperado puede retomar el cargo antes de las elecciones o si debe esperar al proceso electoral. Propuesta: anadir un segundo supuesto: "Si el Presidente recupera su capacidad antes de que se celebren nuevas elecciones, retoma el cargo de forma automatica."
-
-- **Loophole - "deterioro cognitivo severo"**: Es una causa subjetiva. Un Judicial hostil al Presidente puede declarar deterioro cognitivo severo con un peritaje comprometido. La disuasion del Art 43 existe (si la declaracion es revocada el juez sufre sancion), pero el proceso puede usarse igualmente como herramienta de acoso: aunque finalmente se revoque, el Presidente queda desplazado mientras dura la apelacion. No esta claro si durante la apelacion el Presidente sigue ejerciendo el cargo o si la declaracion de incapacidad tiene efecto inmediato. Propuesta: anadir que la declaracion de incapacidad no tiene efecto hasta que sea firme (es decir, hasta que se agote el plazo de apelacion o la apelacion sea resuelta).
-
-1. **Loophole - Vicepresidente sin umbral**: puede iniciar el proceso unilateralmente con conflicto de interes directo. -> Discutir si anadir algun contrapeso.
-
-2. **Loophole - recuperacion antes de elecciones**: la constitucion no cubre este caso. -> Anadir regla explicita.
-
-3. **Efecto suspensivo no definido**: no se sabe si la declaracion de incapacidad es ejecutiva de inmediato o suspendida durante apelacion. -> Definir explicitamente para evitar vacio.
-
-**Art 27 - Referencia cruzada al Art 44 incorrecta**: El artículo dice que si la declaracion de incapacidad es revocada en apelacion, el juez queda sujeto a "las sanciones establecidas en el artículo 44 para la responsabilidad penal de jueces". Pero el Art 44 regula solo dos supuestos de responsabilidad judicial: (1) declarar una ley inconstitucional erroneamente y (2) emitir decisiones anuladas por anulacion popular. Ninguno de los dos cubre el caso de una declaracion de incapacidad presidencial revocada. La referencia apunta a un articulo que no contiene la sancion prometida.
-Propuesta: o bien anadir un tercer supuesto al Art 44 que cubra la declaracion de incapacidad revocada, o bien establecer la sancion directamente en el Art 27 sin referenciar al 44.
-
-**Art 27 - Loophole: "muerte" como causa de incapacidad judicial**: La lista de causas incluye "muerte", pero el mecanismo exige declaracion judicial a solicitud del Vicepresidente o del Legislativo (N2). Esto significa que para un caso de muerte evidente hay que esperar una solicitud formal y una declaracion judicial, lo cual introduce un retraso innecesario y absurdo. Ademas, la declaracion de muerte es "recurrible mediante apelacion por cualquier ciudadano", lo que podria paralizar la sucesion. En contraste, el coma y el deterioro cognitivo si justifican un procedimiento judicial por su naturaleza disputable.
-Propuesta: separar la muerte como activacion automatica de la sucesion (Art 26) con acta de defuncion estandar, y reservar el mecanismo judicial del Art 27 para incapacidades donde haya juicio clinico (coma, deterioro cognitivo). Si se quiere mantener la muerte aqui, al menos establecer un procedimiento simplificado para ese caso.
-
-**Art 27 - Loophole: declaracion revocada en apelacion vs. nuevas elecciones ya celebradas**: El parrafo 3 contempla la recuperacion de capacidad tras nuevas elecciones, pero no contempla el caso en que la declaracion de incapacidad sea revocada en apelacion cuando ya se celebraron nuevas elecciones. Son situaciones distintas: "recuperar capacidad" implica que la declaracion fue correcta pero la condicion mejoro; "revocacion en apelacion" implica que la declaracion fue erronea desde el inicio. En el segundo caso, la legitimidad del Presidente original es mas fuerte, y el umbral de decision deberia ser distinto (quiza mayor que N1) o la restitucion deberia ser automatica.
-Propuesta: anadir un parrafo que cubra explicitamente el caso de revocacion en apelacion tras elecciones celebradas, diferenciandolo de la recuperacion de capacidad.
-
-**Art 27 - Loophole: N1 para decidir restitucion es bajo**: La decision de si el Presidente original retoma el cargo o si el nuevo continua se toma por N1 (51%). Un Legislativo minimamente capturado puede decidir algo de esta gravedad por mayoria simple. Esto es especialmente peligroso si la incapacidad fue fabricada como golpe blando: declarar incapacitado al Presidente (con juez complice), celebrar elecciones, y luego cuando se recupera, el Legislativo complice vota N1 para mantener al nuevo. La argumentacion en la Parte 2 justifica N1 diciendo que "permite evaluar las circunstancias concretas", pero no aborda el vector de ataque.
-Propuesta: subir a N2 como minimo, o mejor, diferenciar el umbral segun si la incapacidad fue revocada en apelacion (restitucion automatica) o si fue una recuperacion genuina (N2).
-
 Revisión del Artículo 28: Ministerios - Límite Constitucional.
 
 **Art 28 - Hallazgo 4 (Loophole):** El artículo limita el "número de ministerios" pero no previene la creación de organismos equivalentes con otro nombre (agencias, secretarías, comisiones ejecutivas, etc.) que en la práctica funcionen como ministerios sin llamarse así. Un atacante sofisticado podría crear 50 "agencias ejecutivas" que funcionen exactamente como ministerios pero no cuenten contra el límite de 20. Esto es un vector de inflación burocrática que elude el espíritu del artículo.
