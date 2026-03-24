@@ -408,7 +408,7 @@ Durante el Proceso de Arranque, este límite puede modificarse con consenso de N
 
 ### Artículo 29: Ministerios - Nombramiento
 
-Los ministros son nombrados y cesados exclusivamente por el Presidente salvo que un ministro sea condenado por delito cuya pena incluya la pérdida del cargo. En ese caso, el cese es automático e independiente de la voluntad del Presidente. Toda persona que pierda un cargo público por condena penal queda inhabilitada permanentemente para ejercer cualquier cargo en la administración pública.
+Los ministros son nombrados y cesados exclusivamente por el Presidente salvo que un ministro sea condenado mediante sentencia penal firme cuya pena incluya la pérdida del cargo. En ese caso, el cese es automático e independiente de la voluntad del Presidente. Toda persona que pierda un cargo público por condena penal queda inhabilitada permanentemente para ejercer cualquier cargo en la administración pública.
 
 ---
 

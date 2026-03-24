@@ -29,27 +29,7 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 26-30
 
-Revisión del Artículo 28: Ministerios - Límite Constitucional.
-
-**Art 28 - Hallazgo 4 (Loophole):** El artículo limita el "número de ministerios" pero no previene la creación de organismos equivalentes con otro nombre (agencias, secretarías, comisiones ejecutivas, etc.) que en la práctica funcionen como ministerios sin llamarse así. Un atacante sofisticado podría crear 50 "agencias ejecutivas" que funcionen exactamente como ministerios pero no cuenten contra el límite de 20. Esto es un vector de inflación burocrática que elude el espíritu del artículo.
-Propuesta: Añadir algo como "o entidades equivalentes bajo cualquier denominación que ejerzan funciones ministeriales" después de "ministerios". Alternativamente, esto podría dejarse a la legislación ordinaria, pero dado que el espíritu del artículo es prevenir inflación burocrática como dice la Parte 2, el loophole es relevante.
-
-**Art 29 - Hallazgo 2 (Scope / Loophole)**: La inhabilitación permanente por condena penal es una regla general ("toda persona que pierda un cargo público") metida dentro de un artículo específico sobre ministerios. Esto es problemático por dos razones:
-
-- Si un legislador o juez pierde su cargo por condena penal, la inhabilitación le aplica porque dice "toda persona" y "cualquier cargo en la administración pública". Pero su ubicación en un artículo sobre ministerios la hace fácil de pasar por alto o disputar interpretativamente ("esta norma aplica en el contexto del subtítulo de Poder Ejecutivo").
-- Un atacante sofisticado podría argumentar que, al estar en el artículo de nombramiento de ministros, la inhabilitación solo aplica a ministros o cargos del Ejecutivo.
-
-Propuesta: extraer la regla de inhabilitación permanente a un artículo de principios generales (Título I, junto al Art 8 de igualdad ante la ley), o al menos a un artículo independiente. Si se quiere mantener aquí, añadir "con independencia del poder al que pertenezca el cargo" para cerrar la ambiguedad.
-
-**Art 29 - Hallazgo 3 (Consistencia / DRY)**: El Art 4 (línea 77) dice "Las restricciones de derechos derivadas de condena penal firme se rigen por la ley, dentro de los límites de esta Constitución." Pero el Art 29 no exige que la condena sea "firme". Un ministro podría ser cesado automáticamente por condena en primera instancia, mientras aún puede apelar. Esto contradice el espíritu del Art 34 (derecho a apelación y casación). Si la condena no es firme, el cese automático podría usarse como vector de ataque: un juez corrupto condena en primera instancia a un ministro incómodo, provocando su cese automático incluso si la condena será revocada en apelación.
-
-Propuesta: añadir "condena penal firme" en lugar de "condenado por delito", coherente con la terminología del Art 4.
-
-## Revisión del Artículo 30: Presupuesto Anterior por Defecto
-
-**Art 30 - Hallazgo 4 (Loophole):** El artículo dice "se prorroga automáticamente el presupuesto del año anterior", pero no limita cuántas veces consecutivas puede ocurrir esto. Un Legislativo deliberadamente disfuncional (o un Ejecutivo que no envía propuesta) podría perpetuar un presupuesto obsoleto indefinidamente, sin que nunca haya debate presupuestario real. Esto podría usarse como estrategia: aprobar un presupuesto favorable una vez y luego bloquear cualquier cambio para siempre, ajustándose solo por inflación.
-
-Propuesta: Considerar un límite de prórrogas consecutivas (por ejemplo, máximo 2 años sin presupuesto nuevo obliga a X consecuencia), o al menos discutir si este vector merece atención. Es un caso límite, pero con un atacante con recursos ilimitados, capturar una mayoría de bloqueo es factible.
+**Art 29 - Hallazgo 2 (Scope / Loophole) — PENDIENTE**: La inhabilitación permanente por condena penal es una regla general metida dentro de un artículo específico sobre ministerios. Debe moverse al Título I. Pendiente de implementar (requiere renumeración). Proteger a N5.
 
 ---
 
