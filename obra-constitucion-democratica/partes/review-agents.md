@@ -5,70 +5,9 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ---
 
-## Arts 1-5
-
----
-
-## Arts 6-10
-
----
-
-## Arts 11-15
-
-
-
----
-
-## Arts 16-20
-
----
-
-## Arts 21-25
-
----
-
-## Arts 26-30
-
----
-
-## Arts 31-35
-
-
----
-
-## Arts 36-40
-
----
-
-## Arts 41-45
-
-
----
-
 ## Arts 46-50
 
 
-## Revisión Art 47: Transparencia Presupuestaria
-
-**Art 47 - Inconsistencia sujeto legitimado**: El Art 47 dice "cualquier ciudadano o persona con residencia fiscal en el país". El Art 48 (Auditoría Pública) dice solo "cualquier ciudadano". El Art 31 usa la misma formulación que el 47 ("ciudadano o persona con residencia fiscal"). Hay una inconsistencia entre Art 47/31 y Art 48: un residente fiscal que no es ciudadano puede consultar presupuestos (Art 47) pero no tiene derecho a auditar esos mismos datos (Art 48). Probablemente no es intencionado. La argumentación en la Parte 2 sobre auditoría ciudadana solo dice "cualquier ciudadano". Propuesta: unificar el sujeto legitimado en Arts 47 y 48 con la misma formulación, probablemente la más amplia ("ciudadano o persona con residencia fiscal").
-
-**Art 47 - "Desviaciones significativas" sin definir**: El numeral 4 exige "justificación de desviaciones significativas" sin definir qué es "significativa". Un atacante puede presentar desviaciones enormes y argumentar que no son "significativas" porque no hay umbral. Propuesta: definir un umbral numérico (porcentaje sobre la partida, o sobre el total presupuestado) a partir del cual la desviación requiere justificación, o delegar explícitamente la definición a legislación ordinaria.
-
-**Art 47 - No especifica quién publica ni consecuencias por incumplimiento**: El artículo dice "se publican" en voz pasiva. No identifica al responsable de la publicación ni establece consecuencias si no se publica, si se publica tarde o si se publica información falsa. Un atacante puede simplemente no publicar o publicar datos maquillados sin que el artículo establezca responsabilidad ni sanción. Propuesta: identificar al responsable (Ejecutivo, cada poder para su propio presupuesto, o un órgano específico) y, como mínimo, que la omisión o falsificación sea causa de las consecuencias ya previstas en otros artículos (o delegar a legislación ordinaria).
-
-1. **Loophole**: "desviaciones significativas" sin umbral -- explotable.
-2. **Loophole**: no hay responsable identificado ni consecuencia por incumplimiento de la obligación de publicación.
-3. **Inconsistencia**: sujeto legitimado difiere entre Art 47 y Art 48.
-## Revisión del Artículo 48: Auditoría Pública
-
-**Art 48 - Inconsistencia de sujeto con Art 47**: El Art 47 otorga el derecho de consulta presupuestaria a "cualquier ciudadano o persona con residencia fiscal en el país". El Art 48 lo restringe a "cualquier ciudadano". Dado que el Art 48 es el derecho general de auditoría (más amplio que el presupuestario), debería ser al menos igual de inclusivo que el Art 47. Un residente fiscal que paga impuestos puede ver el presupuesto (Art 47) pero no auditar otros datos públicos (Art 48). Esto es incoherente.
-Propuesta: unificar el sujeto a "cualquier ciudadano o persona con residencia fiscal en el país" en ambos artículos, o solo en el 48 si se entiende como el artículo general.
-
-**Art 48 - Loophole: sin consecuencia por incumplimiento del plazo de 30 días**: El artículo dice que la información "debe haber llegado al ciudadano" en 30 días, pero no establece qué pasa si no llega. Un atacante institucional puede simplemente ignorar las solicitudes. No hay sanción, no hay silencio administrativo positivo, no hay recurso judicial explícito. Comparar con el Art 53, que sí tiene mecanismos de auditoría por comisión legislativa para excepciones clasificadas.
-Propuesta: añadir una consecuencia. Opciones: (a) silencio positivo (se entiende que la información no existe o que confirma la irregularidad denunciada), (b) recurso judicial directo ante incumplimiento, (c) responsabilidad personal del funcionario encargado. La opción (b) es la más equilibrada: "El incumplimiento de este plazo habilita al solicitante a recurrir ante el Poder Judicial, que resolverá con carácter preferente."
-
-1. **Inconsistencia sujeto Art 47 vs Art 48** -- clara y fácil de corregir.
-2. **Sin consecuencia por incumplimiento del plazo** -- loophole real, un Estado que no quiera cumplir simplemente no cumple.
 
 **Art 49 - Comandante en Jefe: Revisión**
 

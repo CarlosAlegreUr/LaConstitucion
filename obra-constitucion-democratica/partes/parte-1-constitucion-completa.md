@@ -678,7 +678,7 @@ Cualquier ciudadano o persona con residencia fiscal en el país puede consultar 
 
 ### Artículo 48: Auditoría Pública
 
-Cualquier ciudadano tiene derecho a auditar los datos públicos registrados en los sistemas establecidos en esta Constitución. El Estado debe proporcionar un proceso de consulta accesible, gratuito y comprensible. Como máximo 30 días después de la consulta, la información solicitada debe haber llegado al ciudadano.
+Cualquier ciudadano tiene derecho a auditar los datos públicos registrados en los sistemas establecidos en esta Constitución. El Estado debe proporcionar un proceso de consulta accesible, gratuito y comprensible. Como máximo 30 días después de la consulta, la información solicitada debe haber llegado al ciudadano. El incumplimiento de este plazo siempre habilitará al solicitante a recurrir ante el Poder Judicial.
 
 ---
 
