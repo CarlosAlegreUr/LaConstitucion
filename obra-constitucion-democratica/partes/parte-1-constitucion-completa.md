@@ -495,8 +495,6 @@ En caso de empate en los primeros 2 bytes del hash entre dos o más magistrados 
 
 El método concreto de sorteo puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N1, siempre que el método alternativo cumpla las tres características establecidas (determinista, no manipulable, públicamente verificable). Fuera del Proceso de Arranque, este procedimiento no puede modificarse.
 
-En caso de vacante antes de la expiración del mandato, el sustituto es nombrado conforme al artículo 37 y sirve únicamente el tiempo restante del mandato original, preservando el calendario de renovación escalonada.
-
 Los parámetros numéricos de este artículo (9 magistrados, 12 años de mandato, 8 años de exclusión, 4 años de ciclo de renovación, 3 magistrados por ciclo) pueden modificarse mediante consenso de Nivel N5. Cualquier modificación de estos parámetros debe mantener la coherencia de la renovación escalonada: el número total de magistrados debe ser divisible por el número de magistrados renovados por ciclo. La modificación o eliminación de este requisito de coherencia requiere consenso de Nivel N6.
 
 ---

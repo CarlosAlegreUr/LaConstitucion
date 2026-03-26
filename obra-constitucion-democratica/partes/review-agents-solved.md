@@ -365,8 +365,6 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 
 **Hallazgo 1 - Exclusión por discapacidad:** "Quien carezca de ambos no puede acceder al cargo" eliminada. Sustituida por cadena de respaldo biométrica completa (manos → pies → retina), misma que Art 34.
 
-**Hallazgo 5 - Vacantes anticipadas:** Añadida cláusula: sustituto nombrado conforme al Art 37, sirve el tiempo restante del mandato original.
-
 **Hallazgo 6 - Coherencia matemática:** Añadida restricción: el número total de magistrados debe ser divisible por el número de magistrados renovados por ciclo. La modificación de este requisito requiere N6.
 
 ---
