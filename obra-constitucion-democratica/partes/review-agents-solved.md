@@ -377,7 +377,7 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 
 **Hallazgo 1 - Sin protección de parámetros:** Resuelto. Añadida cláusula: "La modificación de cualquier parámetro de este artículo fuera del Proceso de Arranque requiere consenso de Nivel N5."
 
-**Hallazgo 2 - Sin mínimo de candidatos:** Pendiente. El número de candidatos se delega al Arranque. Discutir si añadir mínimo constitucional.
+**Hallazgo 2 - Sin mínimo de candidatos:** Resuelto. Añadido: "El número total de candidatos debe ser estrictamente superior al número de vacantes."
 
 **Hallazgo 3 - Falta modificabilidad post-Arranque:** Resuelto por la cláusula N5 general.
 
