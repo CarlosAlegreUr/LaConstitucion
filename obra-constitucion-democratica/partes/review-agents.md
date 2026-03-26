@@ -47,19 +47,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 46-50
 
-## Revisión del Artículo 46: Anulación Popular de Decisiones Judiciales
-
-**Art 46 - Consistencia (3):** El Art. 6 regula la anulacion popular de decisiones *legislativas* y el Art. 46 la de decisiones *judiciales*, pero hay una inconsistencia en la mecanica. El Art. 6 exige secreto, verificabilidad y auditoria publica (referencias a Arts. 5 y 17). El Art. 46 no menciona ninguna de estas garantias para la recogida de firmas. Si la recogida de firmas es publica (no secreta), un atacante podria presionar o intimidar firmantes.
-- Propuesta: anadir una clausula en Art. 46 que establezca que la recogida de firmas cumplira las garantias de verificabilidad y auditoria publica (al menos Arts. 5 y 17), o referenciar explicitamente al Art. 6 para heredar esas garantias.
-
-**Art 46 - Loophole (4a):** El periodo de reflexion de 3 meses corre "desde que la decisión judicial devino firme." Pero no hay plazo maximo para iniciar la recogida de firmas ni para completarla. Un atacante con recursos podria mantener una campana de recogida de firmas indefinidamente contra cualquier decision judicial, creando inseguridad juridica permanente. Ademas, podria iniciar recogidas de firmas simultaneas contra multiples decisiones judiciales como forma de presion sistemica al poder judicial.
-- Propuesta: establecer (a) un plazo maximo desde la firmeza de la decision para iniciar la recogida de firmas (ej: 2 anos), (b) un plazo maximo para completar la recogida una vez iniciada, y (c) considerar un limite de procesos de anulacion popular activos simultaneamente (similar al limite de 10 packs del Art. 43).
-
-**Art 46 - Loophole (4d):** El Art. 46 punto 4 remite al Art. 44 para sanciones al juez. Pero el Art. 44 solo contempla "anulacion popular ordinaria" (tercer bloque del Art. 44). Para el ambito constitucional, el Art. 44 ya tiene un mecanismo propio de responsabilidad penal judicial (segundo bloque), que se basa en el Art. 43 (revision constitucional cada 6 anos), no en anulacion popular. Si se anula popularmente una decision de inconstitucionalidad via Art. 46 ambito constitucional, no queda claro si el juez es sancionado por el Art. 44 bloque 2 (inconstitucionalidad, 20 anos de prision para magistrados del TS) o por alguna otra via. El Art. 46.4 dice "según el ámbito correspondiente", pero el Art. 44 no tiene un bloque especifico para "anulacion popular constitucional."
-- Propuesta: verificar si la intencion es que la anulacion popular constitucional active las sanciones del bloque de inconstitucionalidad del Art. 44 (con sus 20 anos de prision para TS), y si es asi, hacerlo explicito. Si no, definir que sancion aplica.
-
-**Art 46 - Alineamiento (5):** El Art. 46 no tiene clausula de modificabilidad de sus parametros numericos (3 meses, 10%, 30%, 7 dias). Otros articulos similares (ej: Art. 40 con N6, Art. 43 con periodos) si establecen que nivel de consenso se necesita para modificar sus parametros. Un atacante podria intentar modificar estos umbrales por via legislativa ordinaria (N1).
-- Propuesta: anadir clausula de que los parametros numericos de este articulo solo pueden modificarse mediante consenso de Nivel N5 o N6, coherente con la proteccion de otros mecanismos de control.
 
 ## Revisión Art 47: Transparencia Presupuestaria
 

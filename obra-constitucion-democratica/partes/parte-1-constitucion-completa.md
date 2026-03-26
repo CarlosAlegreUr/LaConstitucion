@@ -644,7 +644,7 @@ Convocatoria:
 
 Recogida de firmas:
 
-Solo se contabilizan firmas de ciudadanos vivos con derecho a voto en el momento de la verificación; si un firmante fallece, su firma deja de ser válida. Transcurridos 7 días desde que se alcanza el umbral de firmas correspondiente, la decisión judicial queda anulada.
+La recogida de firmas debe ser declarada formalmente antes de su inicio. Solo se contabilizan las firmas recogidas después de la declaración; las anteriores no son válidas. El plazo máximo para completar la recogida es de 2 años desde la declaración. Solo se contabilizan firmas de ciudadanos vivos con derecho a voto en el momento de la verificación; si un firmante fallece, su firma deja de ser válida. Transcurridos 7 días desde que se alcanza el umbral de firmas correspondiente, la decisión judicial queda anulada.
 
 Efecto:
 
@@ -654,6 +654,8 @@ Cuando la anulación popular alcanza el umbral establecido:
 2. En el ámbito constitucional: la norma que había sido declarada inconstitucional recupera su vigencia (o queda confirmada su nulidad, según el sentido de la anulación).
 3. La anulación popular no constituye precedente vinculante: futuras disputas sobre normas similares deben resolverse nuevamente por la vía judicial ordinaria, salvo nueva anulación popular.
 4. El juez responsable de la decisión anulada queda sujeto a sanción penal conforme al artículo 45, de menor gravedad que las establecidas para los casos de inconstitucionalidad en el artículo 44.
+
+Los parámetros numéricos de este artículo (3 meses de reflexión, 10% y 30% del censo nacional, 7 días tras alcanzar el umbral, 2 años para completar la recogida de firmas) pueden modificarse mediante consenso de Nivel N6.
 
 ---
 
