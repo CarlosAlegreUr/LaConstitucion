@@ -561,9 +561,13 @@ Todos los parámetros numéricos del artículo 43 están protegidos a N5. No se 
 
 ## Responsabilidad penal bidireccional
 
-Los legisladores que aprueban leyes inconstitucionales son sancionados penalmente. Pero los jueces que declaran leyes inconstitucionales erróneamente también lo son. Esta bidireccionalidad evita dos abusos simétricos: legisladores que ignoran la Constitución y jueces que abusan de su poder de control.
+El artículo 44 centraliza las responsabilidades penales derivadas del proceso de constitucionalidad. Es bidireccional en dos sentidos: sanciona tanto a legisladores que aprueban leyes inconstitucionales como a jueces que se equivocan al resolver sobre constitucionalidad — en cualquier dirección. Un juez que declara inconstitucional una ley que era constitucional y un juez que deja pasar una ley inconstitucional asumen la misma responsabilidad. Un juez está obligado a resolver; no puede eludir la decisión, así que debe responder por equivocarse en cualquier sentido.
 
-Además, los jueces cuyas decisiones ordinarias sean anuladas popularmente (artículo 46, ámbito ordinario) también asumen responsabilidad penal, aunque de menor gravedad que la de inconstitucionalidad. La distinción de gravedad es deliberada: un error en constitucionalidad afecta a todo el ordenamiento jurídico; una decisión ordinaria anulada popularmente refleja una discrepancia entre interpretación judicial y voluntad popular, pero no necesariamente un fallo técnico del juez.
+La revisión del error judicial se realiza mediante el procedimiento del artículo 43 pero aplicando el texto constitucional y las configuraciones vigentes en el momento en que la decisión fue emitida. Esto es fundamental: si la Constitución se reforma entre la decisión y la revisión, el juez no puede ser castigado por aplicar correctamente la Constitución de su momento.
+
+Las responsabilidades penales por otros mecanismos (anulación popular del artículo 46, incapacidad presidencial del artículo 27) se definen en sus respectivos artículos, referenciando al artículo 45 para las sanciones concretas y al artículo 44 como baremo de gravedad. Cada mecanismo gestiona sus propias consecuencias.
+
+Las sanciones concretas (artículo 45) se establecen durante el Arranque con N3 — un umbral más alto que el N1 habitual porque definir penas criminales merece consenso amplio. La sanción por defecto para legisladores es el pago de 10 años de su salario como deuda, aplicable si el Arranque no define otra. Para magistrados del Tribunal Supremo, la sanción mínima constitucional es de 20 años de prisión, configurable durante el Arranque con N3 y modificable posteriormente con N5.
 
 La sanción económica solo puede pagarse con salario de trabajo personal (no inversiones, donaciones ni venta de activos). Esto impide que un rico pague la multa fácilmente y la convierta en un coste de negocio.
 
