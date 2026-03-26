@@ -533,7 +533,7 @@ En caso de vacante antes de la expiración del mandato, el sustituto es nombrado
 
 El Legislativo puede cesar al Presidente mediante votación de consenso N1. El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo (artículo 13) y del Presidente (artículo 24) en un plazo mínimo de 7 días y máximo de 30 días.
 
-Durante el Proceso de Arranque, el plazo de convocatoria de nuevas elecciones puede fijarse dentro del rango de 7 a 30 días mediante consenso de Nivel N1. El plazo puede ajustarse dentro de este rango mediante consenso de Nivel N4. Los límites del rango (7 y 30 días) pueden modificarse mediante consenso de Nivel N5. El nivel de consenso requerido para el cese del Presidente (N1) puede modificarse mediante consenso de Nivel N6.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6. No son modificables durante el Proceso de Arranque, salvo el plazo de convocatoria de nuevas elecciones, que puede fijarse dentro del rango de 7 a 30 días mediante consenso de Nivel N1. Fuera del Arranque, el plazo puede ajustarse dentro de este rango mediante consenso de Nivel N4.
 
 El mecanismo de autodestrucción mutua no puede activarse durante un estado de excepción declarado conforme al artículo 55. Si se produce un estado de excepción durante el periodo entre la activación de la autodestrucción mutua y la celebración de las nuevas elecciones, el Legislativo disuelto se reconvoca exclusivamente para ejercer las funciones de control establecidas en los artículos del 58 al 63 incluidos. Fuera de estas funciones, el Legislativo permanece disuelto.
 
