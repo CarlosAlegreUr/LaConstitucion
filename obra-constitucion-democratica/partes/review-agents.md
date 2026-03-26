@@ -38,14 +38,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 36-40
 
-## Revisión del Artículo 39: Autodestrucción Mutua - Mecanismo
-
-**Art 39 - Hallazgo 2 (Vacío - periodo de transición del Legislativo):** El Art 26 regula detalladamente qué pasa con el Ejecutivo durante el interinato post-autodestrucción (Vicepresidente asume, funciones limitadas a mantenimiento). Pero no hay regulación equivalente para el Legislativo disuelto. Durante los 30 días hasta las nuevas elecciones: queda el Legislativo disuelto en funciones? Se suspende la actividad legislativa? Si se suspende, quién autoriza gastos urgentes? El Art 26 solo habla del Ejecutivo interino. El vacío existe tanto si lo invoca el Presidente como si lo invoca el Legislativo (porque en ambos casos hay nuevas elecciones de ambos).
-
-Propuesta: Definir explícitamente el estatus del Legislativo durante los 30 días post-activación. Opciones: (a) el Legislativo saliente continúa en funciones limitadas, análogo al Ejecutivo interino; (b) la actividad legislativa se suspende completamente durante 30 días. Esto podría ir en el propio Art 39 o en un artículo separado del Subtítulo 1.
-
-1. **Vacío sobre el estatus del Legislativo durante los 30 días** -- el Ejecutivo interino está regulado (Art 26), el Legislativo interino no.
-
 ---
 
 ## Arts 41-45

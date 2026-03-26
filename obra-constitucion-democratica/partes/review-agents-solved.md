@@ -379,6 +379,16 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 
 **Hallazgo 2 - Sin mínimo de candidatos:** Resuelto. Añadido: "El número total de candidatos debe ser estrictamente superior al número de vacantes."
 
+---
+
+## Art 39 (Autodestrucción mutua — Legislativo interino, plazo, VP)
+
+**Hallazgo - Vacío Legislativo durante 30 días:** Resuelto. El Legislativo permanece disuelto pero se reconvoca exclusivamente para funciones de control de estados de excepción (Arts 58-63) si se produce uno durante el periodo. Cierra el loophole de un Presidente corrupto que invoca autodestrucción + aliado extranjero fabrica guerra.
+
+**Cambios adicionales:**
+- Plazo: rango 7-30 días (ajustable con N5, límites con N6)
+- Si el Presidente invoca: ni Presidente ni Vicepresidente pueden presentarse a las elecciones inmediatas (previene estrategia de sacrificio + VP títere)
+
 **Hallazgo 3 - Falta modificabilidad post-Arranque:** Resuelto por la cláusula N5 general.
 
 **Cambio de diseño - Votación:** "Votación popular directa" cambiada a "votación directa y vinculante de los profesionales del derecho". Definición de quién cualifica se establece en Arranque con N1. Coherente con Trevijano: criterio profesional + escalonamiento como protección contra compra de votos.
