@@ -640,7 +640,7 @@ Convocatoria:
 1. Periodo de reflexión: Deben transcurrir al menos 3 meses desde que la decisión judicial devino firme.
 2. Ámbito y umbrales:
    a) Constitucional: Procede contra decisiones judiciales sobre constitucionalidad de leyes. Grupo iniciador: al menos el 10% del censo nacional. Firmas requeridas: Nivel N1 del censo nacional.
-   b) Ordinario: Procede contra decisiones judiciales ordinarias no constitucionales. Grupo iniciador: al menos el 30% del censo nacional. Firmas requeridas: del censo nacional, nivel de consenso igual al mayor nivel que fue requerido para aprobar cualquiera de las leyes en las que se fundamentó la decisión judicial.
+   b) Ordinario: Procede contra decisiones judiciales ordinarias no constitucionales. Grupo iniciador: al menos el 30% del censo nacional. Firmas requeridas: del censo nacional, nivel de consenso igual al mayor nivel que fue requerido para aprobar cualquiera de las leyes en las que se fundamentó la decisión judicial, con un mínimo de Nivel N1 conforme al artículo 23.
 
 Recogida de firmas:
 

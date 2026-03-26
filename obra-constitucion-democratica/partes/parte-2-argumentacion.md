@@ -577,7 +577,9 @@ Cuando el Tribunal Supremo declara una ley inconstitucional, su decisión es té
 
 El periodo de reflexión de 3 meses evita reacciones impulsivas. El umbral del 51% del censo (no de los votantes) garantiza que la anulación represente una mayoría real de la sociedad, no solo de los movilizados.
 
-La anulación popular también se extiende a decisiones judiciales ordinarias (no constitucionales), con umbrales más altos: 30% del censo como grupo iniciador y firmas del nivel de consenso igual al mayor nivel que fue requerido para aprobar las leyes en las que se fundamentó la decisión. Esto es coherente con la jerarquía del artículo 1: si el pueblo creó una ley con un determinado nivel de consenso, necesita al menos ese mismo nivel para contradecir la interpretación judicial de esa ley.
+La anulación popular también se extiende a decisiones judiciales ordinarias (no constitucionales), con umbrales más altos: 30% del censo como grupo iniciador y firmas del nivel de consenso igual al mayor nivel que fue requerido para aprobar las leyes en las que se fundamentó la decisión, con un mínimo de N1. Esto es coherente con la jerarquía del artículo 1: si el pueblo creó una ley con un determinado nivel de consenso, necesita al menos ese mismo nivel para contradecir la interpretación judicial de esa ley.
+
+La recogida de firmas debe declararse formalmente antes de iniciarse — las firmas anteriores a la declaración no son válidas. Esto impide la acumulación silenciosa de firmas como forma de presión permanente al Judicial. Una vez declarada, el plazo máximo para completar la recogida es de 2 años. Todos los parámetros del artículo están protegidos a N6, coherente con que la anulación popular es un mecanismo de control democrático directo cuya accesibilidad no puede neutralizarse sin cuasi-unanimidad.
 
 ---
 ---
