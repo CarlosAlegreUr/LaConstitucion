@@ -555,9 +555,9 @@ Los parámetros numéricos de este artículo (6 meses, 12 meses, 3 meses) pueden
 
 ---
 
-### Artículo 41: Incumplimiento Grave del Ejecutivo
+### Artículo 41: Incumplimiento Grave del Presidente
 
-Cuando el Ejecutivo incurra en incumplimiento grave de resoluciones judiciales firmes, podrá iniciarse un proceso para convocar nuevas elecciones al Ejecutivo.
+Cuando el Presidente incurra en incumplimiento grave de resoluciones judiciales firmes, podrá iniciarse un proceso para convocar nuevas elecciones presidenciales.
 
 Iniciativa:
 1. Vía legislativa: consenso de Nivel N1 del Legislativo.
@@ -570,10 +570,11 @@ Causas de incumplimiento grave:
 1. Negarse a ejecutar una sentencia firme del Tribunal Supremo.
 2. Las demás causas que establezca la legislación ordinaria.
 
-La modificación de la lista de causas establecida por legislación ordinaria requiere consenso de Nivel N4.
+La causa 1 no puede ser eliminada ni modificada. La lista de causas adicionales establecida por legislación ordinaria puede expandirse o contraerse mediante consenso de Nivel N4.
 
-Efecto:
-Si el Tribunal Supremo declara el incumplimiento grave, se convocan nuevas elecciones al Ejecutivo en un plazo máximo de 45 días. Durante este periodo se aplican las reglas de sucesión del artículo 26.
+Los parámetros numéricos de este artículo (N1, 10%) pueden modificarse mediante consenso de Nivel N6.
+
+Si el Tribunal Supremo declara el incumplimiento grave, se convocan nuevas elecciones presidenciales conforme a los plazos y las reglas de sucesión del artículo 26. El interino ejerce exclusivamente funciones de mantenimiento del orden institucional.
 
 ---
 

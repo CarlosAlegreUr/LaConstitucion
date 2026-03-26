@@ -385,9 +385,27 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 
 **Hallazgo - Vacío Legislativo durante 30 días:** Resuelto. El Legislativo permanece disuelto pero se reconvoca exclusivamente para funciones de control de estados de excepción (Arts 58-63) si se produce uno durante el periodo. Cierra el loophole de un Presidente corrupto que invoca autodestrucción + aliado extranjero fabrica guerra.
 
-**Cambios adicionales:**
-- Plazo: rango 7-30 días (ajustable con N5, límites con N6)
-- Si el Presidente invoca: ni Presidente ni Vicepresidente pueden presentarse a las elecciones inmediatas (previene estrategia de sacrificio + VP títere)
+**Cambios adicionales Art 39:**
+- Plazo: rango 7-30 días (N4 dentro del rango, N6 para límites y demás parámetros, N1 en Arranque solo para el plazo)
+- Nadie queda excluido de presentarse — el pueblo siempre decide
+
+---
+
+## Art 41 (Incumplimiento Grave del Presidente)
+
+**Hallazgo 1 - Falta modificabilidad:** Resuelto. N6 para N1 y 10%.
+
+**Hallazgo 2 - Presidente puede presentarse:** Non-issue. Coherente con Art 39 — nadie queda excluido.
+
+**Hallazgo 3 - Sin cooldown:** Non-issue. El Tribunal Supremo filtra abusos.
+
+**Hallazgo 6 - Régimen de sucesión:** Resuelto. Interino con funciones de mantenimiento.
+
+**Cambios adicionales Art 41:**
+- Título y texto: "Ejecutivo" → "Presidente"
+- Causa 1 no eliminable ni modificable; lista adicional expandible/contraíble con N4
+- Plazos: referencia al Art 26 (DRY); interino limitado a mantenimiento
+- Quitada etiqueta "Efecto:"
 
 **Hallazgo 3 - Falta modificabilidad post-Arranque:** Resuelto por la cláusula N5 general.
 
