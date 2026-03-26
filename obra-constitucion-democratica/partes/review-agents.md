@@ -41,25 +41,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 **Art 36 - Vacantes anticipadas:** Pendiente. ¿Qué pasa cuando un magistrado deja el cargo antes de que expire su mandato? Discutir.
 
 
-## Revisión del Artículo 37: Tribunal Supremo - Nombramiento
-
-Los candidatos a magistrado del Tribunal Supremo son propuestos exclusivamente por las siguientes instituciones, cada una con al menos 10 años de funcionamiento en el país:
-
-1. Colegios de abogados.
-2. Facultades de derecho acreditadas.
-3. Asociaciones de jueces de instancias inferiores al Tribunal Supremo.
-
-**Art 37 - Loophole 1: Sin nivel de consenso para modificar parametros.** Este articulo no tiene clausula de modificacion de parametros. El requisito de 10 anos, las 3 categorias de instituciones proponentes, y el propio mecanismo de eleccion popular no tienen proteccion explicita. Contrasta con el Art 36 que protege sus parametros a N5, y con el Art 35 que protege requisitos de jueces a N5. Un Legislativo hostil podria modificar estos requisitos por ley ordinaria (mayoria simple) y capturar el proceso de nombramiento. --> Anadir clausula: "Los parametros de este articulo (10 anos de funcionamiento, categorias de instituciones proponentes, eleccion popular) pueden modificarse mediante consenso de Nivel N5." Coherente con la proteccion de Arts 35 y 36.
-
-**Art 37 - Loophole 2: Sin limite de candidatos por institucion ni minimo total.** El numero de candidatos propuestos se delega al Proceso de Arranque, pero no hay minimos constitucionales. Una institucion podria proponer 1 solo candidato, o se podria configurar el sistema para que haya exactamente tantos candidatos como vacantes, haciendo la "eleccion popular" una mera ratificacion sin opcion real. --> Establecer un minimo constitucional, por ejemplo: "Cada institucion proponente debe presentar al menos 2 candidatos por vacante." O al menos: "El numero total de candidatos debe ser superior al numero de vacantes."
-
-**Art 37 - Consistencia: Falta clausula de modificabilidad del procedimiento post-Arranque.** El procedimiento se establece durante el Proceso de Arranque, pero no se dice con que nivel de consenso puede modificarse despues. Comparar con el Art 36 que distingue explicitamente entre Arranque y post-Arranque. --> Anadir algo como: "La modificacion del procedimiento fuera del Proceso de Arranque requiere consenso de Nivel N5."
-
-1. **Critico** - Falta clausula de proteccion de parametros (loophole 1). Esto es un vacio real que permite modificacion por ley ordinaria.
-2. **Importante** - Falta clausula de modificabilidad del procedimiento post-Arranque (consistencia). Actualmente queda ambiguo si el procedimiento configurado en el Arranque es inmutable o modificable por cualquier mayoria.
-3. **Medio** - Sin minimo de candidatos por vacante (loophole 2). Riesgo de eleccion sin opcion real.
-4. **Informativo** - Riesgo de captura de instituciones proponentes (loophole 3). Riesgo aceptado por diseno.
-
 ## Revisión del Artículo 38: Tribunal Supremo - Renovación Escalonada
 
 **Art 38 (DRY/redundancia)**: El artículo entero es redundante. Todo lo que dice ya está establecido en el artículo 36:

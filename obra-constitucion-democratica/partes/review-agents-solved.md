@@ -367,7 +367,21 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 
 **Hallazgo 3 - DRY Art 36/38:** Resuelto. Procedimientos movidos al Art 38. Art 36 queda solo con composición y parámetros. Art 38 renombrado "Procedimientos de Constitución y Renovación".
 
+**Hallazgo 5 - Vacantes anticipadas:** Pendiente de discutir.
+
 **Hallazgo 6 - Coherencia matemática:** Añadida restricción: el número total de magistrados debe ser divisible por el número de magistrados renovados por ciclo. La modificación de este requisito requiere N6.
+
+---
+
+## Art 37 (Nombramiento — votación, protección, mínimo candidatos)
+
+**Hallazgo 1 - Sin protección de parámetros:** Resuelto. Añadida cláusula: "La modificación de cualquier parámetro de este artículo fuera del Proceso de Arranque requiere consenso de Nivel N5."
+
+**Hallazgo 2 - Sin mínimo de candidatos:** Pendiente. El número de candidatos se delega al Arranque. Discutir si añadir mínimo constitucional.
+
+**Hallazgo 3 - Falta modificabilidad post-Arranque:** Resuelto por la cláusula N5 general.
+
+**Cambio de diseño - Votación:** "Votación popular directa" cambiada a "votación directa y vinculante de los profesionales del derecho". Definición de quién cualifica se establece en Arranque con N1. Coherente con Trevijano: criterio profesional + escalonamiento como protección contra compra de votos.
 
 ---
 
