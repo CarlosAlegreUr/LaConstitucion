@@ -489,7 +489,7 @@ Los parámetros numéricos (9, 12, 8, 4, 3) están protegidos a N5. La coherenci
 
 ### Nombramiento de magistrados del Tribunal Supremo
 
-Los candidatos son propuestos por instituciones jurídicas (colegios de abogados, facultades de derecho, asociaciones de jueces). La elección final la realizan los profesionales del derecho mediante votación directa, vinculante e indelegable. ¿Por qué no votación popular de toda la ciudadanía? Porque el ciudadano medio no tiene criterio para evaluar competencia jurídica — votaría por nombre, carisma o campaña, no por rigor legal. Los profesionales del derecho sí tienen ese criterio.
+Los candidatos son propuestos por instituciones jurídicas (colegios de abogados, facultades de derecho, asociaciones de jueces). La elección final la realizan los profesionales del derecho mediante votación directa, vinculante e indelegable. ¿Por qué no votación popular de toda la ciudadanía? Como argumentaba Trevijano, la selección de jueces es una cuestión técnica: el ciudadano medio no tiene criterio para evaluar competencia jurídica — votaría por nombre, carisma o campaña, no por rigor legal. Los profesionales del derecho sí tienen ese criterio.
 
 Un electorado profesional más reducido es más vulnerable a compra de votos que millones de ciudadanos. Aquí es donde la renovación escalonada actúa como protección complementaria: incluso si un atacante compra votos en un ciclo, solo captura un tercio del tribunal. Y los profesionales del derecho suelen tener ingresos medios-altos, lo cual encarece la compra. La combinación electorado profesional + escalonamiento ofrece criterio técnico sin sacrificar protección contra captura.
 

@@ -55,30 +55,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 4. **Loophole serio**: las 100 plazas de impugnación simultánea son saturables por un atacante sin filtro de admisibilidad.
 5. Ambiguedad en cuándo empieza a contar el periodo de 6 años entre revisiones.
 6. Falta plazo máximo de resolución por instancia (dilación como arma).
-**Art 44 - Hallazgo 1 (Referencia cruzada faltante):** El Art 44 define sanciones ("20 años de prisión" para magistrados del Supremo, "similar o mayor dureza" para legisladores), pero el Art 45 es el que se titula "Sanciones Judiciales" y establece que las sanciones concretas se definen en el Proceso de Arranque. Sin embargo, el Art 44 no referencia al Art 45 en ningún momento. Al mismo tiempo, el Art 44.4 ya fija directamente la sanción del Tribunal Supremo en "20 años de prisión", lo cual crea una tensión con el Art 45 que dice que las sanciones se establecen durante el Arranque. Hay dos problemas aquí:
-- (a) Falta referencia explícita al Art 45 desde el Art 44.
-- (b) La sanción de 20 años para el Supremo está hardcodeada en el Art 44, mientras que el Art 45 habla de que las sanciones se establecen en el Arranque. No queda claro si los 20 años son modificables o no.
-
-Propuesta: Añadir en Art 44 una referencia explícita al Art 45 ("conforme a las sanciones establecidas en el artículo 45"). Aclarar en Art 45 que la sanción de 20 años del Tribunal Supremo es constitucional y no configurada en Arranque (o mover los 20 años al Art 45 donde pertenecen temáticamente).
-
-Propuesta: Si es deliberado, OK. Si no, considerar si la abstención en una votación donde la ley resulta inconstitucional debería tener alguna consecuencia menor, o al menos discutirlo.
-
-**Art 44 - Hallazgo 3 (Loophole - ventana de responsabilidad del juez vs. periodo de carencia):** El periodo de carencia es de 6 años antes de poder iniciar una nueva revisión constitucional. La ventana de responsabilidad del juez es de 10 años. Esto significa que solo hay una oportunidad real de revisión dentro de la ventana (a los 6 años), y si esa revisión tarda más de 4 años en resolverse, podría exceder la ventana de 10 años. Un atacante podría dilatar procesalmente la revisión para que expire la ventana.
-
-Propuesta: Aclarar que la ventana de 10 años se mide hasta el inicio del proceso de revisión, no hasta su resolución. O ampliar la ventana. O especificar que un proceso iniciado dentro de la ventana se resuelve aunque la ventana haya expirado al momento de la sentencia.
-
-**Art 44 - Hallazgo 4 (Ambiguedad - "decisión deviene firme"):** "Si una ley es declarada inconstitucional en cualquier instancia judicial y la decisión deviene firme (no recurrida dentro del plazo establecido, o confirmada como inconstitucional en instancia superior)." El paréntesis explicativo es útil pero podría integrarse. Más relevante: "el plazo establecido" no referencia al artículo 43, donde se establece el plazo de 2 semanas para recurrir de casación al Supremo. Para primera instancia a casación no se especifica plazo en ningún artículo.
-
-Propuesta: Referenciar explícitamente al artículo 43. Verificar que exista un plazo definido para recurrir de primera instancia a casación (actualmente no lo veo definido en el Art 43, que solo establece 2 semanas para el recurso de casación al Supremo).
-
-**Art 44 - Hallazgo 8 (Referencia cruzada incorrecta desde Art 28):** El Art 28 (incapacidad presidencial, línea 389) referencia al Art 44 para sanciones al juez que declara incapacidad erróneamente. Pero el Art 44 habla de inconstitucionalidad y anulación popular, no de declaraciones de incapacidad presidencial. Un juez que emite una declaración de incapacidad errónea no encaja exactamente en ninguna de las tres categorías del Art 44.
-
-Propuesta: Verificar que el Art 44 cubra este caso explícitamente, o crear un mecanismo de sanción específico para declaraciones de incapacidad erróneas, o ampliar el Art 44 para incluir este supuesto.
-
-1. **Falta referencia Art 44 -> Art 45** y tensión entre sanción hardcodeada (20 años) y sanciones configurables del Arranque.
-2. **Loophole ventana de responsabilidad**: un atacante puede dilatar procesalmente hasta que expire la ventana de 10 años.
-3. **Plazo de recurso de 1a instancia a casación no definido** en Art 43 (solo se define el de casación a Supremo).
-4. **Referencia desde Art 28** (incapacidad presidencial) no encaja con las categorías del Art 44.
 
 ## Revisión del Artículo 45: Sanciones Judiciales
 

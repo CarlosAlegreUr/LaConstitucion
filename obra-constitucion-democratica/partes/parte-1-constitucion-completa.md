@@ -604,27 +604,27 @@ Los parámetros numéricos de este artículo (6 años entre revisiones, 10 leyes
 
 ---
 
-### Artículo 44: Responsabilidad Penal Judicial
+### Artículo 44: Responsabilidad Penal de Legisladores y Jueces
 
 Responsabilidad penal de legisladores:
-Si una ley es declarada inconstitucional en cualquier instancia judicial y la decisión deviene firme (no recurrida dentro del plazo establecido, o confirmada como inconstitucional en instancia superior), los legisladores que votaron a favor de dicha ley serán sometidos a sanción penal.
+Si una ley es declarada inconstitucional en cualquier instancia judicial y la decisión deviene firme, los legisladores que votaron a favor de dicha ley serán sometidos a sanción penal conforme al artículo 45.
 
 Responsabilidad penal de jueces por inconstitucionalidad:
 El juez que declare una ley inconstitucional también asume responsabilidad personal, conforme a las siguientes reglas:
 1. Mecanismo de demostración: El error se demuestra mediante una nueva revisión constitucional conforme al artículo 43.
 2. Periodo de carencia: La primera revisión solo puede iniciarse una vez transcurridos 6 años desde la declaración de inconstitucionalidad, conforme al periodo entre revisiones del artículo 43.
-3. Ventana de responsabilidad: El juez responde si dentro de los 10 años siguientes a su declaración de inconstitucionalidad se demuestra que fue errónea.
-4. Gravedad: Las sanciones serán de similar o mayor dureza que las aplicables a los legisladores. Para magistrados del Tribunal Supremo, la sanción por error demostrado es de 20 años de prisión.
+3. Ventana de responsabilidad: El juez responde si dentro de los 10 años siguientes a su declaración de inconstitucionalidad se demuestra que fue errónea. Un proceso de revisión iniciado dentro de esta ventana se resuelve aunque la ventana haya expirado al momento de la sentencia.
+4. Gravedad: Las sanciones serán de similar o mayor dureza que las aplicables a los legisladores, conforme al artículo 45. Para magistrados del Tribunal Supremo, la sanción mínima por error demostrado es de 20 años de prisión. Esta sanción es constitucional y no configurable en el Proceso de Arranque.
 
 Responsabilidad penal de jueces por anulación popular ordinaria:
-Cuando una decisión judicial ordinaria es anulada por el pueblo conforme al artículo 46, el juez responsable será sometido a sanción penal de menor gravedad que las establecidas para inconstitucionalidad.
+Cuando una decisión judicial ordinaria es anulada por el pueblo conforme al artículo 46, el juez responsable será sometido a sanción penal conforme al artículo 45, de menor gravedad que las establecidas para inconstitucionalidad.
 
 Responsabilidad penal de jueces por declaración de incapacidad presidencial revocada:
-Si una declaración de incapacidad presidencial conforme al artículo 27 es revocada en apelación, el juez o tribunal que la emitió será sometido a sanción penal de similar gravedad que las establecidas para inconstitucionalidad.
+Si una declaración de incapacidad presidencial conforme al artículo 27 es revocada en apelación, el juez o tribunal que la emitió será sometido a sanción penal conforme al artículo 45, de similar gravedad que las establecidas para inconstitucionalidad.
 
 ---
 
-### Artículo 45: Sanciones Judiciales
+### Artículo 45: Sanciones para Legisladores y Jueces
 
 Las sanciones concretas para legisladores y jueces de instancias inferiores al Tribunal Supremo se establecen durante el Proceso de Arranque mediante consenso de Nivel N1 y deben ser disuasorias. Las sanciones por anulación popular ordinaria se establecen del mismo modo pero deben ser de menor gravedad que las de inconstitucionalidad. Si la sanción es económica, la multa solo puede ser pagada mediante capital obtenido del salario de trabajos personales del sancionado; no se admite el pago mediante inversiones, donaciones, venta de activos ni ningún otro medio distinto del trabajo personal. La modificación posterior de estas sanciones requiere consenso de Nivel N5.
 

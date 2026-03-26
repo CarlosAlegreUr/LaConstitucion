@@ -407,6 +407,20 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 - Plazos: referencia al Art 26 (DRY); interino limitado a mantenimiento
 - Quitada etiqueta "Efecto:"
 
+---
+
+## Art 44 (Responsabilidad Penal de Legisladores y Jueces)
+
+**Hallazgo 1 - Falta referencia Art 45:** Resuelto. Añadido "conforme al artículo 45" en los 4 bloques. 20 años del Supremo aclarados como constitucionales y no configurables en Arranque.
+
+**Hallazgo 3 - Ventana de responsabilidad:** Resuelto. Proceso iniciado dentro de la ventana de 10 años se resuelve aunque la ventana haya expirado.
+
+**Hallazgo 4 - Paréntesis "deviene firme":** Resuelto. Paréntesis eliminado. El Art 43 ya define los plazos de recurso (2 semanas para todos los niveles).
+
+**Hallazgo 8 - Referencia desde Art 27:** Ya resuelto anteriormente (cuarto bloque añadido al Art 44 para incapacidad presidencial revocada).
+
+**Títulos:** "Responsabilidad Penal Judicial" → "Responsabilidad Penal de Legisladores y Jueces". Art 45: "Sanciones Judiciales" → "Sanciones para Legisladores y Jueces".
+
 **Hallazgo 3 - Falta modificabilidad post-Arranque:** Resuelto por la cláusula N5 general.
 
 **Cambio de diseño - Votación:** "Votación popular directa" cambiada a "votación directa y vinculante de los profesionales del derecho". Definición de quién cualifica se establece en Arranque con N1. Coherente con Trevijano: criterio profesional + escalonamiento como protección contra compra de votos.
