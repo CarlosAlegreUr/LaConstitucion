@@ -434,7 +434,7 @@ El Poder Ejecutivo no puede comprometer gastos que excedan los límites aprobado
 
 El Poder Judicial es independiente de los poderes Legislativo y Ejecutivo. Los jueces no reciben órdenes ni instrucciones de ningún otro poder.
 
-El Tribunal Supremo elabora y propone el presupuesto anual del Poder Judicial. El Legislativo puede aprobar o rechazar el presupuesto propuesto mediante consenso de Nivel N3, pero no puede modificarlo. Si el presupuesto propuesto es rechazado, se mantiene automáticamente el presupuesto del año anterior ajustado a la inflación.
+El Tribunal Supremo elabora y propone el presupuesto anual del Poder Judicial. Cualquier magistrado puede presentar una propuesta de presupuesto. La propuesta requiere la aprobación de al menos 2/3 de los magistrados del Tribunal Supremo para ser presentada al Legislativo. Si no se alcanza este acuerdo, se mantiene automáticamente el presupuesto del año anterior ajustado a la inflación. El Legislativo puede aprobar o rechazar el presupuesto propuesto mediante consenso de Nivel N3, pero no puede modificarlo. Si el presupuesto propuesto es rechazado, se mantiene automáticamente el presupuesto del año anterior ajustado a la inflación.
 
 El nivel de consenso requerido para el rechazo del presupuesto judicial puede modificarse mediante consenso de Nivel N5.
 
@@ -518,6 +518,10 @@ En caso de empate en los primeros 2 bytes del hash entre dos o más magistrados 
 Renovación escalonada:
 
 Cada 4 años se procede al nombramiento de 3 nuevos magistrados conforme al artículo 37, sustituyendo a los 3 magistrados cuyo mandato haya expirado. Los magistrados salientes podrán ser propuestos nuevamente como candidatos una vez transcurrido el periodo de exclusión establecido en el artículo 36.
+
+Vacantes anticipadas:
+
+En caso de vacante antes de la expiración del mandato, el sustituto es nombrado conforme al artículo 37 y sirve únicamente el tiempo restante del mandato original, preservando el calendario de renovación escalonada. Mientras la vacante no sea cubierta, el escaño vacante se contabiliza como voto en contra en las decisiones del Tribunal Supremo que requieran consenso entre magistrados.
 
 ---
 

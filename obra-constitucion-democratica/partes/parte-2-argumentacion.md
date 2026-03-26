@@ -459,7 +459,9 @@ Un Presidente no puede inflar la burocracia para crear feudos de poder, y un Leg
 
 ### Independencia financiera
 
-El Tribunal Supremo propone su propio presupuesto. El Legislativo puede aprobarlo o rechazarlo (con consenso de Nivel N3), pero no modificarlo. Si lo rechaza, se mantiene el anterior ajustado a inflación. Esta mecánica impide que el Legislativo estrangule económicamente al Judicial como forma de presión política. El nivel N3 de rechazo está protegido a N5, coherente con los demás parámetros judiciales: sin esta protección, un Legislativo con N4 podría rebajar el umbral de rechazo a N1 y estrangular financieramente al Judicial con mayoría simple.
+El Tribunal Supremo propone su propio presupuesto. Cualquier magistrado puede presentar una propuesta, pero se requiere el acuerdo de 2/3 de los magistrados para presentarla al Legislativo. Este umbral interno impide que un presidente del Tribunal o una minoría de magistrados proponga un presupuesto abusivo unilateralmente — y es coherente con el 2/3 que ya se usa para acreditaciones del artículo 35. Si los magistrados no logran ponerse de acuerdo, se mantiene el presupuesto anterior ajustado a inflación: la falta de consenso interno no paraliza la financiación del Judicial.
+
+El Legislativo puede aprobar o rechazar el presupuesto propuesto (con consenso de Nivel N3), pero no modificarlo. Si lo rechaza, se mantiene el anterior ajustado a inflación. El presupuesto judicial tiene así un doble control: 2/3 interno para proponer y N3 externo para rechazar. El nivel N3 de rechazo está protegido a N5, coherente con los demás parámetros judiciales: sin esta protección, un Legislativo con N4 podría rebajar el umbral de rechazo a N1 y estrangular financieramente al Judicial con mayoría simple.
 
 ### Estructura en tres niveles
 
@@ -498,6 +500,12 @@ La definición de quién cualifica como profesional del derecho se establece dur
 Durante el Arranque, los 9 magistrados se nombran simultáneamente pero necesitan mandatos escalonados. El procedimiento concreto de sorteo se elige durante el Arranque con N1, siempre que sea determinista, no manipulable y públicamente verificable. Si no se elige un procedimiento alternativo, se aplica el método por defecto: una función hash criptográfica aplicada a los datos biométricos de cada magistrado, con una cadena de respaldo que garantiza la disponibilidad para cualquier persona independientemente de discapacidades físicas.
 
 ¿Por qué ofrecer un método por defecto? Por cuestión operativa: tener un procedimiento concreto ya definido hace más fluido el Proceso de Arranque. Siguiendo la filosofía de los artículos 5 y 17, lo que la Constitución protege son las características (determinista, no manipulable, verificable), no la tecnología. Fuera del Arranque, el procedimiento de sorteo no puede modificarse — solo se usa una vez y la rotación solo puede ser manipulada al inicio.
+
+### Vacantes anticipadas
+
+Si un magistrado deja el cargo antes de que expire su mandato (fallecimiento, renuncia, inhabilitación), el sustituto sirve únicamente el tiempo restante del mandato original. ¿Por qué no un mandato completo de 12 años? Porque rompería la renovación escalonada: si un magistrado de la cohorte A muere en el año 2 y su sustituto sirve 12 años completos, la cohorte A se desincroniza con las demás. Eventualmente se acumulan renovaciones y un ciclo permite nombrar más magistrados de lo previsto — una ventana de captura. Que el sustituto pueda servir solo 2 semanas (si la vacante ocurre al final del mandato) es un inconveniente menor comparado con romper la protección sistémica del escalonamiento.
+
+Mientras la vacante no se cubra, el escaño vacante se contabiliza como voto en contra en las decisiones del Tribunal Supremo que requieran consenso, coherente con la regla del artículo 23 para escaños legislativos. Esto dificulta las decisiones del tribunal durante la vacante, lo cual funciona como incentivo natural para cubrirla rápidamente.
 
 ---
 ---

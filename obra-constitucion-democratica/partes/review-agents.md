@@ -38,25 +38,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 36-40
 
-**Art 36 - Vacantes anticipadas:** Pendiente. ¿Qué pasa cuando un magistrado deja el cargo antes de que expire su mandato? Discutir.
-
-
-## Revisión del Artículo 38: Tribunal Supremo - Renovación Escalonada
-
-**Art 38 (DRY/redundancia)**: El artículo entero es redundante. Todo lo que dice ya está establecido en el artículo 36:
-- "Cada 4 años se renuevan 3 magistrados" -- Art 36: *"La renovación es escalonada: cada 4 años se renuevan 3 magistrados."*
-- "mandato de 12 años" -- Art 36: *"Cada magistrado es nombrado por un mandato de máximo 12 años."*
-- "conforme al artículo 37" -- ya se infiere del Art 37 (que define el nombramiento).
-- "periodo de exclusión de 8 años" -- Art 36: *"El mandato es renovable tras un periodo de exclusión de 8 años."*
-
-No hay ni un solo dato en el Art 38 que no esté ya en el Art 36. Es una paráfrasis con referencias cruzadas de vuelta al propio artículo que ya lo dice todo. Viola DRY directamente.
-
-Propuesta: eliminar el Art 38 y renumerar. El Art 36 ya contiene toda la información sobre composicion, mandato, exclusion y renovacion escalonada. Si se quiere mantener un artículo separado para la renovación escalonada por claridad estructural, entonces habría que sacar de Art 36 la frase sobre la renovación escalonada y dejarla solo en Art 38, no duplicarla.
-
-**Art 38 (loophole menor -- vacante imprevista)**: Ni el Art 36 ni el Art 38 contemplan qué ocurre si un magistrado deja el cargo antes de que expire su mandato (fallecimiento, renuncia, inhabilitación). El sustituto, sirve el tiempo restante del mandato original para mantener el escalonamiento, o inicia un mandato completo de 12 años? Si inicia mandato completo, la renovación escalonada se desincroniza y eventualmente se acumulan renovaciones, lo cual permite a un gobierno nombrar más de 3 magistrados en un ciclo (captura parcial del tribunal). Esto no es un problema del Art 38 en exclusiva sino del bloque 36-38, pero es el hueco más relevante de este subtítulo.
-
-Propuesta: añadir (en Art 36 o 38, donde se decida) algo como: *"En caso de vacante antes de la expiración del mandato, el sustituto es nombrado conforme al artículo 37 y sirve únicamente el tiempo restante del mandato original."*
-
 ## Revisión del Artículo 39: Autodestrucción Mutua - Mecanismo
 
 **Art 39 - Hallazgo 2 (Vacío - periodo de transición del Legislativo):** El Art 26 regula detalladamente qué pasa con el Ejecutivo durante el interinato post-autodestrucción (Vicepresidente asume, funciones limitadas a mantenimiento). Pero no hay regulación equivalente para el Legislativo disuelto. Durante los 30 días hasta las nuevas elecciones: queda el Legislativo disuelto en funciones? Se suspende la actividad legislativa? Si se suspende, quién autoriza gastos urgentes? El Art 26 solo habla del Ejecutivo interino. El vacío existe tanto si lo invoca el Presidente como si lo invoca el Legislativo (porque en ambos casos hay nuevas elecciones de ambos).
