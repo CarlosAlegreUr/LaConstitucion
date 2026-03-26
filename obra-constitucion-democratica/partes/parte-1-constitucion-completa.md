@@ -564,7 +564,7 @@ Iniciativa:
 2. Vía popular: grupo de al menos el 10% del censo nacional.
 
 Resolución:
-El Tribunal Supremo conoce directamente del proceso y determina si el incumplimiento es suficientemente grave para justificar la convocatoria de nuevas elecciones. La decisión del Tribunal Supremo es recurrible una única vez mediante apelación (artículo 34) por cualquier ciudadano con derecho a voto.
+El Tribunal Supremo conoce directamente del proceso y determina si el incumplimiento constituye alguna de las causas establecidas en este artículo. La decisión del Tribunal Supremo es recurrible una única vez mediante apelación (artículo 34) por cualquier ciudadano con derecho a voto.
 
 Causas de incumplimiento grave:
 1. Negarse a ejecutar una sentencia firme del Tribunal Supremo.
