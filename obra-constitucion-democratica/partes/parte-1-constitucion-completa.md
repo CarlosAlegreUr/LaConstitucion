@@ -392,7 +392,7 @@ Si el Vicepresidente no puede asumir la Presidencia interina, la asume el repres
 
 ### Artículo 27: Incapacidad Presidencial
 
-La incapacidad del Presidente es declarada exclusivamente por el Poder Judicial, a solicitud del Vicepresidente o del Poder Legislativo mediante consenso N2. La declaración es recurrible mediante apelación por cualquier ciudadano con derecho a voto. Si la declaración de incapacidad es revocada en apelación, el juez o tribunal que la emitió queda sujeto a las sanciones establecidas en el artículo 44 para la responsabilidad penal de jueces.
+La incapacidad del Presidente es declarada exclusivamente por el Poder Judicial, a solicitud del Vicepresidente o del Poder Legislativo mediante consenso N2. La declaración es recurrible mediante apelación por cualquier ciudadano con derecho a voto. Si la declaración de incapacidad es revocada en apelación, el juez responsable queda sujeto a sanción penal conforme al artículo 45, de similar gravedad que las establecidas para los casos de inconstitucionalidad en el artículo 44.
 
 Constituyen causas de incapacidad: coma y deterioro cognitivo severo. El Poder Legislativo puede ampliar esta lista pero no reducirla mediante consenso N3; durante el periodo de Arranque, mediante N2.
 
@@ -616,12 +616,6 @@ El juez que declare una ley inconstitucional también asume responsabilidad pers
 3. Ventana de responsabilidad: El juez responde si dentro de los 10 años siguientes a su declaración de inconstitucionalidad se demuestra que fue errónea. Un proceso de revisión iniciado dentro de esta ventana se resuelve aunque la ventana haya expirado al momento de la sentencia.
 4. Gravedad: Las sanciones serán de similar o mayor dureza que las aplicables a los legisladores, conforme al artículo 45. Para magistrados del Tribunal Supremo, la sanción mínima por error demostrado es de 20 años de prisión. Esta sanción es constitucional y no configurable en el Proceso de Arranque.
 
-Responsabilidad penal de jueces por anulación popular ordinaria:
-Cuando una decisión judicial ordinaria es anulada por el pueblo conforme al artículo 46, el juez responsable será sometido a sanción penal conforme al artículo 45, de menor gravedad que las establecidas para inconstitucionalidad.
-
-Responsabilidad penal de jueces por declaración de incapacidad presidencial revocada:
-Si una declaración de incapacidad presidencial conforme al artículo 27 es revocada en apelación, el juez o tribunal que la emitió será sometido a sanción penal conforme al artículo 45, de similar gravedad que las establecidas para inconstitucionalidad.
-
 ---
 
 ### Artículo 45: Sanciones para Legisladores y Jueces
@@ -656,7 +650,7 @@ Cuando la anulación popular alcanza el umbral establecido:
 1. La decisión judicial queda anulada.
 2. En el ámbito constitucional: la norma que había sido declarada inconstitucional recupera su vigencia (o queda confirmada su nulidad, según el sentido de la anulación).
 3. La anulación popular no constituye precedente vinculante: futuras disputas sobre normas similares deben resolverse nuevamente por la vía judicial ordinaria, salvo nueva anulación popular.
-4. El juez o magistrado responsable de la decisión anulada queda sometido a las sanciones establecidas en el artículo 44, según el ámbito correspondiente.
+4. El juez responsable de la decisión anulada queda sujeto a sanción penal conforme al artículo 45, de menor gravedad que las establecidas para los casos de inconstitucionalidad en el artículo 44.
 
 ---
 
