@@ -611,15 +611,19 @@ Si una ley es declarada inconstitucional en cualquier instancia judicial y la de
 
 Responsabilidad penal de jueces por error en el análisis de constitucionalidad:
 El juez que resuelva sobre la constitucionalidad de una ley asume responsabilidad personal por su decisión, conforme a las siguientes reglas:
-1. Mecanismo de demostración: El error se demuestra mediante el procedimiento de revisión establecido en el artículo 43, aplicado al texto constitucional y las configuraciones vigentes en el momento en que la decisión fue emitida.
+1. Mecanismo de demostración: El error se demuestra mediante el procedimiento de revisión establecido en el artículo 43, sujeto a sus plazos y limitaciones, aplicado al texto constitucional y las configuraciones vigentes en el momento en que la decisión fue emitida.
 2. Ventana de responsabilidad: El juez responde si dentro de los 10 años siguientes a su decisión se demuestra que fue errónea. Un proceso de revisión iniciado dentro de esta ventana se resuelve aunque la ventana haya expirado al momento de la sentencia.
-3. Gravedad: Las sanciones serán de similar o mayor dureza que las aplicables a los legisladores, conforme al artículo 45. Para magistrados del Tribunal Supremo, la sanción mínima por error demostrado es de 20 años de prisión. Esta sanción es constitucional y no configurable en el Proceso de Arranque.
+3. Gravedad: Las sanciones serán de similar o mayor dureza que las aplicables a los legisladores, conforme al artículo 45. Para magistrados del Tribunal Supremo, la sanción mínima por error demostrado es de 20 años de prisión. Esta sanción es constitucional, no configurable en el Proceso de Arranque, y su modificación requiere consenso de Nivel N5.
 
 ---
 
 ### Artículo 45: Sanciones para Legisladores y Jueces
 
-Las sanciones concretas para legisladores y jueces de instancias inferiores al Tribunal Supremo se establecen durante el Proceso de Arranque mediante consenso de Nivel N1 y deben ser disuasorias. Las sanciones por anulación popular ordinaria se establecen del mismo modo pero deben ser de menor gravedad que las de inconstitucionalidad. Si la sanción es económica, la multa solo puede ser pagada mediante capital obtenido del salario de trabajos personales del sancionado; no se admite el pago mediante inversiones, donaciones, venta de activos ni ningún otro medio distinto del trabajo personal. La modificación posterior de estas sanciones requiere consenso de Nivel N5.
+Las sanciones concretas para legisladores y jueces de instancias inferiores al Tribunal Supremo se establecen durante el Proceso de Arranque mediante consenso de Nivel N1 y deben ser disuasorias. La sanción por defecto para legisladores es el pago de 10 años de su salario vigente en el momento de la sanción, como deuda. Las sanciones por anulación popular ordinaria se establecen del mismo modo pero deben ser de menor gravedad que las de inconstitucionalidad.
+
+Si la sanción es económica, la multa solo puede ser pagada mediante capital obtenido del salario de trabajos personales del sancionado; no se admite el pago mediante inversiones, donaciones, venta de activos ni ningún otro medio distinto del trabajo personal.
+
+La modificación posterior de estas sanciones requiere consenso de Nivel N5.
 
 ---
 

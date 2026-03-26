@@ -43,29 +43,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 ## Arts 41-45
 
 
-## Revisión del Artículo 43: Proceso De Análisis De Constitucionalidad
-
-**Art 43 [Loophole-1] Plazo de recurso solo en segunda instancia** -- El punto 2 establece un plazo de 2 semanas para recurrir ante el Tribunal Supremo, y si no se recurre, la decisión deviene permanente. Pero el punto 1 no establece ningún plazo para recurrir de primera a segunda instancia. Un atacante puede dejar una decisión de primera instancia en limbo indefinido: ni firme ni recurrida. La ley nunca deviene formalmente inaplicable (porque solo es "para el caso concreto"), pero tampoco se cierra el proceso. Propuesta: establecer plazo de recurso también para primera instancia, o declarar que la decisión de primera instancia deviene firme tras el mismo plazo si no se recurre.
-
-**Art 43 [Loophole-3] "Cada ley puede ser sometida a revisión constitucional una vez cada 6 años" -- interaccion con Art 44** -- Si una ley es declarada constitucional (la impugnación fracasa), no puede volver a impugnarse durante 6 años. Pero el Art 44 establece que el periodo de carencia para revisar la declaracion de inconstitucionalidad de un juez tambien es de 6 anos. Esto funciona bien. Sin embargo, no se especifica desde cuándo se cuentan los 6 años: ¿desde la impugnación inicial, desde la resolución en primera instancia, o desde la resolución firme (que puede tardar meses o años en ascender por las instancias)? Propuesta: especificar que el plazo corre desde que la decisión deviene firme (no recurrida, o resuelta en última instancia).
-
-**Art 43 [Loophole-4] Falta plazo de resolución** -- No se establece plazo máximo para que cada instancia resuelva. Un tribunal podría dilatar indefinidamente la resolución de una impugnación de constitucionalidad, manteniendo una ley inconstitucional en vigor durante años. Combinado con el límite de 100 leyes simultáneas (Loophole-2), esto podría usarse para bloquear el sistema: se impugnan 100 leyes, los tribunales las dilatan, y ninguna nueva impugnación puede entrar. Propuesta: establecer plazo máximo de resolución por instancia, o al menos delegar al Proceso de Arranque la definición de ese plazo.
-
-1. **Loophole serio**: falta plazo de recurso de primera a segunda instancia.
-4. **Loophole serio**: las 100 plazas de impugnación simultánea son saturables por un atacante sin filtro de admisibilidad.
-5. Ambiguedad en cuándo empieza a contar el periodo de 6 años entre revisiones.
-6. Falta plazo máximo de resolución por instancia (dilación como arma).
-
-## Revisión del Artículo 45: Sanciones Judiciales
-
-**Art 45 (referencia cruzada faltante)**: El Art 44 establece la responsabilidad penal de legisladores y jueces, pero nunca referencia al Art 45 donde se definen las sanciones concretas. El lector del Art 44 no sabe dónde encontrar las sanciones (salvo para magistrados del Tribunal Supremo, donde el propio Art 44 fija 20 anos de prision). Propuesta: anadir en el Art 44, tras cada mención de "sanción penal", una referencia "(conforme al artículo 45)" o equivalente. Concretamente en tres puntos: (1) "serán sometidos a sanción penal" para legisladores, (2) "Las sanciones serán de similar o mayor dureza" para jueces por inconstitucionalidad, y (3) "sanción penal de menor gravedad" para jueces por anulación popular.
-
-**Art 45 (referencia cruzada en Art 46)**: El Art 46.4 dice "sanciones establecidas en el artículo 44". Pero el Art 44 establece la *responsabilidad* (quién responde y por qué), mientras que el Art 45 establece las *sanciones concretas*. La referencia debería ser al Art 44 (que a su vez debería referenciar al 45), o directamente a ambos: "conforme a los artículos 44 y 45". Tal como está, el Art 46 apunta solo al 44, y el 44 no apunta al 45, creando una cadena rota.
-
-**Art 45 (loophole -- "trabajos personales")**: La restricción de que la multa "solo puede ser pagada mediante capital obtenido del salario de trabajos personales" tiene un vacío: el sancionado podría crear una empresa unipersonal, asignarse un salario arbitrariamente alto financiado por terceros (inversores, donantes), y técnicamente pagar "con salario de trabajo personal". La Parte 2 reconoce la intención ("impedir que un rico pague fácilmente"), pero el mecanismo no lo cierra del todo. Propuesta: añadir algo como "de trabajos realizados para terceros no vinculados al sancionado, bajo relación laboral ordinaria verificable" o similar, para que no pueda autoconstruir el vehículo de pago.
-
-**Art 45 (loophole -- no hay plazo para establecer sanciones)**: El artículo dice que las sanciones se establecen "durante el Proceso de Arranque", pero no dice qué pasa si el Proceso de Arranque termina sin que se hayan establecido. El Art 19 establece que el Arranque dura 1 año, pero no impone que todas las tareas delegadas se completen. Si las sanciones no se definen, el Art 44 queda sin dientes: establece responsabilidad penal pero sin sanciones concretas. Propuesta: establecer sanciones por defecto que apliquen si el Arranque no las define, o declarar que la falta de definición no exime de responsabilidad y que aplican las sanciones que determine la legislación ordinaria.
-
 ---
 
 ## Arts 46-50
