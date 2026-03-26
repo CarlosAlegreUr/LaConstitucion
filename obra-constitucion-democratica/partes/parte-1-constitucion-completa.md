@@ -604,7 +604,7 @@ Los parámetros numéricos de este artículo (6 años entre revisiones, 10 leyes
 
 ---
 
-### Artículo 44: Responsabilidad Penal de Legisladores y Jueces
+### Artículo 44: Responsabilidad Penal por Inconstitucionalidad
 
 Responsabilidad penal de legisladores:
 Si una ley es declarada inconstitucional en cualquier instancia judicial y la decisión deviene firme, los legisladores que votaron a favor de dicha ley serán sometidos a sanción penal conforme al artículo 45.
