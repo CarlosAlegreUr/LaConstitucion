@@ -557,6 +557,8 @@ Una vez agotadas las leyes impugnables existentes, el atacante solo puede impugn
 
 Este es un riesgo aceptado: la saturación temporal es posible pero costosa (requiere coordinación de decenas de ciudadanos), limitada en el tiempo (se agotan las leyes impugnables), y parcialmente mitigada (el sistema sigue funcionando al 70% tras el agotamiento inicial).
 
+Todos los parámetros numéricos del artículo 43 están protegidos a N5. No se protegen individualmente porque forman un sistema interrelacionado: los 6 años de bloqueo, los 10 grupos de 10, los plazos de recurso de 2 semanas y los 4 meses de espera por ciudadano están calibrados como un equilibrio conjunto. Cambiar cualquiera de ellos altera el balance entre accesibilidad del sistema y protección contra saturación.
+
 ## Responsabilidad penal bidireccional
 
 Los legisladores que aprueban leyes inconstitucionales son sancionados penalmente. Pero los jueces que declaran leyes inconstitucionales erróneamente también lo son. Esta bidireccionalidad evita dos abusos simétricos: legisladores que ignoran la Constitución y jueces que abusan de su poder de control.
