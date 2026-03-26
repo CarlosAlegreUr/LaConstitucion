@@ -605,7 +605,9 @@ Debido a la naturaleza frenética de la batalla, un ejército con varios lídere
 
 ## ¿Por qué el 85% (N5) para declarar guerra?
 
-Este umbral extraordinariamente alto es intencional: busca limitar las guerras de agresión. Solo una guerra que cuente con consenso nacional casi unánime puede declararse. La defensa inmediata ante ataque no requiere declaración previa (sería absurdo exigir votación mientras caen bombas), pero sí rendición de cuentas posterior.
+Este umbral extraordinariamente alto es intencional: busca limitar las guerras de agresión. Solo una guerra que cuente con consenso nacional casi unánime puede declararse. La iniciativa es exclusiva del Presidente (es el Comandante en Jefe), pero la aprobación es del Legislativo — ninguno puede declarar guerra unilateralmente. La defensa inmediata ante ataque no requiere declaración previa (sería absurdo exigir votación mientras caen bombas), pero sí rendición de cuentas posterior.
+
+La revocación de la declaración de guerra requiere N3 del Legislativo (por iniciativa del Presidente o del propio Legislativo), siempre que el territorio no se encuentre bajo ataque. ¿Por qué N3 y no N1? Porque declarar guerra es una decisión gravísima tomada con N5 — revocarla con mayoría simple trivializaría ese compromiso. N3 exige consenso amplio para terminar la guerra, evitando que una mayoría coyuntural abandone un conflicto activo por presión política. La condición de no estar bajo ataque impide la rendición unilateral: mientras el enemigo ataca, las fuerzas armadas necesitan los poderes del estado de excepción bélico para defender el territorio.
 
 Esta rendición de cuentas existe, entre otras cosas, para mitigar el escenario en que un presidente ordene deliberadamente dejarse atacar para intentar concentrar el poder en sus manos. Quizá sea paranoico, pero el objetivo de esta Constitución es durar para siempre a ser posible, y cualquier escenario debe tener, si no un arreglo, al menos una mitigación de daños. Aquí se observa otra vez la mentalidad de diseño de sistemas robustos que todo hacker y arquitecto de software comparte: no se asume bondad, ni "happy paths", se asume el fallo.
 
