@@ -609,8 +609,8 @@ Los parámetros numéricos de este artículo (6 años entre revisiones, 10 leyes
 Responsabilidad penal de legisladores:
 Si una ley es declarada inconstitucional en cualquier instancia judicial y la decisión deviene firme, los legisladores que votaron a favor de dicha ley serán sometidos a sanción penal conforme al artículo 45.
 
-Responsabilidad penal de jueces por inconstitucionalidad:
-El juez que declare una ley inconstitucional también asume responsabilidad personal, conforme a las siguientes reglas:
+Responsabilidad penal de jueces por error en el análisis de constitucionalidad:
+El juez que resuelva sobre la constitucionalidad de una ley asume responsabilidad personal por su decisión, conforme a las siguientes reglas:
 1. Mecanismo de demostración: El error se demuestra mediante una nueva revisión constitucional conforme al artículo 43. La revisión evalúa la decisión del juez conforme al texto constitucional y las configuraciones vigentes en el momento en que fue emitida.
 2. Periodo de carencia: La primera revisión solo puede iniciarse una vez transcurridos 6 años desde la declaración de inconstitucionalidad, conforme al periodo entre revisiones del artículo 43.
 3. Ventana de responsabilidad: El juez responde si dentro de los 10 años siguientes a su declaración de inconstitucionalidad se demuestra que fue errónea. Un proceso de revisión iniciado dentro de esta ventana se resuelve aunque la ventana haya expirado al momento de la sentencia.
