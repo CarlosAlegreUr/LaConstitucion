@@ -612,9 +612,8 @@ Si una ley es declarada inconstitucional en cualquier instancia judicial y la de
 Responsabilidad penal de jueces por error en el análisis de constitucionalidad:
 El juez que resuelva sobre la constitucionalidad de una ley asume responsabilidad personal por su decisión, conforme a las siguientes reglas:
 1. Mecanismo de demostración: El error se demuestra mediante una nueva revisión constitucional conforme al artículo 43. La revisión evalúa la decisión del juez conforme al texto constitucional y las configuraciones vigentes en el momento en que fue emitida.
-2. Periodo de carencia: La primera revisión solo puede iniciarse una vez transcurridos 6 años desde la declaración de inconstitucionalidad, conforme al periodo entre revisiones del artículo 43.
-3. Ventana de responsabilidad: El juez responde si dentro de los 10 años siguientes a su declaración de inconstitucionalidad se demuestra que fue errónea. Un proceso de revisión iniciado dentro de esta ventana se resuelve aunque la ventana haya expirado al momento de la sentencia.
-4. Gravedad: Las sanciones serán de similar o mayor dureza que las aplicables a los legisladores, conforme al artículo 45. Para magistrados del Tribunal Supremo, la sanción mínima por error demostrado es de 20 años de prisión. Esta sanción es constitucional y no configurable en el Proceso de Arranque.
+2. Ventana de responsabilidad: El juez responde si dentro de los 10 años siguientes a su decisión se demuestra que fue errónea. Un proceso de revisión iniciado dentro de esta ventana se resuelve aunque la ventana haya expirado al momento de la sentencia.
+3. Gravedad: Las sanciones serán de similar o mayor dureza que las aplicables a los legisladores, conforme al artículo 45. Para magistrados del Tribunal Supremo, la sanción mínima por error demostrado es de 20 años de prisión. Esta sanción es constitucional y no configurable en el Proceso de Arranque.
 
 ---
 
