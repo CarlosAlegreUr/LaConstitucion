@@ -501,7 +501,7 @@ Los candidatos a magistrado del Tribunal Supremo son propuestos exclusivamente p
 
 Los candidatos a magistrado del Tribunal Supremo deben acreditar una experiencia mínima como juez de 5 años. Este mínimo puede ajustarse entre 5 y 10 años; durante el Proceso de Arranque mediante consenso de Nivel N1, fuera de él mediante consenso de Nivel N4.
 
-La elección final se realiza mediante votación directa y vinculante de los profesionales del derecho. Cada votante dispone de un voto con igual valor; el voto es indelegable. La definición de quién cualifica como profesional del derecho a efectos de esta votación se establece durante el Proceso de Arranque mediante consenso de Nivel N1. El procedimiento específico, incluyendo el número de candidatos propuestos por cada institución y el sistema de votación, se establece durante el Proceso de Arranque. La modificación de cualquier parámetro de este artículo fuera del Proceso de Arranque requiere consenso de Nivel N5.
+La elección final se realiza mediante votación directa y vinculante de los profesionales del derecho. Cada votante dispone de un voto con igual valor; el voto es indelegable. La definición de quién cualifica como profesional del derecho a efectos de esta votación se establece durante el Proceso de Arranque mediante consenso de Nivel N1. El procedimiento específico, incluyendo el número de candidatos propuestos por cada institución y el sistema de votación, se establece durante el Proceso de Arranque mediante consenso de Nivel N2. La modificación de cualquier parámetro de este artículo fuera del Proceso de Arranque requiere consenso de Nivel N5.
 
 ---
 
