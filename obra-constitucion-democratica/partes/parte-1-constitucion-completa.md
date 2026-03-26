@@ -531,7 +531,7 @@ En caso de vacante antes de la expiración del mandato, el sustituto es nombrado
 
 ### Artículo 39: Autodestrucción Mutua - Mecanismo
 
-El Legislativo puede cesar al Presidente mediante votación de consenso N1. El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo (artículo 13) y del Presidente (artículo 24) en un plazo mínimo de 7 días y máximo de 30 días. El Presidente cesado no puede presentarse a las elecciones inmediatas resultantes. Si la autodestrucción mutua es invocada por el Presidente, ni el Presidente ni el Vicepresidente podrán presentarse a las elecciones inmediatas resultantes, independientemente de las normas sobre límites de mandato establecidas en el artículo 24.
+El Legislativo puede cesar al Presidente mediante votación de consenso N1. El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo (artículo 13) y del Presidente (artículo 24) en un plazo mínimo de 7 días y máximo de 30 días.
 
 El plazo de convocatoria de nuevas elecciones puede ajustarse dentro del rango de 7 a 30 días mediante consenso de Nivel N5. Los límites de este rango y los demás parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6.
 
