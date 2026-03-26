@@ -9,19 +9,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 
 
-**Art 49 - Comandante en Jefe: Revisión**
-
-**Art 49 (Loopholes)**: Aquí hay dos hallazgos:
-
-1. **Vacío en sucesión del mando militar durante interinato**: El Art 26 establece que cuando el Vicepresidente asume interinamente tras autodestrucción mutua (Art 39), "ejerce exclusivamente funciones de mantenimiento del orden institucional: no puede aprobar nuevos presupuestos, nombrar ni cesar ministros, ni iniciar nuevas políticas." Sin embargo, el Art 49 dice que "el Presidente" es el Comandante en Jefe. Si el Vicepresidente interino tiene funciones limitadas, no queda claro si hereda el mando militar o no. Esto es un problema serio: si estalla una crisis militar durante un interinato, nadie tiene claro si el interino puede ejercer como Comandante en Jefe. El Art 26 limita funciones del interino pero no menciona explícitamente el mando militar, y el Art 49 solo menciona "el Presidente". Propuesta: o bien el Art 49 aclara que quien ejerza la Presidencia (incluyendo interinos conforme al Art 26) hereda el mando militar, o bien el Art 26 lo explicita en las limitaciones del interinato (excluyéndolo o incluyéndolo expresamente).
-
-## Revisión del Artículo 50: Declaración de Guerra
-
-**Art 50 - Hallazgo 1 (Loophole / Vacío):** El artículo no dice quién propone o inicia el proceso de declaración de guerra. El Art 24 dice que la declaración de guerra no es delegable por el Presidente, pero no queda claro si es el Presidente quien solicita la declaración al Legislativo, si el Legislativo puede declararla por iniciativa propia, o si ambos pueden. Un atacante que controle el Legislativo (85% de escaños) podría forzar una guerra sin que el Presidente la quiera, o un Presidente podría querer guerra y el Legislativo negarse (esto sí está bien cubierto por el umbral). Propuesta: aclarar quién tiene la iniciativa para someter la votación de declaración de guerra al Legislativo. Lo natural sería que la proponga el Presidente y la apruebe el Legislativo, coherente con que el Presidente es Comandante en Jefe (Art 49).
-
-**Art 50 - Hallazgo 2 (Vacío):** No hay mecanismo para finalizar o revocar una declaración de guerra. Una vez declarada, no se establece cómo se termina: tratado de paz, votación legislativa, cese de hostilidades. Esto importa porque el Ámbito Bélico del Art 56 (estado de excepción) se activa por "guerra declarada" y otorga poderes extremos (restricción de todos los derechos a atacantes, transferencia de funciones civiles a autoridad militar). Sin mecanismo de revocación, la guerra declarada podría perpetuarse formalmente incluso tras cesar las hostilidades reales, manteniendo activo el estado de excepción bélico indefinidamente. Propuesta: añadir que la declaración de guerra puede revocarse por el Legislativo con un nivel de consenso (N1 o N2 bastaría, ya que revocar es volver a la normalidad, no escalar).
-
-Resumen: los hallazgos 1 y 2 son sustanciales.
 
 ---
 

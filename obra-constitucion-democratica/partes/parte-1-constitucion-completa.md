@@ -694,7 +694,7 @@ El Presidente de la República es el Comandante en Jefe de las Fuerzas Armadas. 
 
 ### Artículo 50: Declaración de Guerra
 
-La declaración de guerra requiere consenso de Nivel N5 del Poder Legislativo. La defensa inmediata ante ataque o invasión no requiere declaración de guerra previa (artículo 51).
+La declaración de guerra es propuesta por el Presidente y requiere la aprobación del Poder Legislativo mediante consenso de Nivel N5. La defensa inmediata ante ataque o invasión no requiere declaración de guerra previa (artículo 51). El Poder Legislativo puede revocar la declaración de guerra mediante consenso de Nivel N1.
 
 ---
 
