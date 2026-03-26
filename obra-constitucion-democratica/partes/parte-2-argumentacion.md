@@ -542,6 +542,21 @@ El Tribunal Constitucional tradicional (modelo europeo, concentrado) es:
 
 El control difuso (modelo estadounidense, distribuido) permite que cualquier juez declare inaplicable una ley inconstitucional en un caso concreto. Combinado con el sistema de capas (primera instancia → casación → Tribunal Supremo → anulación popular), se distribuye el poder de control constitucional sin concentrarlo en un solo órgano.
 
+### Saturación del sistema de revisión constitucional
+
+El sistema permite un máximo de 100 leyes en revisión simultánea (10 grupos de 10). El periodo de bloqueo de 6 años por ley (contado desde la presentación de la impugnación) y el periodo de espera de 4 meses por ciudadano son las dos protecciones contra la saturación deliberada.
+
+Un atacante que intente saturar el sistema necesita:
+- Al menos 10 ciudadanos coordinados para llenar las 100 plazas de golpe (10 grupos de 10 leyes)
+- Esos ciudadanos no pueden volver a presentar impugnaciones durante 4 meses
+- Para mantener la saturación de forma continua: al menos 40 ciudadanos (10 por cada mes del periodo de espera)
+
+Cada mes de saturación completa consume aproximadamente 100 leyes impugnables (bloqueadas durante 6 años). Si L es el número total de leyes en vigor y se aprueban unas 364 leyes nuevas al año (7 por semana), la duración máxima de la saturación completa es aproximadamente L / (1.200 - 364) ≈ L / 836 años. Para un ordenamiento jurídico de 10.000 leyes, la saturación completa podría mantenerse unos 12 años; para 1.000 leyes, apenas poco más de un año.
+
+Una vez agotadas las leyes impugnables existentes, el atacante solo puede impugnar leyes nuevas (364/año), lo que llena menos de un tercio de la capacidad del sistema (364 de 1.200 posibles por año). La saturación completa se vuelve matemáticamente imposible.
+
+Este es un riesgo aceptado: la saturación temporal es posible pero costosa (requiere coordinación de decenas de ciudadanos), limitada en el tiempo (se agotan las leyes impugnables), y parcialmente mitigada (el sistema sigue funcionando al 70% tras el agotamiento inicial).
+
 ## Responsabilidad penal bidireccional
 
 Los legisladores que aprueban leyes inconstitucionales son sancionados penalmente. Pero los jueces que declaran leyes inconstitucionales erróneamente también lo son. Esta bidireccionalidad evita dos abusos simétricos: legisladores que ignoran la Constitución y jueces que abusan de su poder de control.
