@@ -574,7 +574,7 @@ La causa 1 no puede ser eliminada ni modificada. La lista de causas adicionales 
 
 Los parámetros numéricos de este artículo (N1, 10%) pueden modificarse mediante consenso de Nivel N6.
 
-Si el Tribunal Supremo declara el incumplimiento grave, se convocan nuevas elecciones presidenciales conforme a los plazos y las reglas de sucesión del artículo 26. El interino ejerce exclusivamente funciones de mantenimiento del orden institucional.
+Si el Tribunal Supremo declara el incumplimiento grave mediante resolución firme, se convocan nuevas elecciones presidenciales conforme a los plazos y las reglas de sucesión del artículo 26. El interino ejerce exclusivamente las funciones limitadas descritas en el segundo supuesto del artículo 26.
 
 ---
 
