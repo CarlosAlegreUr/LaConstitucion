@@ -493,7 +493,7 @@ Los candidatos son propuestos por instituciones jurídicas (colegios de abogados
 
 Un electorado profesional más reducido es más vulnerable a compra de votos que millones de ciudadanos. Aquí es donde la renovación escalonada actúa como protección complementaria: incluso si un atacante compra votos en un ciclo, solo captura un tercio del tribunal. Y los profesionales del derecho suelen tener ingresos medios-altos, lo cual encarece la compra. La combinación electorado profesional + escalonamiento ofrece criterio técnico sin sacrificar protección contra captura.
 
-La definición de quién cualifica como profesional del derecho se establece durante el Arranque con N1. El procedimiento de votación (número de candidatos por institución, sistema de votación) se establece con N2 — un umbral más alto que el habitual en Arranque porque determina cómo se selecciona el órgano que interpreta la Constitución. Toda modificación posterior requiere N5.
+El número total de candidatos debe ser estrictamente superior al número de vacantes — sin este mínimo constitucional, el Arranque podría configurar un sistema con exactamente tantos candidatos como puestos, convirtiendo la elección en una mera ratificación sin opción real. La definición de quién cualifica como profesional del derecho se establece durante el Arranque con N1. El procedimiento de votación (número de candidatos por institución, sistema de votación) se establece con N2 — un umbral más alto que el habitual en Arranque porque determina cómo se selecciona el órgano que interpreta la Constitución. Toda modificación posterior requiere N5.
 
 ### El sorteo aleatorio verificable para mandatos iniciales
 
