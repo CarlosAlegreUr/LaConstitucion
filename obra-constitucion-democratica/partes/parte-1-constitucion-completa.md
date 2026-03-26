@@ -485,15 +485,7 @@ La modificación de estos requisitos requiere consenso de Nivel N5 del Poder Leg
 
 ### Artículo 36: Tribunal Supremo - Composición
 
-El Tribunal Supremo se compone de 9 magistrados. Cada magistrado es nombrado por un mandato de máximo 12 años. El mandato es renovable tras un periodo de exclusión de 8 años desde la finalización del mandato anterior. La renovación es escalonada: cada 4 años se renuevan 3 magistrados.
-
-Durante el Proceso de Arranque, los 9 magistrados son nombrados simultáneamente. Para establecer la renovación escalonada, se asignan mandatos iniciales diferenciados mediante sorteo aleatorio verificable. El sorteo debe cumplir las siguientes características: ser determinista (el mismo dato de entrada produce siempre el mismo resultado), no manipulable (ninguna persona puede influir en el resultado), y públicamente verificable (cualquier ciudadano puede replicar el cálculo y comprobar el resultado).
-
-El procedimiento de sorteo por defecto es el siguiente: se aplica una función hash criptográfica (como SHA-256 o Keccak-256) a los datos biométricos de cada magistrado. El dato biométrico se selecciona según la siguiente prioridad: huella dactilar de la mano izquierda (del meñique al pulgar), de la mano derecha (del pulgar al meñique), del pie izquierdo (del meñique al pulgar), del pie derecho (del pulgar al meñique), retina del ojo izquierdo, retina del ojo derecho. Se utiliza el primer dato disponible. Los 3 magistrados con el valor más alto en los primeros 2 bytes del hash sirven un mandato inicial de 4 años, los 3 con el valor más alto entre los 6 restantes sirven 8 años, y los 3 restantes sirven el mandato completo de 12 años. A partir de entonces, todos los mandatos son de 12 años.
-
-En caso de empate en los primeros 2 bytes del hash entre dos o más magistrados que disputen un mismo tramo de mandato, se comparan sucesivamente los bytes siguientes del hash (tercero, cuarto, etc.) hasta que se resuelva el empate. El magistrado con el valor más alto en el byte de desempate obtiene el mandato más corto del tramo disputado.
-
-El método concreto de sorteo puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N1, siempre que el método alternativo cumpla las tres características establecidas (determinista, no manipulable, públicamente verificable). Fuera del Proceso de Arranque, este procedimiento no puede modificarse.
+El Tribunal Supremo se compone de 9 magistrados. Cada magistrado es nombrado por un mandato de máximo 12 años. El mandato es renovable tras un periodo de exclusión de 8 años desde la finalización del mandato anterior. La renovación es escalonada: cada 4 años se renuevan 3 magistrados. La constitución inicial y la renovación del Tribunal Supremo se rigen por los procedimientos establecidos en el artículo 38.
 
 Los parámetros numéricos de este artículo (9 magistrados, 12 años de mandato, 8 años de exclusión, 4 años de ciclo de renovación, 3 magistrados por ciclo) pueden modificarse mediante consenso de Nivel N5. Cualquier modificación de estos parámetros debe mantener la coherencia de la renovación escalonada: el número total de magistrados debe ser divisible por el número de magistrados renovados por ciclo. La modificación o eliminación de este requisito de coherencia requiere consenso de Nivel N6.
 
@@ -513,9 +505,21 @@ La elección final se realiza mediante votación popular directa y vinculante. E
 
 ---
 
-### Artículo 38: Tribunal Supremo - Renovación Escalonada
+### Artículo 38: Tribunal Supremo - Procedimientos de Constitución y Renovación
 
-Cada 4 años se procede al nombramiento de 3 nuevos magistrados del Tribunal Supremo conforme al artículo 37, sustituyendo a los 3 magistrados cuyo mandato de 12 años haya expirado conforme al artículo 36. Los magistrados salientes pueden ser propuestos nuevamente como candidatos una vez transcurrido el periodo de exclusión de 8 años establecido en el artículo 36.
+Constitución inicial:
+
+Durante el Proceso de Arranque, los 9 magistrados son nombrados simultáneamente conforme al artículo 37. Para establecer la renovación escalonada, se asignan mandatos iniciales diferenciados mediante sorteo aleatorio verificable. El sorteo debe cumplir las siguientes características: ser determinista (el mismo dato de entrada produce siempre el mismo resultado), no manipulable (ninguna persona puede influir en el resultado), y públicamente verificable (cualquier ciudadano puede replicar el cálculo y comprobar el resultado).
+
+El procedimiento de sorteo por defecto es el siguiente: se aplica una función hash criptográfica (como SHA-256 o Keccak-256) a los datos biométricos de cada magistrado. El dato biométrico se selecciona según la siguiente prioridad: huella dactilar de la mano izquierda (del meñique al pulgar), de la mano derecha (del pulgar al meñique), del pie izquierdo (del meñique al pulgar), del pie derecho (del pulgar al meñique), retina del ojo izquierdo, retina del ojo derecho. Se utiliza el primer dato disponible. Los 3 magistrados con el valor más alto en los primeros 2 bytes del hash sirven un mandato inicial de 4 años, los 3 con el valor más alto entre los 6 restantes sirven 8 años, y los 3 restantes sirven el mandato completo de 12 años. A partir de entonces, todos los mandatos son de 12 años.
+
+En caso de empate en los primeros 2 bytes del hash entre dos o más magistrados que disputen un mismo tramo de mandato, se comparan sucesivamente los bytes siguientes del hash (tercero, cuarto, etc.) hasta que se resuelva el empate. El magistrado con el valor más alto en el byte de desempate obtiene el mandato más corto del tramo disputado.
+
+El método concreto de sorteo puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N1, siempre que el método alternativo cumpla las tres características establecidas (determinista, no manipulable, públicamente verificable). Fuera del Proceso de Arranque, este procedimiento no puede modificarse.
+
+Renovación escalonada:
+
+Cada 4 años se procede al nombramiento de 3 nuevos magistrados conforme al artículo 37, sustituyendo a los 3 magistrados cuyo mandato haya expirado conforme al artículo 36. Los magistrados salientes pueden ser propuestos nuevamente como candidatos una vez transcurrido el periodo de exclusión establecido en el artículo 36.
 
 ---
 

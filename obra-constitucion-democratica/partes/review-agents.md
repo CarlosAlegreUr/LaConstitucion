@@ -40,7 +40,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 **Art 36 - Vacantes anticipadas:** Pendiente. ¿Qué pasa cuando un magistrado deja el cargo antes de que expire su mandato? Discutir.
 
-**Art 36 - DRY con Art 38:** Pendiente. Considerar mover el proceso de renovación al Art 38 y dejar Art 36 solo para composición.
 
 ## Revisión del Artículo 37: Tribunal Supremo - Nombramiento
 

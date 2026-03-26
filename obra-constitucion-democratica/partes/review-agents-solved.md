@@ -365,6 +365,8 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 
 **Hallazgo 1 - Exclusión por discapacidad:** "Quien carezca de ambos no puede acceder al cargo" eliminada. Sustituida por cadena de respaldo biométrica completa (manos → pies → retina), misma que Art 34.
 
+**Hallazgo 3 - DRY Art 36/38:** Resuelto. Procedimientos movidos al Art 38. Art 36 queda solo con composición y parámetros. Art 38 renombrado "Procedimientos de Constitución y Renovación".
+
 **Hallazgo 6 - Coherencia matemática:** Añadida restricción: el número total de magistrados debe ser divisible por el número de magistrados renovados por ciclo. La modificación de este requisito requiere N6.
 
 ---
