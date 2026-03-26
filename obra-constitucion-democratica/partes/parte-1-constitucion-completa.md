@@ -501,7 +501,7 @@ Los candidatos a magistrado del Tribunal Supremo son propuestos exclusivamente p
 
 Los candidatos a magistrado del Tribunal Supremo deben acreditar una experiencia mínima como juez de 5 años. Este mínimo puede ajustarse entre 5 y 10 años; durante el Proceso de Arranque mediante consenso de Nivel N1, fuera de él mediante consenso de Nivel N4.
 
-La elección final se realiza mediante votación popular directa y vinculante. El procedimiento específico, incluyendo el número de candidatos propuestos por cada institución y el sistema de votación, se establece durante el Proceso de Arranque conforme al Título III.
+La elección final se realiza mediante votación popular directa y vinculante. El procedimiento específico, incluyendo el número de candidatos propuestos por cada institución y el sistema de votación, se establece durante el Proceso de Arranque.
 
 ---
 
@@ -517,7 +517,7 @@ En caso de empate en los primeros 2 bytes del hash entre dos o más magistrados 
 
 Renovación escalonada:
 
-Cada 4 años se procede al nombramiento de 3 nuevos magistrados conforme al artículo 37, sustituyendo a los 3 magistrados cuyo mandato haya expirado conforme al artículo 36. Los magistrados salientes pueden ser propuestos nuevamente como candidatos una vez transcurrido el periodo de exclusión establecido en el artículo 36.
+Cada 4 años se procede al nombramiento de 3 nuevos magistrados conforme al artículo 37, sustituyendo a los 3 magistrados cuyo mandato haya expirado. Los magistrados salientes podrán ser propuestos nuevamente como candidatos una vez transcurrido el periodo de exclusión establecido en el artículo 36.
 
 ---
 
