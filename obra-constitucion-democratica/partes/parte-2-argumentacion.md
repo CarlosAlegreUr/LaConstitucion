@@ -459,7 +459,7 @@ Un Presidente no puede inflar la burocracia para crear feudos de poder, y un Leg
 
 ### Independencia financiera
 
-El Tribunal Supremo propone su propio presupuesto. El Legislativo puede aprobarlo o rechazarlo (con consenso de Nivel N3), pero no modificarlo. Si lo rechaza, se mantiene el anterior ajustado a inflación. Esta mecánica impide que el Legislativo estrangule económicamente al Judicial como forma de presión política.
+El Tribunal Supremo propone su propio presupuesto. El Legislativo puede aprobarlo o rechazarlo (con consenso de Nivel N3), pero no modificarlo. Si lo rechaza, se mantiene el anterior ajustado a inflación. Esta mecánica impide que el Legislativo estrangule económicamente al Judicial como forma de presión política. El nivel N3 de rechazo está protegido a N5, coherente con los demás parámetros judiciales: sin esta protección, un Legislativo con N4 podría rebajar el umbral de rechazo a N1 y estrangular financieramente al Judicial con mayoría simple.
 
 ### Estructura en tres niveles
 
@@ -479,15 +479,25 @@ Los candidatos al Tribunal Supremo deben acreditar un mínimo de 5 años de expe
 
 ### Tribunal Supremo: composición y renovación
 
-9 magistrados, mandatos de 12 años, renovación escalonada (3 cada 4 años). ¿Por qué escalonada? Para evitar que un solo gobierno nombre a todo el tribunal y lo capture. El periodo de exclusión de 8 años tras finalizar el mandato impide las puertas giratorias: un magistrado saliente no puede volver a entrar inmediatamente, rompiendo el incentivo de servir al poder actual para asegurar la reelección. Todos estos parámetros numéricos (9, 12, 8, 4, 3) están protegidos a N5, en línea con los demás parámetros judiciales (requisitos de jueces, sanciones). No se permiten reducciones durante el Arranque: la estructura del Tribunal Supremo debe ser estable desde el primer día.
+El artículo 36 define la composición (9 magistrados, mandatos de 12 años, exclusión de 8 años, renovación escalonada de 3 cada 4 años) y el artículo 38 los procedimientos de constitución inicial y renovación. Esta separación sigue el principio de responsabilidad única: el artículo 36 dice QUÉ es el Tribunal Supremo, el artículo 37 dice QUIÉN lo compone, y el artículo 38 dice CÓMO se constituye y renueva.
 
-El nombramiento proviene de instituciones jurídicas (colegios de abogados, facultades de derecho, asociaciones de jueces), no del gobierno ni del parlamento. La elección final es por votación popular directa de toda la ciudadanía. Esto combina mérito técnico (solo proponen quienes conocen la profesión) con legitimidad democrática (el pueblo elige entre los propuestos).
+¿Por qué renovación escalonada? Los magistrados son elegidos por votación de profesionales del derecho, no nombrados por el gobierno. La escalonación no protege contra "captura gubernamental" en el sentido clásico — protege contra oleadas. Una oleada de opinión, propaganda o compra de votos en un momento concreto solo puede afectar a un tercio del tribunal. Capturar la mayoría requiere mantener esa influencia durante tres ciclos consecutivos (12 años), lo cual es mucho más difícil y caro que capturarlo de golpe.
+
+Los parámetros numéricos (9, 12, 8, 4, 3) están protegidos a N5. La coherencia de la renovación escalonada — que el número de magistrados sea divisible por el número renovado por ciclo — está protegida a N6. Esta restricción matemática garantiza cohortes iguales: sin ella, alguien podría cambiar a 10 magistrados manteniendo 3 por ciclo, creando cohortes desiguales (3, 3, 4) con un ciclo que renueva más magistrados que los demás — una ventana de captura.
+
+### Nombramiento de magistrados del Tribunal Supremo
+
+Los candidatos son propuestos por instituciones jurídicas (colegios de abogados, facultades de derecho, asociaciones de jueces). La elección final la realizan los profesionales del derecho mediante votación directa, vinculante e indelegable. ¿Por qué no votación popular de toda la ciudadanía? Porque el ciudadano medio no tiene criterio para evaluar competencia jurídica — votaría por nombre, carisma o campaña, no por rigor legal. Los profesionales del derecho sí tienen ese criterio.
+
+Un electorado profesional más reducido es más vulnerable a compra de votos que millones de ciudadanos. Aquí es donde la renovación escalonada actúa como protección complementaria: incluso si un atacante compra votos en un ciclo, solo captura un tercio del tribunal. Y los profesionales del derecho suelen tener ingresos medios-altos, lo cual encarece la compra. La combinación electorado profesional + escalonamiento ofrece criterio técnico sin sacrificar protección contra captura.
+
+La definición de quién cualifica como profesional del derecho se establece durante el Arranque con N1. El procedimiento de votación (número de candidatos por institución, sistema de votación) se establece con N2 — un umbral más alto que el habitual en Arranque porque determina cómo se selecciona el órgano que interpreta la Constitución. Toda modificación posterior requiere N5.
 
 ### El sorteo aleatorio verificable para mandatos iniciales
 
-Durante el Arranque, los 9 magistrados se nombran simultáneamente pero necesitan mandatos escalonados. La Constitución establece un sorteo aleatorio verificable con tres características: determinista, no manipulable y públicamente verificable. El método por defecto usa una función hash criptográfica (como SHA-256 o Keccak-256) aplicada a la huella dactilar de cada magistrado.
+Durante el Arranque, los 9 magistrados se nombran simultáneamente pero necesitan mandatos escalonados. El procedimiento concreto de sorteo se elige durante el Arranque con N1, siempre que sea determinista, no manipulable y públicamente verificable. Si no se elige un procedimiento alternativo, se aplica el método por defecto: una función hash criptográfica aplicada a los datos biométricos de cada magistrado, con una cadena de respaldo que garantiza la disponibilidad para cualquier persona independientemente de discapacidades físicas.
 
-¿Por qué ofrecer un método por defecto? Por cuestión operativa: tener un procedimiento concreto ya definido hace más fluido el Proceso de Arranque, aunque deja flexibilidad si se desea cambiarlo. Siguiendo la misma filosofía de los artículos 5 y 17, lo que la Constitución protege son las características (determinista, no manipulable, verificable), no la tecnología. Por eso el método puede cambiarse durante el Arranque con consenso N1, y solo ahí. Ya que esto solo se usará una vez debido a que la rotación solo puede ser manipulada al inicio, el resto de mecánicas aseguran y protegen contra un asalto completo al sistema judicial.
+¿Por qué ofrecer un método por defecto? Por cuestión operativa: tener un procedimiento concreto ya definido hace más fluido el Proceso de Arranque. Siguiendo la filosofía de los artículos 5 y 17, lo que la Constitución protege son las características (determinista, no manipulable, verificable), no la tecnología. Fuera del Arranque, el procedimiento de sorteo no puede modificarse — solo se usa una vez y la rotación solo puede ser manipulada al inicio.
 
 ---
 ---
