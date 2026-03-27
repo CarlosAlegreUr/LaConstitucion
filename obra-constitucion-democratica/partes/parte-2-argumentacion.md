@@ -605,7 +605,7 @@ Debido a la naturaleza frenética de la batalla, un ejército con varios lídere
 
 ## ¿Por qué el 85% (N5) para declarar guerra?
 
-Este umbral extraordinariamente alto es intencional: busca limitar las guerras de agresión. Solo una guerra que cuente con consenso nacional casi unánime puede declararse. La iniciativa es exclusiva del Presidente (es el Comandante en Jefe), pero la aprobación es del Legislativo — ninguno puede declarar guerra unilateralmente. La defensa inmediata ante ataque no requiere declaración previa (sería absurdo exigir votación mientras caen bombas), pero sí rendición de cuentas posterior.
+Este umbral extraordinariamente alto es intencional: busca limitar las guerras de agresión. Solo una guerra que cuente con consenso nacional casi unánime puede declararse. La iniciativa es exclusiva del Presidente (es el Comandante en Jefe), pero la aprobación es del Legislativo — ninguno puede declarar guerra unilateralmente. La defensa inmediata ante ataque no requiere declaración previa (sería absurdo exigir votación mientras caen bombas), pero sí notificación inmediata al Legislativo y rendición de cuentas posterior. Si la defensa fue fabricada para provocar un conflicto, el artículo 52 cubre las consecuencias.
 
 La revocación de la declaración de guerra requiere N3 del Legislativo (por iniciativa del Presidente o del propio Legislativo), siempre que el territorio no se encuentre bajo ataque. ¿Por qué N3 y no N1? Porque declarar guerra es una decisión gravísima tomada con N5 — revocarla con mayoría simple trivializaría ese compromiso. N3 exige consenso amplio para terminar la guerra, evitando que una mayoría coyuntural abandone un conflicto activo por presión política. La condición de no estar bajo ataque impide la rendición unilateral: mientras el enemigo ataca, las fuerzas armadas necesitan los poderes del estado de excepción bélico para defender el territorio.
 
@@ -624,6 +624,8 @@ El Presidente puede ordenar operaciones militares secretas sin aprobación legis
 - La disuasión funciona porque es personal. No se castiga a una institución abstracta; se castiga al individuo que tomó la decisión.
 
 Desde el análisis de incentivos: si naciones extranjeras intentan comprar a un presidente para crear caos, no pueden comprarle que se ahorre el dolor. El coste personal garantiza que el Presidente ponderará cuidadosamente antes de ordenar operaciones arriesgadas sin respaldo legislativo.
+
+La amputación es el castigo por defecto, pero puede modificarse durante el Arranque con N3 siempre que el castigo alternativo sea personal y físico — no económico ni sustituible. Esta flexibilidad permite adaptar la forma concreta del castigo a sensibilidades culturales sin debilitar el principio disuasorio.
 
 ## Separación de ramas militares
 
