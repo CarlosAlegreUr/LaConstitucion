@@ -700,7 +700,7 @@ La declaración de guerra es propuesta por el Presidente y requiere la aprobaci�
 
 ### Artículo 51: Operaciones Militares sin Declaración de Guerra
 
-1. Defensa del territorio nacional ante ataque armado actual o inminente: El Presidente puede y debe ordenar la defensa inmediata sin aprobación previa del Legislativo. El Presidente debe notificar al Legislativo inmediatamente tras ordenar la defensa.
+1. Defensa del territorio nacional ante ataque armado actual o inminente: El Presidente puede y debe ordenar la defensa inmediata sin aprobación previa del Legislativo. El Presidente debe notificar al Legislativo inmediatamente tras ordenar la defensa. Ordenar una defensa sin que exista ataque real constituye un acto de igual gravedad que los descritos en el artículo 52 y se castiga conforme al mismo.
 
 2. Rescate de ciudadanos en situación de peligro inmediato en el extranjero: El Presidente puede ordenar la operación sin aprobación previa del Legislativo. El Presidente debe notificar al Legislativo inmediatamente tras ordenar la operación. Si la operación se extiende más allá de 30 días e implica un uso significativo de fuerza, requiere ratificación legislativa con consenso de Nivel N3.
 
