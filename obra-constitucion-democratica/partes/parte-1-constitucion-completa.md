@@ -700,9 +700,11 @@ La declaración de guerra es propuesta por el Presidente y requiere la aprobaci�
 
 ### Artículo 51: Operaciones Militares sin Declaración de Guerra
 
-1. Defensa del territorio nacional ante ataque armado actual o inminente: El Presidente puede y debe ordenar la defensa inmediata sin aprobación previa del Legislativo.
+1. Defensa del territorio nacional ante ataque armado actual o inminente: El Presidente puede y debe ordenar la defensa inmediata sin aprobación previa del Legislativo. El Presidente debe notificar al Legislativo inmediatamente tras ordenar la defensa.
 
 2. Rescate de ciudadanos en situación de peligro inmediato en el extranjero: El Presidente puede ordenar la operación sin aprobación previa del Legislativo. El Presidente debe notificar al Legislativo inmediatamente tras ordenar la operación. Si la operación se extiende más allá de 30 días e implica un uso significativo de fuerza, requiere ratificación legislativa con consenso de Nivel N3.
+
+Los parámetros numéricos de este artículo (30 días, N3) pueden modificarse mediante consenso de Nivel N5. Durante el Proceso de Arranque, mediante consenso de Nivel N3.
 
 ---
 
@@ -714,6 +716,8 @@ El Presidente puede ordenar operaciones militares secretas sin aprobación legis
 2. Inicio de conflicto armado no autorizado.
 
 Si se descubre o anuncia una operación secreta de este ámbito, el Poder Legislativo puede, mediante consenso de Nivel N1, iniciar un proceso judicial ante el Tribunal Supremo para la aplicación del siguiente castigo: el Presidente responde personalmente mediante la amputación de una mano. La decisión del Tribunal Supremo es recurrible por cualquier ciudadano con derecho a voto conforme al procedimiento ordinario de apelación establecido en el artículo 34.
+
+El castigo por defecto puede modificarse durante el Proceso de Arranque mediante consenso de Nivel N3, siempre que el castigo alternativo sea de naturaleza personal y física. Los parámetros numéricos de este artículo (N1) pueden modificarse mediante consenso de Nivel N5.
 
 ---
 

@@ -14,17 +14,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 
 ## Arts 51-55
 
-**Art 51: Operaciones Militares sin Declaración de Guerra**
-
-1. **Redaccion -- "uso significativo de fuerza" es ambiguo.** El punto 2 dice que si la operacion de rescate "implica uso significativo de fuerza" requiere ratificacion legislativa. "Significativo" es subjetivo y explotable: un Presidente puede argumentar que bombardear un edificio no fue "significativo". No propongo definir exhaustivamente, pero si que se delegue la definicion a legislacion ordinaria o al Proceso de Arranque, como se hace en otros articulos.
-
-2. **Loophole -- falta rendicion de cuentas para defensa inmediata (punto 1).** El punto 1 no exige notificacion al Legislativo ni ratificacion posterior. Un Presidente podria ordenar operaciones ofensivas disfrazadas de "defensa ante ataque inminente" sin ningun control posterior. El punto 2 si exige notificacion inmediata. Propuesta: anadir al punto 1 la obligacion de notificar al Legislativo inmediatamente tras ordenar la defensa, con rendicion de cuentas posterior (coherente con lo que dice la Parte 2, linea 523, sobre rendicion de cuentas posterior a la defensa inmediata).
-
-3. **Consistencia -- falta clausula de modificabilidad de parametros.** El parametro "30 dias" del punto 2 no tiene clausula de modificabilidad, a diferencia de la mayoria de articulos con parametros numericos. Propuesta: anadir clausula estandar indicando nivel de consenso requerido para modificar el parametro.
-
-**Art 52: Rendicion de Cuentas por Operaciones Secretas**
-
-1. **Consistencia -- falta clausula de modificabilidad.** El nivel N1 para iniciar el proceso no tiene clausula de modificabilidad ni durante Arranque ni posterior. Otros articulos con niveles de consenso si la tienen.
 
 **Art 53: Presupuesto Militar**
 
