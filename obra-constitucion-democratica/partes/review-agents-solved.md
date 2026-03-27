@@ -409,6 +409,16 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 
 ---
 
+## Non-issues descartados (limpieza final Arts 53-72)
+
+- **Art 53, comisión clasificada sin regulación** — Non-issue. Composición de comisiones legislativas es materia reglamentaria. La Constitución define qué y quién; el cómo es reglamento interno.
+- **Art 58, quién determina desaparición de condición** — Non-issue. El consenso creciente del Legislativo (Art 58) ya controla: si no renueva, cesa automáticamente. El Ejecutivo no puede mantenerlo unilateralmente.
+- **Art 64.2, "pueden" débil para procesamiento** — Non-issue. Formulación jurídica estándar. Cualquier ciudadano puede iniciar acción penal por vía ordinaria.
+- **Art 71, referencia cruzada incompleta** — Non-issue. No es loophole; ningún mecanismo deja de funcionar porque no esté listado. Formulación genérica sería más limpia pero no urgente.
+- **Art 72.2, protección del N5** — Non-issue. El Art 68.2 ya protege automáticamente parámetros con nivel superior a N4.
+
+---
+
 ## Art 44 (Responsabilidad Penal de Legisladores y Jueces)
 
 **Hallazgo 1 - Falta referencia Art 45:** Resuelto. Añadido "conforme al artículo 45" en los 4 bloques. 20 años del Supremo aclarados como constitucionales y no configurables en Arranque.
