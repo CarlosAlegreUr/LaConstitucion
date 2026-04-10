@@ -2,10 +2,6 @@
 
 ---
 
-**Art 60 (Limite 3 - Limite Material y Prohibicion de Decretos):**
-
-1. **Loophole - "lista cerrada establecida por ley":** Los poderes excepcionales estan limitados a una "lista cerrada establecida por ley". Pero esta ley se aprueba por procedimiento ordinario (N1) salvo que algun articulo diga lo contrario. El Art 57 establece que la modificacion de poderes temporales requiere N5, pero eso se refiere a los poderes definidos en el Art 56 (configurados en el Arranque). La "lista cerrada establecida por ley" del Art 60 no esta claro si es la misma cosa o algo distinto. Si son lo mismo, la referencia deberia ser explicita. Si son cosas distintas, hay una doble fuente de definicion de poderes excepcionales. Propuesta: clarificar la relacion entre la "lista cerrada por ley" del Art 60 y los "poderes temporales" configurados en Arranque del Art 56.
-
 ---
 
 **Art 61 (Límite 4 - Control Parlamentario):**

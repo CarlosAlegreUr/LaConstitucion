@@ -788,7 +788,7 @@ Todas las variables del artículo 56 se definen durante el Proceso de Arranque (
 
 Tras el Arranque: la modificación de derechos restringibles requiere consenso de Nivel N4; la modificación de causas, declaración, poderes temporales y la creación de nuevos tipos de estado de excepción requiere consenso de Nivel N5. La legislación que desarrolle los supuestos concretos de cada causa requiere consenso de Nivel N3 para ser aprobada y está sujeta a la excepción de anulación popular establecida en el artículo 6.
 
-La restricción de todos los derechos fundamentales a atacantes de la nación (Ámbito Bélico) no es configurable en el Arranque; su modificación posterior requiere consenso del nivel N6. La transferencia de funciones civiles a la autoridad militar (Ámbito Bélico) no es configurable en el Arranque; su modificación posterior requiere consenso del nivel N6.
+La restricción de todos los derechos fundamentales a atacantes de la nación (Ámbito Bélico) no es configurable en el Arranque; su modificación posterior requiere consenso de nivel N6. La transferencia de funciones civiles a la autoridad militar (Ámbito Bélico) no es configurable en el Arranque; su modificación posterior requiere consenso de nivel N6.
 
 ---
 
@@ -816,7 +816,7 @@ El estado de excepción solo puede aplicarse en la zona geográfica directamente
 
 ### Artículo 60: Límite 3 - Límite Material y Prohibición de Decretos
 
-Los poderes excepcionales están limitados a una lista cerrada establecida por ley, específica para cada tipo de estado de excepción conforme al artículo 56. Cualquier medida que exceda los poderes establecidos en la lista cerrada es nula de pleno derecho y constituye abuso de autoridad. En caso de abuso de autoridad, el Legislativo puede revocar el estado de excepción en cualquier momento mediante consenso de Nivel N1.
+Los poderes excepcionales están limitados a una lista cerrada específica para cada tipo de estado de excepción conforme al artículo 56. Esta lista se establece y modifica conforme a los niveles de consenso del artículo 57. Cualquier medida que exceda los poderes establecidos en la lista cerrada es nula de pleno derecho y constituye abuso de autoridad. En caso de abuso de autoridad, el Legislativo puede revocar el estado de excepción en cualquier momento mediante consenso de Nivel N1.
 
 El Poder Ejecutivo puede emitir decretos exclusivamente durante un estado de excepción declarado conforme al artículo 55. Fuera de un estado de excepción, los decretos están absolutamente prohibidos. Los decretos emitidos durante un estado de excepción son estrictamente temporales, cesan automáticamente con la finalización del estado de excepción, y bajo ningún concepto pueden anular o modificar ningún artículo de esta Constitución.
 
