@@ -307,6 +307,8 @@ Finalizado el Proceso de Arranque, las reducciones de consenso aplicadas durante
 
 Los poderes Legislativo, Ejecutivo y Judicial deberán ser independientes entre sí. Ningún poder puede ejercer funciones constitucionalmente asignadas a otro. Esta separación es material, no meramente formal: cada poder debe contar con independencia de nombramiento y mecanismos de financiación económica que garanticen su autonomía efectiva.
 
+Ninguna persona puede ejercer simultáneamente más de un cargo público entre los establecidos en esta Constitución. La aceptación de un nuevo cargo implica la renuncia automática al anterior.
+
 La financiación de cada poder debe ser la descrita en los artículos del 30 al 32 incluidos y 53 de esta Constitución.
 
 ---
@@ -740,7 +742,7 @@ Las Fuerzas Armadas se organizan en ramas separadas:
 2. Marina: Defensa naval y costera.
 3. Fuerza Aérea: Defensa aérea y espacial.
 
-Los jefes de cada rama son nombrados por el Presidente. Tras nombrar o revocar a un jefe de rama, el Presidente no puede nombrar ni revocar a otro jefe durante 1 mes, salvo durante un estado de excepción. El Legislativo puede revocar el nombramiento de cualquier jefe militar mediante consenso de Nivel N4.
+Los jefes de cada rama son nombrados y revocados por el Presidente. El Presidente no puede nombrarse a sí mismo como jefe de rama. Tras revocar a un jefe de rama, el Presidente debe nombrar un sustituto. No puede revocar al sustituto hasta transcurrido 1 mes desde su nombramiento, salvo durante un estado de excepción. El sustituto no puede ser la persona revocada, ni un familiar hasta segundo grado de consanguinidad o afinidad del Presidente, ni una persona que en ese momento ejerza como Vicepresidente o ministro. El Legislativo puede revocar el nombramiento de cualquier jefe militar mediante consenso de Nivel N4.
 
 El Legislativo puede crear nuevas ramas mediante consenso de Nivel N3. Las tres ramas establecidas en este artículo no pueden ser eliminadas ni fusionadas; la modificación de esta protección requiere consenso de Nivel N5.
 
