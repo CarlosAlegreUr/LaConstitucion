@@ -740,7 +740,7 @@ Las Fuerzas Armadas se organizan en ramas separadas:
 2. Marina: Defensa naval y costera.
 3. Fuerza Aérea: Defensa aérea y espacial.
 
-Los jefes de cada rama son nombrados por el Presidente. El Legislativo puede revocar el nombramiento de cualquier jefe militar mediante consenso de Nivel N3.
+Los jefes de cada rama son nombrados por el Presidente. Tras nombrar o revocar a un jefe de rama, el Presidente no puede nombrar ni revocar a otro jefe durante 1 mes, salvo durante un estado de excepción. El Legislativo puede revocar el nombramiento de cualquier jefe militar mediante consenso de Nivel N4.
 
 El Legislativo puede crear nuevas ramas mediante consenso de Nivel N3. Las tres ramas establecidas en este artículo no pueden ser eliminadas ni fusionadas; la modificación de esta protección requiere consenso de Nivel N5.
 
