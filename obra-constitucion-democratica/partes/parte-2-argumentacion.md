@@ -393,6 +393,8 @@ A diferencia de la Transición, durante el Arranque ya existen Legislativo y Eje
 
 La separación es material, no formal. Muchas constituciones declaran separación de poderes pero permiten que el ejecutivo nombre jueces, que el parlamento dependa del ejecutivo para su presupuesto, o que un poder controle la financiación de otro. Esta Constitución exige independencia real: de nombramiento, de financiación y de funcionamiento. Sin independencia económica no hay independencia política.
 
+Ninguna persona puede ejercer simultáneamente más de un cargo público constitucional. La aceptación de un nuevo cargo implica renuncia automática al anterior. Esto previene la concentración de poder en una sola persona y refuerza la separación: un legislador no puede ser simultáneamente ministro, un juez no puede ser simultáneamente diputado, y el Presidente no puede autonombrarse jefe de una rama militar.
+
 Dicho esto, la independencia no es absoluta ni puede serlo. ¿Por qué? Porque alguien tiene que decir "sí, esto se aprueba". Un presupuesto, una ley, una estructura organizativa: en algún punto del proceso, algún órgano debe tener la última palabra. Lo más lógico es que sea el poder más cercano al demos —el Legislativo, compuesto por representantes directos de distrito— quien ejerza esa función de aprobación final. Pero debe hacerlo con límites, porque el pueblo no puede estar pendiente permanentemente de cada batalla presupuestaria entre poderes: la sobrecarga cognitiva lo hace imposible en la práctica.
 
 De ahí que existan puntos de contacto deliberados entre poderes, diseñados para que se controlen mutuamente sin que ninguno pueda estrangular al otro. El caso más claro es el presupuesto judicial (artículo 32): el Judicial propone su propio presupuesto, pero el Legislativo debe aprobarlo o rechazarlo. ¿Es esto una dependencia? Sí, pero con tres protecciones que la neutralizan como vector de ataque: el Legislativo no puede modificar el presupuesto propuesto (solo aceptar o rechazar en bloque), el rechazo requiere consenso de Nivel N3 (66%), y si lo rechaza se mantiene el presupuesto anterior ajustado a inflación. Es decir, el Legislativo no puede usar el presupuesto para castigar al Judicial: lo peor que puede hacer es mantener el statu quo.
@@ -629,7 +631,11 @@ La amputación es el castigo por defecto, pero puede modificarse durante el Arra
 
 ## Separación de ramas militares
 
-Las Fuerzas Armadas se organizan en ramas separadas (Ejército, Marina, Fuerza Aérea) con jefes nombrados por el Presidente y revocables por el Legislativo. Esta separación dificulta golpes de Estado: se necesitaría coordinación simultánea entre todas las ramas, lo que multiplica el número de personas que deben conspirar y aumenta la probabilidad de filtración.
+Las Fuerzas Armadas se organizan en ramas separadas (Ejército, Marina, Fuerza Aérea) con jefes nombrados por el Presidente y revocables por el Legislativo (N4). Esta separación dificulta golpes de Estado: se necesitaría coordinación simultánea entre todas las ramas, lo que multiplica el número de personas que deben conspirar y aumenta la probabilidad de filtración. La protección no es absoluta — el Presidente es Comandante en Jefe de todas las ramas — pero cada jefe de rama es un punto de fallo independiente que puede negarse a participar.
+
+Las tres ramas originales no pueden eliminarse ni fusionarse (N5 para modificar esta protección). El Legislativo puede crear nuevas ramas con N3 para adaptarse a la evolución tecnológica (ciberdefensa, fuerzas espaciales) sin debilitar la estructura anti-golpe. Subdepartamentos especializados (armas químicas, ciberseguridad) pueden crearse dentro de cada rama sin necesidad de nueva rama.
+
+Tras revocar a un jefe de rama, el Presidente debe nombrar sustituto inmediatamente pero no puede revocarlo durante 1 mes (salvo estado de excepción). Esto previene el cycling de jefes para encontrar un sí-hombre. El sustituto no puede ser la persona revocada, ni un familiar hasta segundo grado del Presidente, ni el Vicepresidente ni un ministro en ejercicio — restricciones que cierran los vectores de nepotismo y concentración de poder civil-militar.
 
 ---
 ---
