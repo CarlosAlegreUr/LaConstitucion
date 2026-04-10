@@ -742,6 +742,8 @@ Las Fuerzas Armadas se organizan en ramas separadas:
 
 Los jefes de cada rama son nombrados por el Presidente. El Legislativo puede revocar el nombramiento de cualquier jefe militar mediante consenso de Nivel N3.
 
+El Legislativo puede crear nuevas ramas mediante consenso de Nivel N3. Las tres ramas establecidas en este artículo no pueden ser eliminadas ni fusionadas; la modificación de esta protección requiere consenso de Nivel N5.
+
 ---
 
 ---

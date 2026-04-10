@@ -15,9 +15,6 @@ Post-renumeración (nuevo Art 9 Lengua Oficial)
 ## Arts 51-55
 
 
-**Art 54: Separacion de Fuerzas**
-
-1. **Loophole -- la lista de ramas es cerrada y rigida.** Solo existe Ejercito, Marina y Fuerza Aerea. No hay mecanismo para crear nuevas ramas (ciberdefensa, fuerzas espaciales) ni para reorganizar las existentes. Tampoco hay clausula de modificabilidad. Propuesta: anadir que el Legislativo puede crear o reorganizar ramas mediante un nivel de consenso determinado (N3 o N4), manteniendo siempre un minimo de 3 ramas separadas para preservar el objetivo anti-golpe.
 
 ---
 

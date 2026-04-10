@@ -419,6 +419,14 @@ Los siguientes hallazgos fueron evaluados y descartados como non-issues:
 
 ---
 
+## Art 54 (Ramas militares cerradas)
+
+**Hallazgo:** Lista de ramas cerrada sin mecanismo para crear nuevas (ciberdefensa, etc.).
+
+**Resolución:** Añadido: el Legislativo puede crear nuevas ramas con N3. Las 3 ramas originales no pueden eliminarse ni fusionarse (N5 para modificar esta protección). Sin distinción de Arranque — N3 siempre.
+
+---
+
 ## Art 44 (Responsabilidad Penal de Legisladores y Jueces)
 
 **Hallazgo 1 - Falta referencia Art 45:** Resuelto. Añadido "conforme al artículo 45" en los 4 bloques. 20 años del Supremo aclarados como constitucionales y no configurables en Arranque.
