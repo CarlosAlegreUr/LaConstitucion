@@ -87,15 +87,32 @@ El P25 se calcula con la renta media municipal ponderada por población, no con 
 ### 6. Geometría de 2022 (no 2024)
 El GeoJSON de OpenDataSoft es de 2022. Puede haber fusiones/segregaciones municipales entre 2022 y 2024.
 
+### 7. No se respetan fronteras comarcales
+El algoritmo no tiene datos de comarcas. La Constitución (Art 14) exige que la delimitación respete fronteras provinciales, municipales o comarcales. En esta iteración, los distritos pueden partir comarcas: por ejemplo, la comarca del Matarraña (Teruel) tiene municipios repartidos en distintos distritos en vez de mantenerse unida. Esto contradice el principio de coherencia histórico-cultural.
+
+### 8. Distritos que cruzan varias provincias de forma sospechosa
+Algunos distritos abarcan municipios de 5-6 provincias distintas (ej: Distrito #404 con municipios de Teruel, Castellón, Guadalajara, Soria, Zaragoza y Tarragona). Esto sugiere problemas en la verificación de contigüidad geográfica real — un distrito que va de Castellón a Soria no es geográficamente coherente.
+
 ## Mejoras para una versión de producción
+
+### Siguiente iteración recomendada: granularidad comarcal híbrida
+
+La mejora más impactante sería usar comarcas como unidad base en zonas rurales y municipios en comarcas urbanas grandes:
+
+- **Comarcas pequeñas** (<95.000 hab): tratar la comarca como unidad indivisible y agrupar comarcas vecinas hasta alcanzar el rango constitucional. Esto respeta automáticamente las fronteras comarcales.
+- **Comarcas grandes** (>120.000 hab): mantener la granularidad municipal dentro de la comarca y subdividir internamente.
+
+Esto reduciría las unidades de ~8.131 municipios a ~300-400 comarcas, haciendo el algoritmo más rápido y los resultados más realistas. Requiere un dataset que asigne cada municipio a su comarca.
+
+### Otras mejoras
 
 1. **Fase de fusión pre-recocido**: unir distritos contiguos pequeños hasta alcanzar el rango de 95.000-120.000 antes de optimizar.
 2. **Movimientos agresivos**: mover grupos de municipios o fusionar/dividir distritos completos durante el recocido.
 3. **Datos de renta por sección censal**: el INE tiene datos más granulares que permitirían un P25 más preciso.
 4. **Geometría oficial del IGN**: más precisa que OpenDataSoft, con fronteras exactas.
 5. **Coloración de grafos**: asignar colores evitando que distritos vecinos compartan color.
-6. **Más iteraciones y temperatura inicial más alta**: con la estructura correcta (post-fusión), el recocido tendría margen real de mejora.
+6. **Verificación de contigüidad más estricta**: limitar distritos a máximo 2-3 provincias para evitar resultados geográficamente absurdos.
 
 ## Conclusión
 
-Esta simulación demuestra la viabilidad del AOCD con datos reales: el cruce de datos funciona, la adyacencia se calcula correctamente, y el mapa se genera. El resultado no es óptimo — necesita una fase de fusión que esta primera iteración no incluye — pero valida que el algoritmo constitucional es implementable con datos públicos del INE y geometría abierta.
+Esta simulación es un boceto inicial que demuestra la viabilidad del AOCD con datos reales: el cruce de datos funciona, la adyacencia se calcula, y el mapa se genera. El resultado no es óptimo — los distritos son demasiados, no respetan comarcas, y algunos cruzan provincias de forma inverosímil — pero valida que el algoritmo constitucional es implementable con datos públicos del INE y geometría abierta. La siguiente iteración con granularidad comarcal híbrida debería producir resultados significativamente más realistas.
