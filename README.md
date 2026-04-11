@@ -12,12 +12,19 @@ Y la filosofía de fondo es simple: no se asume buena voluntad — se asume el p
 
 Este texto ha pasado por un proceso de revisión exhaustivo: cada artículo ha sido analizado bajo la mentalidad de un atacante con recursos ilimitados, buscando ambigüedades, inconsistencias y formas de romper el sistema. Aun así, ningún sistema es perfecto. Si encuentras un fallo, una mejora o algo que no encaja, abre un issue en este repositorio o contacta al autor.
 
-## Leer el libro
+## 🇪🇸 Leer el libro
 
 - [Leer online (Markdown)](la-constitucion-democratica.md)
 - [Descargar PDF](la-constitucion-democratica.pdf)
 
 **Autor:** Carlos D. Alegre Urquizú
+
+## 🇬🇧 English version
+
+- [Read online (Markdown)](the-democratic-constitution.md)
+- [Download PDF](the-democratic-constitution.pdf)
+
+> ⚠️ **Warning:** This English version has been translated by AI. In case of any inconsistency or ambiguity, the [Spanish version](la-constitucion-democratica.md) is the authoritative source of truth.
 
 <p align="center">
   <img src="portada-1.png" alt="La Constitución Democrática Portada" width="500"/>
