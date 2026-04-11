@@ -15,9 +15,6 @@
 
 ---
 
-**Art 65 (Finalización Automática del Estado de Excepción):**
-
-1. **Falta un supuesto**: No menciona la finalización por decisión judicial. Si un tribunal declara que el estado de excepción fue declarado sin crisis real (delito del Art 55), ¿cesa automáticamente? Propuesta: añadir un cuarto supuesto.
 
 ---
 

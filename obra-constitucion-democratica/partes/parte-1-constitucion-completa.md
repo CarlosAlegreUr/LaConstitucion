@@ -832,8 +832,9 @@ Durante cualquier estado de excepción, el Poder Legislativo funciona con normal
 
 El Poder Judicial mantiene todas sus funciones durante los estados de excepción. En particular:
 
-1. Puede revisar la legalidad de cualquier medida adoptada durante la excepción.
+1. Puede revisar la legalidad de cualquier medida adoptada durante la excepción, incluida la legalidad y constitucionalidad de la propia declaración del estado de excepción.
 2. Cualquier persona cuyos derechos aplicables al contexto del estado de excepción (conforme al artículo 56) sean violados puede solicitar un proceso judicial.
+3. Cualquier ciudadano con derecho a voto puede solicitar ante un juez de primera instancia la revisión de la legalidad y constitucionalidad de la declaración del estado de excepción.
 
 ---
 
@@ -869,6 +870,7 @@ El estado de excepción finaliza automáticamente cuando se produce cualquiera d
 1. Desaparición de la condición que lo motivó (artículo 58).
 2. No renovación por el Legislativo en cualquiera de las revisiones obligatorias (artículo 58).
 3. Revocación por el Legislativo en caso de abuso de autoridad (artículo 60).
+4. Declaración judicial firme de que el estado de excepción fue declarado sin crisis real conforme al artículo 55.
 
 La finalización no requiere acto positivo adicional: opera automáticamente. Tras la finalización, todas las medidas excepcionales cesan inmediatamente y se restaura la normalidad constitucional plena.
 

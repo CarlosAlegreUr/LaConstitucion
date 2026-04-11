@@ -695,6 +695,12 @@ El Legislativo funciona con normalidad durante cualquier estado de excepción (l
 
 Las elecciones solo pueden posponerse por imposibilidad física objetiva (alineado con el artículo 63). No basta con que "no se puedan garantizar las condiciones" — ese umbral era demasiado bajo y dejaba al Ejecutivo la decisión de cuándo las condiciones estaban garantizadas, creando un incentivo perverso para prolongar la suspensión. Ahora el Legislativo determina mediante N1 cuándo ha cesado la imposibilidad física. Una vez determinado, el plazo de 45 días para celebrar elecciones (el mismo del artículo 26) empieza a correr y la penalización por usurpación se reactiva. Se usa el mismo plazo de 45 días que en la sucesión presidencial ordinaria para evitar tener dos plazos distintos para el mismo tipo de decisión. Esto elimina la posibilidad de que el Ejecutivo sea juez y parte sobre la duración de su propio mandato interino.
 
+## Control judicial de la declaración del estado de excepción
+
+El Poder Judicial puede revisar no solo las medidas adoptadas durante la excepción sino la propia declaración: ¿existía realmente la crisis? Cualquier ciudadano con derecho a voto puede solicitar esta revisión ante un juez de primera instancia, sin necesidad de que sus derechos hayan sido violados. Esto es deliberado: la declaración de un estado de excepción afecta a toda la ciudadanía, así que cualquier ciudadano tiene legitimidad para cuestionarla.
+
+Si un tribunal declara mediante resolución firme que el estado de excepción fue declarado sin crisis real, el estado de excepción cesa automáticamente (artículo 65). Esto cierra el último vacío en los mecanismos de finalización: sin este supuesto, un estado de excepción declarado fraudulentamente solo podía terminar por no-renovación del Legislativo o por revocación legislativa — ambos controles políticos. El control judicial añade un contrapeso independiente basado en hechos, no en política.
+
 ## Prohibición de decretos fuera de estados de excepción
 
 El Ejecutivo solo puede emitir decretos durante un estado de excepción. Fuera de uno, los decretos están absolutamente prohibidos. Esto previene la legislación ejecutiva ("decretismo") que erosiona la separación de poderes. Si el Presidente quiere una ley, debe pedírsela al Legislativo. Y cuando sí hay decreto, el artículo 60 lo sujeta a tres límites: solo puede cubrir medidas de una lista cerrada por tipo de excepción, cesa automáticamente al terminar el estado de excepción, y bajo ningún concepto puede anular o modificar la Constitución.
