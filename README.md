@@ -14,17 +14,26 @@ Este texto ha pasado por un proceso de revisión exhaustivo: cada artículo ha s
 
 ## 🇪🇸 Leer el libro
 
-- [Leer online (Markdown)](la-constitucion-democratica.md)
-- [Descargar PDF](la-constitucion-democratica.pdf)
+- [Leer online (Markdown)](obra-constitucion-democratica/partes/es/la-constitucion-democratica.md)
+- [Descargar PDF](obra-constitucion-democratica/partes/es/la-constitucion-democratica.pdf)
+
+<details>
+<summary>🗺️ Primer boceto: Distritos electorales de España según el AOCD</summary>
+
+![Mapa AOCD España](aocd/output/aocd_mapa_espana.png)
+
+Primera iteración del Algoritmo de Optimización de la Corruptibilidad de Distritos aplicado a datos reales de España (INE 2024). Boceto inicial con limitaciones conocidas — [ver análisis completo](aocd/README.md).
+
+</details>
 
 **Autor:** Carlos D. Alegre Urquizú
 
 ## 🇬🇧 English version
 
-- [Read online (Markdown)](the-democratic-constitution.md)
-- [Download PDF](the-democratic-constitution.pdf)
+- [Read online (Markdown)](obra-constitucion-democratica/partes/en/the-democratic-constitution.md)
+- [Download PDF](obra-constitucion-democratica/partes/en/the-democratic-constitution.pdf)
 
-> ⚠️ **Warning:** This English version has been translated by AI. In case of any inconsistency or ambiguity, the [Spanish version](la-constitucion-democratica.md) is the authoritative source of truth.
+> ⚠️ **Warning:** This English version has been translated by AI. In case of any inconsistency or ambiguity, the [Spanish version](obra-constitucion-democratica/partes/es/la-constitucion-democratica.md) is the authoritative source of truth.
 
 <p align="center">
   <img src="portada-1.png" alt="La Constitución Democrática Portada" width="500"/>
