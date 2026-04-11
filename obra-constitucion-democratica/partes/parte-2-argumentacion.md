@@ -689,6 +689,12 @@ Ninguna crisis autoriza:
 
 Estos límites son absolutos porque si te cargas cualquiera de ellos, la democracia se desmorona — más lenta o rápidamente, pero se desmorona. Sin constitución estable, no hay reglas. Sin ley electoral, no hay elecciones limpias. Sin elecciones, no hay representación. Sin parlamento, no hay legislación democrática. Sin tribunales, no hay quien controle al poder. Cada uno de estos seis puntos es una pieza estructural: quita una y el resto se debilita hasta colapsar.
 
+## Control parlamentario y elecciones durante estados de excepción
+
+El Legislativo funciona con normalidad durante cualquier estado de excepción (límite 5). La autodestrucción mutua se suspende porque no tiene sentido resolver un bloqueo político mientras hay una crisis real — pero el Legislativo sigue legislando, fiscalizando y controlando.
+
+Las elecciones solo pueden posponerse por imposibilidad física objetiva (alineado con el artículo 63). No basta con que "no se puedan garantizar las condiciones" — ese umbral era demasiado bajo y dejaba al Ejecutivo la decisión de cuándo las condiciones estaban garantizadas, creando un incentivo perverso para prolongar la suspensión. Ahora el Legislativo determina mediante N1 cuándo ha cesado la imposibilidad física. Una vez determinado, el plazo de 30 días para celebrar elecciones empieza a correr y la penalización por usurpación del artículo 26 se reactiva. Esto elimina la posibilidad de que el Ejecutivo sea juez y parte sobre la duración de su propio mandato interino.
+
 ## Prohibición de decretos fuera de estados de excepción
 
 El Ejecutivo solo puede emitir decretos durante un estado de excepción. Fuera de uno, los decretos están absolutamente prohibidos. Esto previene la legislación ejecutiva ("decretismo") que erosiona la separación de poderes. Si el Presidente quiere una ley, debe pedírsela al Legislativo. Y cuando sí hay decreto, el artículo 60 lo sujeta a tres límites: solo puede cubrir medidas de una lista cerrada por tipo de excepción, cesa automáticamente al terminar el estado de excepción, y bajo ningún concepto puede anular o modificar la Constitución.

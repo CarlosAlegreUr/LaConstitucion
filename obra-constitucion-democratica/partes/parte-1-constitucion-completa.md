@@ -824,7 +824,7 @@ El Poder Ejecutivo puede emitir decretos exclusivamente durante un estado de exc
 
 ### Artículo 61: Límite 4 - Control Parlamentario
 
-Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. El mecanismo de autodestrucción mutua (artículos 39 y 40) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente si el estado de excepción impide garantizar las condiciones establecidas en esta Constitución para su celebración: verificabilidad, privacidad del voto, auditoría pública conforme a los artículos 5 y 17. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 26 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 26 no es aplicable. En cuanto dichas condiciones puedan garantizarse, las elecciones se celebran en el plazo más breve posible, como muy tarde, dentro de 30 días.
+Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. El mecanismo de autodestrucción mutua (artículos 39 y 40) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente en caso de imposibilidad física objetiva conforme al artículo 63. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 26 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 26 no es aplicable. El Poder Legislativo determina mediante consenso de Nivel N1 cuándo ha cesado la imposibilidad física objetiva. Una vez determinado, las elecciones se celebran en un plazo máximo de 30 días y la penalización del artículo 26 se reactiva.
 
 ---
 

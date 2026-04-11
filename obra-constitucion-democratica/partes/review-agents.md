@@ -4,12 +4,6 @@
 
 ---
 
-**Art 61 (Límite 4 - Control Parlamentario):**
-
-1. **Loophole - plazo "más breve posible"**: Dice "como muy tarde, dentro de 30 días" tras cesar la imposibilidad. Pero no define quién determina cuándo "dichas condiciones pueden garantizarse". Un ejecutivo interesado en prolongar su mandato interino podría alegar indefinidamente que las condiciones no están garantizadas. Propuesta: asignar la determinación a un órgano específico (ej: el Poder Judicial o el Legislativo por N1) para que no quede al arbitrio del Ejecutivo.
-
-2. **Loophole - penalización del Art 26 suspendida**: El artículo suspende la penalización por usurpación del Art 26 durante el estado de excepción. Esto es necesario, pero combinado con el punto anterior, un Ejecutivo que controle la narrativa sobre si "las condiciones están garantizadas" puede prolongar indefinidamente su mandato interino sin consecuencia alguna. Refuerza la necesidad del punto 1.
-
 ---
 
 **Art 63 (Límite 6 - Prohibiciones Absolutas):**
