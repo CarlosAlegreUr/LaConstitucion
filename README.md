@@ -14,10 +14,8 @@ Este texto ha pasado por un proceso de revisión exhaustivo: cada artículo ha s
 
 ## Leer el libro
 
-- [Parte 0 — Introducción](obra-constitucion-democratica/partes/parte-0-introduccion.md)
-- [Parte 1 — Texto constitucional (72 artículos)](obra-constitucion-democratica/partes/parte-1-constitucion-completa.md)
-- [Parte 2 — Argumentación](obra-constitucion-democratica/partes/parte-2-argumentacion.md)
-- [Parte 3 — Conclusión y referencias](obra-constitucion-democratica/partes/parte-3-conclusion.md)
+- [Leer online (Markdown)](la-constitucion-democratica.md)
+- [Descargar PDF](la-constitucion-democratica.pdf)
 
 **Autor:** Carlos D. Alegre Urquizú
 
