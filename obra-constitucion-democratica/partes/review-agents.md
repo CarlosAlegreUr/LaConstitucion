@@ -6,6 +6,4 @@
 
 ---
 
-**Art 72 (Derechos Fundamentales Complementarios):**
-
-1. **Loophole - sin protección para la adición de nuevos derechos post-Arranque.** Un legislativo podría añadir derechos diseñados para obstruir mecanismos constitucionales. Propuesta: especificar nivel de consenso para añadir.
+No quedan hallazgos pendientes. Todos los artículos han sido revisados.

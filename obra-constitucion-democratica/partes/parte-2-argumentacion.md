@@ -365,7 +365,7 @@ Una constitución pura es demasiado abstracta para operar. Un sistema real neces
 - Sistema operativo: reglas operativas dentro del marco. La legislación ordinaria.
 - Aplicaciones: políticas concretas. Las decisiones del día a día.
 
-El Proceso de Arranque es el firmware: configura los detalles operativos que la Constitución deja abiertos pero con límites (derechos restringibles en estados de excepción, sanciones concretas para legisladores, catálogo de derechos complementarios, etc.) con consensos reducidos (N1 en vez de los niveles superiores habituales). Esto permite establecer el sistema rápidamente sin la rigidez de los procedimientos ordinarios.
+El Proceso de Arranque es el firmware: configura los detalles operativos que la Constitución deja abiertos pero con límites (derechos restringibles en estados de excepción, sanciones concretas para legisladores, catálogo de derechos complementarios, etc.) con consensos reducidos respecto a los niveles post-Arranque habituales. Esto permite establecer el sistema rápidamente sin la rigidez de los procedimientos ordinarios.
 
 ### ¿Por qué es necesario?
 

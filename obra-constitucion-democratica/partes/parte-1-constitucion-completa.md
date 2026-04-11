@@ -990,9 +990,9 @@ Los siguientes derechos son condiciones necesarias para el funcionamiento de los
 
 ### Artículo 72: Derechos Fundamentales Complementarios
 
-Durante el Proceso de Arranque conforme al Título III, el pueblo definirá mediante consenso de Nivel N1 el catálogo de derechos fundamentales complementarios a los establecidos en el artículo 71. Este catálogo podrá incluir, entre otros: privacidad general y soledad, propiedad, comercio de bienes y servicios, práctica religiosa, práctica lúdica y recreativa, reproducción y vida familiar, trabajo y profesión, educación, comunicación privada, protección estatal y movimiento, vida.
+Durante el Proceso de Arranque conforme al Título III, el pueblo definirá mediante consenso de Nivel N2 el catálogo de derechos fundamentales complementarios a los establecidos en el artículo 71. Este catálogo podrá incluir, entre otros: derecho a la privacidad general y la soledad, a la propiedad, al comercio de bienes y servicios, a la práctica religiosa, a la práctica lúdica y recreativa, a la reproducción y vida familiar, al trabajo y profesión, a la educación, a la comunicación privada, a la protección estatal, al movimiento y a la vida.
 
-Una vez adoptado, la modificación o eliminación de cualquier derecho del catálogo requiere consenso de Nivel N5.
+Una vez adoptado, la adición, modificación o eliminación de cualquier derecho del catálogo requiere consenso de Nivel N5.
 
 ---
 
