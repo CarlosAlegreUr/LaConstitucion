@@ -10,17 +10,8 @@
 
 ---
 
-**Art 63 (Límite 6 - Prohibiciones Absolutas):**
-
-1. **Loophole sutil en punto 3 vs Art 61**: El Art 63.3 dice que está prohibido posponer elecciones salvo imposibilidad física objetiva. El Art 61 dice que las elecciones se posponen si el estado de excepción "impide garantizar las condiciones establecidas en esta Constitución". "Impedir garantizar condiciones" (Art 61) es un umbral más bajo que "imposibilidad física objetiva" (Art 63). Un gobierno podría argumentar que las condiciones del Art 5 no están garantizadas (ej: no se puede auditar bien) sin que haya imposibilidad física objetiva. Propuesta: alinear el lenguaje de ambos artículos, o al menos que el Art 61 referencie explícitamente al Art 63 como marco dentro del cual opera.
-
 ---
 
-**Art 64 (Rendición de Cuentas Post-Excepción):**
-
-1. **Loophole en punto 2**: "Si un ciudadano denuncia irregularidades, un juez de primera instancia puede ordenar auditoría independiente." El "puede" es discrecional. Un juez podría rechazar todas las denuncias. Propuesta: cambiar a "debe ordenar".
-
-2. **Plazo sin consecuencia**: Si el Ejecutivo no presenta el informe en 60 días, no se establece consecuencia. Propuesta: establecer que el incumplimiento del plazo constituye por sí mismo irregularidad procesable.
 
 ---
 

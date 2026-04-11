@@ -855,8 +855,10 @@ Cualquier acto que viole estas prohibiciones es nulo de pleno derecho, sin neces
 Tras la finalización de cualquier estado de excepción:
 
 1. El Ejecutivo debe presentar un informe público en un plazo máximo de 60 días, detallando todas las medidas adoptadas, su justificación, resultados y costes. Cualquier ciudadano puede acceder a este informe.
-2. Si un ciudadano denuncia irregularidades, un juez de primera instancia puede ordenar una auditoría independiente de las medidas adoptadas.
+2. Si un ciudadano denuncia irregularidades, un juez de primera instancia debe ordenar una auditoría independiente de las medidas adoptadas.
 3. Funcionarios que hayan abusado de poderes excepcionales o violado los seis límites (artículos del 58 al 63 incluidos) pueden ser procesados penalmente. El estado de excepción no exime de responsabilidad por abusos.
+
+El incumplimiento del plazo de presentación del informe constituye por sí mismo una irregularidad que deberá ser procesada.
 
 ---
 
