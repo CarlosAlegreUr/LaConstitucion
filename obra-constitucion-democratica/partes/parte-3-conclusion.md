@@ -26,7 +26,7 @@ Las respuestas, casi siempre, son incómodas. Pero la democracia no se construye
 
 - **Principios de arquitectura de software** — [Separación de responsabilidades (SoC)](https://en.wikipedia.org/wiki/Separation_of_concerns), [responsabilidad única (SRP)](https://en.wikipedia.org/wiki/Single-responsibility_principle), [no repetirse (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [simplicidad (KISS)](https://en.wikipedia.org/wiki/KISS_principle). Estos principios, originalmente formulados para construir software mantenible y resiliente, se aplican aquí a la redacción constitucional: cada artículo tiene una sola responsabilidad, cada definición existe en un solo lugar, y cada excepción es explícita.
 
-- **Mentalidad de atacante (adversarial thinking)** — Práctica estándar en ciberseguridad y auditoría de sistemas. En lugar de preguntar "¿funciona?" se pregunta "¿cómo se rompe?". Cada mecanismo de esta Constitución ha sido sometido a esa pregunta. Como ejemplo de formación en esta mentalidad: [Cyfrin Updraft — Security & Auditing](https://updraft.cyfrin.io/courses/security).
+- **Mentalidad de atacante (adversarial thinking)** — Práctica estándar en ciberseguridad y auditoría de sistemas. En lugar de preguntar "¿funciona?" se pregunta "¿cómo se rompe?". Cada mecanismo de esta Constitución ha sido sometido a esa pregunta. Como ejemplo de formación en esta mentalidad puedes consultar el curso gratuito de [Cyfrin Updraft — Security & Auditing](https://updraft.cyfrin.io/courses/security).
 
 ### Filosofía
 

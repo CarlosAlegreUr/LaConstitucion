@@ -10,6 +10,15 @@ La base teórica viene de Antonio García Trevijano: distritos uninominales, dob
 
 Y la filosofía de fondo es simple: no se asume buena voluntad — se asume el peor caso y se diseña para que el coste de romper el sistema sea prohibitivo a no ser que provenga racionalmente desde el mismo demos (pueblo).
 
+Este texto ha pasado por un proceso de revisión exhaustivo: cada artículo ha sido analizado bajo la mentalidad de un atacante con recursos ilimitados, buscando ambigüedades, inconsistencias y formas de romper el sistema. Aun así, ningún sistema es perfecto. Si encuentras un fallo, una mejora o algo que no encaja, abre un issue en este repositorio o contacta al autor.
+
+## Leer el libro
+
+- [Parte 0 — Introducción](obra-constitucion-democratica/partes/parte-0-introduccion.md)
+- [Parte 1 — Texto constitucional (72 artículos)](obra-constitucion-democratica/partes/parte-1-constitucion-completa.md)
+- [Parte 2 — Argumentación](obra-constitucion-democratica/partes/parte-2-argumentacion.md)
+- [Parte 3 — Conclusión y referencias](obra-constitucion-democratica/partes/parte-3-conclusion.md)
+
 **Autor:** Carlos D. Alegre Urquizú
 
 <p align="center">

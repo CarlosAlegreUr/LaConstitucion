@@ -20,6 +20,10 @@ Esta constitución no es convencional en varios aspectos. Algunas disposiciones 
 
 El enfoque general es el de una auditoría de seguridad: con la mentalidad de un hacker, cada mecanismo se somete a la pregunta "¿cómo se rompe esto?". Se asume que alguien con recursos ilimitados intentará capturar el sistema, y se diseña para que el coste de hacerlo sea prohibitivo. No se asume buena voluntad de los gobernantes. No se confía en la moral de nadie. Se confía en los mecanismos, que aunque siempre serán imperfectos como en todo sistema humano, son lo suficientemente robustos para minimizar la probabilidad de ruptura.
 
+## Aviso sobre la revisión
+
+Este texto ha sido revisado artículo por artículo, buscando ambigüedades, inconsistencias, referencias rotas y vectores de ataque. Se han corregido decenas de hallazgos durante ese proceso. Aun así, una constitución es un sistema complejo y siempre puede quedar algo por pulir. Si encuentras algo que no encaja, siéntete libre de contactar al autor.
+
 ## Cómo leer este libro
 
 Se recomienda leer la Parte 1 primero, de principio a fin, sin detenerse en los detalles que parezcan extraños. Después, leer la Parte 2 para entender el razonamiento. Muchas decisiones que parecen arbitrarias en la Parte 1 cobran sentido en la Parte 2.
