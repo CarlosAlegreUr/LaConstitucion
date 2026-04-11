@@ -128,7 +128,7 @@ def generar_mapa(gdf, mun_to_dist, dist_colors, output_path):
     fig.suptitle(
         f'AOCD — Distritos Electorales de España\n'
         f'{n_distritos} distritos | {pob_total:,} habitantes | 95.000-120.000 hab/distrito',
-        fontsize=16, fontweight='bold', y=0.98
+        fontsize=14, fontweight='bold', y=1.02
     )
 
     plt.tight_layout()
