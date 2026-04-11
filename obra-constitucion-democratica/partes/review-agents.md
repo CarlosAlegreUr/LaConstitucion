@@ -6,30 +6,6 @@
 
 ---
 
----
-
----
-
----
-
-
----
-
-
----
-
-**Art 66 (Clausulas Petreas):**
-
-1. **Clausula 5 - ambiguedad:** Dice "El derecho a crear mecanismos de anulacion popular" pero el Art 6 habla de garantizar el derecho, no de "crear". Propuesta: alinear redacción.
-
----
-
-**Art 67 (Procedimiento de Reforma de Clausulas Petreas):**
-
-1. **Ambiguedad - cooldown 21 años desde cuándo:** Si la primera votación se aprueba y la segunda (tras 2 años) se rechaza, ¿desde cuándo cuentan los 21 años? Propuesta: aclarar "desde la última votación del procedimiento".
-
----
-
 **Art 72 (Derechos Fundamentales Complementarios):**
 
 1. **Loophole - sin protección para la adición de nuevos derechos post-Arranque.** Un legislativo podría añadir derechos diseñados para obstruir mecanismos constitucionales. Propuesta: especificar nivel de consenso para añadir.

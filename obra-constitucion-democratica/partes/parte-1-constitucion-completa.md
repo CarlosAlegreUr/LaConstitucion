@@ -924,7 +924,7 @@ Si la segunda votación no alcanza las mayorías requeridas, la propuesta de ref
 
 Periodo de espera:
 
-Una vez completado el procedimiento de reforma de una cláusula pétrea, independientemente de si la reforma es aprobada o rechazada, esa misma cláusula no puede someterse a nuevo procedimiento de reforma hasta transcurridos 21 años.
+Una vez completado el procedimiento de reforma de una cláusula pétrea, independientemente de si la reforma es aprobada o rechazada, esa misma cláusula no puede someterse a nuevo procedimiento de reforma hasta transcurridos 21 años desde la última votación del procedimiento.
 
 Protección de parámetros:
 
