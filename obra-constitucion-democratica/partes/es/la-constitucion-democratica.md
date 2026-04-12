@@ -3,7 +3,9 @@
 
 ---
 
-¿Cómo se vería una constitución democrática agnóstica a cualquier contexto histórico o cultural? ¿Cuál sería un conjunto válido de reglas que responda de la manera más pura y objetiva posible a las dinámicas de poder fundamentales de un sistema democrático? El poder no es cuestión de cultura ni de historia; es cuestión de naturaleza humana. Debería existir un conjunto de reglas constitucionales aplicables a cualquier sociedad humana.
+¿Cómo se vería una constitución democrática aplicable a cualquier contexto histórico y cultural? ¿Cuál sería un conjunto válido de reglas que respondan de la manera más pura y objetiva posible a las dinámicas de poder fundamentales de un sistema democrático?
+
+El poder no es cuestión de cultura ni de historia; es cuestión de naturaleza humana. Debería existir un conjunto de reglas constitucionales aplicables a cualquier sociedad humana.
 
 Este libro es un intento de responder a esa pregunta. Uno, por curiosidad intelectual. Y dos, para crear una base con la cual cualquier sociedad presente y futura pueda comparar su propia constitución y reformarla, incorporando en ella más dinámicas democráticas.
 
@@ -11,17 +13,17 @@ Este libro es un intento de responder a esa pregunta. Uno, por curiosidad intele
 
 **Parte 1** es el texto constitucional puro: artículos, umbrales, mecanismos, procedimientos. Sin explicaciones, sin justificaciones, sin filosofía. Solo las reglas.
 
-**Parte 2** es la argumentación: por qué cada decisión del diseño es como es. Cada umbral numérico, cada mecanismo, cada prohibición tiene una razón. Si algo te parece arbitrario, excesivo o laxo en la Parte 1, la respuesta está en la Parte 2.
+**Parte 2** es la argumentación: el porqué de cada decisión en el diseño. Cada umbral numérico, cada mecanismo, cada prohibición tiene una razón. Si algo te parece arbitrario, excesivo o laxo en la Parte 1, la respuesta está en la Parte 2.
 
 ## Aviso {.unnumbered}
 
-Esta constitución no es convencional en varios aspectos. Algunas disposiciones resultarán incómodas o extrañas.
+Esta constitución no es convencional en varios aspectos. Algunas decisiones seguramente resulten incómodas o extrañas.
 
-El enfoque general es el de una auditoría de seguridad: con la mentalidad de un hacker, cada mecanismo se somete a la pregunta "¿cómo se rompe esto?". Se asume que alguien con recursos ilimitados intentará capturar el sistema, y se diseña para que el coste de hacerlo sea prohibitivo. No se asume buena voluntad de los gobernantes. No se confía en la moral de nadie. Se confía en los mecanismos, que aunque siempre serán imperfectos como en todo sistema humano, son lo suficientemente robustos para minimizar la probabilidad de ruptura.
+El enfoque general es el de una auditoría de seguridad: con la mentalidad de un hacker, cada mecanismo se somete a la pregunta "¿cómo se rompe esto?". Se asume que alguien con recursos ilimitados intentará capturar el sistema, y se diseña para que el coste de hacerlo sea prohibitivo. No se asume buena voluntad de los gobernantes. No se confía en la moral de nadie. Se confía en los mecanismos, que aunque siempre serán imperfectos como en todo sistema humano, son lo suficientemente robustos para minimizar la probabilidad de que alguien ó un grupo de personas capturen el sistema.
 
 ## Aviso sobre la revisión {.unnumbered}
 
-Este texto ha sido revisado artículo por artículo, buscando ambigüedades, inconsistencias, referencias rotas y vectores de ataque. Se han corregido decenas de hallazgos durante ese proceso. Aun así, una constitución es un sistema complejo y siempre puede quedar algo por pulir. Si encuentras algo que no encaja, siéntete libre de contactar al autor.
+Este texto ha sido revisado artículo por artículo, buscando ambigüedades, inconsistencias, referencias rotas y vectores de ataque. Se han corregido decenas de hallazgos durante ese proceso. Aun así, una constitución es un sistema complejo y siempre puede quedar algo por pulir. Si encuentras algo que no encaje, siéntete libre de contactar al autor.
 
 ## Cómo leer este libro {.unnumbered}
 
@@ -109,15 +111,13 @@ Esta Constitución reconoce tres categorías de sujetos:
 2. Ciudadano: Persona que posee la nacionalidad conforme a la ley.
 3. Ciudadano con derecho a voto: Ciudadano que cumple las condiciones establecidas en el artículo 4.
 
-Salvo restricción explícita en esta Constitución o en ley conforme a ella, toda persona goza de los derechos y protecciones establecidos para personas. Todo ciudadano goza además de los establecidos para ciudadanos. Todo ciudadano con derecho a voto goza además de los establecidos para ciudadanos con derecho a voto.
-
-Los ciudadanos conservan todos los derechos establecidos para personas independientemente de su ubicación geográfica.
-
 Cuando esta Constitución dice "el pueblo", se refiere al conjunto de ciudadanos.
 
 Cuando esta Constitución dice "censo", se refiere al censo electoral: el registro de ciudadanos con derecho a voto. El ámbito del censo, ya sea nacional o distrital, se especifica en cada artículo.
 
-Las restricciones de derechos derivadas de condena penal firme se rigen por la ley, dentro de los límites de esta Constitución.
+Salvo restricción explícita en esta Constitución o en ley conforme a ella, toda persona goza de los derechos y protecciones establecidos para personas. Todo ciudadano goza además de los derechos y protecciones establecidos para ciudadanos. Y todo ciudadano con derecho a voto goza además de los derechos y protecciones establecidos para ciudadanos con derecho a voto.
+
+Los ciudadanos conservan todos los derechos establecidos para personas independientemente de su ubicación.
 
 ---
 
@@ -1003,6 +1003,8 @@ Ambas vías de iniciativa requieren la aprobación final conforme a las mayoría
 
 Ningún derecho fundamental, ya sea esencial (artículo 71) o complementario (artículo 72), puede invocarse para bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución.
 
+Las restricciones de derechos derivadas de condena penal firme se rigen por la ley, dentro de los límites de esta Constitución.
+
 ---
 
 ---
@@ -1237,7 +1239,7 @@ Las tres categorías (persona, ciudadano, ciudadano con derecho a voto) son incl
 
 El enfoque es "por defecto todo, excepciones explícitas": cada categoría goza de todos los derechos de su nivel salvo restricción expresa. Esto minimiza el texto necesario y reduce la superficie de ataque interpretativo: si la Constitución no dice explícitamente que un derecho está restringido para una categoría, no lo está.
 
-La cláusula sobre condenas penales evita crear una cuarta categoría de sujeto ("delincuente"). Un condenado no pierde su condición de persona ni de ciudadano: pierde derechos específicos determinados por la ley y la sentencia, dentro de los límites constitucionales. Esto es análogo a un sistema de permisos en software: no se elimina el usuario, se le revocan permisos concretos.
+La cláusula sobre condenas penales (artículo 70) evita crear una cuarta categoría de sujeto ("delincuente"). Un condenado no pierde su condición de persona ni de ciudadano: pierde derechos específicos determinados por la ley y la sentencia, dentro de los límites constitucionales. Esto es análogo a un sistema de permisos en software: no se elimina el usuario, se le revocan permisos concretos.
 
 Una amenaza teórica a tener en cuenta: la nacionalidad se define "conforme a la ley", lo que significa que el Legislativo podría endurecer los requisitos de nacionalidad para reducir indirectamente el electorado sin técnicamente "restringir el sufragio" (artículo 4). Esta Constitución no define quién es ciudadano — lo delega a la ley. Esto es un vector de ataque lento: cada endurecimiento individual parece razonable, pero acumulados van excluyendo a sectores de la población. El control de constitucionalidad (artículos 42-43), la igualdad ante la ley (artículo 8) y la protección pétrea del sufragio universal (artículo 66) dificultan esta vía, pero no la eliminan por completo. Es una limitación consciente: definir la nacionalidad en la Constitución la haría rígida ante realidades demográficas cambiantes; delegarla a la ley la hace flexible pero vulnerable. Se opta por la flexibilidad con contrapesos.
 
