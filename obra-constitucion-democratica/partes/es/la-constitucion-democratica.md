@@ -1057,7 +1057,7 @@ Una vez adoptado, la adición, modificación o eliminación de cualquier derecho
 
 # Parte 2: Argumentación y Filosofía
 
-**El por qué de cada decisión de diseño**
+**El por qué de cada decisión**
 
 ---
 
@@ -1065,11 +1065,13 @@ Una vez adoptado, la adición, modificación o eliminación de cualquier derecho
 
 ### El problema que resuelve esta Constitución
 
-La mayoría de las "democracias" actuales son oligarquías electivas disfrazadas de democracias. La apariencia existe: elecciones periódicas, parlamento, separación de funciones que pretende ser de poderes. La sustancia no: los partidos controlan fuertemente o completamente la selección de candidatos, la financiación y los medios. El resultado es una ilusión de elección gestionada por élites. Es preferible una aristocracia honesta a una democracia falsa.
+La mayoría de las "democracias" actuales son oligarquías electivas disfrazadas de democracias. La apariencia existe: elecciones periódicas, parlamento, separación de funciones que pretende ser de poderes. El fondo no: los partidos controlan fuertemente o completamente la selección de candidatos, la financiación y los medios. En el peor de los casos, estos son controlados por grandes capitales extranjeros, privados o estatales, foráneos a la nación. El resultado es una ilusión de elección gestionada por élites que lleva a paises a realizar decisiones que claramente van en contra de su propio interés como nación, iniciar guerras por ejemplo. Esto pasa porque no siempre se alinean los deseos de la élite con los de la población.
 
-Las constituciones actuales son muchas y diversas: cada país tiene la suya, con sus propios principios, historia y compromisos. Intentar reformarlas una a una sería un esfuerzo titánico e interminable. Pero las dinámicas de poder no entienden de culturas específicas. La tendencia a concentrar poder, a corromper instituciones, a capturar mecanismos de control: estas son constantes humanas, no culturales. Si el problema es universal, la solución también puede serlo. Esta Constitución busca ser esa solución: un marco de referencia agnóstico a cualquier contexto histórico o cultural, basado únicamente en cómo funciona el poder entre seres humanos.
+¿Acaso esto es bueno? ¿Acaso es malo? Lo analizaré más adelante. Lo que si que es es evitable, adoptando sistemas realmente democráticos que den al pueblo una capacidad real de decisión y acción.
 
-Esta Constitución no asume buena voluntad. Asume el peor caso: un actor con recursos ilimitados intentando capturar el sistema. Cada mecanismo está diseñado para que ese peor caso sea lo más caro, difícil y arriesgado posible. Es una auditoría de seguridad de la democracia, no un manifiesto de esperanza.
+Las constituciones actuales son muchas y diversas: cada país tiene la suya, con sus propios principios, historia y compromisos. Intentar reformarlas una a una sería un esfuerzo titánico e interminable. Pero las dinámicas de poder no entienden de culturas específicas. La tendencia a concentrar poder, a corromper instituciones, a capturar mecanismos de control es una constante humana, no cultural. Aquí yo pensé, si el problema es universal, la solución también debería serlo. Esta Constitución busca ser esa solución: un marco de referencia agnóstico a cualquier contexto histórico o cultural, basado únicamente en cómo funciona el poder entre seres humanos. Para que, si un pueblo lo desea, empieza a transicionar hacia unas dinámicas de poder realmente democráticas.
+
+Esta Constitución no asume buena voluntad. Asume el peor caso: un actor con recursos ilimitados intentando capturar el sistema. Cada mecanismo está diseñado para que ese peor caso sea lo más caro, difícil y arriesgado posible. Es una auditoría de seguridad sobre el concepto de democracia.
 
 ### Mentalidad defensiva
 
@@ -1227,15 +1229,15 @@ Por ello requerimos de establecer la jerarquía descrita en este artículo. En l
 
 Es relativamente fácil entender por qué los poderes no son iguales entre sí en su estado más puro, más natural. Pues el ejecutivo tiene al ejército, y si alguien tiene una pistola, o un ejército de gente con pistolas, es claramente más fuerte que tú. Por ende, si su voluntad lo ansía, y si su inteligencia le permite coordinar a su ejército, podrá ejercer su voluntad contra la tuya. Este es por ejemplo un límite físico y real el cual, a día de hoy, es inevitable y lo único que podemos hacer es limitarlo mediante acuerdos sociales, normas escritas estructurales y seguidas al pie de la letra, con una religiosidad cual mandamiento, para establecer un orden y un funcionamiento social lo más democrático posible.
 
-Esos límites son los que se describen a lo largo de esta Constitución y se referencian en este primer artículo y su objetivo final es lo descrito, que, en la medida de los límites físicos de la naturaleza y funcionamiento humano, equiparen a las 3 funciones delegadas al Estado a un nivel democrático.
+Esos límites son los que se describen a lo largo de esta Constitución y se referencian en este primer artículo cuyo objetivo final es el descrito, que, en la medida de los límites físicos de la naturaleza y funcionamiento humano, equiparen a las 3 funciones delegadas al Estado a un nivel democrático.
 
-Así resumiría la razón de ser de este artículo: reconocer que existen límites físicos ineludibles en la realidad frente al ideal demócrata pero a su vez definir cuál es ese ideal.
+Así resumiría la razón de ser de este artículo: reconocer que existen límites físicos ineludibles en la realidad que se oponen al ideal demócrata, pero a su vez, definir cuál es ese ideal.
 
 Pues como seres humanos, aunque no podamos lograr la perfección, encontramos la prosperidad en el arduo y recompensante camino que nos acerca a ella.
 
-Los principios básicos que describen estos mecanismos de control entre los participantes del sistema democrático: las tres funciones delegadas y el pueblo, están basados en la siguiente idea. La idea de que un castigo lo suficientemente grande ante la violación de tus responsabilidades, detectado y consolidado por una capacidad de autodestrucción mutua entre los participantes de un sistema, genera los incentivos necesarios para que dicho sistema funcione conforme a lo esperado en la mayoría de los casos. Y aquellos en los que no funcione, que se autocorrija. Al igual que en los algoritmos de consenso en las modernas redes blockchain.
+Los principios básicos que describen estos mecanismos de control entre los participantes del sistema democrático, que son las tres funciones delegadas y el pueblo, están basados en la siguiente idea. La idea de que un castigo lo suficientemente grande ante la violación de tus responsabilidades, detectado y consolidado por una capacidad de autodestrucción mutua entre los participantes de un sistema, genera los incentivos necesarios para que dicho sistema funcione conforme a lo esperado en la mayoría de los casos. Y en aquellos en los que no funcione, que se autocorrija. Al igual que en los algoritmos de consenso en las modernas redes blockchain.
 
-En la práctica, el pueblo ejerce su soberanía mediante cuatro herramientas: la elección directa de representantes, su revocación, la anulación popular de decisiones legislativas y judiciales, y la iniciativa de reforma constitucional. Cada una está diseñada y limitada conforme a los principios descritos.
+En la práctica, el pueblo ejerce su soberanía mediante las cuatro herramientas nombradas en el artículo: la elección directa de representantes, su revocación, la anulación popular de decisiones legislativas y judiciales, y la iniciativa de reforma constitucional. Cada una está diseñada y limitada conforme a los principios descritos.
 
 Todos los mecanismos han sido pensados conforme a los diferentes límites humanos, físicos y psicológicos y conforme a la naturaleza de las funciones delegadas y sus relaciones entre ellas. Debido a que cada participante tiene naturalezas diversas pero definibles, no podemos conformarnos con dejar los límites más fundamentales entre estas arbitrarios a una mera legislación y debemos definirlos en la Constitución.
 
