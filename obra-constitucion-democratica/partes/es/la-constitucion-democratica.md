@@ -1219,9 +1219,29 @@ Con esta definición, estos argumentos y estas limitaciones en mente, es hora de
 
 ### Artículo 1: Soberanía Popular y Jerarquía de Legitimidad {.unnumbered}
 
-La soberanía reside en el pueblo no como declaración retórica, sino como principio operativo. La jerarquía de legitimidad establece dos niveles: el Poder Popular por encima de los tres poderes delegados (Legislativo, Ejecutivo y Judicial), que son iguales entre sí. No es un cheque en blanco: es un principio de precedencia con reglas.
+La legitimidad, entendida como aquello que es justo y bueno, en un sistema democrático, es considerada como lo que es deseado por el pueblo.
 
-¿Por qué los tres poderes son iguales? Porque la separación de poderes real requiere que ningún poder prevalezca sobre otro. Si el Legislativo pudiera anular directamente decisiones judiciales, la independencia judicial se desmorona. Si el Judicial pudiera legislar, la representación popular pierde sentido. La relación entre los tres poderes no es jerárquica sino de control mutuo: el Judicial revisa la constitucionalidad de las leyes (artículo 43) y los legisladores responden penalmente si legislan contra la Constitución (artículo 44). En ambos casos, equivocarse tiene consecuencias. Esta responsabilidad bidireccional sustituye a la jerarquía: no hace falta que uno esté "por encima" del otro cuando ambos pagan por sus errores.
+Por ello requerimos de establecer la jerarquía descrita en este artículo. En la que el pueblo es la fuente primera de legitimidad y luego los poderes delegados (Legislativo, Ejecutivo y Judicial) que, aunque por su naturaleza no son iguales entre sí, las normas de esta Constitución los equipara de la manera más realista posible.
+
+Es relativamente fácil entender por qué los poderes no son iguales entre sí en su estado más puro, más natural. Pues el ejecutivo tiene al ejército, y si alguien tiene una pistola, o un ejército de gente con pistolas, es claramente más fuerte que tú. Por ende, si su voluntad lo ansía, y si su inteligencia le permite coordinar a su ejército, podrá ejercer su voluntad contra la tuya. Este es por ejemplo un límite físico y real el cual, a día de hoy, es inevitable y lo único que podemos hacer es limitarlo mediante acuerdos sociales, normas escritas estructurales y seguidas al pie de la letra, con una religiosidad cual mandamiento, para establecer un orden y un funcionamiento social lo más democrático posible.
+
+Esos límites son los que se describen a lo largo de esta Constitución y se referencian en este primer artículo y su objetivo final es lo descrito, que, en la medida de los límites físicos de la naturaleza y funcionamiento humano, equiparen a las 3 funciones delegadas al Estado a un nivel democrático.
+
+Así resumiría la razón de ser de este artículo: reconocer que existen límites físicos ineludibles en la realidad frente al ideal demócrata pero a su vez definir cuál es ese ideal.
+
+Pues como seres humanos, aunque no podamos lograr la perfección, encontramos la prosperidad en el arduo y recompensante camino que nos acerca a ella.
+
+Los principios básicos que describen estos mecanismos de control entre los participantes del sistema democrático: las tres funciones delegadas y el pueblo, están basados en la siguiente idea. La idea de que un castigo lo suficientemente grande ante la violación de tus responsabilidades, detectado y consolidado por una capacidad de autodestrucción mutua entre los participantes de un sistema, genera los incentivos necesarios para que dicho sistema funcione conforme a lo esperado en la mayoría de los casos. Y aquellos en los que no funcione, que se autocorrija. Al igual que en los algoritmos de consenso en las modernas redes blockchain.
+
+Todos los mecanismos han sido pensados conforme a los diferentes límites humanos, físicos y psicológicos y conforme a la naturaleza de las funciones delegadas y sus relaciones entre ellas. Debido a que cada participante tiene naturalezas diversas pero definibles, no podemos conformarnos con dejar los límites más fundamentales entre estas arbitrarios a una mera legislación y debemos definirlos en la Constitución.
+
+Al igual que en el trilema de las blockchain, estos límites generan el trilema democrático anteriormente mencionado. En algunos casos se opta por maximizar una de las tres opciones, en otros casos, otra, los porqué serán analizados conforme vayan apareciendo.
+
+Nombrar y declarar que la soberanía resida en el pueblo no es solamente un dicho abstracto.
+
+La jerarquía de legitimidad establece dos niveles: el Poder Popular por encima de los tres poderes delegados (Legislativo, Ejecutivo y Judicial), que son iguales entre sí.
+
+¿Por qué los tres poderes son iguales? Porque la separación de poderes real requiere que ningún poder prevalezca sobre otro. Si el Legislativo pudiera anular directamente decisiones judiciales, la independencia judicial se desmorona. Si el Judicial pudiera legislar, la representación popular pierde sentido. La relación entre los tres poderes no es jerárquica sino de control mutuo: el Judicial revisa la constitucionalidad de las leyes (artículo 43) y los legisladores responden penalmente si legislan contra la Constitución (artículo 44). En ambos casos, equivocarse tiene consecuencias. Esta responsabilidad bidireccional sustituye a la jerarquía: no hace falta que uno esté "por encima" del otro cuando ambos pagan por sus errores y son capaces de hacerse pagar mutuamente.
 
 ¿Por qué solo en los casos que la Constitución describe explícitamente? Aquí entra el trilema democrático: democracia, eficiencia y estabilidad no se pueden maximizar simultáneamente. Si el pueblo pudiera anular cualquier decisión de cualquier poder en cualquier momento, se maximizaría la democracia directa pero el sistema sería caótico e inoperante: ningún gobierno podría gobernar, ningún juez podría juzgar, ninguna ley tendría estabilidad suficiente para ser aplicada. La jerarquía de legitimidad opera solo a través de los mecanismos constitucionales específicos (anulación popular, revocación, elecciones) precisamente para equilibrar el control popular con la capacidad operativa del Estado.
 
