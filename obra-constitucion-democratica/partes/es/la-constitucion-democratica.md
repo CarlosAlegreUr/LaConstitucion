@@ -1235,6 +1235,8 @@ Pues como seres humanos, aunque no podamos lograr la perfección, encontramos la
 
 Los principios básicos que describen estos mecanismos de control entre los participantes del sistema democrático: las tres funciones delegadas y el pueblo, están basados en la siguiente idea. La idea de que un castigo lo suficientemente grande ante la violación de tus responsabilidades, detectado y consolidado por una capacidad de autodestrucción mutua entre los participantes de un sistema, genera los incentivos necesarios para que dicho sistema funcione conforme a lo esperado en la mayoría de los casos. Y aquellos en los que no funcione, que se autocorrija. Al igual que en los algoritmos de consenso en las modernas redes blockchain.
 
+En la práctica, el pueblo ejerce su soberanía mediante cuatro herramientas: la elección directa de representantes, su revocación, la anulación popular de decisiones legislativas y judiciales, y la iniciativa de reforma constitucional. Cada una está diseñada y limitada conforme a los principios descritos.
+
 Todos los mecanismos han sido pensados conforme a los diferentes límites humanos, físicos y psicológicos y conforme a la naturaleza de las funciones delegadas y sus relaciones entre ellas. Debido a que cada participante tiene naturalezas diversas pero definibles, no podemos conformarnos con dejar los límites más fundamentales entre estas arbitrarios a una mera legislación y debemos definirlos en la Constitución.
 
 Al igual que en el trilema de las blockchain, estos límites generan el trilema democrático anteriormente mencionado. En algunos casos se opta por maximizar una de las tres opciones, en otros casos, otra, los porqué serán analizados conforme vayan apareciendo.
