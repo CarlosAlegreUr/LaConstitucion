@@ -1219,6 +1219,8 @@ Con esta definición, estos argumentos y estas limitaciones en mente, es hora de
 
 ### Artículo 1: Soberanía Popular y Jerarquía de Legitimidad {.unnumbered}
 
+// new
+
 La legitimidad, entendida como aquello que es justo y bueno, en un sistema democrático, es considerada como lo que es deseado por el pueblo.
 
 Por ello requerimos de establecer la jerarquía descrita en este artículo. En la que el pueblo es la fuente primera de legitimidad y luego los poderes delegados (Legislativo, Ejecutivo y Judicial) que, aunque por su naturaleza no son iguales entre sí, las normas de esta Constitución los equipara de la manera más realista posible.
@@ -1236,6 +1238,8 @@ Los principios básicos que describen estos mecanismos de control entre los part
 Todos los mecanismos han sido pensados conforme a los diferentes límites humanos, físicos y psicológicos y conforme a la naturaleza de las funciones delegadas y sus relaciones entre ellas. Debido a que cada participante tiene naturalezas diversas pero definibles, no podemos conformarnos con dejar los límites más fundamentales entre estas arbitrarios a una mera legislación y debemos definirlos en la Constitución.
 
 Al igual que en el trilema de las blockchain, estos límites generan el trilema democrático anteriormente mencionado. En algunos casos se opta por maximizar una de las tres opciones, en otros casos, otra, los porqué serán analizados conforme vayan apareciendo.
+
+// AI
 
 Nombrar y declarar que la soberanía resida en el pueblo no es solamente un dicho abstracto.
 
