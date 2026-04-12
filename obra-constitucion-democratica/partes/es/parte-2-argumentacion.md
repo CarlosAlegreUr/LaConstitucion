@@ -15,17 +15,18 @@ La mayoría de las "democracias" actuales son oligarquías electivas disfrazadas
 
 ¿Acaso esto es bueno? ¿Acaso es malo? Lo analizaré más adelante. Lo que si que es es evitable, adoptando sistemas realmente democráticos que den al pueblo una capacidad real de decisión y acción.
 
-Las constituciones actuales son muchas y diversas: cada país tiene la suya, con sus propios principios, historia y compromisos. Intentar reformarlas una a una sería un esfuerzo titánico e interminable. Pero las dinámicas de poder no entienden de culturas específicas. La tendencia a concentrar poder, a corromper instituciones, a capturar mecanismos de control es una constante humana, no cultural. Aquí yo pensé, si el problema es universal, la solución también debería serlo. Esta Constitución busca ser esa solución: un marco de referencia agnóstico a cualquier contexto histórico o cultural, basado únicamente en cómo funciona el poder entre seres humanos. Para que, si un pueblo lo desea, empieza a transicionar hacia unas dinámicas de poder realmente democráticas.
+Las constituciones actuales son muchas y diversas: cada país tiene la suya, con sus propios principios, historia y compromisos. Intentar reformarlas una a una sería un esfuerzo titánico e interminable. Pero las dinámicas de poder no entienden de culturas específicas. La tendencia a concentrar poder, a corromper instituciones, a capturar mecanismos de control es una constante humana, no cultural. Aquí yo pensé, si el problema es universal, la solución también debería serlo. Esta Constitución busca ser esa solución: un marco de referencia agnóstico a cualquier contexto histórico o cultural, basado únicamente en cómo funciona el poder entre seres humanos. Para que, si un pueblo lo desee, empiece a transicionar hacia unas dinámicas de poder realmente democráticas.
+
+## Diseño con mentalidad defensiva
 
 Esta Constitución no asume buena voluntad. Asume el peor caso: un actor con recursos ilimitados intentando capturar el sistema. Cada mecanismo está diseñado para que ese peor caso sea lo más caro, difícil y arriesgado posible. Es una auditoría de seguridad sobre el concepto de democracia.
 
-## Mentalidad defensiva
+El diseño ha sido creado utilizando la mentalidad de un hacker de sombrero blanco, es decir, preguntando "¿cómo podría romperse esto? ¿si se rompe, cómo minimizamos el daño y cómo lo reparamos lo mejor y más rápido posible?". Cada mecanismo se somete a las preguntas: ¿cuál es el vector de ataque? ¿Cuánto cuesta aprovecharlo? ¿Cómo se detecta el abuso o el ataque?
 
-El diseño sigue la mentalidad de un hacker de seguridad: no preguntar "¿funcionará si todos cooperan?" sino "¿cómo se romperá, y como se auto-repararía si alguien ataca?". Cada mecanismo se somete a la pregunta: ¿cuál es el vector de ataque? ¿Cuánto cuesta explotarlo? ¿Cómo se detecta el abuso o el ataque?
+El ejemplo más claro de esto reside en el AOCD (Algoritmo de Optimización del Coste de Corrupción). Donde se utiliza una medida objetiva aproximada para elevar el coste de corromper el resultado en las elecciones distritales de los representantes. Como el percentil 25 de renta (P25) de la población con capacidad de acción en esa decisión.
 
-## Marco del coste de corrupción
-
-Principio central: todo sistema tiene un precio. El diseño debe maximizar ese precio. No se moraliza sobre si la gente se corrompe o no; se asume que puede ser comprada y se diseña para que el coste de comprarla sea lo más alto posible dentro de los límites naturales y sociales del ser humano. Esto se cuantifica mediante el percentil 25 de renta (P25) como proxy económico del coste de influencia, el por qué de esta decisión es explicado más adelante.
+// TODO: por aqui iba, continuar
+Un principio general derivado de esta mentialidad es abstraerse de la ética y de las apariencias. Asumir que si algo puede ir mal, en algún momento, irá mal. El diseño debe maximizar ese precio. No se moraliza sobre si la gente se corrompe o no; se asume que puede ser comprada y se diseña para que el coste de comprarla sea lo más alto posible dentro de los límites naturales y sociales del ser humano.
 
 ## Trilema democrático
 
