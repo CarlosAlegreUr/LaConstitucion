@@ -66,15 +66,13 @@ Esta Constitución reconoce tres categorías de sujetos:
 2. Ciudadano: Persona que posee la nacionalidad conforme a la ley.
 3. Ciudadano con derecho a voto: Ciudadano que cumple las condiciones establecidas en el artículo 4.
 
-Salvo restricción explícita en esta Constitución o en ley conforme a ella, toda persona goza de los derechos y protecciones establecidos para personas. Todo ciudadano goza además de los establecidos para ciudadanos. Todo ciudadano con derecho a voto goza además de los establecidos para ciudadanos con derecho a voto.
-
-Los ciudadanos conservan todos los derechos establecidos para personas independientemente de su ubicación geográfica.
-
 Cuando esta Constitución dice "el pueblo", se refiere al conjunto de ciudadanos.
 
 Cuando esta Constitución dice "censo", se refiere al censo electoral: el registro de ciudadanos con derecho a voto. El ámbito del censo, ya sea nacional o distrital, se especifica en cada artículo.
 
-Las restricciones de derechos derivadas de condena penal firme se rigen por la ley, dentro de los límites de esta Constitución.
+Salvo restricción explícita en esta Constitución o en ley conforme a ella, toda persona goza de los derechos y protecciones establecidos para personas. Todo ciudadano goza además de los derechos y protecciones establecidos para ciudadanos. Y todo ciudadano con derecho a voto goza además de los derechos y protecciones establecidos para ciudadanos con derecho a voto.
+
+Los ciudadanos conservan todos los derechos establecidos para personas independientemente de su ubicación.
 
 ---
 
@@ -959,6 +957,8 @@ Ambas vías de iniciativa requieren la aprobación final conforme a las mayoría
 ### Artículo 70: Supremacía de los Mecanismos Constitucionales
 
 Ningún derecho fundamental, ya sea esencial (artículo 71) o complementario (artículo 72), puede invocarse para bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución.
+
+Las restricciones de derechos derivadas de condena penal firme se rigen por la ley, dentro de los límites de esta Constitución.
 
 ---
 
